@@ -26,8 +26,12 @@ Gleiche Daten und gleiche Konfiguration ergeben stets dieselben Grafiken.
 
 ## Voraussetzungen
 
-- Windows mit Python 3.11 oder neuer
+- Windows mit Python 3.11 oder neuer (getestet mit Python 3.13), installiert von
+  [python.org](https://www.python.org/downloads/) mit der Option „Add python.exe to PATH“
 - für einen neuen Export der Rohdaten zusätzlich ein kostenloses Konto bei GENESIS-Online
+
+Pakete müssen nicht von Hand installiert werden: Die `.bat`-Dateien richten beim ersten Start eine eigene
+Python-Umgebung (`diagramme/.venv`) ein und prüfen bei jedem Start, ob alle Pakete vorhanden sind.
 
 ## Schnellstart
 
@@ -44,8 +48,6 @@ Danach im Ordner `diagramme/`:
 | `uebersicht_oeffnen.bat` | Übersichtsseite der erzeugten Grafiken öffnen |
 | `diagramme_loeschen.bat` | alle erzeugten Grafiken und Berichte löschen |
 
-Beim ersten Start richtet das Skript automatisch eine eigene Python-Umgebung mit den Paketen aus `requirements.txt` ein.
-
 Ohne Windows lässt sich die Pipeline direkt aufrufen:
 
 ```bash
@@ -54,6 +56,17 @@ python -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/python genesis_diagramme.py --stichprobe 3
 ```
+
+## Fehlerbehebung
+
+| Meldung | Ursache und Lösung |
+|---|---|
+| `No module named 'numpy'` o. Ä. | Die Pakete fehlen in der Umgebung `diagramme/.venv`, etwa nach einer abgebrochenen Einrichtung. Einfach die `.bat`-Datei erneut starten; sie installiert fehlende Pakete nach. Hilft das nicht, den Ordner `diagramme/.venv` löschen und neu starten. |
+| `Benoetigt wird Python 3.11 oder neuer` | Ältere Python-Version oder kein Python im Pfad. Python von python.org installieren und „Add python.exe to PATH“ anhaken. |
+| `python` öffnet den Microsoft Store | Unter *Einstellungen → Apps → Erweiterte App-Einstellungen → App-Ausführungsaliase* die Aliase für `python.exe` deaktivieren. |
+
+Ein `pip install -r requirements.txt` von Hand installiert die Pakete in die globale Python-Installation, nicht in
+die Umgebung der Pipeline, und ist daher nicht nötig.
 
 ## Rohdaten
 
