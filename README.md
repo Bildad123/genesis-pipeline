@@ -50,7 +50,7 @@ python --version
    pip install -r requirements.txt
    ```
 4. `test_stichprobe.bat` per Doppelklick starten. Es entsteht eine Vorschau mit rund 100 Diagrammen in
-   `GENESIS_Diagramme/`, die sich anschließend mit `uebersicht_oeffnen.bat` durchsehen lässt.
+   `GENESIS_Diagramme/`, die sich anschließend per Doppelklick auf `uebersicht.html` durchsehen lässt.
 
 Weitere Startdateien im Ordner `diagramme/`:
 
@@ -59,6 +59,7 @@ Weitere Startdateien im Ordner `diagramme/`:
 | `test_stichprobe.bat` | schnelle Vorschau mit rund 100 Diagrammen |
 | `diagramme_auto_erstellen.bat` | vollständiger Lauf mit der Zielanzahl aus `config.yaml` |
 | `uebersicht_oeffnen.bat` | Übersichtsseite der erzeugten Grafiken öffnen |
+| `uebersicht.html` | dieselbe Übersichtsseite per Doppelklick direkt im Browser öffnen |
 | `diagramme_loeschen.bat` | alle erzeugten Grafiken und Berichte löschen |
 
 Ohne Windows lässt sich die Pipeline direkt aufrufen:
