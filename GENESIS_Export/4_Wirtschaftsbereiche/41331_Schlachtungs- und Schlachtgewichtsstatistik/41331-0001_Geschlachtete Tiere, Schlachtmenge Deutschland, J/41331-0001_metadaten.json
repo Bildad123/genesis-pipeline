@@ -1,0 +1,96 @@
+{
+  "abgerufen_am": "2026-09-28T18:42:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "41331-0001",
+    "Content": "Geschlachtete Tiere, Schlachtmenge: Deutschland, Jahre,\nTierarten, Schlachtungsart",
+    "Time": {
+      "From": "1993",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "41331",
+        "Content": "Schlachtungs- und Schlachtgewichtsstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "TIEA04",
+          "Content": "Tierarten",
+          "Type": "Merkmal",
+          "Values": "12",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "SCHLA1",
+              "Content": "Schlachtungsart",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "GTR001",
+                  "Content": "Geschlachtete Tiere",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "GTR002",
+                  "Content": "Schlachtmenge",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "05.02.2025 11:40:36h"
+  }
+}

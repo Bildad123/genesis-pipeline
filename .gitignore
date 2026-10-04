@@ -1,0 +1,20 @@
+# Zugangsdaten (nie hochladen)
+genesis_zugang.ini
+
+# Rohdaten sind enthalten, nur das Export-Protokoll nicht
+GENESIS_Export/_log/
+
+# Ergebnisse: werden mit diagramme/genesis_diagramme.py erzeugt
+GENESIS_Diagramme/*
+!GENESIS_Diagramme/.gitkeep
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+requirements_lock.txt
+
+# Betriebssystem
+Thumbs.db
+.DS_Store
+desktop.ini

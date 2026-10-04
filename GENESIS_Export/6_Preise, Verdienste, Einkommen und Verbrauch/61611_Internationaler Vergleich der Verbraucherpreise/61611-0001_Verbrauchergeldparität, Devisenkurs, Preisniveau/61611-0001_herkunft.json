@@ -1,0 +1,28 @@
+{
+  "tabelle": "61611-0001",
+  "titel": "Verbrauchergeldparität, Devisenkurs, Preisniveau, Kaufkraft: Deutschland, Jahre (bis 2009), Staaten",
+  "zeitraum": "2001 - 2009",
+  "statistik": "61611",
+  "alle_statistiken": [
+    "61611"
+  ],
+  "stand_genesis": "28.12.2022 17:04:10h",
+  "abgerufen_am": "2026-09-28T20:35:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61611-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61611-0001_flatfile.csv": "275bd906fdf27b171b353d3ac7f98d32ec5400d958c435234fa0943ceeca9f52"
+  },
+  "bytes": 1490933,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61611/table/61611-0001"
+}

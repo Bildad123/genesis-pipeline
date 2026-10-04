@@ -1,0 +1,28 @@
+{
+  "tabelle": "22523-0006",
+  "titel": "Vorläufige Schutzmaßnahmen für Kinder und Jugendliche: Deutschland, Jahre, Rechtliche Voraussetzung für eine Inobhutnahme, Geschlecht",
+  "zeitraum": "2019 - 2025",
+  "statistik": "22523",
+  "alle_statistiken": [
+    "22523"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:34:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22523-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22523-0006_flatfile.csv": "f91d6a5573c0c085c684f9a0e34c9881e3935f59a4f2f119646db7a06378335e"
+  },
+  "bytes": 26352,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22523/table/22523-0006"
+}

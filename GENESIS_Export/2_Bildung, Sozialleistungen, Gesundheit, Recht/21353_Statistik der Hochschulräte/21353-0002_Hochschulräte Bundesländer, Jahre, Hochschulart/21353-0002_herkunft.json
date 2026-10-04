@@ -1,0 +1,28 @@
+{
+  "tabelle": "21353-0002",
+  "titel": "Hochschulräte: Bundesländer, Jahre, Hochschulart, Geschlecht",
+  "zeitraum": "2017 - 2025",
+  "statistik": "21353",
+  "alle_statistiken": [
+    "21353"
+  ],
+  "stand_genesis": "09.02.2024 13:38:34h",
+  "abgerufen_am": "2026-09-28T17:07:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21353-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21353-0002_flatfile.csv": "0abda8d2114810450ca2e027d1ad3a329d29d7f837ba3143cd8964b4fe626356"
+  },
+  "bytes": 66921,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21353/table/21353-0002"
+}

@@ -1,0 +1,75 @@
+{
+  "abgerufen_am": "2026-09-28T18:41:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "41322-0007",
+    "Content": "Schlachtmenge (in Geflügelschlachtereien): Deutschland,\nJahre (bis 2009), Geflügelart",
+    "Time": {
+      "From": "1991",
+      "To": "2009"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "41322",
+        "Content": "Geflügelstatistik: Erh. in Geflügelschlachtereien",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "GTR002",
+                "Content": "Schlachtmenge",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "TIERG2",
+          "Content": "Geflügelart",
+          "Type": "Merkmal",
+          "Values": "5",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "29.12.2022 04:30:49h"
+  }
+}

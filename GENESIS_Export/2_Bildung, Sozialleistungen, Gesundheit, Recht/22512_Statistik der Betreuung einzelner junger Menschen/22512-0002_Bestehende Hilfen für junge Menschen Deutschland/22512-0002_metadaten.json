@@ -1,0 +1,104 @@
+{
+  "abgerufen_am": "2026-09-28T17:31:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22512-0002",
+    "Content": "Bestehende Hilfen für junge Menschen: Deutschland, Stichtag\n(bis 31.12.2006), Geschlecht, Altersgruppen, Art der Hilfe,\nAnlass der Hilfe",
+    "Time": {
+      "From": "31.12.1992",
+      "To": "31.12.2006"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22512",
+        "Content": "Statistik der Betreuung einzelner junger Menschen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "HJM004",
+                "Content": "Bestehende Hilfen für junge Menschen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "HILFE2",
+          "Content": "Anlass der Hilfe",
+          "Type": "Merkmal",
+          "Values": "11",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ALTJH8",
+              "Content": "Altersgruppen (u12-21m)",
+              "Type": "Merkmal",
+              "Values": "5",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "HILFE1",
+        "Content": "Art der Hilfe",
+        "Type": "Merkmal",
+        "Values": "3",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 19:07:55h"
+  }
+}

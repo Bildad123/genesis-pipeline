@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T17:25:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22221-0022",
+    "Content": "Empfänger von besonderen Asylbewerberleistungen: Deutschland, Stichtag, Geschlecht, Staatsangehörigkeit nach Kontinenten",
+    "Time": {
+      "From": "31.12.2020",
+      "To": "31.12.2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22221",
+        "Content": "Statistik der Empfänger von Asylbewerberleistungen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "EMP006",
+                "Content": "Empfänger von besonderen Asylbewerberleistungen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "STAKT1",
+          "Content": "Staatsangehörigkeit nach Kontinenten",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.07.2023 13:47:53h"
+  }
+}

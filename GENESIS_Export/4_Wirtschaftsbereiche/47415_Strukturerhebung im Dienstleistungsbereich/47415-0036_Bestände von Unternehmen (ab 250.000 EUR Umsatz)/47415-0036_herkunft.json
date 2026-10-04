@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0036",
+  "titel": "Bestände von Unternehmen (ab 250.000 EUR Umsatz): Deutschland, Jahre, Art der Bestände, Zeitpunkt der Bestände, Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)",
+  "zeitraum": "2008 - 2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 22:32:11h",
+  "abgerufen_am": "2026-09-28T19:37:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0036",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0036_flatfile.csv": "63afdf5b583d5ae386d6b6d06f329bf99878e5f8956c5272591bd34c5ea62006"
+  },
+  "bytes": 688408,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0036"
+}

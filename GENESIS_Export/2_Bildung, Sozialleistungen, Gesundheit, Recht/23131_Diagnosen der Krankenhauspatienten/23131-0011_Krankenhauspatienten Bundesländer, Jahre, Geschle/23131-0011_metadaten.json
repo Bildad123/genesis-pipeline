@@ -1,0 +1,93 @@
+{
+  "abgerufen_am": "2026-09-28T17:50:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "23131-0011",
+    "Content": "Krankenhauspatienten: Bundesländer, Jahre, Geschlecht,\nAltersgruppen, Hauptdiagnose ICD-10 (1-3-Steller Hierarchie)",
+    "Time": {
+      "From": "2000",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "23131",
+        "Content": "Diagnosen der Krankenhauspatienten",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "GES025",
+            "Content": "Entlassene Patienten",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ALT112",
+              "Content": "Altersgruppen (u1-95m)",
+              "Type": "Merkmal",
+              "Values": "22",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ICD10C",
+          "Content": "ICD-10 (3-Steller) Hauptdiagnose",
+          "Type": "Merkmal",
+          "Values": "1734",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 17:15:56h"
+  }
+}

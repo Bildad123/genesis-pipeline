@@ -1,0 +1,28 @@
+{
+  "tabelle": "22121-0002",
+  "titel": "Empfänger von Hilfe zum Lebensunterhalt: Deutschland, Stichtag, Ort der Leistungserbringung, Geschlecht, Nationalität",
+  "zeitraum": "31.12.1995 - 31.12.2025",
+  "statistik": "22121",
+  "alle_statistiken": [
+    "22121"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:19:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22121-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22121-0002_flatfile.csv": "6454ea3f9f57503118373b1cacae4a7b9db7d8c25cbb9f7c045bc01922da059a"
+  },
+  "bytes": 259426,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22121/table/22121-0002"
+}

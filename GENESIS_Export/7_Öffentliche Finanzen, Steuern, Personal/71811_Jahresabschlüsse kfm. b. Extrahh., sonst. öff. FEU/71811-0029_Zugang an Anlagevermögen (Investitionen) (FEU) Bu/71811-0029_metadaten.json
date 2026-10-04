@@ -1,0 +1,93 @@
+{
+  "abgerufen_am": "2026-09-28T20:52:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "71811-0029",
+    "Content": "Zugang an Anlagevermögen (Investitionen) (FEU):\nBundesländer, Jahre, Ebenen des öffentlichen Bereichs, Art\ndes Zugangs an Anlagevermögen, Wirtschaftsabschnitte",
+    "Time": {
+      "From": "2008",
+      "To": "2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "71811",
+        "Content": "Jahresabschlüsse kfm. b. Extrahh., sonst. öff. FEU",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "INV026",
+            "Content": "Zugang an Anlagevermögen (Investitionen)",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "INVAT2",
+          "Content": "Art des Zugangs an Anlagevermögen",
+          "Type": "Merkmal",
+          "Values": "8",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08BA",
+          "Content": "WZ2008 (Abschnitte)",
+          "Type": "Merkmal",
+          "Values": "19",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "KRPEB4",
+            "Content": "Ebenen des öffentlichen Bereichs",
+            "Type": "Merkmal",
+            "Values": "2",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 19:23:30h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0040",
+  "titel": "Abhängige Beschäftigungsverhältnisse, Bruttostundenverdienste: Deutschland, Stichmonat, Geschlecht, Verdienstgrößenklassen",
+  "zeitraum": "04/2022 - 04/2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "28.12.2022 18:09:26h",
+  "abgerufen_am": "2026-09-28T20:41:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0040",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0040_flatfile.csv": "1eedc1c4aa7ca012473b49b0acef3074fb6d12207ac05074ce4e25713368ce5f"
+  },
+  "bytes": 98065,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0040"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "41253-0012",
+  "titel": "Erntemenge an Weinmost: Bundesländer, Jahre, Mostqualität, Art des Weinmosts",
+  "zeitraum": "2022 - 2025",
+  "statistik": "41253",
+  "alle_statistiken": [
+    "41253"
+  ],
+  "stand_genesis": "30.03.2023 15:22:34h",
+  "abgerufen_am": "2026-09-28T18:33:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41253-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41253-0012_flatfile.csv": "f6263041193378c8446f4b0a92dff99e553bbec9a9bc9a30574127d636a86a41"
+  },
+  "bytes": 29182,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41253/table/41253-0012"
+}

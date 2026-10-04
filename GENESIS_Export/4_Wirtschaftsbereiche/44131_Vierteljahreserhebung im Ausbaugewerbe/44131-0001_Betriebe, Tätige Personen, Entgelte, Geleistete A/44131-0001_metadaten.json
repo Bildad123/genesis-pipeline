@@ -1,0 +1,134 @@
+{
+  "abgerufen_am": "2026-09-28T19:07:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "44131-0001",
+    "Content": "Betriebe, Tätige Personen, Entgelte, Geleistete\nArbeitsstunden, Umsatz im Ausbaugewerbe (Betriebe mit 20u.m.\ntätigen Personen): Deutschland, Quartale, Wirtschaftszweige",
+    "Time": {
+      "From": "2009",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "44131",
+        "Content": "Vierteljahreserhebung im Ausbaugewerbe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BETR01",
+          "Content": "Betriebe",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "PER005",
+          "Content": "Tätige Personen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ETG008",
+          "Content": "Entgelte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ARBST1",
+          "Content": "Geleistete Arbeitsstunden",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS002",
+          "Content": "Umsatz",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS009",
+          "Content": "Baugewerblicher Umsatz",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "QUARTG",
+              "Content": "Quartale",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "WZ08Z3",
+        "Content": "WZ2008 (ausgewählte Positionen): Ausbaugewerbe",
+        "Type": "Merkmal",
+        "Values": "15",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "29.12.2022 04:31:30h"
+  }
+}

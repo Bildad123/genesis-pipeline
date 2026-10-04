@@ -1,0 +1,28 @@
+{
+  "tabelle": "41362-0008",
+  "titel": "Aquakulturbetriebe, Anlagengröße: Bundesländer, Jahre, Anlagenarten",
+  "zeitraum": "2011 - 2023",
+  "statistik": "41362",
+  "alle_statistiken": [
+    "41362"
+  ],
+  "stand_genesis": "29.12.2022 08:00:13h",
+  "abgerufen_am": "2026-09-28T18:43:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41362-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41362-0008_flatfile.csv": "5387bf68847dbdafe5ac78d3ccefde7fa4ed541ef00668fc54aa507eb2826d17"
+  },
+  "bytes": 25993,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41362/table/41362-0008"
+}

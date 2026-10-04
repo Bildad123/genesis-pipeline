@@ -1,0 +1,28 @@
+{
+  "tabelle": "41312-0013",
+  "titel": "Haltungen mit Milchkühen: Bundesländer, Stichmonat, Bestandsgrößenklassen",
+  "zeitraum": "05/2010 - 05/2026",
+  "statistik": "41312",
+  "alle_statistiken": [
+    "41312"
+  ],
+  "stand_genesis": "06.02.2023 15:47:20h",
+  "abgerufen_am": "2026-09-28T18:38:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41312-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41312-0013_flatfile.csv": "7b5de71fd155eb092bc859f2f53bd9661249fc9f8ee6cc45d9354d523dd608ab"
+  },
+  "bytes": 49768,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41312/table/41312-0013"
+}

@@ -1,0 +1,955 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09672;Bad Kissingen, Landkreis;1216;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09672;Bad Kissingen, Landkreis;125;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09190;Weilheim-Schongau, Landkreis;2545;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09190;Weilheim-Schongau, Landkreis;251;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15362;Ohrekreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15362;Ohrekreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03252;Hameln-Pyrmont, Landkreis;1724;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03252;Hameln-Pyrmont, Landkreis;170;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08337;Waldshut, Landkreis;3169;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08337;Waldshut, Landkreis;321;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05334;Städteregion Aachen, Landkreis;5643;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05334;Städteregion Aachen, Landkreis;461;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03154;Helmstedt, Landkreis;1069;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03154;Helmstedt, Landkreis;110;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05914;Hagen, kreisfreie Stadt;1633;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05914;Hagen, kreisfreie Stadt;136;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12054;Potsdam, kreisfreie Stadt;1111;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12054;Potsdam, kreisfreie Stadt;87;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09563;Fürth, kreisfreie Stadt;1160;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09563;Fürth, kreisfreie Stadt;99;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16053;Jena, kreisfreie Stadt;1005;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16053;Jena, kreisfreie Stadt;65;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08435;Bodenseekreis;3144;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08435;Bodenseekreis;330;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13073;Vorpommern-Rügen, Landkreis;2773;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13073;Vorpommern-Rügen, Landkreis;217;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16076;Greiz, Landkreis;2099;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16076;Greiz, Landkreis;188;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09661;Aschaffenburg, kreisfreie Stadt;921;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09661;Aschaffenburg, kreisfreie Stadt;80;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03241;Region Hannover, Landkreis;8122;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03241;Region Hannover, Landkreis;774;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08119;Rems-Murr-Kreis;5076;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08119;Rems-Murr-Kreis;482;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09476;Kronach, Landkreis;976;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09476;Kronach, Landkreis;98;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01061;Steinburg, Landkreis;2056;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01061;Steinburg, Landkreis;230;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08325;Rottweil, Landkreis;2515;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08325;Rottweil, Landkreis;262;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12065;Oberhavel, Landkreis;1793;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12065;Oberhavel, Landkreis;141;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09574;Nürnberger Land, Landkreis;1713;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09574;Nürnberger Land, Landkreis;162;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15265;Saalkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15265;Saalkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14389;Torgau-Oschatz, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14389;Torgau-Oschatz, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07318;Speyer, kreisfreie Stadt;558;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07318;Speyer, kreisfreie Stadt;52;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13062;Uecker-Randow, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13062;Uecker-Randow, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16064;Unstrut-Hainich-Kreis;1451;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16064;Unstrut-Hainich-Kreis;125;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;11000;Berlin, kreisfreie Stadt;28595;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;11000;Berlin, kreisfreie Stadt;2125;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09671;Aschaffenburg, Landkreis;1651;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09671;Aschaffenburg, Landkreis;162;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03460;Vechta, Landkreis;1829;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03460;Vechta, Landkreis;194;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03251;Diepholz, Landkreis;3173;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03251;Diepholz, Landkreis;359;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03153;Goslar, Landkreis;1846;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03153;Goslar, Landkreis;171;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05915;Hamm, kreisfreie Stadt;1270;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05915;Hamm, kreisfreie Stadt;117;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06440;Wetteraukreis;3065;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06440;Wetteraukreis;298;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09464;Hof, kreisfreie Stadt;620;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09464;Hof, kreisfreie Stadt;58;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08315;Breisgau-Hochschwarzwald, Landkreis;4607;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08315;Breisgau-Hochschwarzwald, Landkreis;455;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13074;Nordwestmecklenburg, Landkreis;1643;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13074;Nordwestmecklenburg, Landkreis;131;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16052;Gera, kreisfreie Stadt;1044;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16052;Gera, kreisfreie Stadt;82;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09562;Erlangen, kreisfreie Stadt;775;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09562;Erlangen, kreisfreie Stadt;64;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07131;Ahrweiler, Landkreis;1308;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07131;Ahrweiler, Landkreis;120;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14379;Leipziger Land, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14379;Leipziger Land, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16075;Saale-Orla-Kreis;2111;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16075;Saale-Orla-Kreis;174;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08436;Ravensburg, Landkreis;5080;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08436;Ravensburg, Landkreis;532;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13051;Bad Doberan, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13051;Bad Doberan, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07317;Pirmasens, kreisfreie Stadt;623;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07317;Pirmasens, kreisfreie Stadt;57;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05114;Krefeld, kreisfreie Stadt;2256;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05114;Krefeld, kreisfreie Stadt;187;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08326;Schwarzwald-Baar-Kreis;3409;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08326;Schwarzwald-Baar-Kreis;340;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12066;Oberspreewald-Lausitz, Landkreis;1389;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12066;Oberspreewald-Lausitz, Landkreis;117;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15001;Dessau-Roßlau, kreisfreie Stadt;697;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15001;Dessau-Roßlau, kreisfreie Stadt;56;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08118;Ludwigsburg, Landkreis;4632;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08118;Ludwigsburg, Landkreis;444;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09475;Hof, Landkreis;1519;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09475;Hof, Landkreis;152;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01060;Segeberg, Landkreis;2885;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01060;Segeberg, Landkreis;282;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09573;Fürth, Landkreis;922;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09573;Fürth, Landkreis;89;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15266;Sangerhausen, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15266;Sangerhausen, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07143;Westerwaldkreis;1956;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07143;Westerwaldkreis;195;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03361;Verden, Landkreis;1655;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03361;Verden, Landkreis;173;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14628;Sächsische Schweiz-Osterzgebirge, Landkreis;3721;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14628;Sächsische Schweiz-Osterzgebirge, Landkreis;305;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08216;Rastatt, Landkreis;2144;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08216;Rastatt, Landkreis;207;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16063;Wartburgkreis;1980;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16063;Wartburgkreis;171;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03461;Wesermarsch, Landkreis;1450;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03461;Wesermarsch, Landkreis;165;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03254;Hildesheim, Landkreis;2585;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03254;Hildesheim, Landkreis;263;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05562;Recklinghausen, Landkreis;4377;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05562;Recklinghausen, Landkreis;415;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05378;Rheinisch-Bergischer Kreis;2479;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05378;Rheinisch-Bergischer Kreis;218;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08128;Main-Tauber-Kreis;1896;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08128;Main-Tauber-Kreis;179;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03156;Osterode am Harz, Landkreis (bis 31.10.2016);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03156;Osterode am Harz, Landkreis (bis 31.10.2016);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09463;Coburg, kreisfreie Stadt;571;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09463;Coburg, kreisfreie Stadt;46;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08335;Konstanz, Landkreis;3274;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08335;Konstanz, Landkreis;320;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05958;Hochsauerlandkreis;3243;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05958;Hochsauerlandkreis;330;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09561;Ansbach, kreisfreie Stadt;524;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09561;Ansbach, kreisfreie Stadt;48;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03352;Cuxhaven, Landkreis;2516;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03352;Cuxhaven, Landkreis;259;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08226;Rhein-Neckar-Kreis;4559;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08226;Rhein-Neckar-Kreis;452;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13071;Mecklenburgische Seenplatte, Landkreis;2836;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13071;Mecklenburgische Seenplatte, Landkreis;230;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16055;Weimar, kreisfreie Stadt;701;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16055;Weimar, kreisfreie Stadt;56;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09180;Garmisch-Partenkirchen, Landkreis;1962;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09180;Garmisch-Partenkirchen, Landkreis;169;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05113;Essen, kreisfreie Stadt;3400;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05113;Essen, kreisfreie Stadt;282;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12067;Oder-Spree, Landkreis;1341;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12067;Oder-Spree, Landkreis;113;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15002;Halle (Saale), kreisfreie Stadt;7029;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15002;Halle (Saale), kreisfreie Stadt;416;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08117;Göppingen, Landkreis;2989;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08117;Göppingen, Landkreis;287;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09474;Forchheim, Landkreis;1236;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09474;Forchheim, Landkreis;120;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07140;Rhein-Hunsrück-Kreis;1250;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07140;Rhein-Hunsrück-Kreis;125;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09780;Oberallgäu, Landkreis;3847;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09780;Oberallgäu, Landkreis;393;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16066;Schmalkalden-Meiningen, Landkreis;1737;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16066;Schmalkalden-Meiningen, Landkreis;152;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09572;Erlangen-Höchstadt, Landkreis;1302;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09572;Erlangen-Höchstadt, Landkreis;122;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14729;Leipzig, Landkreis;3367;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14729;Leipzig, Landkreis;287;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08421;Ulm, kreisfreie Stadt;1153;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08421;Ulm, kreisfreie Stadt;95;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13060;Parchim, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13060;Parchim, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08215;Karlsruhe, Landkreis;3797;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08215;Karlsruhe, Landkreis;382;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03462;Wittmund, Landkreis;1654;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03462;Wittmund, Landkreis;154;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05124;Wuppertal, kreisfreie Stadt;2423;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05124;Wuppertal, kreisfreie Stadt;208;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15090;Stendal, Landkreis;1189;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15090;Stendal, Landkreis;108;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03253;Hannover, Landkreis (bis 31.10.2001);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03253;Hannover, Landkreis (bis 31.10.2001);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05770;Minden-Lübbecke, Landkreis;4830;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05770;Minden-Lübbecke, Landkreis;550;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03155;Northeim, Landkreis;1798;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03155;Northeim, Landkreis;184;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05913;Dortmund, kreisfreie Stadt;4906;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05913;Dortmund, kreisfreie Stadt;378;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05354;Aachen, Landkreis (bis 20.10.2009);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05354;Aachen, Landkreis (bis 20.10.2009);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09462;Bayreuth, kreisfreie Stadt;800;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09462;Bayreuth, kreisfreie Stadt;67;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08127;Schwäbisch Hall, Landkreis;2236;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08127;Schwäbisch Hall, Landkreis;228;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08336;Lörrach, Landkreis;2358;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08336;Lörrach, Landkreis;232;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16077;Altenburger Land, Landkreis;1381;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16077;Altenburger Land, Landkreis;124;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16054;Suhl, kreisfreie Stadt;544;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16054;Suhl, kreisfreie Stadt;37;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15256;Burgenlandkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15256;Burgenlandkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03351;Celle, Landkreis;1726;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03351;Celle, Landkreis;174;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06636;Werra-Meißner-Kreis;1328;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06636;Werra-Meißner-Kreis;135;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13072;Rostock, Landkreis;2406;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13072;Rostock, Landkreis;202;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08225;Neckar-Odenwald-Kreis;1537;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08225;Neckar-Odenwald-Kreis;152;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06431;Bergstraße, Landkreis;2708;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06431;Bergstraße, Landkreis;271;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09181;Landsberg am Lech, Landkreis;1706;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09181;Landsberg am Lech, Landkreis;182;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05112;Duisburg, kreisfreie Stadt;3075;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05112;Duisburg, kreisfreie Stadt;247;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15101;Dessau, kreisfreie Stadt (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15101;Dessau, kreisfreie Stadt (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05158;Mettmann, Landkreis;3999;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05158;Mettmann, Landkreis;333;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15370;Altmarkkreis Salzwedel (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15370;Altmarkkreis Salzwedel (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12068;Ostprignitz-Ruppin, Landkreis;1096;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12068;Ostprignitz-Ruppin, Landkreis;94;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05366;Euskirchen, Landkreis;2159;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05366;Euskirchen, Landkreis;204;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15003;Magdeburg, kreisfreie Stadt;2760;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15003;Magdeburg, kreisfreie Stadt;199;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08116;Esslingen, Landkreis;5627;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08116;Esslingen, Landkreis;517;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09473;Coburg, Landkreis;1006;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09473;Coburg, Landkreis;100;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15268;Weißenfels, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15268;Weißenfels, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09571;Ansbach, Landkreis;2644;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09571;Ansbach, Landkreis;269;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14365;Leipzig, kreisfreie Stadt (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14365;Leipzig, kreisfreie Stadt (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07141;Rhein-Lahn-Kreis;1468;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07141;Rhein-Lahn-Kreis;147;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08237;Freudenstadt, Landkreis;2015;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08237;Freudenstadt, Landkreis;197;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07319;Worms, kreisfreie Stadt;1087;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07319;Worms, kreisfreie Stadt;90;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13061;Rügen, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13061;Rügen, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16065;Kyffhäuserkreis;1001;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16065;Kyffhäuserkreis;89;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01053;Herzogtum Lauenburg, Landkreis;2270;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01053;Herzogtum Lauenburg, Landkreis;234;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06635;Waldeck-Frankenberg, Landkreis;2393;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06635;Waldeck-Frankenberg, Landkreis;252;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09277;Rottal-Inn, Landkreis;2071;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09277;Rottal-Inn, Landkreis;216;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09676;Miltenberg, Landkreis;1660;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09676;Miltenberg, Landkreis;164;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13054;Ludwigslust, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13054;Ludwigslust, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07111;Koblenz, kreisfreie Stadt;1118;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07111;Koblenz, kreisfreie Stadt;91;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15151;Anhalt-Zerbst, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15151;Anhalt-Zerbst, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14182;Mittweida, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14182;Mittweida, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03402;Emden, kreisfreie Stadt;609;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03402;Emden, kreisfreie Stadt;49;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16072;Sonneberg, Landkreis;794;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16072;Sonneberg, Landkreis;69;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07134;Birkenfeld, Landkreis;1128;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07134;Birkenfeld, Landkreis;111;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09774;Günzburg, Landkreis;2023;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09774;Günzburg, Landkreis;206;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09375;Regensburg, Landkreis;1577;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09375;Regensburg, Landkreis;160;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08416;Tübingen, Landkreis;2307;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08416;Tübingen, Landkreis;205;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05111;Düsseldorf, kreisfreie Stadt;6209;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05111;Düsseldorf, kreisfreie Stadt;464;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06432;Darmstadt-Dieburg, Landkreis;2827;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06432;Darmstadt-Dieburg, Landkreis;279;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07231;Bernkastel-Wittlich, Landkreis;1896;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07231;Bernkastel-Wittlich, Landkreis;199;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12069;Potsdam-Mittelmark, Landkreis;1769;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12069;Potsdam-Mittelmark, Landkreis;153;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15088;Saalekreis;1813;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15088;Saalekreis;153;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09179;Fürstenfeldbruck, Landkreis;1791;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09179;Fürstenfeldbruck, Landkreis;160;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14171;Annaberg, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14171;Annaberg, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15261;Merseburg-Querfurt, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15261;Merseburg-Querfurt, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03459;Osnabrück, Landkreis;5469;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03459;Osnabrück, Landkreis;636;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09763;Kempten (Allgäu), kreisfreie Stadt;959;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09763;Kempten (Allgäu), kreisfreie Stadt;77;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05122;Solingen, kreisfreie Stadt;1975;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05122;Solingen, kreisfreie Stadt;157;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05911;Bochum, kreisfreie Stadt;2325;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05911;Bochum, kreisfreie Stadt;200;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06611;Kassel, kreisfreie Stadt;2051;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06611;Kassel, kreisfreie Stadt;155;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09278;Straubing-Bogen, Landkreis;1196;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09278;Straubing-Bogen, Landkreis;132;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06634;Schwalm-Eder-Kreis;1795;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06634;Schwalm-Eder-Kreis;185;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09675;Kitzingen, Landkreis;1414;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09675;Kitzingen, Landkreis;152;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14292;Kamenz, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14292;Kamenz, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13055;Mecklenburg-Strelitz, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13055;Mecklenburg-Strelitz, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09773;Dillingen an der Donau, Landkreis;1374;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09773;Dillingen an der Donau, Landkreis;128;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07340;Südwestpfalz, Landkreis;843;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07340;Südwestpfalz, Landkreis;90;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14181;Mittlerer Erzgebirgskreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14181;Mittlerer Erzgebirgskreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03403;Oldenburg (Oldenburg), kreisfreie Stadt;1630;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03403;Oldenburg (Oldenburg), kreisfreie Stadt;130;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16071;Weimarer Land, Landkreis;1095;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16071;Weimarer Land, Landkreis;92;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07135;Cochem-Zell, Landkreis;1093;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07135;Cochem-Zell, Landkreis;108;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14521;Erzgebirgskreis;5411;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14521;Erzgebirgskreis;452;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09376;Schwandorf, Landkreis;1703;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09376;Schwandorf, Landkreis;176;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08417;Zollernalbkreis;2832;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08417;Zollernalbkreis;275;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06433;Groß-Gerau, Landkreis;2480;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06433;Groß-Gerau, Landkreis;209;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09479;Wunsiedel im Fichtelgebirge, Landkreis;1156;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09479;Wunsiedel im Fichtelgebirge, Landkreis;109;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15089;Salzlandkreis;2025;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15089;Salzlandkreis;165;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14280;Meißen, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14280;Meißen, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;02000;Hamburg, kreisfreie Stadt;12996;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;02000;Hamburg, kreisfreie Stadt;971;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09762;Kaufbeuren, kreisfreie Stadt;618;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09762;Kaufbeuren, kreisfreie Stadt;52;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14193;Zwickauer Land, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14193;Zwickauer Land, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06531;Gießen, Landkreis;2470;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06531;Gießen, Landkreis;231;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09577;Weißenburg-Gunzenhausen, Landkreis;1327;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09577;Weißenburg-Gunzenhausen, Landkreis;137;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01051;Dithmarschen, Landkreis;2127;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01051;Dithmarschen, Landkreis;225;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09674;Haßberge, Landkreis;1145;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09674;Haßberge, Landkreis;119;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09279;Dingolfing-Landau, Landkreis;1153;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09279;Dingolfing-Landau, Landkreis;119;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15364;Quedlinburg, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15364;Quedlinburg, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07320;Zweibrücken, kreisfreie Stadt;323;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07320;Zweibrücken, kreisfreie Stadt;32;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03152;Göttingen, Landkreis (bis 31.10.2016);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03152;Göttingen, Landkreis (bis 31.10.2016);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06633;Kassel, Landkreis;2155;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06633;Kassel, Landkreis;219;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05954;Ennepe-Ruhr-Kreis;2888;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05954;Ennepe-Ruhr-Kreis;264;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08316;Emmendingen, Landkreis;2212;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08316;Emmendingen, Landkreis;231;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05374;Oberbergischer Kreis;2399;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05374;Oberbergischer Kreis;219;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13052;Demmin, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13052;Demmin, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13075;Vorpommern-Greifswald, Landkreis;2700;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13075;Vorpommern-Greifswald, Landkreis;198;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16051;Erfurt, kreisfreie Stadt;2105;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16051;Erfurt, kreisfreie Stadt;164;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07132;Altenkirchen (Westerwald), Landkreis;1502;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07132;Altenkirchen (Westerwald), Landkreis;131;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09772;Augsburg, Landkreis;2410;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09772;Augsburg, Landkreis;255;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15153;Bernburg, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15153;Bernburg, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03404;Osnabrück, kreisfreie Stadt;1677;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03404;Osnabrück, kreisfreie Stadt;135;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09377;Tirschenreuth, Landkreis;1104;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09377;Tirschenreuth, Landkreis;117;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16074;Saale-Holzland-Kreis;1165;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16074;Saale-Holzland-Kreis;106;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09565;Schwabach, kreisfreie Stadt;442;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09565;Schwabach, kreisfreie Stadt;38;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08437;Sigmaringen, Landkreis;2425;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08437;Sigmaringen, Landkreis;255;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09478;Lichtenfels, Landkreis;952;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09478;Lichtenfels, Landkreis;96;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09663;Würzburg, kreisfreie Stadt;1507;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09663;Würzburg, kreisfreie Stadt;115;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06434;Hochtaunuskreis;2173;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06434;Hochtaunuskreis;196;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15352;Aschersleben-Staßfurt, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15352;Aschersleben-Staßfurt, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07331;Alzey-Worms, Landkreis;1611;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07331;Alzey-Worms, Landkreis;175;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07233;Vulkaneifel, Landkreis;844;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07233;Vulkaneifel, Landkreis;89;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08327;Tuttlingen, Landkreis;1767;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08327;Tuttlingen, Landkreis;176;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05966;Olpe, Landkreis;1303;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05966;Olpe, Landkreis;128;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06411;Darmstadt, kreisfreie Stadt;1611;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06411;Darmstadt, kreisfreie Stadt;108;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05758;Herford, Landkreis;2994;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05758;Herford, Landkreis;317;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09761;Augsburg, kreisfreie Stadt;1801;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09761;Augsburg, kreisfreie Stadt;155;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10045;Saarpfalz-Kreis;1340;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10045;Saarpfalz-Kreis;117;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03360;Uelzen, Landkreis;1296;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03360;Uelzen, Landkreis;129;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16062;Nordhausen, Landkreis;1010;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16062;Nordhausen, Landkreis;92;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06532;Lahn-Dill-Kreis;2325;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06532;Lahn-Dill-Kreis;219;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08425;Alb-Donau-Kreis;2550;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08425;Alb-Donau-Kreis;254;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09576;Roth, Landkreis;1215;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09576;Roth, Landkreis;118;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05166;Viersen, Landkreis;3067;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05166;Viersen, Landkreis;306;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09673;Rhön-Grabfeld, Landkreis;1146;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09673;Rhön-Grabfeld, Landkreis;116;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15363;Stendal, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15363;Stendal, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03151;Gifhorn, Landkreis;1726;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03151;Gifhorn, Landkreis;173;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14290;Weißeritzkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14290;Weißeritzkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06632;Hersfeld-Rotenburg, Landkreis;1545;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06632;Hersfeld-Rotenburg, Landkreis;145;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08317;Ortenaukreis;5912;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08317;Ortenaukreis;609;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05120;Remscheid, kreisfreie Stadt;741;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05120;Remscheid, kreisfreie Stadt;66;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05978;Unna, Landkreis;2941;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05978;Unna, Landkreis;277;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13076;Ludwigslust-Parchim, Landkreis;2655;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13076;Ludwigslust-Parchim, Landkreis;229;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13053;Güstrow, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13053;Güstrow, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09564;Nürnberg, kreisfreie Stadt;5464;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09564;Nürnberg, kreisfreie Stadt;407;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07133;Bad Kreuznach, Landkreis;1937;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07133;Bad Kreuznach, Landkreis;195;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09771;Aichach-Friedberg, Landkreis;1154;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09771;Aichach-Friedberg, Landkreis;126;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15154;Bitterfeld, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15154;Bitterfeld, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03405;Wilhelmshaven, kreisfreie Stadt;1188;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03405;Wilhelmshaven, kreisfreie Stadt;98;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08415;Reutlingen, Landkreis;3680;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08415;Reutlingen, Landkreis;347;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16073;Saalfeld-Rudolstadt, Landkreis;1423;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16073;Saalfeld-Rudolstadt, Landkreis;122;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05362;Rhein-Erft-Kreis;3726;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05362;Rhein-Erft-Kreis;320;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09477;Kulmbach, Landkreis;920;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09477;Kulmbach, Landkreis;92;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01062;Stormarn, Landkreis;2048;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01062;Stormarn, Landkreis;198;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05154;Kleve, Landkreis;3585;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05154;Kleve, Landkreis;379;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09662;Schweinfurt, kreisfreie Stadt;532;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09662;Schweinfurt, kreisfreie Stadt;47;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06435;Main-Kinzig-Kreis;3655;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06435;Main-Kinzig-Kreis;338;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05570;Warendorf, Landkreis;3105;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05570;Warendorf, Landkreis;340;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07232;Eifelkreis Bitburg-Prüm;1507;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07232;Eifelkreis Bitburg-Prüm;165;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10046;Sankt Wendel, Landkreis;766;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10046;Sankt Wendel, Landkreis;79;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06412;Frankfurt am Main, kreisfreie Stadt;5472;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06412;Frankfurt am Main, kreisfreie Stadt;394;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09575;Neustadt an der Aisch-Bad Windsheim, Landkreis;1460;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09575;Neustadt an der Aisch-Bad Windsheim, Landkreis;151;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06533;Limburg-Weilburg, Landkreis;1950;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06533;Limburg-Weilburg, Landkreis;184;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16061;Eichsfeld, Landkreis;1430;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16061;Eichsfeld, Landkreis;135;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14191;Aue-Schwarzenberg, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14191;Aue-Schwarzenberg, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08426;Biberach, Landkreis;3156;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08426;Biberach, Landkreis;322;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14524;Zwickau, Landkreis;4616;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14524;Zwickau, Landkreis;384;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01057;Plön, Landkreis;1602;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01057;Plön, Landkreis;156;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14272;Bautzen, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14272;Bautzen, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03358;Heidekreis;1797;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03358;Heidekreis;176;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06631;Fulda, Landkreis;2339;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06631;Fulda, Landkreis;224;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09273;Kelheim, Landkreis;1275;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09273;Kelheim, Landkreis;138;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13058;Nordwestmecklenburg, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13058;Nordwestmecklenburg, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09371;Amberg-Sulzbach, Landkreis;1233;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09371;Amberg-Sulzbach, Landkreis;122;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09187;Rosenheim, Landkreis;4731;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09187;Rosenheim, Landkreis;526;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07138;Neuwied, Landkreis;1927;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07138;Neuwied, Landkreis;182;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09778;Unterallgäu, Landkreis;2962;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09778;Unterallgäu, Landkreis;331;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08111;Stuttgart, kreisfreie Stadt;6160;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08111;Stuttgart, kreisfreie Stadt;504;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15084;Burgenlandkreis;2116;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15084;Burgenlandkreis;185;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15358;Jerichower Land, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15358;Jerichower Land, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03455;Friesland, Landkreis;1757;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03455;Friesland, Landkreis;166;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07333;Donnersbergkreis;823;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07333;Donnersbergkreis;89;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06436;Main-Taunus-Kreis;1399;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06436;Main-Taunus-Kreis;129;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06413;Offenbach am Main, kreisfreie Stadt;823;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06413;Offenbach am Main, kreisfreie Stadt;62;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07235;Trier-Saarburg, Landkreis;1581;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07235;Trier-Saarburg, Landkreis;172;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09262;Passau, kreisfreie Stadt;715;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09262;Passau, kreisfreie Stadt;62;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10043;Neunkirchen, Landkreis;1058;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10043;Neunkirchen, Landkreis;100;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06534;Marburg-Biedenkopf, Landkreis;2302;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06534;Marburg-Biedenkopf, Landkreis;214;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13001;Greifswald, kreisfreie Stadt (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13001;Greifswald, kreisfreie Stadt (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09175;Ebersberg, Landkreis;1855;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09175;Ebersberg, Landkreis;192;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12070;Prignitz, Landkreis;1255;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12070;Prignitz, Landkreis;107;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14730;Nordsachsen, Landkreis;2457;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14730;Nordsachsen, Landkreis;211;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15369;Wernigerode, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15369;Wernigerode, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08121;Heilbronn, kreisfreie Stadt;1468;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08121;Heilbronn, kreisfreie Stadt;115;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01056;Pinneberg, Landkreis;3094;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01056;Pinneberg, Landkreis;284;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09679;Würzburg, Landkreis;1454;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09679;Würzburg, Landkreis;160;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09274;Landshut, Landkreis;1775;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09274;Landshut, Landkreis;186;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03357;Rotenburg (Wümme), Landkreis;2206;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03357;Rotenburg (Wümme), Landkreis;231;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15171;Wittenberg, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15171;Wittenberg, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13059;Ostvorpommern, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13059;Ostvorpommern, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09777;Ostallgäu, Landkreis;3033;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09777;Ostallgäu, Landkreis;331;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09372;Cham, Landkreis;2001;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09372;Cham, Landkreis;204;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09188;Starnberg, Landkreis;1655;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09188;Starnberg, Landkreis;149;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15085;Harz, Landkreis;2238;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15085;Harz, Landkreis;192;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14284;Niederschlesischer Oberlausitzkreis (b.31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14284;Niederschlesischer Oberlausitzkreis (b.31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15357;Halberstadt, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15357;Halberstadt, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03456;Grafschaft Bentheim, Landkreis;1508;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03456;Grafschaft Bentheim, Landkreis;160;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06414;Wiesbaden, kreisfreie Stadt;2438;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06414;Wiesbaden, kreisfreie Stadt;202;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07332;Bad Dürkheim, Landkreis;1622;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07332;Bad Dürkheim, Landkreis;176;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06437;Odenwaldkreis;1192;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06437;Odenwaldkreis;123;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07211;Trier, kreisfreie Stadt;1399;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07211;Trier, kreisfreie Stadt;113;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09263;Straubing, kreisfreie Stadt;489;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09263;Straubing, kreisfreie Stadt;45;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05515;Münster, kreisfreie Stadt;3132;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05515;Münster, kreisfreie Stadt;245;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05711;Bielefeld, kreisfreie Stadt;2824;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05711;Bielefeld, kreisfreie Stadt;244;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08231;Pforzheim, kreisfreie Stadt;1553;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08231;Pforzheim, kreisfreie Stadt;119;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10044;Saarlouis, Landkreis;1854;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10044;Saarlouis, Landkreis;178;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09361;Amberg, kreisfreie Stadt;442;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09361;Amberg, kreisfreie Stadt;41;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06535;Vogelsbergkreis;1433;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06535;Vogelsbergkreis;157;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09176;Eichstätt, Landkreis;1267;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09176;Eichstätt, Landkreis;122;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13002;Neubrandenburg, kreisfreie Stadt (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13002;Neubrandenburg, kreisfreie Stadt (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05370;Heinsberg, Landkreis;2418;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05370;Heinsberg, Landkreis;234;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12071;Spree-Neiße, Landkreis;1289;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12071;Spree-Neiße, Landkreis;112;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01055;Ostholstein, Landkreis;3044;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01055;Ostholstein, Landkreis;264;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09275;Passau, Landkreis;2914;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09275;Passau, Landkreis;310;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09678;Schweinfurt, Landkreis;1024;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09678;Schweinfurt, Landkreis;110;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;04012;Bremerhaven, kreisfreie Stadt;1146;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;04012;Bremerhaven, kreisfreie Stadt;85;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05766;Lippe, Landkreis;3673;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05766;Lippe, Landkreis;368;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14612;Dresden, kreisfreie Stadt;4863;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14612;Dresden, kreisfreie Stadt;368;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13056;Müritz, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13056;Müritz, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09373;Neumarkt in der Oberpfalz, Landkreis;1794;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09373;Neumarkt in der Oberpfalz, Landkreis;178;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16070;Ilm-Kreis;1636;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16070;Ilm-Kreis;134;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09776;Lindau (Bodensee), Landkreis;1809;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09776;Lindau (Bodensee), Landkreis;192;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09189;Traunstein, Landkreis;3334;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09189;Traunstein, Landkreis;357;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14161;Chemnitz, kreisfreie Stadt (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14161;Chemnitz, kreisfreie Stadt (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14522;Mittelsachsen, Landkreis;4660;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14522;Mittelsachsen, Landkreis;385;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15086;Jerichower Land, Landkreis;890;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15086;Jerichower Land, Landkreis;75;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07335;Kaiserslautern, Landkreis;967;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07335;Kaiserslautern, Landkreis;105;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07312;Kaiserslautern, kreisfreie Stadt;903;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07312;Kaiserslautern, kreisfreie Stadt;81;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06415;Hanau, kreisfreie Stadt;-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06415;Hanau, kreisfreie Stadt;-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05382;Rhein-Sieg-Kreis;4379;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05382;Rhein-Sieg-Kreis;405;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05512;Bottrop, kreisfreie Stadt;721;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05512;Bottrop, kreisfreie Stadt;63;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10041;Regionalverband Saarbrücken, Landkreis;3323;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10041;Regionalverband Saarbrücken, Landkreis;279;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05754;Gütersloh, Landkreis;4173;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05754;Gütersloh, Landkreis;439;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05558;Coesfeld, Landkreis;2537;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05558;Coesfeld, Landkreis;286;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05962;Märkischer Kreis;4138;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05962;Märkischer Kreis;381;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06438;Offenbach, Landkreis;3333;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06438;Offenbach, Landkreis;301;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09362;Regensburg, kreisfreie Stadt;1108;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09362;Regensburg, kreisfreie Stadt;94;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09177;Erding, Landkreis;1628;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09177;Erding, Landkreis;170;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14173;Chemnitzer Land, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14173;Chemnitzer Land, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03457;Leer, Landkreis;2807;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03457;Leer, Landkreis;284;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14511;Chemnitz, kreisfreie Stadt;2184;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14511;Chemnitz, kreisfreie Stadt;162;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15367;Schönebeck, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15367;Schönebeck, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12072;Teltow-Fläming, Landkreis;1556;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12072;Teltow-Fläming, Landkreis;139;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01054;Nordfriesland, Landkreis;3446;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01054;Nordfriesland, Landkreis;320;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14523;Vogtlandkreis;3519;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14523;Vogtlandkreis;286;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03401;Delmenhorst, kreisfreie Stadt;898;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03401;Delmenhorst, kreisfreie Stadt;75;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09276;Regen, Landkreis;1488;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09276;Regen, Landkreis;147;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03359;Stade, Landkreis;1971;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03359;Stade, Landkreis;194;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05162;Rhein-Kreis Neuss;3027;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05162;Rhein-Kreis Neuss;280;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09677;Main-Spessart, Landkreis;1597;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09677;Main-Spessart, Landkreis;152;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05974;Soest, Landkreis;2929;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05974;Soest, Landkreis;312;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13057;Nordvorpommern, Landkreis (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13057;Nordvorpommern, Landkreis (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05316;Leverkusen, kreisfreie Stadt;882;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05316;Leverkusen, kreisfreie Stadt;79;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07137;Mayen-Koblenz, Landkreis;2493;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07137;Mayen-Koblenz, Landkreis;221;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09775;Neu-Ulm, Landkreis;1796;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09775;Neu-Ulm, Landkreis;174;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09374;Neustadt an der Waldnaab, Landkreis;1111;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09374;Neustadt an der Waldnaab, Landkreis;112;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15355;Bördekreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15355;Bördekreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12060;Barnim, Landkreis;1614;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12060;Barnim, Landkreis;130;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07334;Germersheim, Landkreis;1208;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07334;Germersheim, Landkreis;116;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07311;Frankenthal (Pfalz), kreisfreie Stadt;464;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07311;Frankenthal (Pfalz), kreisfreie Stadt;41;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15087;Mansfeld-Südharz, Landkreis;1530;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15087;Mansfeld-Südharz, Landkreis;125;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05513;Gelsenkirchen, kreisfreie Stadt;1649;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05513;Gelsenkirchen, kreisfreie Stadt;136;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10042;Merzig-Wadern, Landkreis;1064;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;10042;Merzig-Wadern, Landkreis;108;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06439;Rheingau-Taunus-Kreis;1820;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;06439;Rheingau-Taunus-Kreis;166;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09178;Freising, Landkreis;1852;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09178;Freising, Landkreis;170;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15260;Mansfelder Land, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15260;Mansfelder Land, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09764;Memmingen, kreisfreie Stadt;684;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09764;Memmingen, kreisfreie Stadt;63;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03458;Oldenburg, Landkreis;2084;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03458;Oldenburg, Landkreis;216;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09363;Weiden in der Oberpfalz, kreisfreie Stadt;545;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09363;Weiden in der Oberpfalz, kreisfreie Stadt;53;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09171;Altötting, Landkreis;1254;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09171;Altötting, Landkreis;131;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03256;Nienburg (Weser), Landkreis;1938;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03256;Nienburg (Weser), Landkreis;230;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15091;Wittenberg, Landkreis;1807;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15091;Wittenberg, Landkreis;144;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05315;Köln, kreisfreie Stadt;11848;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05315;Köln, kreisfreie Stadt;857;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09461;Bamberg, kreisfreie Stadt;978;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09461;Bamberg, kreisfreie Stadt;87;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08126;Hohenlohekreis;1181;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08126;Hohenlohekreis;117;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12073;Uckermark, Landkreis;1531;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12073;Uckermark, Landkreis;134;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03158;Wolfenbüttel, Landkreis;1072;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03158;Wolfenbüttel, Landkreis;113;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14167;Zwickau, kreisfreie Stadt (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14167;Zwickau, kreisfreie Stadt (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03354;Lüchow-Dannenberg, Landkreis;1136;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03354;Lüchow-Dannenberg, Landkreis;115;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03101;Braunschweig, kreisfreie Stadt;1976;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03101;Braunschweig, kreisfreie Stadt;175;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14374;Delitzsch, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14374;Delitzsch, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15159;Köthen, Landkreis (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15159;Köthen, Landkreis (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09183;Mühldorf am Inn, Landkreis;1552;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09183;Mühldorf am Inn, Landkreis;180;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14287;Sächsische Schweiz, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14287;Sächsische Schweiz, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09182;Miesbach, Landkreis;2468;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09182;Miesbach, Landkreis;240;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14264;Hoyerswerda, kreisfreie Stadt (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14264;Hoyerswerda, kreisfreie Stadt (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03451;Ammerland, Landkreis;1783;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03451;Ammerland, Landkreis;186;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07337;Südliche Weinstraße, Landkreis;1670;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07337;Südliche Weinstraße, Landkreis;182;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07314;Ludwigshafen am Rhein, kreisfreie Stadt;1329;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07314;Ludwigshafen am Rhein, kreisfreie Stadt;111;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12061;Dahme-Spreewald, Landkreis;1681;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12061;Dahme-Spreewald, Landkreis;136;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13005;Stralsund, kreisfreie Stadt (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13005;Stralsund, kreisfreie Stadt (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09472;Bayreuth, Landkreis;1224;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09472;Bayreuth, Landkreis;122;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08115;Böblingen, Landkreis;3822;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08115;Böblingen, Landkreis;359;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16068;Sömmerda, Landkreis;796;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16068;Sömmerda, Landkreis;73;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14625;Bautzen, Landkreis;4053;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14625;Bautzen, Landkreis;359;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01004;Neumünster, kreisfreie Stadt;632;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01004;Neumünster, kreisfreie Stadt;52;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05119;Oberhausen, kreisfreie Stadt;1512;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05119;Oberhausen, kreisfreie Stadt;123;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08236;Enzkreis;2033;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08236;Enzkreis;198;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03255;Holzminden, Landkreis;1034;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03255;Holzminden, Landkreis;103;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08311;Freiburg im Breisgau, kreisfreie Stadt;2471;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08311;Freiburg im Breisgau, kreisfreie Stadt;192;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05314;Bonn, kreisfreie Stadt;3115;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05314;Bonn, kreisfreie Stadt;237;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;04011;Bremen, kreisfreie Stadt;4620;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;04011;Bremen, kreisfreie Stadt;353;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03157;Peine, Landkreis;1425;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03157;Peine, Landkreis;142;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12051;Brandenburg an der Havel, kreisfreie Stadt;803;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12051;Brandenburg an der Havel, kreisfreie Stadt;51;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08125;Heilbronn, Landkreis;3200;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08125;Heilbronn, Landkreis;322;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14375;Döbeln, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14375;Döbeln, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03353;Harburg, Landkreis;2400;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03353;Harburg, Landkreis;222;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14166;Plauen, kreisfreie Stadt (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14166;Plauen, kreisfreie Stadt (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16056;Eisenach, kreisfreie Stadt (bis 30.06.2021);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16056;Eisenach, kreisfreie Stadt (bis 30.06.2021);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09184;München, Landkreis;3268;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09184;München, Landkreis;283;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09161;Ingolstadt, kreisfreie Stadt;891;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09161;Ingolstadt, kreisfreie Stadt;71;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03452;Aurich, Landkreis;3587;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03452;Aurich, Landkreis;337;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07336;Kusel, Landkreis;764;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07336;Kusel, Landkreis;82;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07313;Landau in der Pfalz, kreisfreie Stadt;707;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07313;Landau in der Pfalz, kreisfreie Stadt;60;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15081;Altmarkkreis Salzwedel;1100;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15081;Altmarkkreis Salzwedel;99;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13006;Wismar, kreisfreie Stadt (bis 03.09.2011);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13006;Wismar, kreisfreie Stadt (bis 03.09.2011);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01003;Lübeck, kreisfreie Stadt;1776;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01003;Lübeck, kreisfreie Stadt;141;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09471;Bamberg, Landkreis;1505;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09471;Bamberg, Landkreis;158;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12062;Elbe-Elster, Landkreis;1624;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12062;Elbe-Elster, Landkreis;137;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14178;Vogtlandkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14178;Vogtlandkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16067;Gotha, Landkreis;1900;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16067;Gotha, Landkreis;159;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08212;Karlsruhe, kreisfreie Stadt;1967;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08212;Karlsruhe, kreisfreie Stadt;170;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09172;Berchtesgadener Land, Landkreis;1794;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09172;Berchtesgadener Land, Landkreis;174;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08235;Calw, Landkreis;2285;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08235;Calw, Landkreis;207;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15303;Magdeburg, kreisfreie Stadt (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15303;Magdeburg, kreisfreie Stadt (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05313;Aachen, kreisfreie Stadt (bis 20.10.2009);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05313;Aachen, kreisfreie Stadt (bis 20.10.2009);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09271;Deggendorf, Landkreis;1785;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09271;Deggendorf, Landkreis;166;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12052;Cottbus, kreisfreie Stadt;833;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12052;Cottbus, kreisfreie Stadt;65;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05566;Steinfurt, Landkreis;4998;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05566;Steinfurt, Landkreis;534;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05916;Herne, kreisfreie Stadt;1080;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05916;Herne, kreisfreie Stadt;85;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03103;Wolfsburg, kreisfreie Stadt;840;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03103;Wolfsburg, kreisfreie Stadt;67;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08222;Mannheim, kreisfreie Stadt;3690;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08222;Mannheim, kreisfreie Stadt;285;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03356;Osterholz, Landkreis;1394;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03356;Osterholz, Landkreis;141;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05762;Höxter, Landkreis;1715;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05762;Höxter, Landkreis;186;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14188;Stollberg, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14188;Stollberg, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01059;Schleswig-Flensburg, Landkreis;2378;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01059;Schleswig-Flensburg, Landkreis;245;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09185;Neuburg-Schrobenhausen, Landkreis;1194;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09185;Neuburg-Schrobenhausen, Landkreis;122;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09162;München, kreisfreie Stadt;11962;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09162;München, kreisfreie Stadt;977;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07339;Mainz-Bingen, Landkreis;2343;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07339;Mainz-Bingen, Landkreis;249;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07316;Neustadt an der Weinstraße, kreisfreie Stadt;717;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07316;Neustadt an der Weinstraße, kreisfreie Stadt;73;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08136;Ostalbkreis;3591;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08136;Ostalbkreis;365;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03201;Hannover, kreisfreie Stadt (bis 31.10.2001);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03201;Hannover, kreisfreie Stadt (bis 31.10.2001);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14285;Riesa-Großenhain, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14285;Riesa-Großenhain, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14262;Dresden, kreisfreie Stadt (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14262;Dresden, kreisfreie Stadt (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05117;Mülheim an der Ruhr, kreisfreie Stadt;1365;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05117;Mülheim an der Ruhr, kreisfreie Stadt;111;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15082;Anhalt-Bitterfeld, Landkreis;1700;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15082;Anhalt-Bitterfeld, Landkreis;135;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03453;Cloppenburg, Landkreis;2168;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03453;Cloppenburg, Landkreis;240;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01002;Kiel, kreisfreie Stadt;2018;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01002;Kiel, kreisfreie Stadt;133;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05170;Wesel, Landkreis;4025;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05170;Wesel, Landkreis;390;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12063;Havelland, Landkreis;1205;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12063;Havelland, Landkreis;95;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05554;Borken, Landkreis;3897;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05554;Borken, Landkreis;412;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14383;Muldentalkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14383;Muldentalkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15202;Halle (Saale), kreisfreie Stadt (bis 30.06.2007);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15202;Halle (Saale), kreisfreie Stadt (bis 30.06.2007);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08211;Baden-Baden, kreisfreie Stadt;625;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08211;Baden-Baden, kreisfreie Stadt;60;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14627;Meißen, Landkreis;3342;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14627;Meißen, Landkreis;276;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14177;Freiberg, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14177;Freiberg, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13003;Rostock, kreisfreie Stadt;1430;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13003;Rostock, kreisfreie Stadt;106;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09173;Bad Tölz-Wolfratshausen, Landkreis;2585;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09173;Bad Tölz-Wolfratshausen, Landkreis;259;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03257;Schaumburg, Landkreis;2379;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03257;Schaumburg, Landkreis;238;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01058;Rendsburg-Eckernförde, Landkreis;3275;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01058;Rendsburg-Eckernförde, Landkreis;331;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05358;Düren, Landkreis;2332;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05358;Düren, Landkreis;231;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09272;Freyung-Grafenau, Landkreis;1289;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09272;Freyung-Grafenau, Landkreis;134;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05774;Paderborn, Landkreis;2315;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05774;Paderborn, Landkreis;231;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03159;Göttingen, Landkreis;4129;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03159;Göttingen, Landkreis;359;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12053;Frankfurt (Oder), kreisfreie Stadt;465;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12053;Frankfurt (Oder), kreisfreie Stadt;38;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03355;Lüneburg, Landkreis;1967;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03355;Lüneburg, Landkreis;184;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08221;Heidelberg, kreisfreie Stadt;2595;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08221;Heidelberg, kreisfreie Stadt;154;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03102;Salzgitter, kreisfreie Stadt;915;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03102;Salzgitter, kreisfreie Stadt;81;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05970;Siegen-Wittgenstein, Landkreis;2852;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05970;Siegen-Wittgenstein, Landkreis;246;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09186;Pfaffenhofen an der Ilm, Landkreis;1382;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09186;Pfaffenhofen an der Ilm, Landkreis;136;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09163;Rosenheim, kreisfreie Stadt;745;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09163;Rosenheim, kreisfreie Stadt;62;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14713;Leipzig, kreisfreie Stadt;7125;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14713;Leipzig, kreisfreie Stadt;568;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09779;Donau-Ries, Landkreis;1720;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09779;Donau-Ries, Landkreis;187;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08135;Heidenheim, Landkreis;1555;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;08135;Heidenheim, Landkreis;144;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15083;Börde, Landkreis;1704;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;15083;Börde, Landkreis;146;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07338;Rhein-Pfalz-Kreis;1322;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07338;Rhein-Pfalz-Kreis;132;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14286;Löbau-Zittau, Landkreis (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14286;Löbau-Zittau, Landkreis (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07315;Mainz, kreisfreie Stadt;1948;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;07315;Mainz, kreisfreie Stadt;155;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14263;Görlitz, kreisfreie Stadt (bis 31.07.2008);-;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14263;Görlitz, kreisfreie Stadt (bis 31.07.2008);-;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05116;Mönchengladbach, kreisfreie Stadt;2108;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;05116;Mönchengladbach, kreisfreie Stadt;181;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03454;Emsland, Landkreis;4508;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;03454;Emsland, Landkreis;491;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01001;Flensburg, kreisfreie Stadt;542;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;01001;Flensburg, kreisfreie Stadt;45;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09261;Landshut, kreisfreie Stadt;788;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09261;Landshut, kreisfreie Stadt;64;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12064;Märkisch-Oderland, Landkreis;1660;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;12064;Märkisch-Oderland, Landkreis;133;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16069;Hildburghausen, Landkreis;1072;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;16069;Hildburghausen, Landkreis;90;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14626;Görlitz, Landkreis;3813;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;14626;Görlitz, Landkreis;323;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13004;Schwerin, kreisfreie Stadt;974;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;13004;Schwerin, kreisfreie Stadt;71;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09174;Dachau, Landkreis;1552;Anzahl;WOH003;Wohnungen in Nichtwohngebäuden
+31231;Fortschreibung Wohngebäude- und Wohnungsbestand;STAG;Stichtag;2025-12-31;KREISE;Kreise;09174;Dachau, Landkreis;139;1000 qm;FLC101;Wohnfläche (Nichtwohngebäude)

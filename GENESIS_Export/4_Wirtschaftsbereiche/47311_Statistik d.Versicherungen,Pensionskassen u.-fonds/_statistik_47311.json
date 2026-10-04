@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:22:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "47311",
+    "Content": "Statistik d.Versicherungen,Pensionskassen u.-fonds",
+    "Cubes": "1",
+    "Variables": "15",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "1  Allgemeine Angaben zur Statistik\n===================================\n\n1.1 Bezeichnung der Statistik\nStatistik der Versicherungen, Pensionskassen und\nPensionsfonds (EVAS-Nr. 47311).\n\n1.2 Vergleichbarkeit der Daten im Zeitverlauf\nAufgrund methodischer Änderungen ab Berichtsjahr 2008 sind\ndie Angaben zu den Merkmalen:\n- Produktionswert\n- Bruttowertschöpfung zu Faktorkosten\n- Bruttobetriebsüberschuss\n- Waren- und Dienstleistungskäufe insgesamt\nmit dem vorangegangenen Zeitraum nicht voll vergleichbar.\n\nAb Berichtsjahr 2005 werden auch die von den Bundesländern\nbeaufsichtigten kleinen Versicherungsvereine einbezogen,\nwährend zuvor nur die unter Bundesaufsicht stehenden\nVersicherungsunternehmen berücksichtigt wurden. Außerdem\nwerden Sterbekassen unter Bundes- und Landesaufsicht ab\nBerichtsjahr 2014 bei den Lebensversicherungen einbezogen.\nDadurch ergeben sich Sprünge in der Datenreihe der Zahl der\nUnternehmen, nicht jedoch bei den anderen Merkmalen\naufgrund der sehr geringen wirtschaftlichen Bedeutung der\nSterbekassen bzw. der kleinen Vereine in den anderen\nVersicherungssparten.\n\nMit Einführung der Darstellungseinheit Unternehmen gemäß der\nEU-Definition in den Strukturstatistiken ab Berichtsjahr\n2018 gilt für die aus GENESIS-Online abgerufenen Tabellen:\nWeiterhin entsprechen die Angaben für Unternehmen den\nAngaben für Rechtliche Einheiten. Eine Rechtliche Einheit\nist dabei als die kleinste rechtlich selbstständige Einheit\ndefiniert, die aus handels- bzw. steuerrechtlichen Gründen\nBücher führt. Hierzu zählt auch die Ausübung einer\nfreiberuflichen Tätigkeit.\n\n\n© Statistisches Bundesamt, Wiesbaden 2022",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0034",
+  "titel": "Bruttojahresverdienste: Deutschland, Jahre, Geschlecht, Berufe",
+  "zeitraum": "2022 - 2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "29.03.2023 16:03:22h",
+  "abgerufen_am": "2026-09-28T20:41:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0034",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0034_flatfile.csv": "7d83f4bad4b6341e74da578f89c070be8966a611e915a4e6435afbc542c46bac"
+  },
+  "bytes": 2347639,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0034"
+}

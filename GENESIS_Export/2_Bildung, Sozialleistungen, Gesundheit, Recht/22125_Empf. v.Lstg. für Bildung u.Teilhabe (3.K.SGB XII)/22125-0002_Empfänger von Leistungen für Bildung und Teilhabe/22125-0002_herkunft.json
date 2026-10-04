@@ -1,0 +1,28 @@
+{
+  "tabelle": "22125-0002",
+  "titel": "Empfänger von Leistungen für Bildung und Teilhabe nach dem 3. Kapitel SGB XII: Deutschland, Quartale, Leistungsart, Altersgruppen",
+  "zeitraum": "1. Quartal 2019 - 2. Quartal 2026",
+  "statistik": "22125",
+  "alle_statistiken": [
+    "22125"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:19:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22125-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22125-0002_flatfile.csv": "9a048786bd7e66e89792489fa14aa263b69c0a2b8fd39993e2a68f9014bb1aef"
+  },
+  "bytes": 101805,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22125/table/22125-0002"
+}

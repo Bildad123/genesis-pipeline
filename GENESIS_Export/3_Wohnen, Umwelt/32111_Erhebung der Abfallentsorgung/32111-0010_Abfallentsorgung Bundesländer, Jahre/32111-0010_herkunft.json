@@ -1,0 +1,28 @@
+{
+  "tabelle": "32111-0010",
+  "titel": "Abfallentsorgung: Bundesländer, Jahre",
+  "zeitraum": "2018 - 2024",
+  "statistik": "32111",
+  "alle_statistiken": [
+    "32111"
+  ],
+  "stand_genesis": "28.12.2022 17:46:05h",
+  "abgerufen_am": "2026-09-28T18:09:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32111-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32111-0010_flatfile.csv": "584621808c5690aed2485f968d21d0b1b9c66093429b4d2cc34e7e77eb5a876c"
+  },
+  "bytes": 11485,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32111/table/32111-0010"
+}

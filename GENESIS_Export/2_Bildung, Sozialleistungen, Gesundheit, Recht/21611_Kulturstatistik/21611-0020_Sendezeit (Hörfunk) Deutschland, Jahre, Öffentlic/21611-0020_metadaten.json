@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T17:14:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21611-0020",
+    "Content": "Sendezeit (Hörfunk): Deutschland, Jahre,\nÖffentlich-rechtliche Rundfunkanstalten, Art der\nHörfunksendung",
+    "Time": {
+      "From": "2000",
+      "To": "2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "21611",
+        "Content": "Kulturstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "SEND01",
+                "Content": "Sendezeit",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "RFOER1",
+          "Content": "Öffentlich-rechtliche Rundfunkanstalten",
+          "Type": "Merkmal",
+          "Values": "13",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "HFSAT1",
+              "Content": "Art der Hörfunksendung",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 14:31:39h"
+  }
+}

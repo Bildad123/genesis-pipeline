@@ -1,0 +1,28 @@
+{
+  "tabelle": "32151-0003",
+  "titel": "Abfallerzeuger, Abfallmengen (gefährliche Abfälle): Bundesländer, Jahre",
+  "zeitraum": "2006 - 2024",
+  "statistik": "32151",
+  "alle_statistiken": [
+    "32151"
+  ],
+  "stand_genesis": "28.12.2022 17:46:57h",
+  "abgerufen_am": "2026-09-28T18:11:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32151-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32151-0003_flatfile.csv": "619adaa1be01f3cf79ad60de06b65187e809dc0468c293826ce0f130e8dda7ee"
+  },
+  "bytes": 7136,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32151/table/32151-0003"
+}

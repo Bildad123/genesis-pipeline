@@ -1,0 +1,94 @@
+{
+  "abgerufen_am": "2026-09-28T20:04:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "51912-0005",
+    "Content": "Aus- und Einfuhr (Extrahandel): Deutschland, Jahre, Rechnungswährungen, Länder",
+    "Time": {
+      "From": "2025",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "51912",
+        "Content": "Außenhandel nach Rechnungswährungen (TIC)",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "WERTAE",
+          "Content": "Ausfuhr (Extrahandel): Wert",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "WERTEE",
+          "Content": "Einfuhr (Extrahandel): Wert",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WAEHR1",
+          "Content": "Rechnungswährungen",
+          "Type": "Merkmal",
+          "Values": "156",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STLAH",
+              "Content": "Länderverzeichnis für die Außenhandelsstatistik",
+              "Type": "Merkmal",
+              "Values": "262",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "12.05.2026 14:22:29h"
+  }
+}

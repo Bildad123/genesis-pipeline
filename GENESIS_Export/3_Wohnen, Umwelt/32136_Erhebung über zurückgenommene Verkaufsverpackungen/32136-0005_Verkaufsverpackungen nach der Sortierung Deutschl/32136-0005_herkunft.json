@@ -1,0 +1,28 @@
+{
+  "tabelle": "32136-0005",
+  "titel": "Verkaufsverpackungen nach der Sortierung: Deutschland, Jahre, Materialarten, Verwertungsarten",
+  "zeitraum": "2010 - 2020",
+  "statistik": "32136",
+  "alle_statistiken": [
+    "32136"
+  ],
+  "stand_genesis": "28.12.2022 17:46:05h",
+  "abgerufen_am": "2026-09-28T18:10:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32136-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32136-0005_flatfile.csv": "ec67384528ad8f367c00d20baa0c92fa08e1ee09960bca30caddb39c0d3fe65d"
+  },
+  "bytes": 15520,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32136/table/32136-0005"
+}

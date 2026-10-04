@@ -1,0 +1,28 @@
+{
+  "tabelle": "32151-0002",
+  "titel": "Abfallerzeuger, Abfallmengen (gefährliche Abfälle): Deutschland, Jahre, Abfallarten (EAV 2- und 6-Steller)",
+  "zeitraum": "2006 - 2024",
+  "statistik": "32151",
+  "alle_statistiken": [
+    "32151"
+  ],
+  "stand_genesis": "28.12.2022 17:39:44h",
+  "abgerufen_am": "2026-09-28T18:11:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32151-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32151-0002_flatfile.csv": "d68ae3b890098bdd218229dc7cff94f98c586fbfeb042cf47e49e700bf315d46"
+  },
+  "bytes": 300234,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32151/table/32151-0002"
+}

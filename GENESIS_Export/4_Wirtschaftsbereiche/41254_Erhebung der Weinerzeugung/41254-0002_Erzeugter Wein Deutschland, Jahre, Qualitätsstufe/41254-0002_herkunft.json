@@ -1,0 +1,28 @@
+{
+  "tabelle": "41254-0002",
+  "titel": "Erzeugter Wein: Deutschland, Jahre, Qualitätsstufen, Rebsorte, Weinanbaugebiete",
+  "zeitraum": "2024 - 2025",
+  "statistik": "41254",
+  "alle_statistiken": [
+    "41254"
+  ],
+  "stand_genesis": "07.05.2025 14:05:54h",
+  "abgerufen_am": "2026-09-28T18:34:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41254-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41254-0002_flatfile.csv": "33bbdea78e4bcc97811e0d76181996f28a764b0adbc71c7af76ac01a72ef3360"
+  },
+  "bytes": 64552,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41254/table/41254-0002"
+}

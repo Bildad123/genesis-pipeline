@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0021",
+  "titel": "Nominallohnindex: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2007 - 2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "24.02.2023 13:09:57h",
+  "abgerufen_am": "2026-09-28T20:40:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0021_flatfile.csv": "b229a2f88a97c209895933ad5d45b8e6bbb1b16f6c8a5fb739e4a93da50f5820"
+  },
+  "bytes": 457336,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0021"
+}

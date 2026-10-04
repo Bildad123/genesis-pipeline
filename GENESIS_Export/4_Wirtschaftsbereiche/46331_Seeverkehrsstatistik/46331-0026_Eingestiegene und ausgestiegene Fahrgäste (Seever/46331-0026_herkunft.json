@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0026",
+  "titel": "Eingestiegene und ausgestiegene Fahrgäste (Seeverkehr): Bundesländer mit Seehäfen, Jahre",
+  "zeitraum": "2000 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.06.2023 12:44:15h",
+  "abgerufen_am": "2026-09-28T19:30:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0026",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0026_flatfile.csv": "decb7a6fcaf8b8dbdaa053768d5fa85a698491e45c3c9df9dbc145bb119bc421"
+  },
+  "bytes": 43750,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0026"
+}

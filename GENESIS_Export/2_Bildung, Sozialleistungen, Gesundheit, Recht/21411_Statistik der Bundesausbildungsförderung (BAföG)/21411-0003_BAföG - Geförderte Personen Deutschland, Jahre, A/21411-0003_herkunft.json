@@ -1,0 +1,28 @@
+{
+  "tabelle": "21411-0003",
+  "titel": "BAföG - Geförderte Personen: Deutschland, Jahre, Ausbildungsstätte, Wohnort während der Ausbildung",
+  "zeitraum": "2016 - 2025",
+  "statistik": "21411",
+  "alle_statistiken": [
+    "21411"
+  ],
+  "stand_genesis": "04.06.2024 13:51:43h",
+  "abgerufen_am": "2026-09-28T17:09:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21411-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21411-0003_flatfile.csv": "b87c2a0beecfc52f69c4733c2859c265c79a7cae659045a2e1b95015fa2b6c5a"
+  },
+  "bytes": 17876,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21411/table/21411-0003"
+}

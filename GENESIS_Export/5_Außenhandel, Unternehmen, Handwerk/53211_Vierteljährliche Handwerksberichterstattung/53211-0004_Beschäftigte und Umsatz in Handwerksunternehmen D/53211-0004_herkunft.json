@@ -1,0 +1,28 @@
+{
+  "tabelle": "53211-0004",
+  "titel": "Beschäftigte und Umsatz in Handwerksunternehmen: Deutschland, Quartale, Handwerksarten, Ausgewählte Gewerbezweige",
+  "zeitraum": "1. Quartal 2026 - 2. Quartal 2026",
+  "statistik": "53211",
+  "alle_statistiken": [
+    "53211"
+  ],
+  "stand_genesis": "15.06.2026 16:55:41h",
+  "abgerufen_am": "2026-09-28T20:19:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "53211-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "53211-0004_flatfile.csv": "2195781e613021e07e755a8393c4bda61dc39ffb411d1de5cf5a8e6c33cb5f02"
+  },
+  "bytes": 1845760,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/53211/table/53211-0004"
+}

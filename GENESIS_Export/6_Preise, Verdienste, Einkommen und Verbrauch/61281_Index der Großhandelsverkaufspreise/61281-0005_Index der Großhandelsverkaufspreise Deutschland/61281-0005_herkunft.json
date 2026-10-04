@@ -1,0 +1,28 @@
+{
+  "tabelle": "61281-0005",
+  "titel": "Index der Großhandelsverkaufspreise: Deutschland, Jahre, Altpapier und Altmetalle",
+  "zeitraum": "1991 - 2025",
+  "statistik": "61281",
+  "alle_statistiken": [
+    "61281"
+  ],
+  "stand_genesis": "28.12.2022 18:41:34h",
+  "abgerufen_am": "2026-09-28T20:26:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61281-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61281-0005_flatfile.csv": "e525afbb082fe8399dbe4a487aa1c9471944068af861be179be236e486cf112b"
+  },
+  "bytes": 46420,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61281/table/61281-0005"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "46321-0003",
+  "titel": "Beförderte Güter, Beförderungsleistung (Binnenschifffahrt): Deutschland, Jahre, Flagge des Schiffes",
+  "zeitraum": "1962 - 2025",
+  "statistik": "46321",
+  "alle_statistiken": [
+    "46321"
+  ],
+  "stand_genesis": "28.11.2024 13:51:04h",
+  "abgerufen_am": "2026-09-28T19:25:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46321-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46321-0003_flatfile.csv": "79ecc9d0d1db879a5055e2711732d86e8374d18e1baa970203eedca317f14a79"
+  },
+  "bytes": 76987,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46321/table/46321-0003"
+}

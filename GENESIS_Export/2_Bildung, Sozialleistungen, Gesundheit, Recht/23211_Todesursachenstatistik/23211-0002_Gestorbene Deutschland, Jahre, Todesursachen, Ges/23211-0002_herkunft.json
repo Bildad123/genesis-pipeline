@@ -1,0 +1,28 @@
+{
+  "tabelle": "23211-0002",
+  "titel": "Gestorbene: Deutschland, Jahre, Todesursachen, Geschlecht, Altersgruppen",
+  "zeitraum": "1980 - 2024",
+  "statistik": "23211",
+  "alle_statistiken": [
+    "23211"
+  ],
+  "stand_genesis": "19.02.2026 16:56:53h",
+  "abgerufen_am": "2026-09-28T17:55:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23211-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23211-0002_flatfile.csv": "c515478c75d829db63343aacf838df977d84837fcd916ee51d42250b9f8d3c6a"
+  },
+  "bytes": 1296880,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23211/table/23211-0002"
+}

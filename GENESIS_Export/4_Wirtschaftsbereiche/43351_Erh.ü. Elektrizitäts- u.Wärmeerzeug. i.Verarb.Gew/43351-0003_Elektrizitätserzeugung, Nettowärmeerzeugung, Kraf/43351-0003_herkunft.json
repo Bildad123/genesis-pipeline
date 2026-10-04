@@ -1,0 +1,28 @@
+{
+  "tabelle": "43351-0003",
+  "titel": "Elektrizitätserzeugung, Nettowärmeerzeugung, Kraft-Wärme-Kopplung: Deutschland, Jahre, Wirtschaftszweige, Anlagenart",
+  "zeitraum": "2018 - 2024",
+  "statistik": "43351",
+  "alle_statistiken": [
+    "43351"
+  ],
+  "stand_genesis": "28.12.2022 17:05:14h",
+  "abgerufen_am": "2026-09-28T19:05:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43351-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43351-0003_flatfile.csv": "d59e64eba20a67e1b235728c144c37a86edf773b6e5a514da4f065c68a7bab0b"
+  },
+  "bytes": 241781,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43351/table/43351-0003"
+}

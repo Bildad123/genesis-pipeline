@@ -1,0 +1,826 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;337051;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;5310;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;57486;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;76039;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3923;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;13044;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7087;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;101499;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;283351;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;49694;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3968;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;6650;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;172921;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;12308;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;5762;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1327;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;91019;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1061;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1414;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1043;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;66026;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;42147;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;60173;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;60130;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;10429;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;72375;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;5895;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;528491;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;15342;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;241706;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;39101;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6615;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;5406;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;295410;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;36076;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;22966;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;27850;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;937;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;214748;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;26049;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;35503;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;63662;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;115361;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;834;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;13668;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;50277;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;28128;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;12798;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5921;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;7137;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;30647;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;13220;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1419;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;614;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;45576;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;314195;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;4453;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;195409;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;11471;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;19040;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;9388;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;9273;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;20952;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;13078;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;35452;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;60058;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2468;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;7900;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;108187;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;75587;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;44220;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2627;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;15320;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6985;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;5661;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6384;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;10037;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;18742;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;343385;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;126133;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;65016;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;540;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;9534;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;6731;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;12182;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;9694;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;4721;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;7936;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;16242;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;7090;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;6593;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;19238;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1855;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7032;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5366;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;3678;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2781;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2605;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;11038;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;16147;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;25717;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;6189;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2566;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;9494;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1484;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;4366;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;22591;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;2050;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;29713;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;23345;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;10008;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2178;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;7570;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;42165;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6273;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;8343;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6576;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;20620;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1803;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;48616;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;25856;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;102461;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;852;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;6287;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;9628;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;9710;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;188409;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;46147;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;22470;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;34475;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;633;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;8257;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;22618;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;24725;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;826;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;51916;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;99581;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;47786;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;8560;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;45363;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3909;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;8913;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;8863;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;2678;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;10414;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1626;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1195;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;30387;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2007;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;374760;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;22595;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;7216;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1273;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;8502;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;15504;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;19296;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;12878;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;4179;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;19723;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;235299;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;147281;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;18952;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;90868;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;15021;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5940;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;5436;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;12844;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;64740;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;6586;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3777;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;77640;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;30891;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7575;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;53296;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1376;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;13651;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;29567;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;92693;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3532;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;680;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2246;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3420;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;14339;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;55421;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;47054;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;16328;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;296660;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;47594;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;17962;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1240;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;16163;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;32205;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3115;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;273689;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;58575;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;255685;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;388;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;47290;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;7865;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;710;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;18543;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;476246;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;6281;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;30086;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;84373;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;490733;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6100;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;4720;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);6805;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;941;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;31290;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5460;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7554;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2332;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;23030;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2459;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;12893;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;57683;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1058;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;16254;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;7940;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;656;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;27489;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;42010;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2641;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;17913;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;24570;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;17651;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;175348;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;46331;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;18892;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;35408;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3970;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;18736;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;4808;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;80616;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;67846;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5724;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;467840;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5917;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3826;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;19076;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;7125;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;21505;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;195689;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;81500;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7860;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;20598;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;13678;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;137393;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;55842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;9484;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;30401;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;187437;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;596;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;308038;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;55285;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3064;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;447;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1527;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;94243;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;6171;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;106638;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;109961;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;11712;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;11780;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;19462;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;234746;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;6935;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3652;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;669;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;11486;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);8279;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;10837;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;44901;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;23988;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;57327;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1714;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;895;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;494;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;10149;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;878;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;368118;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;7025;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;65023;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;21572;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1852;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;23959;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;8595;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2712;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;12265;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;18650;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;247449;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;71444;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;11840;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1043;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;7243;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;41209;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;68124;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;20450;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;228726;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3825;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;46233;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;11471;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;68440;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;44703;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;43651;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;58844;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;8379;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;80544;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;9402;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;8391;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6237;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;19691;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5334;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;912;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5523;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7508;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;10169;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;10551;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;46124;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;17500;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;23056;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;11407;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;14385;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;8379;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;5784;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;15238;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;7578;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2226;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;10358;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;17082;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;23713;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;56997;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;641;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;36109;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;411538;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2578;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;81341;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;22040;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;578;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;10829;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;4072;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5659;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;63674;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;14940;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;14480;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3392;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2854;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2892;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;29964;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;21978;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2383;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;13777;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;20490;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;5159;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;15452;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2985;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;68438;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;14842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;86760;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;4564;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6229;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5487;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3197;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;48361;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;35240;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6311;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;2921;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;52830;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;6818;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;30950;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1224;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;259794;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;18007;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;303117;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;56957;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;241114;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;62953;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;7616;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;157107;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;13238;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;4331;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;827;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;29119;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;85141;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;121777;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;89801;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;52935;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;23718;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);6222;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;53908;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;903;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;7047;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);4870;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;13494;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;8568;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;7131;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;127171;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;26674;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;28428;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;9286;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;4918;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;11968;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;697;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1422;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;26375;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;47848;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;19443;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1274;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2259;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;8721;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;8854;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;11042;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;9716;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;3920;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;12681;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1443;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;11556;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;51598;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3187;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;6748;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;6319;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;7593;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;9051;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1518;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;22462;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;19183;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;2355;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1146;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;5013;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;10491;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;14684;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6334;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;32096;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2504;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6158;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6531;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;20491;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1322;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;10216;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2133;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;135942;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;190094;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;47053;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;538207;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;21404;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;8371;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6510;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;29653;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;8853;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;56198;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;32473;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;25328;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;289882;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;880;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;38882;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;102678;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;42862;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;7555;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;152827;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;21772;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;15782;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;5743;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;37353;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;222982;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;20898;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;512;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;61305;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2695;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;64128;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;15466;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;64197;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;6766;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;33186;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;5102;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2751;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;6780;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);6279;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);4497;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2670;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;40205;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;499872;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;111706;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5045;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7078;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;12030;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;124190;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;438874;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;10077;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;18461;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;77912;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;4191;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;4145;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;73620;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;6586;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;18501;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;10032;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;95669;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1527;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;41024;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2307;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;26304;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;8850;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1023;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;6392;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;11338;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;68950;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;350657;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;34315;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2706;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;105038;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;617;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;12192;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;19765;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1061;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;430011;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;57880;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;390975;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;61158;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;993;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;12809;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;866;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3657;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;37866;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;25778;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;53992;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;235058;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;118835;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;41289;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;207842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;96670;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);8036;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;11335;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3834;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;62015;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;17199;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;39634;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;5639;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;28088;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1406;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);8581;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;9939;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;11954;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;403968;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;4147;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;14469;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;321449;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;43680;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3775;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1117;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;26218;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;70469;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;130855;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1022;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;119632;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;33944;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;7255;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;12017;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;250024;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;60394;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;827;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;847;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;18470;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;77922;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;854;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;85843;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;21127;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;85053;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;51276;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;27365;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;7131;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;6066;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;18812;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3065;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;4481;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);4623;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;13694;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;21128;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;10445;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;327722;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;13747;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1175;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;9138;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;9023;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2329;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;196612;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1306;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3011;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;25418;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;7896;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;19412;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;116162;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;12458;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;5789;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1252;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;8720;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;52717;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;37042;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;17843;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;10397;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;7694;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;168772;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;54792;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;19804;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;213942;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;94206;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;11629;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;27018;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5804;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;25611;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;20195;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3838;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;7281;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;52680;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;828;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;55193;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6457;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2169;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;8907;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;60209;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;280447;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;180307;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;750;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;7935;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;7806;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;11291;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;20622;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;31421;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6759;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;97492;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;107557;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5692;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;17990;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;114203;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6157;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6020;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;10508;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;163617;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;926;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;15476;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;265866;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1132;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1307;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3067;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;32322;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;79260;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;82368;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;21660;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;10501;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2516;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;5222;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;24245;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5530;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;21011;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;6209;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;4960;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;19512;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;71797;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2290;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7307;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5278;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;59073;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;15127;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;45437;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;16791;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;13278;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;10954;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;8438;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3560;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3818;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;8222;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;13131;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;7438;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;8406;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;7323;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;10483;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;15509;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2526;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;74637;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;43147;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;61858;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;10154;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;4084;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;383731;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;77078;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;9685;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;8423;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;10842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;16110;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;25051;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;9969;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;25060;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;6398;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;229070;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;111562;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;46613;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1478;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;66086;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;201310;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;22151;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;20025;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;45240;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;12533;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1850;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;9580;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);6464;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;985;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;62848;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;11718;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6056;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;915;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;15996;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;960;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;652;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;201567;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;23308;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;10925;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;11444;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;39721;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;10508;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7686;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3712;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;6740;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;7646;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;417;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);6808;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2863;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;72510;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;124701;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;2394;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;5104;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;4425;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;51489;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;3072;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;4652;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;39743;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;7534;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;27159;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;221284;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;23528;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;5811;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;12619;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;27603;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;663;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1617;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;7180;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;19242;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;25405;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3609;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;50821;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;82228;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;49314;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;229597;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;17780;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);5828;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;357642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;57275;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;19230;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6072;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;2553;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7139;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5269;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);6101;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;136020;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT015;Therapeutische Leistungen;17145;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;6604;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1093;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;17068;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;12898;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;13182;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;28541;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;49431;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;LSTVERWALT01;Verwaltungsleistungen;16823;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;1279;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;207547;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;7988;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT010;Sonderleistungen;45538;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;18605;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT014;Pflegerische Leistungen;28611;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;1738;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1408;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT016;Mutterschaftsleistungen;1180;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;982;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;490981;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6536;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;500267;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT006;Früherkennung von Krankheiten;2433;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT007;Gutachten und Koordination;944;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5418;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT001;Investitionen;6518;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;20898;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;9922;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT021;Zahnersatz (Material- und Laborkosten);7417;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT017;Unterkunft und Verpflegung;28268;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;8288;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT005;Gesundheitsförderung;4488;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT020;Hilfsmittel;13374;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT018;Waren;62404;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT004;Allgemeiner Gesundheitsschutz;3128;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;4710;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT002;Laufende Gesundheitsausgaben;289099;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;14161;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;29928;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;87274;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;;Insgesamt;159211;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT011;Laborleistungen;5986;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3696;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;10204;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;18503;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;44340;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;3035;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;36339;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT008;Ärztliche Leistungen;54626;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;75020;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;6326;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT023;Transporte;6041;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT009;Grundleistungen;21624;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT019;Arzneimittel;50835;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT003;Prävention / Gesundheitsschutz;34384;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT013;Pflegerische / therapeutische Leistungen;155664;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT012;Strahlendiagnostische Leistungen;5563;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU02;Leistungsarten;GESUNDHSTAT022;Sonstiger medizinischer Bedarf;8677;Mill. EUR;GES054;Gesundheitsausgaben

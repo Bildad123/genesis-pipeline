@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T17:29:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22412-0001",
+    "Content": "Pflegeheime, Verfügbare Plätze, Pflegebedürftige:\nDeutschland, Stichtag, Art der Pflegeleistung",
+    "Time": {
+      "From": "15.12.1999",
+      "To": "15.12.2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22412",
+        "Content": "Statistik über stationäre Pflegeeinrichtungen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "PFLAT1",
+          "Content": "Art der Pflegeleistung",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "PFL009",
+              "Content": "Pflegeheime",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PFL003",
+              "Content": "Verfügbare Plätze in Pflegeheimen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PFL001",
+              "Content": "Pflegebedürftige",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:35:38h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "61121-0006",
+  "titel": "Harmonisierter Verbraucherpreisindex: Deutschland, Monate, Europäische Klassifikation der Verwendungszwecke des Individualkonsums (ECOICOP 2-/3-/4-/5-Steller/Sonderpositionen)",
+  "zeitraum": "Januar 2025 - August 2026",
+  "statistik": "61121",
+  "alle_statistiken": [
+    "61121"
+  ],
+  "stand_genesis": "09.06.2026 10:37:53h",
+  "abgerufen_am": "2026-09-28T20:21:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61121-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61121-0006_flatfile.csv": "4d0fe0da6d9b1f687ee90c95fca1df6c9a02f8d0fb5fa3b1556b54f4b57fd1b9"
+  },
+  "bytes": 89614,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61121/table/61121-0006"
+}

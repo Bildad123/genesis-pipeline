@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0113",
+  "titel": "Elterngeldempfänger: Bundesländer, Jahre, Geschlecht, Art der Inanspruchnahme",
+  "zeitraum": "2016 - 2025",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:44:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0113",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0113_flatfile.csv": "8311eb109159c81af4bc2cd168a42d3ecd9ebf148cfbe3184531e81a254ec041"
+  },
+  "bytes": 424076,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0113"
+}

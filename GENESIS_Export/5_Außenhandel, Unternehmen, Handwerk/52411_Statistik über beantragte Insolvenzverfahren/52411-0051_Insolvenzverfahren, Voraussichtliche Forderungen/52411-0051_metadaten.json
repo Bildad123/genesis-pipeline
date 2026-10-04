@@ -1,0 +1,83 @@
+{
+  "abgerufen_am": "2026-09-28T20:12:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "52411-0051",
+    "Content": "Insolvenzverfahren, Voraussichtliche Forderungen:\nDeutschland, Jahre, Beantragte Verfahren",
+    "Time": {
+      "From": "1999",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "52411",
+        "Content": "Statistik über beantragte Insolvenzverfahren",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ISV001",
+          "Content": "Insolvenzverfahren",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FOR001",
+          "Content": "Voraussichtliche Forderungen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ISVAT1",
+          "Content": "Beantragte Verfahren",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "17.08.2023 14:41:29h"
+  }
+}

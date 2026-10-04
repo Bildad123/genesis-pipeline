@@ -1,0 +1,97 @@
+{
+  "abgerufen_am": "2026-09-28T17:06:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21331-0001",
+    "Content": "Gasthörer: Deutschland, Semester, Nationalität, Geschlecht,\nAltersgruppen",
+    "Time": {
+      "From": "WS 1994/95",
+      "To": "WS 2025/26"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "21331",
+        "Content": "Statistik der Gasthörer",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "GST005",
+                "Content": "Gasthörer",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "SEMEST",
+          "Content": "Semester",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "NAT",
+          "Content": "Nationalität",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "ALT004",
+                  "Content": "Altersgruppen (u20-80m)",
+                  "Type": "Merkmal",
+                  "Values": "12",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 21:36:28h"
+  }
+}

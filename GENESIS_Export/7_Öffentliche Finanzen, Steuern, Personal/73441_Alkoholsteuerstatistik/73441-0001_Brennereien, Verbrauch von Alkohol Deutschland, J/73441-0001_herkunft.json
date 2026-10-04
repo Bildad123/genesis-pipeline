@@ -1,0 +1,28 @@
+{
+  "tabelle": "73441-0001",
+  "titel": "Brennereien, Verbrauch von Alkohol: Deutschland, Jahre",
+  "zeitraum": "1991 - 2025",
+  "statistik": "73441",
+  "alle_statistiken": [
+    "73441"
+  ],
+  "stand_genesis": "07.07.2026 11:03:33h",
+  "abgerufen_am": "2026-09-28T20:58:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73441-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73441-0001_flatfile.csv": "6412e4eb7217fa9bd2644e80b5bbadc702597f1f34a5687b4100c35b419a8de9"
+  },
+  "bytes": 8947,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73441/table/73441-0001"
+}

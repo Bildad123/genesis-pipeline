@@ -1,0 +1,28 @@
+{
+  "tabelle": "73211-0002",
+  "titel": "Verbleibender Verlustabzug der Körperschaftsteuerpflichtigen: Deutschland, Jahre, Gewinnfälle und Verlustfälle",
+  "zeitraum": "1992 - 2021",
+  "statistik": "73211",
+  "alle_statistiken": [
+    "73211"
+  ],
+  "stand_genesis": "29.12.2022 08:11:50h",
+  "abgerufen_am": "2026-09-28T20:54:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73211-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73211-0002_flatfile.csv": "d0b225ff4d06ff4fe29a23dee0443072517c18fa560400503ea17216cdd4e102"
+  },
+  "bytes": 28883,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73211/table/73211-0002"
+}

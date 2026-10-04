@@ -1,0 +1,28 @@
+{
+  "tabelle": "21241-0025",
+  "titel": "Auszubildende in Pflegeberufen mit neu abgeschlossenem Ausbildungsvertrag: Bundesländer, Stichtag, Art der Trägerschaft der Pflegeschulen",
+  "zeitraum": "31.12.2020 - 31.12.2025",
+  "statistik": "21241",
+  "alle_statistiken": [
+    "21241"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:04:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21241-0025",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21241-0025_flatfile.csv": "aa8a1e732792a1efa4b6049f724316dcfdd1dcc540b572fc7f8d067e5916cf69"
+  },
+  "bytes": 18584,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21241/table/21241-0025"
+}

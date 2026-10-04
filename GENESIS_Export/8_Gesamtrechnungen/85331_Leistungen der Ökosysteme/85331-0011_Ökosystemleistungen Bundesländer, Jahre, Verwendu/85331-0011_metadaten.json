@@ -1,0 +1,151 @@
+{
+  "abgerufen_am": "2026-09-28T21:15:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "85331-0011",
+    "Content": "Ökosystemleistungen: Bundesländer, Jahre, Verwendung der\nÖkosystemleistungen",
+    "Time": {
+      "From": "2015",
+      "To": "2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "85331",
+        "Content": "Leistungen der Ökosysteme",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "OSLVW1",
+          "Content": "Verwendung der Ökosystemleistungen",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "OSL001",
+          "Content": "Bereitstellung von Kulturpflanzen (Ernteerträge)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL002",
+          "Content": "Holzzuwachs (mit Rinde)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL003",
+          "Content": "Feinstaubfilterung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL004",
+          "Content": "Kohlenstoffsequestrierung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL005",
+          "Content": "Kohlenstoffspeicherung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL006",
+          "Content": "Kühlung in Städten",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL007",
+          "Content": "Vermiedene Bodenerosion",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL008",
+          "Content": "Bestäubung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "OSL009",
+          "Content": "Naturnaher Tourismus (Übernachtungen)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "30.09.2025 11:52:42h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "46421-0013",
+  "titel": "Einsteiger, Aussteiger, Frachteinladungen, Frachtausladungen (OFOD): Deutschland, Monate, Berichtsflughafen",
+  "zeitraum": "Januar 2011 - Juli 2026",
+  "statistik": "46421",
+  "alle_statistiken": [
+    "46421"
+  ],
+  "stand_genesis": "28.12.2022 17:57:22h",
+  "abgerufen_am": "2026-09-28T19:32:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46421-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46421-0013_flatfile.csv": "24e67141ef0d406880858797d7fb5751a9ca8c3f64e85783e1b614fbd29f1f95"
+  },
+  "bytes": 304667,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46421/table/46421-0013"
+}

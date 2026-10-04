@@ -1,0 +1,28 @@
+{
+  "tabelle": "21331-0002",
+  "titel": "Gasthörer: Deutschland, Semester, Fächergruppen",
+  "zeitraum": "WS 2025/26 - WS 2025/26",
+  "statistik": "21331",
+  "alle_statistiken": [
+    "21331"
+  ],
+  "stand_genesis": "09.06.2026 14:43:33h",
+  "abgerufen_am": "2026-09-28T17:06:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21331-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21331-0002_flatfile.csv": "dcf0c57c406ed6c15f6f8c7254560648be8ed6dc96550665a4b8a06f1e5be357"
+  },
+  "bytes": 2436,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21331/table/21331-0002"
+}

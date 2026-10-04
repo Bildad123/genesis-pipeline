@@ -1,0 +1,28 @@
+{
+  "tabelle": "32136-0006",
+  "titel": "Verkaufsverpackungen nach der Sortierung: Deutschland, Jahre, Rücknahmearten, Verwertungsarten",
+  "zeitraum": "2010 - 2020",
+  "statistik": "32136",
+  "alle_statistiken": [
+    "32136"
+  ],
+  "stand_genesis": "28.12.2022 17:46:05h",
+  "abgerufen_am": "2026-09-28T18:10:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32136-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32136-0006_flatfile.csv": "13ecc390ffb45b7583a2514c269542c7c791bea06d7336e69f0a342c07967b2a"
+  },
+  "bytes": 5419,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32136/table/32136-0006"
+}

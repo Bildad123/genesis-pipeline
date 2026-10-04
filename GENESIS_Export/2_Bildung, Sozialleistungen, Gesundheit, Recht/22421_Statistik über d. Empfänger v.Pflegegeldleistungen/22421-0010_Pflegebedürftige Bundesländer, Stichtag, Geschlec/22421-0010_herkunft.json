@@ -1,0 +1,28 @@
+{
+  "tabelle": "22421-0010",
+  "titel": "Pflegebedürftige: Bundesländer, Stichtag, Geschlecht, Altersgruppen, Art der Versorgung von Pflegebedürftigen",
+  "zeitraum": "31.12.1999 - 31.12.2023",
+  "statistik": "22421",
+  "alle_statistiken": [
+    "22421"
+  ],
+  "stand_genesis": "28.12.2022 17:43:45h",
+  "abgerufen_am": "2026-09-28T17:31:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22421-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22421-0010_flatfile.csv": "5846bb465b2cc2d74e01347d285ddb50ed1cf3df84d7834bf058ce1a81a340a9"
+  },
+  "bytes": 2183233,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22421/table/22421-0010"
+}

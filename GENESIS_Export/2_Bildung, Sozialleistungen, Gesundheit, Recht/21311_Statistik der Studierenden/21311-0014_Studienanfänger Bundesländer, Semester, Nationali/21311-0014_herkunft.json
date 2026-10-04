@@ -1,0 +1,28 @@
+{
+  "tabelle": "21311-0014",
+  "titel": "Studienanfänger: Bundesländer, Semester, Nationalität, Geschlecht",
+  "zeitraum": "WS 1998/99 - WS 2025/26",
+  "statistik": "21311",
+  "alle_statistiken": [
+    "21311"
+  ],
+  "stand_genesis": "24.04.2026 16:54:45h",
+  "abgerufen_am": "2026-09-28T17:05:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21311-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21311-0014_flatfile.csv": "39f82deaf34002163112bb3adca887719720902465d6caaf70d798ae6a6468f1"
+  },
+  "bytes": 773679,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21311/table/21311-0014"
+}

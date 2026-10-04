@@ -1,0 +1,28 @@
+{
+  "tabelle": "32141-0004",
+  "titel": "Bauschuttaufbereitungsanlagen, Asphaltmischanlagen: Bundesländer, Jahre",
+  "zeitraum": "2006 - 2024",
+  "statistik": "32141",
+  "alle_statistiken": [
+    "32141"
+  ],
+  "stand_genesis": "28.12.2022 17:20:43h",
+  "abgerufen_am": "2026-09-28T18:11:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32141-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32141-0004_flatfile.csv": "097dd1635062c6001bf23fc8dffcde0e5728b05c3822383401fd47f8b51382ca"
+  },
+  "bytes": 19409,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32141/table/32141-0004"
+}

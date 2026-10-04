@@ -1,0 +1,28 @@
+{
+  "tabelle": "45212-0001",
+  "titel": "Beschäftigtenindex im Einzelhandel: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "1994 - 2025",
+  "statistik": "45212",
+  "alle_statistiken": [
+    "45212"
+  ],
+  "stand_genesis": "26.06.2026 16:22:15h",
+  "abgerufen_am": "2026-09-28T19:10:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45212-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45212-0001_flatfile.csv": "2dbb07da220e0a9dd16b66aed18eafe43f99fa7b4de8008b8bfe9b770225c110"
+  },
+  "bytes": 985673,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45212/table/45212-0001"
+}

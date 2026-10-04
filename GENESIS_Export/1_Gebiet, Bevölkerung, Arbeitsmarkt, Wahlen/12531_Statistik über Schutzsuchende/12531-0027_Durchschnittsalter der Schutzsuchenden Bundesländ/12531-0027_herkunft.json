@@ -1,0 +1,28 @@
+{
+  "tabelle": "12531-0027",
+  "titel": "Durchschnittsalter der Schutzsuchenden: Bundesländer, Stichtag, Geschlecht, Ländergruppierungen/ Staatsangehörigkeit",
+  "zeitraum": "31.12.2007 - 31.12.2025",
+  "statistik": "12531",
+  "alle_statistiken": [
+    "12531"
+  ],
+  "stand_genesis": "28.12.2022 17:16:03h",
+  "abgerufen_am": "2026-09-28T16:50:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12531-0027",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12531-0027_flatfile.csv": "4037c515fc6e71296a221c997415131e38a5e5a9b42e05f1d0c79b618b60c87d"
+  },
+  "bytes": 324163,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12531/table/12531-0027"
+}

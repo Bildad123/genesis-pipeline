@@ -1,0 +1,124 @@
+{
+  "abgerufen_am": "2026-09-28T19:08:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "44231-0002",
+    "Content": "Betriebe, Tätige Personen, Geleistete Arbeitsstunden,\nEntgelte, Baugew. Umsatz (Bauhauptgewerbe): Deutschland,\nStichmonat, Beschäftigtengrößenklassen, Wirtschaftszweige",
+    "Time": {
+      "From": "06/2009",
+      "To": "06/2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "44231",
+        "Content": "Ergänzungserhebung im Bauhauptgewerbe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BETR01",
+          "Content": "Betriebe",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "PER005",
+          "Content": "Tätige Personen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ARBST1",
+          "Content": "Geleistete Arbeitsstunden",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ETG008",
+          "Content": "Entgelte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS009",
+          "Content": "Baugewerblicher Umsatz",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08Z2",
+          "Content": "WZ2008 (ausgewählte Positionen): Bauhauptgewerbe",
+          "Type": "Merkmal",
+          "Values": "27",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BESG14",
+              "Content": "Beschäftigtengrößenklassen",
+              "Type": "Merkmal",
+              "Values": "7",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "SMONAT",
+        "Content": "Stichmonat",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "14.02.2024 14:17:38h"
+  }
+}

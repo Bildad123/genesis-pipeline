@@ -1,0 +1,28 @@
+{
+  "tabelle": "71231-0010",
+  "titel": "Realsteuern, Gewerbesteuerumlage, Gemeindeanteil an der Einkommensteuer, Gemeindeanteil an der Umsatzsteuer, Gemeindliche Steuerkraft: Bundesländer, Jahre",
+  "zeitraum": "2000 - 2024",
+  "statistik": "71231",
+  "alle_statistiken": [
+    "71231"
+  ],
+  "stand_genesis": "17.07.2023 14:59:59h",
+  "abgerufen_am": "2026-09-28T20:49:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71231-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71231-0010_flatfile.csv": "002aa51fa3b108348fecd817715dd07d15695ef7845d166a866ec0a3f77fec02"
+  },
+  "bytes": 949161,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71231/table/71231-0010"
+}

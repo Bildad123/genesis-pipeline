@@ -1,0 +1,144 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;-;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;644980;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;3367623;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;-649;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;241135;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;-;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;133429;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;2993707;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;3367623;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;875379;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;EKT-02;Elektrischer Strom und andere Energieträger;2492243;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;-63300;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;2120;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;1094793;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;-;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;36068;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;41236;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;1080790;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;1094793;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;868546;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-S-02;Steinkohlen und Steinkohlenprodukte;226247;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;-8112;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;52517;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;1524100;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;-3996;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;204893;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;-35712;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;1367026;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;1524100;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;459155;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;1064944;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;11742;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;501339;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;1758788;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;-137454;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;618253;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;-;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;1266247;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;1758788;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;686266;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-DSL-01;Dieselkraftstoffe;1072522;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;-9212;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;434955;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;917005;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;-;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;79727;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;-;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;846489;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;917005;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;211338;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-H-L-01;Heizöl, leicht;705667;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;2010;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;-;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;362206;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;121761;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;64715;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;-;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;173720;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;362206;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;255738;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-FLT-01;Flugturbinenkraftstoff;106469;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;-182030;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;897988;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;5846146;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;1509;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;2683270;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;44211;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;7451;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;3291735;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;5846146;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;5473678;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;GAS-01;Gase;372468;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;-;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;415123;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;2300413;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;-9148;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;144753;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;-;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;2796;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;2162012;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;2300413;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;147501;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;ENR-EB-01;Erneuerbare Energien;2152912;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;21649;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;-;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;3597244;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;-;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;-;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;-;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;3575595;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;3597244;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;3516203;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;OEL-ERD-01;Erdöl;81041;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;-3203;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;-;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;598723;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;-;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;142669;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;16406;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;442851;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;598723;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;333130;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;PGH221760;Heizöl, schwer;265593;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;-778;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;11114;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;1090744;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;0;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;23070;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;-17976;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;1086427;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;1090744;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;834;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KHL-B-01;Braunkohlen und Braunkohlenprodukte;1089909;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;-234015;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;3635150;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;23565959;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;-104336;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;4503034;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;48164;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;143677;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;19209436;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;23565959;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;12948931;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;;Insgesamt;10617029;TJ;PRO021;Inländische Produktion
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;-2782;TJ;VGR003;Vorratsveränderungen
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;675015;TJ;ENR002;Energieverwendung der privaten Haushalte
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;1108175;TJ;ENR001;Verwendung von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;-76360;TJ;DIF002;Method. Differenz zw. Inlandsverbrauch und -absatz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;264481;TJ;EXP004;Export und Bunkerungen der Ausländer im Inland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;-;TJ;DIF001;Statistische Differenz
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;-;TJ;VRL001;Fackelverluste
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;922837;TJ;PRO020;Energieverwendung v. Produktionsber.u. priv.Haush.
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;1108175;TJ;AUF006;Aufkommen von Energie
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;121162;TJ;IMP004;Import und Bunkerungen der Deutschen im Ausland
+85121;Energiegesamtrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG04;Energieträger;KFST-OTTO-01;Ottokraftstoffe;987013;TJ;PRO021;Inländische Produktion

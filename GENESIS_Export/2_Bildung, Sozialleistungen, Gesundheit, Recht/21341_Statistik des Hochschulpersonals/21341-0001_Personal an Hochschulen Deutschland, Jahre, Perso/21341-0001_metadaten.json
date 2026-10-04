@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T17:06:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21341-0001",
+    "Content": "Personal an Hochschulen: Deutschland, Jahre,\nPersonalgruppen nach Beschäftigungsverhältnis, Geschlecht",
+    "Time": {
+      "From": "1997",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "21341",
+        "Content": "Statistik des Hochschulpersonals",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "PER033",
+                "Content": "Personal an Hochschulen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "PERGR2",
+          "Content": "Personalgruppen",
+          "Type": "Merkmal",
+          "Values": "19",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:52:29h"
+  }
+}

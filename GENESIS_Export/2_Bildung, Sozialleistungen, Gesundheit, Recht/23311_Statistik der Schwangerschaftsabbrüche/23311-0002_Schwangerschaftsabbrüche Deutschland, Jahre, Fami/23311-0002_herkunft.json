@@ -1,0 +1,28 @@
+{
+  "tabelle": "23311-0002",
+  "titel": "Schwangerschaftsabbrüche: Deutschland, Jahre, Familienstand",
+  "zeitraum": "1996 - 2025",
+  "statistik": "23311",
+  "alle_statistiken": [
+    "23311"
+  ],
+  "stand_genesis": "18.06.2024 17:22:01h",
+  "abgerufen_am": "2026-09-28T17:55:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23311-0002_flatfile.csv": "56e85e545dfe9614056011a6a3efabcf1caa6a5c4643e740e2933a3fb5d6e1e1"
+  },
+  "bytes": 22552,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23311/table/23311-0002"
+}

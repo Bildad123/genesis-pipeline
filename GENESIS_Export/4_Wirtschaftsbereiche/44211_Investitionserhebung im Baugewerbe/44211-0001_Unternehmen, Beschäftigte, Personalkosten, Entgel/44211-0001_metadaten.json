@@ -1,0 +1,133 @@
+{
+  "abgerufen_am": "2026-09-28T19:08:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "44211-0001",
+    "Content": "Unternehmen, Beschäftigte, Personalkosten, Entgelte,\nJahresbauleistung und sonstige Umsätze im Baugewerbe:\nDeutschland, Jahre, Wirtschaftszweige",
+    "Time": {
+      "From": "2008",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "44211",
+        "Content": "Investitionserhebung im Baugewerbe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "UNT003",
+          "Content": "Unternehmen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ERW012",
+          "Content": "Beschäftigte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "KOS001",
+          "Content": "Personalkosten",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ETG008",
+          "Content": "Entgelte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS010",
+          "Content": "Jahresbauleistung und sonstige Umsätze",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "LST002",
+          "Content": "Jahresbauleistung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "LST003",
+          "Content": "Jahresbauleistung im Hochbau",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "WZ08S6",
+        "Content": "WZ2008: Baugewerbe",
+        "Type": "Merkmal",
+        "Values": "12",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 20:47:10h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0104",
+  "titel": "Elterngeldempfänger: Deutschland, Quartale, Geschlecht, Art der Inanspruchnahme",
+  "zeitraum": "1. Quartal 2017 - 2. Quartal 2026",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:43:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0104",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0104_flatfile.csv": "02b03d6e9b84df371219437f5387b9a8e00fdeecf27f621cf12acf576a09fd08"
+  },
+  "bytes": 126734,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0104"
+}

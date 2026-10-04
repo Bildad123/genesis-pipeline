@@ -1,0 +1,93 @@
+{
+  "abgerufen_am": "2026-09-28T21:00:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "74211-0020",
+    "Content": "Versorgungszugänge der Empfänger von Ruhegehalt\n(Landesbereich): Bundesländer, Jahre, Körperschaftsebenen,\nGrund für den Eintritt des Versorgungsfalls, Geschlecht",
+    "Time": {
+      "From": "2012",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "74211",
+        "Content": "Versorgungsempfängerstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "RGE004",
+            "Content": "Versorgungszug. d.Empf. v.Ruhegeh. (Landesbereich)",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "KRPEB5",
+          "Content": "Körperschaftsebenen",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "VSORG6",
+          "Content": "Grund für den Eintritt des Versorgungsfalls",
+          "Type": "Merkmal",
+          "Values": "11",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "20.05.2025 14:09:02h"
+  }
+}

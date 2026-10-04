@@ -1,0 +1,28 @@
+{
+  "tabelle": "22542-0011",
+  "titel": "Träger der Jugendhilfe: Deutschland, Stichtag, Verbandszugehörigkeit",
+  "zeitraum": "15.12.2022 - 15.12.2024",
+  "statistik": "22542",
+  "alle_statistiken": [
+    "22542"
+  ],
+  "stand_genesis": "14.03.2024 16:29:23h",
+  "abgerufen_am": "2026-09-28T17:38:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22542-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22542-0011_flatfile.csv": "728076fa2e08d8872de8e8b6076b02546cd3201f6838615bfaf86901bba38aa5"
+  },
+  "bytes": 2062,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22542/table/22542-0011"
+}

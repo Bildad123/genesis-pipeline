@@ -1,0 +1,28 @@
+{
+  "tabelle": "73321-0012",
+  "titel": "Umsatzsteuerpflichtige, Steuerbarer Umsatz, Umsatzsteuer (Veranlagungen): Bundesländer, Jahre (bis 2008), Wirtschaftszweige (WZ2003 1-2-Steller Hierarchie)",
+  "zeitraum": "2006 - 2008",
+  "statistik": "73321",
+  "alle_statistiken": [
+    "73321"
+  ],
+  "stand_genesis": "15.09.2023 17:31:10h",
+  "abgerufen_am": "2026-09-28T20:57:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73321-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73321-0012_flatfile.csv": "aa237a5dd46ef638f303ece93b6fe2a3261925cd6683a2b11c0968a94ceb1eac"
+  },
+  "bytes": 3167691,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73321/table/73321-0012"
+}

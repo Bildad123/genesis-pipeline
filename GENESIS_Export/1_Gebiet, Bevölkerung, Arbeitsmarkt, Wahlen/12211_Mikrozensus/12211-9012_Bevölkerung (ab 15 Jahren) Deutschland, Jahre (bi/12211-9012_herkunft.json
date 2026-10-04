@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9012",
+  "titel": "Bevölkerung (ab 15 Jahren): Deutschland, Jahre (bis 2019), Geschlecht, Altersgruppen, Allgemeine Schulausbildung",
+  "zeitraum": "2005 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:08h",
+  "abgerufen_am": "2026-09-28T16:30:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9012_flatfile.csv": "b767bf9b37cab0fe13a4eb6e826242cd25599266e9c215b2418dc4d3c27f244f"
+  },
+  "bytes": 81835,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9012"
+}

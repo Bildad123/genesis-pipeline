@@ -1,0 +1,28 @@
+{
+  "tabelle": "21421-0007",
+  "titel": "Aufstiegs-BAföG - Geförderte Personen (Bewilligung): Deutschland, Jahre, Voll-/Teilzeit, Geschlecht, Nationalität und Herkunft, Fortbildungsstätten",
+  "zeitraum": "2003 - 2025",
+  "statistik": "21421",
+  "alle_statistiken": [
+    "21421"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:11:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21421-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21421-0007_flatfile.csv": "726763647e71960d662c6989bb19052a838ac233c67510cd02d8dece66594b52"
+  },
+  "bytes": 739170,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21421/table/21421-0007"
+}

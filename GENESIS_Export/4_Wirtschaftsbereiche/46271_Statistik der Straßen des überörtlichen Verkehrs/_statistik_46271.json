@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:22:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46271",
+    "Content": "Statistik der Straßen des überörtlichen Verkehrs",
+    "Cubes": "1",
+    "Variables": "5",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Die Statistik der Straßenlängen des überörtlichen Verkehrs\nwird jährlich nach Straßenklassen vom Bundesministerium für\nVerkehr, Bau- und Wohnungswesen (BMVBW) aufgrund der\nMeldungen der für den Straßenbestand zuständigen Behörden\nder Länder zum Bundesergebnis zusammengestellt.\n\n© Statistisches Bundesamt, Wiesbaden 2003",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "abgerufen_am": "2026-09-28T16:37:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12241-9003",
+    "Content": "EU-SILC - Erfasste und hochgerechnete Personen ab 16 Jahren,\nNettoäquivalenzeinkommen, Armutsgefährdungsquote:\nDeutschland, Jahre (bis 2019), Bildungsstatus",
+    "Time": {
+      "From": "2008",
+      "To": "2019"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12241",
+        "Content": "Einkommen und Lebensbedingungen (EU-SILC)",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "PER038",
+          "Content": "Erfasste Personen ab 16 Jahren",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "PER039",
+          "Content": "Hochgerechnete Personen ab 16 Jahren",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "EKM016",
+          "Content": "Nettoäquivalenzeinkommen (Median) v.Pers. ab 16 J.",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "AGQ002",
+          "Content": "Armutsgefährdungsquote von Personen ab 16 Jahren",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BILST4",
+          "Content": "Bildungsstatus",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "17.04.2024 12:52:57h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0011",
+  "titel": "Empfang und Versand von Gütern bzw. Ladeeinheiten (Seeverkehr): Deutschland, Jahre, Partnerländer",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.06.2023 12:23:51h",
+  "abgerufen_am": "2026-09-28T19:28:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0011_flatfile.csv": "6f30416cb1d63c83ce9011f8b248479e9de957992518751afcbafd5c525871cd"
+  },
+  "bytes": 331018,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0011"
+}

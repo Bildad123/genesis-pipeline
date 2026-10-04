@@ -1,0 +1,97 @@
+{
+  "abgerufen_am": "2026-09-28T16:59:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21111-0002",
+    "Content": "Schüler: Deutschland, Schuljahr, Geschlecht, Schulart,\nJahrgangsstufen",
+    "Time": {
+      "From": "1998/99",
+      "To": "2024/25"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "21111",
+        "Content": "Statistik der allgemeinbildenden Schulen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "BIL001",
+                "Content": "Schüler",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "SLJAHR",
+          "Content": "Schuljahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BILSA1",
+          "Content": "Schulart",
+          "Type": "Merkmal",
+          "Values": "17",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BILJG1",
+              "Content": "Jahrgangsstufen",
+              "Type": "Merkmal",
+              "Values": "14",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "24.11.2023 14:44:56h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21811-0003",
+  "titel": "Interne Ausgaben für Forschung und Entwicklung: Deutschland, Jahre, Einrichtungsart, Wissenschaftszweige",
+  "zeitraum": "2019 - 2024",
+  "statistik": "21811",
+  "alle_statistiken": [
+    "21811"
+  ],
+  "stand_genesis": "28.12.2022 17:01:59h",
+  "abgerufen_am": "2026-09-28T17:16:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21811-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21811-0003_flatfile.csv": "135974f00c078493071d3b723a89af3c4786af2a1c57023fd2fa866ace1085ba"
+  },
+  "bytes": 34867,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21811/table/21811-0003"
+}

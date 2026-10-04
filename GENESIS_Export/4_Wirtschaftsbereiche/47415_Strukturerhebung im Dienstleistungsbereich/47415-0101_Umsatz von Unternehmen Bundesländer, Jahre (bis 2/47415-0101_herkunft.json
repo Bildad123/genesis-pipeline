@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0101",
+  "titel": "Umsatz von Unternehmen: Bundesländer, Jahre (bis 2007), Wirtschaftsabschnitte, Umsatzgrößenklassen",
+  "zeitraum": "2003 - 2007",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:38:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0101",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0101_flatfile.csv": "f28964376d7adf0078032dd10a46473b705a4e36c3aabe74a950f7d6e524627e"
+  },
+  "bytes": 29660,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0101"
+}

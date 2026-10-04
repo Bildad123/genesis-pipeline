@@ -1,0 +1,28 @@
+{
+  "tabelle": "32111-0001",
+  "titel": "Abfallentsorgung: Deutschland, Jahre",
+  "zeitraum": "2017 - 2024",
+  "statistik": "32111",
+  "alle_statistiken": [
+    "32111"
+  ],
+  "stand_genesis": "28.12.2022 17:46:05h",
+  "abgerufen_am": "2026-09-28T18:09:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32111-0001_flatfile.csv": "aba706197cd2ebbeecbaf2d18327ec6929e45c513e676db24c2b3fb9aa548176"
+  },
+  "bytes": 6198,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32111/table/32111-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "23611-0005",
+  "titel": "Gesundheitsausgaben: Deutschland, Jahre, Ausgabenträger, Erweiterter Leistungsbereich des Gesundheitswesens",
+  "zeitraum": "1992 - 2024",
+  "statistik": "23611",
+  "alle_statistiken": [
+    "23611"
+  ],
+  "stand_genesis": "28.12.2022 17:29:46h",
+  "abgerufen_am": "2026-09-28T17:56:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23611-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23611-0005_flatfile.csv": "3fde94344d3c8874e13d429f6dc69f67db0fe8ca52bea5129124a5f8c8fd4637"
+  },
+  "bytes": 13171,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23611/table/23611-0005"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22523-0011",
+  "titel": "Vorläufige Schutzmaßnahmen für Kinder und Jugendliche: Deutschland, Jahre, Aufenthalt vor der Maßnahme, Unterbringung während der Maßnahme",
+  "zeitraum": "2010 - 2022",
+  "statistik": "22523",
+  "alle_statistiken": [
+    "22523"
+  ],
+  "stand_genesis": "28.12.2022 17:25:15h",
+  "abgerufen_am": "2026-09-28T17:35:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22523-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22523-0011_flatfile.csv": "97d17ff91c97194c8fc1d61841b07557d3b033c5b94d57497b2edfd8a4e06849"
+  },
+  "bytes": 213158,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22523/table/22523-0011"
+}

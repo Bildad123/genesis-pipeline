@@ -1,0 +1,103 @@
+{
+  "abgerufen_am": "2026-09-28T16:34:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12211-9055",
+    "Content": "Ledige Kinder in Familien: Früheres Bundesgebiet/Neue Länder\nJahre (bis 2019), Familienformen",
+    "Time": {
+      "From": "04/1996",
+      "To": "2019"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12211",
+        "Content": "Mikrozensus",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "SMONAT",
+          "Content": "Stichmonat",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "FAMFM1",
+          "Content": "Familienformen",
+          "Type": "Merkmal",
+          "Values": "7",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BEV059",
+              "Content": "Ledige Kinder in der Familie",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "BEV057",
+              "Content": "Ledige Kinder unter 18 Jahren in der Familie",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "BEV063",
+              "Content": "Durchschn. Zahl der Kinder unter 18 J. je Familie",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "DINSGF",
+        "Content": "Früheres Bundesgebiet / Neue Länder",
+        "Type": "Merkmal",
+        "Values": "2",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 09:37:10h"
+  }
+}

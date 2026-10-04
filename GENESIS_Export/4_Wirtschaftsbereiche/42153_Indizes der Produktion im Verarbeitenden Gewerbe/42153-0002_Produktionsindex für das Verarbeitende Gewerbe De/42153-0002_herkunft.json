@@ -1,0 +1,28 @@
+{
+  "tabelle": "42153-0002",
+  "titel": "Produktionsindex für das Verarbeitende Gewerbe: Deutschland, Monate, Original- und bereinigte Daten, Wirtschaftszweige (2-/3-/4-Steller)",
+  "zeitraum": "Januar 1991 - Juli 2026",
+  "statistik": "42153",
+  "alle_statistiken": [
+    "42153"
+  ],
+  "stand_genesis": "28.12.2022 17:35:35h",
+  "abgerufen_am": "2026-09-28T18:56:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42153-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42153-0002_flatfile.csv": "ef4dbdbd5faa4608487ce13415eece8459e692ab31f4e1c7237fd1712c136f1a"
+  },
+  "bytes": 1245319,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42153/table/42153-0002"
+}

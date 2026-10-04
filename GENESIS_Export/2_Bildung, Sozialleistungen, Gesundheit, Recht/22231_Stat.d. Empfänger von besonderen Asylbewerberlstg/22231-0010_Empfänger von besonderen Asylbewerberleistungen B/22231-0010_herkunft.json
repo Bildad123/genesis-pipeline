@@ -1,0 +1,28 @@
+{
+  "tabelle": "22231-0010",
+  "titel": "Empfänger von besonderen Asylbewerberleistungen: Bundesländer, Stichtag (bis 31.12.2019), Altersgruppen",
+  "zeitraum": "31.12.1994 - 31.12.2019",
+  "statistik": "22231",
+  "alle_statistiken": [
+    "22231"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:27:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22231-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22231-0010_flatfile.csv": "e88d17c2eacfdf02b454060fcd4a9d76c6079cb01e198214ae5fb6b0b0b2f145"
+  },
+  "bytes": 608063,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22231/table/22231-0010"
+}

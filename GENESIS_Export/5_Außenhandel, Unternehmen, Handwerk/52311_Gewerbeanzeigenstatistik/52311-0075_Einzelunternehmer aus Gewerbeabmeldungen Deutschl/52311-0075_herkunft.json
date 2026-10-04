@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0075",
+  "titel": "Einzelunternehmer aus Gewerbeabmeldungen: Deutschland, Jahre, Grund der Gewerbeabmeldung, Staatsangehörigkeit",
+  "zeitraum": "2013 - 2025",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "29.01.2025 15:05:31h",
+  "abgerufen_am": "2026-09-28T20:09:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0075",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0075_flatfile.csv": "39a572311a0d527ffbe116acb3e94607eeb64907b31b32590e35591d6cc48e35"
+  },
+  "bytes": 16403,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0075"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "32211-0001",
+  "titel": "Wassergewinnung, Einwohner mit Anschluss an die öffentliche Wasserversorgung, Wasserabgabe: Bundesländer, Jahre",
+  "zeitraum": "2007 - 2022",
+  "statistik": "32211",
+  "alle_statistiken": [
+    "32211"
+  ],
+  "stand_genesis": "16.10.2024 15:53:35h",
+  "abgerufen_am": "2026-09-28T18:12:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32211-0001_flatfile.csv": "923003db0c1b1fd61ccba89397131c3232c62565f8468547917de6b8f3928b42"
+  },
+  "bytes": 21319,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32211/table/32211-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "13211-0005",
+  "titel": "Arbeitslosenquote aller zivilen Erwerbspersonen: Deutschland/Früheres Bundesgebiet/Neue Länder, Jahre, Geschlecht und weitere Personengruppen",
+  "zeitraum": "1991 - 2025",
+  "statistik": "13211",
+  "alle_statistiken": [
+    "13211"
+  ],
+  "stand_genesis": "28.12.2022 17:08:18h",
+  "abgerufen_am": "2026-09-28T16:57:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13211-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13211-0005_flatfile.csv": "23d1b0b0af75096f9066c1f4265e332635de62fde8ffd2ea718f825dad6513a9"
+  },
+  "bytes": 208448,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13211/table/13211-0005"
+}

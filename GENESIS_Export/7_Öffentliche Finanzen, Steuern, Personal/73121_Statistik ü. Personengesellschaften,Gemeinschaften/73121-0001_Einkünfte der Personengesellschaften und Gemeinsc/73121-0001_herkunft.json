@@ -1,0 +1,28 @@
+{
+  "tabelle": "73121-0001",
+  "titel": "Einkünfte der Personengesellschaften und Gemeinschaften: Deutschland, Jahre, Einkunftsarten, Gewinn- und Verlustfälle",
+  "zeitraum": "1995 - 2021",
+  "statistik": "73121",
+  "alle_statistiken": [
+    "73121"
+  ],
+  "stand_genesis": "28.09.2015 12:49:01h",
+  "abgerufen_am": "2026-09-28T20:53:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73121-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73121-0001_flatfile.csv": "d52ec579c842fb9caa1329f1a11e2804da3a1a3828e826b1645c7e277e22160b"
+  },
+  "bytes": 215778,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73121/table/73121-0001"
+}

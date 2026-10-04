@@ -1,0 +1,127 @@
+{
+  "abgerufen_am": "2026-09-28T19:02:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "42311-0001",
+    "Content": "Erzeugung von Roheisen, Rohstahl, Walzstahl, Stahlrohren:\nDeutschland, Jahre (bis 2009)",
+    "Time": {
+      "From": "1950",
+      "To": "2009"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "42311",
+        "Content": "Eisen- und Stahlstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "MET001",
+          "Content": "Erzeugung von Roheisen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ESNAT1",
+              "Content": "Roheisenerzeugnisse",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        },
+        {
+          "Code": "MET002",
+          "Content": "Erzeugung von Rohstahl",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STLRO1",
+              "Content": "Rohstahlerzeugnisse",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        },
+        {
+          "Code": "MET003",
+          "Content": "Erzeugung von Walzstahl",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STLWG2",
+              "Content": "Warmgewalzte Stahlerzeugnisse",
+              "Type": "Merkmal",
+              "Values": "6",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        },
+        {
+          "Code": "MET004",
+          "Content": "Erzeugung von Stahlrohren",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "18.11.2015 14:45:27h"
+  }
+}

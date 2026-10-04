@@ -1,0 +1,175 @@
+{
+  "abgerufen_am": "2026-09-28T20:19:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "53211-0004",
+    "Content": "Beschäftigte und Umsatz in Handwerksunternehmen:\nDeutschland, Quartale, Handwerksarten, Ausgewählte\nGewerbezweige",
+    "Time": {
+      "From": "2026",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "53211",
+        "Content": "Vierteljährliche Handwerksberichterstattung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ERW012",
+          "Content": "Beschäftigte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "BES009",
+          "Content": "Beschäftigte, Veränderungsrate zum Vorquartal",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "BES008",
+          "Content": "Beschäftigte, Veränderungsrate z. Vorjahresquartal",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS002",
+          "Content": "Umsatz",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS045",
+          "Content": "Umsatz, Veränderungsrate zum Vorquartal",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS044",
+          "Content": "Umsatz, Veränderungsrate zum Vorjahresquartal",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS003",
+          "Content": "Umsatz, preisbereinigt",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS042",
+          "Content": "Umsatz, preisbereinigt, VR zum Vorquartal",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "UMS041",
+          "Content": "Umsatz, preisbereinigt, VR zum Vorjahresquartal",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "HWKAT1",
+          "Content": "Handwerksarten",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GEWZW3",
+              "Content": "Ausgewählte Gewerbezweige",
+              "Type": "Merkmal",
+              "Values": "46",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "QUARTG",
+            "Content": "Quartale",
+            "Type": "Merkmal",
+            "Values": "4",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "15.06.2026 16:55:41h"
+  }
+}

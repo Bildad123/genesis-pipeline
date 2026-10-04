@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T20:24:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "61261-0001",
+    "Content": "Baupreisindizes: Deutschland, Jahre, Messzahlen mit/ohne\nUmsatzsteuer, Gebäudearten, Bauarbeiten (Hochbau)",
+    "Time": {
+      "From": "1958",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "61261",
+        "Content": "Preisindizes für die Bauwirtschaft",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "PRE002",
+                "Content": "Baupreisindizes",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STEMW1",
+              "Content": "Messzahlen mit/ohne Umsatzsteuer",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BAUAR4",
+          "Content": "Bauarbeiten (Hochbau)",
+          "Type": "Merkmal",
+          "Values": "41",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "BAUAR1",
+        "Content": "Gebäudearten",
+        "Type": "Merkmal",
+        "Values": "3",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 17:32:38h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "82111-0001",
+  "titel": "VGR der Länder (Entstehungsrechnung) - Bruttoinlandsprodukt zu Marktpreisen (nominal): Deutschland, Jahre",
+  "zeitraum": "1991 - 2025",
+  "statistik": "82111",
+  "alle_statistiken": [
+    "82111"
+  ],
+  "stand_genesis": "22.04.2026 10:26:16h",
+  "abgerufen_am": "2026-09-28T21:13:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "82111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "82111-0001_flatfile.csv": "7a3b680219489ab90e8a74a521b0619dcb7eb4128deb48260efa604fc92b643c"
+  },
+  "bytes": 6401,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/82111/table/82111-0001"
+}

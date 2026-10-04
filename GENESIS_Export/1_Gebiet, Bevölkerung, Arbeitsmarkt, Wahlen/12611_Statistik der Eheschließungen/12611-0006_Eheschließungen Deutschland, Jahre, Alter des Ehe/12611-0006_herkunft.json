@@ -1,0 +1,28 @@
+{
+  "tabelle": "12611-0006",
+  "titel": "Eheschließungen: Deutschland, Jahre, Alter des Ehegatten 1, Alter des Ehegatten 2",
+  "zeitraum": "2019 - 2025",
+  "statistik": "12611",
+  "alle_statistiken": [
+    "12611"
+  ],
+  "stand_genesis": "23.03.2026 16:02:24h",
+  "abgerufen_am": "2026-09-28T16:51:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12611-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12611-0006_flatfile.csv": "31fd03c4384ce2ca1ec6f2e7c2075b957230d2ef2876867abe5b9cb09e4e2c51"
+  },
+  "bytes": 42582,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12611/table/12611-0006"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9000",
+  "titel": "Bevölkerung, Erwerbstätige, Erwerbslose, Erwerbspersonen, Nichterwerbspersonen [jeweils im Alter von 15 bis unter 65 Jahren]: Deutschland, Jahre (bis 2019), Geschlecht",
+  "zeitraum": "10/1959 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:04h",
+  "abgerufen_am": "2026-09-28T16:30:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9000",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9000_flatfile.csv": "4456902fe83d666b49aa060bf27ee044a2bfb56d5b170494f30e0bb52f935596"
+  },
+  "bytes": 139946,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9000"
+}

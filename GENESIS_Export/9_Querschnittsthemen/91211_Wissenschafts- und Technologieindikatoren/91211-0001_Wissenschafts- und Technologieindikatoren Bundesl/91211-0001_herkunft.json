@@ -1,0 +1,28 @@
+{
+  "tabelle": "91211-0001",
+  "titel": "Wissenschafts- und Technologieindikatoren: Bundesländer, Jahre (bis 2009)",
+  "zeitraum": "2003 - 2009",
+  "statistik": "91211",
+  "alle_statistiken": [
+    "91211"
+  ],
+  "stand_genesis": "28.12.2022 17:27:42h",
+  "abgerufen_am": "2026-09-28T21:15:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "91211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "91211-0001_flatfile.csv": "47ba6347096addcd0cebf926a6befaf304c8a9ba42df51dc4be744c18d4eff4c"
+  },
+  "bytes": 363846,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/91211/table/91211-0001"
+}

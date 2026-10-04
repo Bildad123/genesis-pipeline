@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T16:41:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12511-0007",
+    "Content": "Einbürgerungen von Ausländern: Deutschland, Jahre,\nStaatsangehörigkeit, Geschlecht, Rechtsgrundlagen",
+    "Time": {
+      "From": "2025",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12511",
+        "Content": "Einbürgerungsstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "BEV008",
+                "Content": "Einbürgerungen von Ausländern",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "RECGL5",
+              "Content": "Rechtsgrundlagen",
+              "Type": "Merkmal",
+              "Values": "12",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "STAAG6",
+          "Content": "Staatsangehörigkeit",
+          "Type": "Merkmal",
+          "Values": "208",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "10.09.2026 11:38:25h"
+  }
+}

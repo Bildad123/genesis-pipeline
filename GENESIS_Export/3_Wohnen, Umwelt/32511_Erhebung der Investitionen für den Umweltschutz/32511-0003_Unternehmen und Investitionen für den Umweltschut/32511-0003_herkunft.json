@@ -1,0 +1,28 @@
+{
+  "tabelle": "32511-0003",
+  "titel": "Unternehmen und Investitionen für den Umweltschutz: Deutschland, Jahre, Art der Investition, Wirtschaftszweige",
+  "zeitraum": "2021 - 2024",
+  "statistik": "32511",
+  "alle_statistiken": [
+    "32511"
+  ],
+  "stand_genesis": "08.05.2024 12:34:36h",
+  "abgerufen_am": "2026-09-28T18:17:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32511-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32511-0003_flatfile.csv": "1e0e97f130b2b33b0ed275d77465fde4600d5902f62d6ec48b98de893534ec6c"
+  },
+  "bytes": 89509,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32511/table/32511-0003"
+}

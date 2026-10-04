@@ -1,0 +1,28 @@
+{
+  "tabelle": "22542-0016",
+  "titel": "Gruppen in Einrichtungen der Jugendhilfe: Deutschland, Stichtag, Art des Trägers, Rechtsgrundlage der Unterbringung",
+  "zeitraum": "15.12.2022 - 15.12.2024",
+  "statistik": "22542",
+  "alle_statistiken": [
+    "22542"
+  ],
+  "stand_genesis": "14.03.2024 16:30:18h",
+  "abgerufen_am": "2026-09-28T17:38:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22542-0016",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22542-0016_flatfile.csv": "46da7e7aafa380e41ab89f54949cfcf2a51feb67dc368fe081f309f8681aeed4"
+  },
+  "bytes": 12553,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22542/table/22542-0016"
+}

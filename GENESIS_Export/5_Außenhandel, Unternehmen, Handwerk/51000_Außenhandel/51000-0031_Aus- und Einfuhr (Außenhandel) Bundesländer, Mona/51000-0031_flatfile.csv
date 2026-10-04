@@ -1,0 +1,865 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2209000;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2184459;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1033982,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1595340,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1992662;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2140656;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1028275,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1676086,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2169585;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2674022;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1401811,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1617431,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2113633;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2702055;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1406088,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1536361,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;8844754;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;13017945;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1193349,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1775679,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;8853325;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;11563405;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1096026,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1682249,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2092264;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2468445;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;800317,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;1592496,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;19143085;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;18776188;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;3325155,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;4113191,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;4194802;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;2566094;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;650723,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;799435,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;19095599;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;19038279;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;3313021,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;4431938,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2585985;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2190359;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;721367,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;1191221,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;2411124;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1575743;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;444229,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;918188,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1891807;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1548791;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;418891,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1014608,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1627892;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1466958;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;358107,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1007821,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;33968306;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;3278426;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2950434,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;614924,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;33328100;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;3265122;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;3002285,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;662935,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;870104;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;759611;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;763116,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;796483,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;843856;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;776176;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;803556,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;758010,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;3740091;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;2940875;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;708392,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;964038,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;4295201;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;3465398;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;752650,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;940304,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;20469080;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;26152493;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;7643041,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;13073066,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;20705962;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;26232220;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;7292763,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;12416345,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1665581;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2207843;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1324807,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1512748,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;3991493;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;6304889;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;1237686,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;2365694,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;5503308;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;6719634;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;1302881,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;2183817,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;8302248;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;11077859;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;2640573,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;6575862,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;8609794;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;11191066;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;2852052,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;7131280,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;7622746;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;9844651;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;2674119,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;6720565,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1684165;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1906061;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;470785,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;397614,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1717429;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1728470;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;438581,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;378028,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;311058;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;1324955;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;28036,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;314225,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1325347;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1428953;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;519124,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;843786,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;352665;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;1478705;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;44165,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;374866,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1369666;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1486471;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;497496,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1037728,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;33085918;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;3078273;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2550771,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;673319,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;31329942;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;3128536;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;3347533,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;799528,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;2123715;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1756779;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;414243,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1150840,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;2181145;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1727597;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;470540,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1281409,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4780467;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;3556565;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1886023,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1496642,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1384009;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1464047;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;364381,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;320895,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4721685;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;3682234;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1880820,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1470898,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;8708739;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;11714669;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1041882,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1678928,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;7850723;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;12292255;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1116910,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1613703,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;7932039;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;10838250;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1013898,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1357311,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2254243;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2423628;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1528246,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1513840,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2205277;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2721073;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1558995,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1784346,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1612912;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1773638;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;150066,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;244331,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1520410;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1663759;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;120043,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;250315,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;9940006;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;12253730;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;3229076,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;6964874,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1544103;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1697973;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;387439,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;352121,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1499848;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1585669;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;407855,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;368186,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;9619942;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;11982481;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;2973120,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;6647822,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;20906169;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;18508819;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;2957908,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;4739754,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;29312859;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2864905;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2534958,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;810494,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;19177439;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;18699816;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;2768953,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;4060228,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;4888741;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;3869439;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;810760,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;1094013,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;19924722;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;24959743;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;6474275,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;11792648,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;19065752;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;24531807;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;7164913,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;12143520,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;16663487;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;22561618;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;6353533,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;12735604,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;4556092;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;3486252;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;826578,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;951020,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1485340;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1580625;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;408851,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;355141,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1415698;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;1571755;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;393323,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;341982,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1593902;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1870359;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;148983,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;255518,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;5380138;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;7988725;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;1545434,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;2875912,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1635122;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1770544;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;146591,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;263211,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;5846451;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;8893540;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;1417337,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;3003317,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1342450;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1334341;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;529327,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1018988,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;18089627;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;22416630;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;7106372,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;12490583,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;297805;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;1337768;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;31702,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;296602,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;22752328;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;19466614;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;2986815,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;4210784,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;17957186;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;23419585;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;6865064,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;11921411,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;21041859;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;19923459;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;3017892,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;4532696,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;18984699;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;17045004;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;2450373,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;4162114,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;983671;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;909871;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;852285,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;930699,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;1087012;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;839481;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;824428,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;776883,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;20639797;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;21982272;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;3599363,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;4751341,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;29891762;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2780935;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2731133,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;671005,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;29895144;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2682352;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;2842511,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;498604,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;442632;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;1501327;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;53307,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;367516,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;485688;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;1610046;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;56071,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;374036,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2388281;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2782121;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;877599,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;1522481,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2687660;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2698227;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;772901,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;1474649,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1478045;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1514663;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;556900,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1012728,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1341429;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1617771;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;451265,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;961805,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;21742810;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;21152428;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;3599479,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;4046823,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;7824193;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;11790023;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1076184,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1605236,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1443867;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1470497;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;112645,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;250909,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;7332188;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;11262715;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1037199,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;1569091,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4959013;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4136895;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;2012886,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1553142,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;5026390;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4205090;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1913619,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1476785,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4464482;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;3267023;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1641985,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1462530,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2332373;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2587124;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1202579,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1800174,9;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2385590;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2669918;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1113723,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1793828,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;3786756;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;2832322;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;733712,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;932236,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;4472599;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;2970422;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;714849,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;949100,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;984992;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;806655;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;837304,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;724322,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;889447;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;916140;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;1008558,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;897934,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;05;Nordrhein-Westfalen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;22110115;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;19836611;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;3093251,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;4345998,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;24111636;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;20629508;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;3318563,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;08;Baden-Württemberg;4687823,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1945936;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2028056;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;992111,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1583071,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;14;Sachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;8463338;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;10422158;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;2656550,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;6405972,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;9066562;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;10791323;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;2880179,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;6194764,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;5257473;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;6910884;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;1256278,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;2069216,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;17;Ausland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;03;Niedersachsen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1811531;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1954228;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;161755,5;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;256534,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1750720;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;1964846;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;143158,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;11;Berlin;292503,5;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;4821323;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;7610081;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;1485028,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;2536869,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;3647715;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;6498497;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;1146825,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;02;Hamburg;2239012,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1781345;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2198348;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1288274,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1414999,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2046535;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;2421341;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1383709,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;15;Sachsen-Anhalt;1520313,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2133577;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2203793;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1120404,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1554533,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;06;Hessen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;16;Thüringen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;5474765;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4089457;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;2153255,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1723059,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2256326;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;2306084;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1128296,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;12;Brandenburg;1659642,6;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;5276860;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;4412443;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;2045845,9;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;1510803,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;07;Rheinland-Pfalz;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;755707;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;757844;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;713927,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;807414,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT08;August;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT10;Oktober;DLANDX;Bundesländer mit Ausland und Restposition;13;Mecklenburg-Vorpommern;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;21225692;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;20989660;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;3571526,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;4617901,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1658125;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1432592;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;445879,1;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT05;Mai;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1074651,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1834029;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;1483154;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;434182,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT02;Februar;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;911838,1;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1536369;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1693579;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;580665,6;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1002925,7;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;3085715;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2640089;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;777361,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT07;Juli;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;1483736,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;19483956;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;20314206;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;3598490,2;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;4457461,2;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;16666530;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;17779251;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;2904371,7;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;09;Bayern;3902077,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT11;November;DLANDX;Bundesländer mit Ausland und Restposition;04;Bremen;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1485885;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1623932;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;522520,3;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;1002846,4;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;440312;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;1603807;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;60622,4;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT03;März;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;379230,8;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT12;Dezember;DLANDX;Bundesländer mit Ausland und Restposition;10;Saarland;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2342959;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2659441;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;859311,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT04;April;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;1484906,3;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2014038;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;2294307;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;729101,8;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT01;Januar;DLANDX;Bundesländer mit Ausland und Restposition;01;Schleswig-Holstein;1256597,0;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT09;September;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;...;t;GEWE;Einfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;541777;Tsd. EUR;WERTA;Ausfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;1789400;Tsd. EUR;WERTE;Einfuhr: Wert
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;54009,0;t;GEWA;Ausfuhr: Gewicht
+51000;Außenhandel;JAHR;Jahr;2026;MONAT;Monate;MONAT06;Juni;DLANDX;Bundesländer mit Ausland und Restposition;18;Restposition;426159,3;t;GEWE;Einfuhr: Gewicht

@@ -1,0 +1,75 @@
+{
+  "abgerufen_am": "2026-09-28T19:25:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46311-0003",
+    "Content": "Umsatz (Binnenschifffahrt): Deutschland, Jahre, Umsatzarten",
+    "Time": {
+      "From": "1980",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46311",
+        "Content": "Unternehmensstatistik der Binnenschifffahrt",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "UMS002",
+          "Content": "Umsatz",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UMSAR1",
+              "Content": "Umsatzarten",
+              "Type": "Merkmal",
+              "Values": "5",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "29.12.2022 08:14:55h"
+  }
+}

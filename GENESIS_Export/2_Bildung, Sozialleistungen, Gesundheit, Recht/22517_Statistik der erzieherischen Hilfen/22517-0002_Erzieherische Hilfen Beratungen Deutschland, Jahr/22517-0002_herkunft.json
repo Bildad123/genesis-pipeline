@@ -1,0 +1,28 @@
+{
+  "tabelle": "22517-0002",
+  "titel": "Erzieherische Hilfen/Beratungen: Deutschland, Jahre, Geschlecht, Migrationshintergrund, Art der Hilfe",
+  "zeitraum": "2008 - 2024",
+  "statistik": "22517",
+  "alle_statistiken": [
+    "22517"
+  ],
+  "stand_genesis": "05.01.2024 12:25:24h",
+  "abgerufen_am": "2026-09-28T17:31:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22517-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22517-0002_flatfile.csv": "1dad9d7b77b8273e299d0f342dafaa0d5c748d1dfa78a01fd11ea3b487addd4b"
+  },
+  "bytes": 69111,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22517/table/22517-0002"
+}

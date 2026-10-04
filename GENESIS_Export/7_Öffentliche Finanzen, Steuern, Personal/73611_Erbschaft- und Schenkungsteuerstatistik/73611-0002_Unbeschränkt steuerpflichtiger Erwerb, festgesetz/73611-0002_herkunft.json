@@ -1,0 +1,28 @@
+{
+  "tabelle": "73611-0002",
+  "titel": "Unbeschränkt steuerpflichtiger Erwerb, festgesetzte Steuer: Deutschland, Jahre, Art des Erwerbs, Größenklassen der Erwerbe vor Abzug",
+  "zeitraum": "2002 - 2025",
+  "statistik": "73611",
+  "alle_statistiken": [
+    "73611"
+  ],
+  "stand_genesis": "19.03.2021 16:26:31h",
+  "abgerufen_am": "2026-09-28T20:59:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73611-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73611-0002_flatfile.csv": "47596ba139cce66ff094d959474bbdf24ee038f19b6718e39a84747c1d529e2a"
+  },
+  "bytes": 34264,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73611/table/73611-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "73141-0001",
+  "titel": "Rentenempfänger, Rentenleistungen, Steuerpflichtiger Teil der Rentenleistungen, Durchschnittlicher Besteuerungsanteil der Rentenleistungen: Deutschland, Jahre",
+  "zeitraum": "2015 - 2025",
+  "statistik": "73141",
+  "alle_statistiken": [
+    "73141"
+  ],
+  "stand_genesis": "19.05.2023 11:56:24h",
+  "abgerufen_am": "2026-09-28T20:53:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73141-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73141-0001_flatfile.csv": "518ff3a3a86a057904266386c212444daac3bd7ab1814fad7cf2a8dafe64a34b"
+  },
+  "bytes": 7455,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73141/table/73141-0001"
+}

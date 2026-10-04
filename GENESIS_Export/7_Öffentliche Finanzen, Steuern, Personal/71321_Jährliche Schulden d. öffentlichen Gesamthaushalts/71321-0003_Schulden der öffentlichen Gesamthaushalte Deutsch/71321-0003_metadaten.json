@@ -1,0 +1,97 @@
+{
+  "abgerufen_am": "2026-09-28T20:50:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "71321-0003",
+    "Content": "Schulden der öffentlichen Gesamthaushalte: Deutschland,\nStichtag (31.12.2006-31.12.2009), Körperschaftsgruppen,\nHaushalte, Schuldenarten",
+    "Time": {
+      "From": "31.12.2006",
+      "To": "31.12.2009"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "71321",
+        "Content": "Jährliche Schulden d. öffentlichen Gesamthaushalts",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "SLD001",
+                "Content": "Schulden",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "KRPGR5",
+          "Content": "Körperschaftsgruppen",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "HSHAT1",
+              "Content": "Haushalte",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "SLD007",
+                  "Content": "Schuldenarten",
+                  "Type": "Merkmal",
+                  "Values": "3",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 19:08:33h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22545-0001",
+  "titel": "Großtagespflegestellen: Deutschland, Stichtag, Anzahl der betreuten Kinder, Tagespflegepersonen in Großtagespflegestellen",
+  "zeitraum": "01.03.2012 - 01.03.2025",
+  "statistik": "22545",
+  "alle_statistiken": [
+    "22545"
+  ],
+  "stand_genesis": "21.10.2025 13:24:43h",
+  "abgerufen_am": "2026-09-28T17:39:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22545-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22545-0001_flatfile.csv": "62e57ef950af145cbd5dcc84f25a2275883bf53ef27e47898e56549f88291f93"
+  },
+  "bytes": 13389,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22545/table/22545-0001"
+}

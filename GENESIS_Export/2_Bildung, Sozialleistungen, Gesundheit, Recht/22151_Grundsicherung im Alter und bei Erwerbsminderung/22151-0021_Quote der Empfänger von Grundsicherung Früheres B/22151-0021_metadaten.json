@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T17:22:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22151-0021",
+    "Content": "Quote der Empfänger von Grundsicherung: Früheres\nBundesgebiet / Neue Länder, Stichtag (bis 31.12.2014),\nNationalität, Geschlecht, Altersgruppen",
+    "Time": {
+      "From": "31.12.2003",
+      "To": "31.12.2014"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22151",
+        "Content": "Grundsicherung im Alter und bei Erwerbsminderung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "EGS004",
+            "Content": "Quote der Empfänger von Grundsicherung",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "NAT",
+          "Content": "Nationalität",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "ALTGR1",
+                  "Content": "Altersgruppen",
+                  "Type": "Merkmal",
+                  "Values": "2",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "DINSGF",
+        "Content": "Früheres Bundesgebiet / Neue Länder",
+        "Type": "Merkmal",
+        "Values": "2",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "02.08.2023 16:49:44h"
+  }
+}

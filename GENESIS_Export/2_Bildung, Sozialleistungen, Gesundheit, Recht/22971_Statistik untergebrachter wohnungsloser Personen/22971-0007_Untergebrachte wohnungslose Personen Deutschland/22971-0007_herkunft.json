@@ -1,0 +1,28 @@
+{
+  "tabelle": "22971-0007",
+  "titel": "Untergebrachte wohnungslose Personen: Deutschland, Stichtag, Nationalität, Haushaltstyp, Haushaltsgröße",
+  "zeitraum": "31.01.2022 - 31.01.2026",
+  "statistik": "22971",
+  "alle_statistiken": [
+    "22971"
+  ],
+  "stand_genesis": "10.08.2023 15:00:28h",
+  "abgerufen_am": "2026-09-28T17:46:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22971-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22971-0007_flatfile.csv": "5c2443ff3dfe6f307b41d4ea89e888775ce773c307cd5f41fc767d966dc0a03e"
+  },
+  "bytes": 46219,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22971/table/22971-0007"
+}

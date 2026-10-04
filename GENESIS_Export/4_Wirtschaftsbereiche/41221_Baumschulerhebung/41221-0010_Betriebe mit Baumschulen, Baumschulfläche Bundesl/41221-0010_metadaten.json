@@ -1,0 +1,92 @@
+{
+  "abgerufen_am": "2026-09-28T18:29:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "41221-0010",
+    "Content": "Betriebe mit Baumschulen, Baumschulfläche: Bundesländer,\nJahre, Art der Anbaufläche, Nutzungsarten",
+    "Time": {
+      "From": "2017",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "41221",
+        "Content": "Baumschulerhebung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ANBFL1",
+          "Content": "Art der Anbaufläche",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BMBS01",
+              "Content": "Betriebe mit Baumschulen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "FLC028",
+              "Content": "Baumschulfläche",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BSNZA1",
+          "Content": "Nutzungsarten",
+          "Type": "Merkmal",
+          "Values": "27",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "31.01.2025 13:35:34h"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "abgerufen_am": "2026-09-28T20:16:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "52571-0003",
+    "Content": "Tätige Personen je Praxis: Deutschland, Stichtag,\nGeschlecht, Beschäftigungsumfang, Praxisform, Art der\nausgeübten Tätigkeit, Einnahmegrößenklassen",
+    "Time": {
+      "From": "30.09.2003",
+      "To": "30.09.2007"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "52571",
+        "Content": "Kostenstrukturstatistik im medizinischen Bereich",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "PRX006",
+          "Content": "Tätige Personen je Praxis",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "BESUM4",
+                  "Content": "Beschäftigungsumfang",
+                  "Type": "Merkmal",
+                  "Values": "2",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": [
+                    {
+                      "Code": "PRXF01",
+                      "Content": "Praxisform",
+                      "Type": "Merkmal",
+                      "Values": "2",
+                      "Selected": null,
+                      "Functions": null,
+                      "Structure": null,
+                      "Updated": "see parent"
+                    }
+                  ],
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GESTK1",
+          "Content": "Art der ausgeübten Tätigkeit",
+          "Type": "Merkmal",
+          "Values": "20",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ENGK01",
+              "Content": "Einnahmengrößenklassen",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:20:11h"
+  }
+}

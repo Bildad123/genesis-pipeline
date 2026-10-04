@@ -1,0 +1,28 @@
+{
+  "tabelle": "63511-0004",
+  "titel": "Beratene Personen (Anteilswerte), Durchschnittliche Schulden: Deutschland, Jahre, Hauptauslöser der Überschuldung, Sozioökonomische Merkmale",
+  "zeitraum": "2015 - 2025",
+  "statistik": "63511",
+  "alle_statistiken": [
+    "63511"
+  ],
+  "stand_genesis": "28.12.2022 17:08:06h",
+  "abgerufen_am": "2026-09-28T20:46:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63511-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63511-0004_flatfile.csv": "f62056245e8e164d436c258693c47b9165214969b67ef2dd241ac6302d1a05f9"
+  },
+  "bytes": 107434,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63511/table/63511-0004"
+}

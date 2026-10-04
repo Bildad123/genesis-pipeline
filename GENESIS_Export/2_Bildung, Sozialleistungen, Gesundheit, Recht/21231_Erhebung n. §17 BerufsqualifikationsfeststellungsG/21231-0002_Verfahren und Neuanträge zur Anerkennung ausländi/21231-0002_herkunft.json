@@ -1,0 +1,28 @@
+{
+  "tabelle": "21231-0002",
+  "titel": "Verfahren und Neuanträge zur Anerkennung ausländischer Berufsqualifikationen: Deutschland, Jahre, rechtliche Regelung, Geschlecht",
+  "zeitraum": "2016 - 2025",
+  "statistik": "21231",
+  "alle_statistiken": [
+    "21231"
+  ],
+  "stand_genesis": "28.12.2022 18:04:07h",
+  "abgerufen_am": "2026-09-28T17:03:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21231-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21231-0002_flatfile.csv": "c51271fe63e512ce6b8a875b6767597c59244dc07dd255e0056c5b1817aaaee4"
+  },
+  "bytes": 133327,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21231/table/21231-0002"
+}

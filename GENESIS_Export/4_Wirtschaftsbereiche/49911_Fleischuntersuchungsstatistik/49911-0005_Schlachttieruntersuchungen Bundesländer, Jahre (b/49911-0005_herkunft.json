@@ -1,0 +1,28 @@
+{
+  "tabelle": "49911-0005",
+  "titel": "Schlachttieruntersuchungen: Bundesländer, Jahre (bis 2018), Tierarten, Untersuchungsort und Herkunft",
+  "zeitraum": "2012 - 2018",
+  "statistik": "49911",
+  "alle_statistiken": [
+    "49911"
+  ],
+  "stand_genesis": "28.12.2022 17:23:52h",
+  "abgerufen_am": "2026-09-28T19:41:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "49911-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "49911-0005_flatfile.csv": "fa4adf6e14386e1711de0af339ca29aaf11366d63d5212616ddb0be1ce10f22a"
+  },
+  "bytes": 160520,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/49911/table/49911-0005"
+}

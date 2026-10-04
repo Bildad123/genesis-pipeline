@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0011",
+  "titel": "Sendezeit (Fernsehen): Deutschland, Jahre, Sendeformate des ZDF",
+  "zeitraum": "2000 - 2025",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:14:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0011_flatfile.csv": "b28a45c46565c2643b65f87572051de03ceae72246aa7dbec1005a88f3013c21"
+  },
+  "bytes": 42570,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0011"
+}

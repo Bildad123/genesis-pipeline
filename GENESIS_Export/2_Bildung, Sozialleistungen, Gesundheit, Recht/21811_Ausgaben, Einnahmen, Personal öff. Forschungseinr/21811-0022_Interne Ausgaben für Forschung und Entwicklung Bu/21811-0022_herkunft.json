@@ -1,0 +1,28 @@
+{
+  "tabelle": "21811-0022",
+  "titel": "Interne Ausgaben für Forschung und Entwicklung: Bundesländer und Ausland, Jahre, Wissenschaftszweige",
+  "zeitraum": "2019 - 2024",
+  "statistik": "21811",
+  "alle_statistiken": [
+    "21811"
+  ],
+  "stand_genesis": "28.12.2022 17:01:59h",
+  "abgerufen_am": "2026-09-28T17:17:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21811-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21811-0022_flatfile.csv": "9c3a7a3efd2eaeec769ba1960b6c705eaff5f2a8e85113993d4b58c286588325"
+  },
+  "bytes": 187252,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21811/table/21811-0022"
+}

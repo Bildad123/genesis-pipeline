@@ -1,0 +1,28 @@
+{
+  "tabelle": "45412-0024",
+  "titel": "Geöffnete Campingplätze, angebotene Stellplätze, durchschnittliche Auslastung der Schlafgelegenheiten (Urlaubscamping): Bundesländer, Jahre",
+  "zeitraum": "2008 - 2025",
+  "statistik": "45412",
+  "alle_statistiken": [
+    "45412"
+  ],
+  "stand_genesis": "03.07.2025 15:34:33h",
+  "abgerufen_am": "2026-09-28T19:16:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45412-0024",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45412-0024_flatfile.csv": "3362f746d3a5540df601da3136dd2a397e5a923bf3b0e960b0e4685cb2e324f8"
+  },
+  "bytes": 124475,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45412/table/45412-0024"
+}

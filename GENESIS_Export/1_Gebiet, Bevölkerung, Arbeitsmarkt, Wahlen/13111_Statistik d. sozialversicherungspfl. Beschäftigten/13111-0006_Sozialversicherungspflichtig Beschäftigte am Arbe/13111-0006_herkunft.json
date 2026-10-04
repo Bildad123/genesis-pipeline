@@ -1,0 +1,28 @@
+{
+  "tabelle": "13111-0006",
+  "titel": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort: Bundesländer, Stichtag, Wirtschaftsabschnitte",
+  "zeitraum": "31.03.2008 - 31.12.2025",
+  "statistik": "13111",
+  "alle_statistiken": [
+    "13111"
+  ],
+  "stand_genesis": "28.12.2022 17:14:03h",
+  "abgerufen_am": "2026-09-28T16:57:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13111-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13111-0006_flatfile.csv": "685d0a2a99630061d42a7daa7acc6e9911a54d085126bfb115f4aab0cfb51f52"
+  },
+  "bytes": 212983,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13111/table/13111-0006"
+}

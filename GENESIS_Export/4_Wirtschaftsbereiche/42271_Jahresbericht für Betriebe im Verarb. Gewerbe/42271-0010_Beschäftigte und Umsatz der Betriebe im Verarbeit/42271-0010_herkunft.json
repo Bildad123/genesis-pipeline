@@ -1,0 +1,28 @@
+{
+  "tabelle": "42271-0010",
+  "titel": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Bundesländer, Jahre, Wirtschaftszweige (WZ2008 Hauptgruppen und Aggregate)",
+  "zeitraum": "2009 - 2025",
+  "statistik": "42271",
+  "alle_statistiken": [
+    "42271"
+  ],
+  "stand_genesis": "28.12.2022 17:23:06h",
+  "abgerufen_am": "2026-09-28T19:02:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42271-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42271-0010_flatfile.csv": "37af2ee950eb362cb07b0d538445d5746325acf0f49c4d97aa03776757680313"
+  },
+  "bytes": 3019605,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42271/table/42271-0010"
+}

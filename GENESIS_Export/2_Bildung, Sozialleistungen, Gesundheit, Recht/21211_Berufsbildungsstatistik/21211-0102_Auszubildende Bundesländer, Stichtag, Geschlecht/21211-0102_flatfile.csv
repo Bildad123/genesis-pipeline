@@ -1,0 +1,481 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;3414;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;18327;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;366;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;20727;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;618;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;7536;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;7215;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;3432;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;498;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;837;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;4650;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;8241;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;2889;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1632;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;2682;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;27036;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;6195;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;5571;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;3936;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;567;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1023;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;16209;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;693;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;26247;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;89616;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1374;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;4215;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;2673;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;16833;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;7977;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;948;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;18039;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1059;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2496;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;2613;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2700;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;19134;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;14664;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;591;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;276;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;3699;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;3084;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;2463;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2661;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;2949;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;846;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;861;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;5352;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;10746;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;7989;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;22575;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;266943;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;5841;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;2439;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1830;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1068;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;5670;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;19761;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;288;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;8421;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;21441;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1407;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;462;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;3363;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;7977;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1488;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;2160;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;22254;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1581;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;4281;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;5502;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1752;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;6927;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;4542;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;477;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;5976;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;14226;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;4329;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1422;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1173;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;12222;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1284;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;11436;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;18972;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;843;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;15609;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;633;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;15567;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;15348;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2694;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1863;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;7821;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;492;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;312;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;13266;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;2847;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;52434;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;960;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;141;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;936;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;9654;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;4965;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1329;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1395;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;5655;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;8934;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;210;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;2790;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1800;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;849;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;7920;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1467;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;27483;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1512;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;249;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;372;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;12762;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;8154;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;56526;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;636;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;10998;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1002;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;798;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;33705;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1875;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;18255;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;5565;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;11610;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;4689;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;8529;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;657;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;2406;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1308;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;17481;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;3033;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;15021;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;999;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2910;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;9810;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;8595;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;177330;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2265;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1086;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;16845;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;195;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1386;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;291;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;81699;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1254;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;27201;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;3537;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;3372;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;11892;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;897;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;3915;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;795;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1797;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;10953;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;13014;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;61869;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2589;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;9423;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;7935;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1815;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;4326;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1959;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;819;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;15801;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1758;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;8511;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;984;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;510;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;921;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;4065;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;5796;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;537;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;25077;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1122;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;14322;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;4341;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;13194;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;549;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2910;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;16206;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1389;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;7356;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;990;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;7221;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;9156;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;3423;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;5172;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;3399;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1821;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;2883;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1506;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;87108;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2193;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;6672;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;726;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;35589;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2337;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;6492;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;4686;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1158;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;552;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;17586;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;4068;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1626;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;4848;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;723;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;6201;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1563;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;5748;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;13740;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;3615;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;903;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2265;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2232;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1908;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;110454;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;3381;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;3360;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;453;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1821;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;3393;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;5847;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;24723;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;4566;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;396;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;5223;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2598;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1050;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;25167;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;4830;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1917;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1089;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;9132;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;5526;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;10593;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1116;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;6117;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;11349;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2424;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1875;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;3654;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;9660;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;732;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;10041;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;15867;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;26856;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;5079;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;639;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;3153;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;12327;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;3849;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;504;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1293;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;14316;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;9558;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;172323;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2646;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;8232;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;5118;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;21813;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;5043;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;125115;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;12732;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1068;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;7758;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2913;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;714;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2562;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1146;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2499;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1242;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1695;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;10998;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;2487;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;35475;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;285;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;42057;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;43419;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;4542;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;627;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2043;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;5697;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1311;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2028;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;9153;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;2994;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;798;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;3702;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;25452;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;22167;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1338;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;4488;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;10734;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2988;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2010;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;28632;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;3453;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1785;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;2823;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;510;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;6816;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1368;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1149;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;4086;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1296;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;6609;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;441;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2817;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;6690;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;912;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;2127;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;870;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;4839;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;26496;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;8112;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;7284;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;936;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;16803;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;137418;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;11832;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;3174;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;26973;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;25587;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;3672;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1821;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;315;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;6987;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;7461;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;2322;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;17568;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;4860;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;8514;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2988;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;3216;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2565;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;3144;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;3492;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;771;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;330;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1488;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;8082;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;35943;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;624;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;555;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;528;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;9783;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;12273;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2529;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;4548;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;4803;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;4233;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;13674;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;4761;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1737;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;2268;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;17943;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;19701;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;3747;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1806;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;4974;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1245;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;4881;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;564;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;4962;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;49149;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;9375;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;6981;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1842;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;13323;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2586;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;894;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;41772;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;3627;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;297;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1086;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;732;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2424;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;57726;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;31581;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;16959;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;4704;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;2916;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;39774;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1764;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;4818;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1152;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;2502;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2850;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;38025;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;4695;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;2727;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2964;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;6735;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1818;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;6474;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;19980;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;4038;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;801;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;30582;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;105;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1206;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1326;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1002;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;3669;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1797;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;1263;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;3021;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1260;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1920;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;1143;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1650;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;6771;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;3150;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;3075;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1752;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;33951;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;11916;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1938;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;9312;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1386;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);;Insgesamt;215415;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;31479;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1716;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;19494;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;2694;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;333;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;2475;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;2919;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;25461;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;2232;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;4311;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1149;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;915;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;2919;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1122;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1794;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1107;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;3444;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;77997;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1716;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;3735;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1125;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;2061;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;8274;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;22119;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;13014;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT018;18-Jährige;1977;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;1329;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;39990;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;966;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;6444;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;1239;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;7911;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;825;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1914;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;4125;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;1473;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT020;20-Jährige;19308;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;6084;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;819;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;471;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1494;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;4206;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1299;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;2685;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;828;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT021;21-Jährige;1815;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);;Insgesamt;27111;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT022;22-Jährige;1164;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT000B17;unter 17 Jahre;894;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;711;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT024UM;24 Jahre und mehr;3357;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;GES;Geschlecht;GESM;männlich;ALT019;Altersjahre (u17-24m);ALT017;17-Jährige;1245;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);;Insgesamt;13686;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;GES;Geschlecht;GESW;weiblich;ALT019;Altersjahre (u17-24m);ALT019;19-Jährige;9258;Anzahl;BIL040;Auszubildende
+21211;Berufsbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;GES;Geschlecht;;Insgesamt;ALT019;Altersjahre (u17-24m);ALT023;23-Jährige;3066;Anzahl;BIL040;Auszubildende

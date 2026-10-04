@@ -1,0 +1,28 @@
+{
+  "tabelle": "41311-0012",
+  "titel": "Gehaltene Tiere: Bundesländer, Stichmonat (bis 11/2010), Tierarten",
+  "zeitraum": "12/1973 - 11/2010",
+  "statistik": "41311",
+  "alle_statistiken": [
+    "41311"
+  ],
+  "stand_genesis": "06.02.2023 16:40:06h",
+  "abgerufen_am": "2026-09-28T18:37:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41311-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41311-0012_flatfile.csv": "b9e694be9827a4af251e33d744bde2f6c9325df0ceca772befa93d8705cdab44"
+  },
+  "bytes": 134439,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41311/table/41311-0012"
+}

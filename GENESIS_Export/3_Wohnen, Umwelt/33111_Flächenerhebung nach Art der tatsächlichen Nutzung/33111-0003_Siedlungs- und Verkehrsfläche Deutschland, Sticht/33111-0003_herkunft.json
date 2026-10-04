@@ -1,0 +1,28 @@
+{
+  "tabelle": "33111-0003",
+  "titel": "Siedlungs- und Verkehrsfläche: Deutschland, Stichtag (bis 31.12.2015), Nutzungsarten (AdV-Nutzungsartenverzeichnis 1991)",
+  "zeitraum": "31.12.1992 - 31.12.2015",
+  "statistik": "33111",
+  "alle_statistiken": [
+    "33111"
+  ],
+  "stand_genesis": "23.10.2024 14:23:41h",
+  "abgerufen_am": "2026-09-28T18:18:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "33111-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "33111-0003_flatfile.csv": "9bc9d4f608c4bdba2d81e8b841d5ed76524896a0b6e0927ac5686dea7929069a"
+  },
+  "bytes": 24162,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/33111/table/33111-0003"
+}

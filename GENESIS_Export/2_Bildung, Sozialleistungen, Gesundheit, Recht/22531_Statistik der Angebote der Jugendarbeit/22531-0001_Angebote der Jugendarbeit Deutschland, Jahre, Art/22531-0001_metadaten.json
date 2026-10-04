@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T17:35:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22531-0001",
+    "Content": "Angebote der Jugendarbeit: Deutschland, Jahre, Art des\nTrägers, Art des Angebots",
+    "Time": {
+      "From": "2015",
+      "To": "2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22531",
+        "Content": "Statistik der Angebote der Jugendarbeit",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "JUG001",
+                "Content": "Angebote der Jugendarbeit",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ANGEB1",
+          "Content": "Art des Angebots",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "TRGAR2",
+          "Content": "Art des Trägers",
+          "Type": "Merkmal",
+          "Values": "16",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "15.02.2023 17:59:22h"
+  }
+}

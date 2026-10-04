@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0122",
+  "titel": "VGR des Bundes - Bruttolöhne und -gehälter je Arbeitnehmerstunde: Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 15:04:33h",
+  "abgerufen_am": "2026-09-28T21:10:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0122",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0122_flatfile.csv": "8e59b7cc39ae0520734c06a74d157984d9d78ecf811e8eee465eb98d53a826b4"
+  },
+  "bytes": 125005,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0122"
+}

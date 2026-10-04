@@ -1,0 +1,28 @@
+{
+  "tabelle": "32121-0002",
+  "titel": "Aufkommen an Haushaltsabfällen: Bundesländer, Jahre",
+  "zeitraum": "2004 - 2024",
+  "statistik": "32121",
+  "alle_statistiken": [
+    "32121"
+  ],
+  "stand_genesis": "23.12.2025 13:28:44h",
+  "abgerufen_am": "2026-09-28T18:09:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32121-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32121-0002_flatfile.csv": "de58b2a9d2749e45e804bb05de40b54fd652a1a5ce9246c4a00bb7cb493554a6"
+  },
+  "bytes": 11670,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32121/table/32121-0002"
+}

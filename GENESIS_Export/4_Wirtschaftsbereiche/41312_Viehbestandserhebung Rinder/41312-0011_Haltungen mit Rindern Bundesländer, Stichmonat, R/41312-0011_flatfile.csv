@@ -1,0 +1,929 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-02;Limousin;1686;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-02;Limousin;147;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;10220;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;984;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;440;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;33;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;241642;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;793;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1485;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;88;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;1239;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-09;Dexter;601;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-09;Dexter;136;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;19576;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;2991;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;29956;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;2746;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-07;Jersey;3807;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-07;Jersey;412;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-03;Charolais;398;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-03;Charolais;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;3415;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;47;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;20072;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;2927;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;21149;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;897;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;9616;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;1191;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;11689;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;413;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;56321;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;9949;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;3021;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;567;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;45;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;7;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;13;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;6;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;3;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-07;Jersey;2043;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-07;Jersey;294;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-03;Charolais;3621;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-03;Charolais;286;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;134708;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;1830;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;515;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;158;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-09;Dexter;704;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-09;Dexter;112;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-07;Jersey;468;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-07;Jersey;50;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;16965;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;1577;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;5344;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;358;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1805;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;65;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;113;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;17;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;13279;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;395;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;1171;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;200;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-02;Limousin;124;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-02;Limousin;12;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-04;Angler;80;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-04;Angler;14;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-03;Charolais;10362;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-03;Charolais;925;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;12330;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;3645;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-05;Angus;5623;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-05;Angus;333;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;7780;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;366;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;29053;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;2892;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;160492;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;7040;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-05;Angus;9218;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-05;Angus;1171;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;211;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;8;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;31;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;14;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;12594;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;397;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;3939;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;412;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;22959;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;3019;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;134;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;25;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;1123;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;35;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-02;Limousin;13848;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-02;Limousin;1337;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;13231;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;655;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;3071;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;242;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-07;Jersey;1526;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-07;Jersey;84;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;7;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;151;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;39;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;11299;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;1539;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-09;Dexter;1333;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-09;Dexter;233;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;296;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;21;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;57211;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;1402;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;436;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;19;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;9184;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;407;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-05;Angus;10795;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-05;Angus;865;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-09;Dexter;1050;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-09;Dexter;152;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;1282;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;169;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-04;Angler;982;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-04;Angler;185;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;34991;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;1332;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;51186;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;6567;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;158757;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;5963;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-04;Angler;24;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-04;Angler;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-05;Angus;10167;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-05;Angus;377;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;2145;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;198;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;3232;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;69;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;470;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;190;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;571;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;30;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;1243;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;14;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;47517;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;2521;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;3736;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;409;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;2160;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;112;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-05;Angus;11667;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-05;Angus;875;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;684;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;87;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;20452;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;1778;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;38864;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;983;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;8758;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;1574;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-04;Angler;22;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-04;Angler;10;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;10346;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;1475;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;588;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;122;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-05;Angus;8517;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-05;Angus;782;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;31745;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;1818;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;491;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;36;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;200838;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;765;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1182;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;109;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;29545;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;2078;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-03;Charolais;793;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-03;Charolais;42;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;15343;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;1219;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;3721;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;649;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;20741;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;1545;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;15978;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;756;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;27211;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;1387;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-04;Angler;149;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-04;Angler;43;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;4303;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;333;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;82726;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;6859;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;160454;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;8069;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-04;Angler;16823;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-04;Angler;665;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;113230;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;4653;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;9637;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;1056;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;2516;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;97;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;14869;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;1484;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;5084;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;394;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;66;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;501756;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;5772;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;16;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;283;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;35;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;30853;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;2115;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;29;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;6;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;902;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;217;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;46717;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;4982;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;215;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;50;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;1682;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;315;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;190021;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;3503;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;2137;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;429;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;8606;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;419;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;56;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;17;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;433253;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;3099;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;132310;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;576;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;44667;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;1744;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;124;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;25;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-05;Angus;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-05;Angus;12;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-09;Dexter;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-09;Dexter;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;10015;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;710;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;8417;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;426;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;2925;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;230;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;2024670;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;29480;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;431;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;21;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1034;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;100;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;15974;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;1326;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;58664;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;5597;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;20539;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;2124;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;117863;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;3967;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;28899;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;2167;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-05;Angus;9802;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-05;Angus;504;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-07;Jersey;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-07;Jersey;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;27313;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;3546;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;198452;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;4574;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;87270;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;2513;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-07;Jersey;2067;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-07;Jersey;193;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;21815;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;1502;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;7;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;3;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;298;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;15;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;8185;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;372;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-05;Angus;19336;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-05;Angus;1595;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-02;Limousin;4628;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-02;Limousin;180;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-04;Angler;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-04;Angler;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-09;Dexter;221;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-09;Dexter;48;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;380;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;90;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;159;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;13;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;350;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;103;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-03;Charolais;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-03;Charolais;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;22099;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;901;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;28;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;136;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;12;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;24578;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;2304;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;10619;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;578;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-04;Angler;113;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-04;Angler;23;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;5312;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;336;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;8;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-05;Angus;5030;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-05;Angus;418;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-04;Angler;93;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-04;Angler;15;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;7343;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;678;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;620;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;42;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;3;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;487;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;72;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;4317;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;40;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-05;Angus;4346;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-05;Angus;346;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;530;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;86;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;20925;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;1034;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;27584;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;3920;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;112;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;5;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-02;Limousin;3468;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-02;Limousin;199;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;2181;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;208;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-09;Dexter;1198;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-09;Dexter;207;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;10046;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;1217;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;635;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;65;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;333;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;26;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;27620;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;969;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;24603;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;1863;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;421;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;35;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;2689;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;321;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;8;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;3;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-04;Angler;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-04;Angler;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1598;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;64;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;6467;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;367;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;49302;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;2432;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;37;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;7;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-04;Angler;1255;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-04;Angler;403;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;15695;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;1024;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;889;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;52;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;4493;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;435;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;116328;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;1278;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;4749;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;1085;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;313;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;14;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-05;Angus;786;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-05;Angus;47;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-05;Angus;19279;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-05;Angus;1788;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;658;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;695;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;87;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-03;Charolais;6079;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-03;Charolais;449;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;7571;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;378;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;20;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;165059;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;694;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-02;Limousin;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-02;Limousin;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;362821;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;7350;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;272;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;40;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;13543;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;1036;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;23991;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;1093;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;452;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;36;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;851;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;119;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;48398;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;7017;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-07;Jersey;441;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-07;Jersey;30;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;8529;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;1183;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;36784;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;1414;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-09;Dexter;45;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-09;Dexter;8;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-02;Limousin;28559;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-02;Limousin;1181;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;1915;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;249;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-05;Angus;5500;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-05;Angus;244;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;3267;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;475;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;289724;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;11005;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;101234;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;6920;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-07;Jersey;2495;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-07;Jersey;588;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;11;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;15026;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;1750;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;2089;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;121;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-02;Limousin;3318;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-02;Limousin;270;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;177;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;58;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;51;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;34;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;15774;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;1485;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;808;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;181;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;3429;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;399;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-04;Angler;1400;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-04;Angler;83;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;186;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;12;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;48712;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-02;Limousin;2940;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;738;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;140;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-04;Angler;308;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-04;Angler;49;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-03;Charolais;4624;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-03;Charolais;497;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;7883;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;639;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-05;Angus;432;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-05;Angus;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;43941;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;4684;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-09;Dexter;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-09;Dexter;3;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;15200;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;156;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;24587;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;1312;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;13;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-03;Charolais;6255;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-03;Charolais;400;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;99;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;17;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;7;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;437;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;57;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;545;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-07;Jersey;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-07;Jersey;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;3583;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;248;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-03;Charolais;7269;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-03;Charolais;512;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;13737;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;1333;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;63497;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;5370;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-03;Charolais;3003;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-03;Charolais;221;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-02;Limousin;19494;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-02;Limousin;1731;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;27352;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;1490;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;216338;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;4669;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;13204;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;2666;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-05;Angus;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-05;Angus;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-07;Jersey;2375;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-07;Jersey;105;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;8471;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;464;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;4564;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-MI-07;Jersey;801;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-04;Angler;384;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-04;Angler;82;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;11991;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-02;Holstein-Rotbunt;628;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-04;Angler;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-04;Angler;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;200;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;54;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;1624;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;305;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-04;Angler;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-04;Angler;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;42756;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-09;Sonstige Fleischnutzungsrassen;5111;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-09;Dexter;3015;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-09;Dexter;444;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-07;Highland;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;73;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-04;Doppelnutzung Rotbunt;15;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-06;Gelbvieh;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-02;Limousin;10787;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-02;Limousin;748;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;10248;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS2;Rinderrassen;RIN-FL-04;Fleckvieh-Simmental;465;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;737;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;52;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;47741;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;4786;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;1582;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS2;Rinderrassen;RIN-DO-09;Dexter;297;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;22929;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-DO-02;Braunvieh;1690;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;60;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS2;Rinderrassen;RIN-FL-03;Charolais;7;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;7;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;3;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;1299182;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;9312;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;989;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-06;Sonstige Milchnutzungsrassen;347;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-DO-07;Vorderwälder;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;703;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;50;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;249179;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-MI-01;Holstein-Schwarzbunt;1269;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;1218;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;103;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;15673;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-DO-01;Fleckvieh;960;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;70223;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;1798;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;92002;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS2;Rinderrassen;RIN-DO-08;Sonstige Doppelnutzungsrassen;12706;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS2;Rinderrassen;RIN-MI-05;Deutsche Schwarzbunte alter Zuchtrichtung;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;1230;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS2;Rinderrassen;RIN-FL-08;Büffel, Bison/Wisent;105;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS2;Rinderrassen;RIN-FL-06;Galloway;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;28475;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS2;Rinderrassen;RIN-DO-03;Kreuzung Fleischrind mit Milchrind;2539;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;12183;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS2;Rinderrassen;RIN-MI-03;Kreuzung Milchrind mit Milchrind;1211;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;38272;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS2;Rinderrassen;RIN-FL-01;Kreuzung Fleischrind mit Fleischrind;2106;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS2;Rinderrassen;RIN-DO-05;Sonstige Kreuzungen;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;18;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;1564;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;958;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;266840;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;2291;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;70669;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;737;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;11545;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;189;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;3080;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;23;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;426;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;61;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;1799;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;17439;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;210249;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;1532;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;149966;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;;Insgesamt;566;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;;Insgesamt;37371;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;;Insgesamt;2609;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;;Insgesamt;258589;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;33116;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;2280700;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;4248;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;222194;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;;Insgesamt;6022;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;;Insgesamt;412910;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;10403;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;1466277;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;522;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;15315;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;;Insgesamt;14914;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;;Insgesamt;1234083;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;1674;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;292288;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;;Insgesamt;26;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;;Insgesamt;689;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;25;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;531;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;;Insgesamt;69;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;;Insgesamt;7606;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;15323;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;466378;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;78;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;3154;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;10067;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;450302;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;10559;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;197445;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;7314;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;276766;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;985;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;222278;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;44;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;5381;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;30;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;406;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;;Insgesamt;6258;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;;Insgesamt;867094;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;8331;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;195027;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;5;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;16;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;1343;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;20132;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;3413;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;87909;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;3245;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;176877;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;;Insgesamt;13637;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINRS1;Rinderrassen;;Insgesamt;869941;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;5615;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;218626;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;751;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;152079;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;1571;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;21755;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;3810;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;103228;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;;Insgesamt;17618;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINRS1;Rinderrassen;;Insgesamt;2209421;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;5;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;142;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;929;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;13020;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;6128;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;134206;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;6783;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;644662;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;2563;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;74288;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;;Insgesamt;4156;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINRS1;Rinderrassen;;Insgesamt;274949;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;3322;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;56351;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;;Insgesamt;3595;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINRS1;Rinderrassen;;Insgesamt;412175;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;2376;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;178253;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;;Insgesamt;3801;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINRS1;Rinderrassen;;Insgesamt;260120;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;3635;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;574180;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;5275;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;101899;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;;Insgesamt;83;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINRS1;Rinderrassen;;Insgesamt;5124;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;2059;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;18723;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;;Insgesamt;36898;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINRS1;Rinderrassen;;Insgesamt;2685976;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;2707;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;154299;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;;Insgesamt;6981;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINRS1;Rinderrassen;;Insgesamt;368810;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;766;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;176375;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;;Insgesamt;3038;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;;Insgesamt;447643;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;950;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;26504;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;6517;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;RIN-DO;Doppelnutzungsrassen;228038;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;196;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINRS1;Rinderrassen;RIN-MI;Milchnutzungsrassen;18976;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;13125;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINRS1;Rinderrassen;RIN-FL;Fleischnutzungsrassen;361383;Anzahl;RIN001;Rinder

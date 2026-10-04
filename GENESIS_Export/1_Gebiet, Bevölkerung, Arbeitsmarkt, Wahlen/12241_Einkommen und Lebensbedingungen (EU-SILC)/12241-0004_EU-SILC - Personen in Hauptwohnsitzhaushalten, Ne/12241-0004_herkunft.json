@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-0004",
+  "titel": "EU-SILC - Personen in Hauptwohnsitzhaushalten, Nettoäquivalenzeinkommen: Deutschland, Jahre, Haushaltstyp",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "07.02.2025 15:53:34h",
+  "abgerufen_am": "2026-09-28T16:36:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-0004_flatfile.csv": "2c165585694aba7db9773dc7618db69bb8b771aa2aee8bc9898c57b734a5198f"
+  },
+  "bytes": 4270,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-0004"
+}

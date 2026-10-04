@@ -1,0 +1,28 @@
+{
+  "tabelle": "32137-0010",
+  "titel": "Verkaufs-, Transport- und Umverpackungen, Pfandpflichtige Einweggetränkeverpackungen: Bundesländer, Jahre, Verwertungsarten, Art des Verpackungsmaterials",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32137",
+  "alle_statistiken": [
+    "32137"
+  ],
+  "stand_genesis": "26.02.2025 11:25:04h",
+  "abgerufen_am": "2026-09-28T18:10:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32137-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32137-0010_flatfile.csv": "fa4f51e0cd4f8d6698bc3d1f9fd1f172c159613c62f565c8ed5a2385ba5c88b1"
+  },
+  "bytes": 563671,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32137/table/32137-0010"
+}

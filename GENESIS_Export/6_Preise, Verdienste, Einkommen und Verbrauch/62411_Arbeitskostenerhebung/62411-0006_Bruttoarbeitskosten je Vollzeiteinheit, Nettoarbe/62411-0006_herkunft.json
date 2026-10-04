@@ -1,0 +1,28 @@
+{
+  "tabelle": "62411-0006",
+  "titel": "Bruttoarbeitskosten je Vollzeiteinheit, Nettoarbeitskosten je geleistete Stunde: Bundesländer, Jahre, Unternehmensgrößenklassen, Wirtschaftszweige",
+  "zeitraum": "2008 - 2020",
+  "statistik": "62411",
+  "alle_statistiken": [
+    "62411"
+  ],
+  "stand_genesis": "28.12.2022 19:23:30h",
+  "abgerufen_am": "2026-09-28T20:43:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62411-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62411-0006_flatfile.csv": "f525fd45aafb3e2d5cf0eeee522d75630ef3adb24ddf182dd94c405e25480860"
+  },
+  "bytes": 7595621,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62411/table/62411-0006"
+}

@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T19:35:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "47415-0006",
+    "Content": "Unternehmen (ab 250.000 EUR Umsatz): Deutschland, Jahre,\nRechtsform, Wirtschaftszweige (WZ2008 2-4-Steller\nHierarchie)",
+    "Time": {
+      "From": "2008",
+      "To": "2020"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "47415",
+        "Content": "Strukturerhebung im Dienstleistungsbereich",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "UNT013",
+          "Content": "Unternehmen (ab 250.000 EUR Umsatz)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UNTRF2",
+              "Content": "Rechtsform",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08N4",
+          "Content": "WZ2008 (4-Steller): Dienstleistungen",
+          "Type": "Merkmal",
+          "Values": "113",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:01:59h"
+  }
+}

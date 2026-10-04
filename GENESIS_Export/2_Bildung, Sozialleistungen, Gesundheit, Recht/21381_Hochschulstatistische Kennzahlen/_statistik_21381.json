@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:17:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21381",
+    "Content": "Hochschulstatistische Kennzahlen",
+    "Cubes": "11",
+    "Variables": "15",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": null,
+    "Updated": "28.09.2026 08:00:04h"
+  }
+}

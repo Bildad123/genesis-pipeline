@@ -1,0 +1,28 @@
+{
+  "tabelle": "21521-0003",
+  "titel": "Teilnahmequote an Lehrveranstaltungen in Unternehmen: Deutschland, Jahre, Geschlecht, Wirtschaftsbereiche",
+  "zeitraum": "2015 - 2020",
+  "statistik": "21521",
+  "alle_statistiken": [
+    "21521"
+  ],
+  "stand_genesis": "28.12.2022 19:41:18h",
+  "abgerufen_am": "2026-09-28T17:13:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21521-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21521-0003_flatfile.csv": "e1775ee2f079e1e25a3320182c4d14f0e0162f89dcc1aef0af5863f8bc15587d"
+  },
+  "bytes": 19665,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21521/table/21521-0003"
+}

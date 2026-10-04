@@ -1,0 +1,28 @@
+{
+  "tabelle": "22518-0011",
+  "titel": "Verfahren zur Einschätzung der Kindeswohlgefährdung: Bundesländer, Jahre, Gefährdungseinschätzung, Art der Kindeswohlgefährdung",
+  "zeitraum": "2012 - 2025",
+  "statistik": "22518",
+  "alle_statistiken": [
+    "22518"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:32:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22518-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22518-0011_flatfile.csv": "6bc9f7ee93f2756d5713ab5807e04544b162d9e06f951a660e322a5a30fe1fcc"
+  },
+  "bytes": 41687,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22518/table/22518-0011"
+}

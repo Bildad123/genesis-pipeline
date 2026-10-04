@@ -1,0 +1,28 @@
+{
+  "tabelle": "41312-0015",
+  "titel": "Haltungen mit Kälbern und Jungrindern: Bundesländer, Stichmonat, Bestandsgrößenklassen",
+  "zeitraum": "05/2010 - 05/2026",
+  "statistik": "41312",
+  "alle_statistiken": [
+    "41312"
+  ],
+  "stand_genesis": "06.02.2023 15:47:37h",
+  "abgerufen_am": "2026-09-28T18:38:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41312-0015",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41312-0015_flatfile.csv": "e9fd510bd57a7c3aed31cfdccd43b4d2f4da0f107cb1f437c6db398332e264d1"
+  },
+  "bytes": 39663,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41312/table/41312-0015"
+}

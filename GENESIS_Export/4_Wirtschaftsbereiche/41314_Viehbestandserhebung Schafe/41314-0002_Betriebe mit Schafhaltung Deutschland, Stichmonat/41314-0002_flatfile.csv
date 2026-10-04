@@ -1,0 +1,11 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;250;Anzahl;BTR052;Betriebe mit Schafhaltung
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;389800;Anzahl;SCA001;Schafe
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;;Insgesamt;9380;Anzahl;BTR052;Betriebe mit Schafhaltung
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;;Insgesamt;1524900;Anzahl;SCA001;Schafe
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;4430;Anzahl;BTR052;Betriebe mit Schafhaltung
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;143500;Anzahl;SCA001;Schafe
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;580;Anzahl;BTR052;Betriebe mit Schafhaltung
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;406200;Anzahl;SCA001;Schafe
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE0050B0499;50 bis 499 Tiere;4120;Anzahl;BTR052;Betriebe mit Schafhaltung
+41314;Viehbestandserhebung Schafe;SMONAT;Stichmonat;2025-11P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB01;Bestandsgrößenklassen;TIE0050B0499;50 bis 499 Tiere;585400;Anzahl;SCA001;Schafe

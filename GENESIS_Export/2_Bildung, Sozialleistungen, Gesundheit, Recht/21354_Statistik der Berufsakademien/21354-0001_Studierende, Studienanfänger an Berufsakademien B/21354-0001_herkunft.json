@@ -1,0 +1,28 @@
+{
+  "tabelle": "21354-0001",
+  "titel": "Studierende, Studienanfänger an Berufsakademien: Bundesländer, Jahre, Nationalität, Geschlecht",
+  "zeitraum": "2017 - 2025",
+  "statistik": "21354",
+  "alle_statistiken": [
+    "21354"
+  ],
+  "stand_genesis": "28.12.2022 17:59:52h",
+  "abgerufen_am": "2026-09-28T17:07:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21354-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21354-0001_flatfile.csv": "60220fbb1cbf88082622a9c617a3ea555d4663c9d660231940fc25560dfc4f34"
+  },
+  "bytes": 54659,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21354/table/21354-0001"
+}

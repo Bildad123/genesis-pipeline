@@ -1,0 +1,28 @@
+{
+  "tabelle": "21811-0007",
+  "titel": "Personal für Forschung und Entwicklung (Vollzeitäquivalente): Deutschland, Jahre, Personalgruppen, Wissenschaftszweige",
+  "zeitraum": "2019 - 2024",
+  "statistik": "21811",
+  "alle_statistiken": [
+    "21811"
+  ],
+  "stand_genesis": "10.12.2025 11:05:10h",
+  "abgerufen_am": "2026-09-28T17:17:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21811-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21811-0007_flatfile.csv": "809299215b1d6a92e795380a3be936cee4ce77f54a7c14739e7dc3b3d7dd77eb"
+  },
+  "bytes": 8699,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21811/table/21811-0007"
+}

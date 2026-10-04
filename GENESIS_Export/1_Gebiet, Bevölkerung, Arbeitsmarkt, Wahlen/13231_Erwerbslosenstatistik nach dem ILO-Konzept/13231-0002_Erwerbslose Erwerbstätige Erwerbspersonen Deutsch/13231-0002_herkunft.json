@@ -1,0 +1,28 @@
+{
+  "tabelle": "13231-0002",
+  "titel": "Erwerbslose/Erwerbstätige/Erwerbspersonen: Deutschland, Monate, Geschlecht, Altersgruppen, Original- und bereinigte Daten",
+  "zeitraum": "Januar 1991 - Juli 2026",
+  "statistik": "13231",
+  "alle_statistiken": [
+    "13231"
+  ],
+  "stand_genesis": "28.12.2022 19:59:49h",
+  "abgerufen_am": "2026-09-28T16:58:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13231-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13231-0002_flatfile.csv": "34ea7422e324ae48da4fbd9a5715f75cef6c642779de8e94a77d8f5105023280"
+  },
+  "bytes": 195031,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13231/table/13231-0002"
+}

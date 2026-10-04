@@ -1,0 +1,28 @@
+{
+  "tabelle": "23111-0002",
+  "titel": "Personal in Krankenhäusern: Deutschland, Stichtag",
+  "zeitraum": "31.12.1991 - 31.12.2024",
+  "statistik": "23111",
+  "alle_statistiken": [
+    "23111"
+  ],
+  "stand_genesis": "28.12.2022 17:30:45h",
+  "abgerufen_am": "2026-09-28T17:48:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23111-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23111-0002_flatfile.csv": "233328cc60adc0bc960e3c6f93404ef5951e6a224164ae4f4326724980ce2530"
+  },
+  "bytes": 20577,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23111/table/23111-0002"
+}

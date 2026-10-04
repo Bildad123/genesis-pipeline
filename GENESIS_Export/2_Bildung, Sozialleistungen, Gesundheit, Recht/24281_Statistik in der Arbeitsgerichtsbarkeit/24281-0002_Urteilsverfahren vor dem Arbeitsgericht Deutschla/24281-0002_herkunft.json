@@ -1,0 +1,28 @@
+{
+  "tabelle": "24281-0002",
+  "titel": "Urteilsverfahren vor dem Arbeitsgericht: Deutschland, Jahre, Stand der Erledigung",
+  "zeitraum": "2017 - 2024",
+  "statistik": "24281",
+  "alle_statistiken": [
+    "24281"
+  ],
+  "stand_genesis": "23.11.2023 14:48:15h",
+  "abgerufen_am": "2026-09-28T18:00:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24281-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24281-0002_flatfile.csv": "e46634e2577105ffa9234efad8fe5c1ed91d21e8070c655441b7f2ae2a71a34e"
+  },
+  "bytes": 10034,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24281/table/24281-0002"
+}

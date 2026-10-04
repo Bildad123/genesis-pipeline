@@ -1,0 +1,28 @@
+{
+  "tabelle": "32251-0001",
+  "titel": "Einwohner mit Anschluss an die öffentliche Kanalisation, Einwohner mit Anschluss an zentrale Abwasserbehandlungsanlagen: Bundesländer, Jahre",
+  "zeitraum": "2007 - 2022",
+  "statistik": "32251",
+  "alle_statistiken": [
+    "32251"
+  ],
+  "stand_genesis": "16.10.2024 16:02:58h",
+  "abgerufen_am": "2026-09-28T18:13:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32251-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32251-0001_flatfile.csv": "a2a7bf0aa2da94d4e8881ea4f7b8919ff9ee73624d6bf7287326f7fbc006d024"
+  },
+  "bytes": 8696,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32251/table/32251-0001"
+}

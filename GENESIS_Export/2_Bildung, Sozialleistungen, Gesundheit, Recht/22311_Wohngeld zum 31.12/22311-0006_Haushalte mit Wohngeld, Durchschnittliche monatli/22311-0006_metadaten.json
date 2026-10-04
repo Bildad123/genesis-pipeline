@@ -1,0 +1,125 @@
+{
+  "abgerufen_am": "2026-09-28T17:28:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22311-0006",
+    "Content": "Haushalte mit Wohngeld, Durchschnittliche monatliche Miete,\nDurchschnittliches Wohngeld, Durchschnittliche Wohnfläche:\nDeutschland, Stichtag, Wohngeldart, Mietenstufe, Wohnfläche",
+    "Time": {
+      "From": "31.12.2005",
+      "To": "31.12.2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22311",
+        "Content": "Wohngeld zum 31.12.",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "WHGAT3",
+          "Content": "Wohngeldart",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "HSH009",
+              "Content": "Haushalte mit Wohngeld",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "MIT003",
+              "Content": "Durchschnittliche monatliche Miete",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WHG005",
+              "Content": "Durchschnittliches Wohngeld",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "FLC053",
+              "Content": "Durchschnittliche Wohnfläche",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "MITST1",
+          "Content": "Mietenstufe der Gemeinde",
+          "Type": "Merkmal",
+          "Values": "7",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "FLCWO1",
+              "Content": "Wohnfläche",
+              "Type": "Merkmal",
+              "Values": "6",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 20:45:19h"
+  }
+}

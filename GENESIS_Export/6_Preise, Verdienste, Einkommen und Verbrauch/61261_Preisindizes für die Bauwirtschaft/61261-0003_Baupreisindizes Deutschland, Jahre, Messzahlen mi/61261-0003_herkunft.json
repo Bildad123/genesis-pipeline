@@ -1,0 +1,28 @@
+{
+  "tabelle": "61261-0003",
+  "titel": "Baupreisindizes: Deutschland, Jahre, Messzahlen mit/ohne Umsatzsteuer, Ingenieurbau, Bauarbeiten (Tiefbau)",
+  "zeitraum": "1958 - 2025",
+  "statistik": "61261",
+  "alle_statistiken": [
+    "61261"
+  ],
+  "stand_genesis": "28.12.2022 17:32:38h",
+  "abgerufen_am": "2026-09-28T20:24:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61261-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61261-0003_flatfile.csv": "0e18efdb722a835cb0ed1b7b5f7e9aa7e3fe57e86911d49c25e6e408e80d452f"
+  },
+  "bytes": 175544,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61261/table/61261-0003"
+}

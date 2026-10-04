@@ -1,0 +1,28 @@
+{
+  "tabelle": "24911-0001",
+  "titel": "Straftaten: Deutschland, Jahre",
+  "zeitraum": "1993 - 2025",
+  "statistik": "24911",
+  "alle_statistiken": [
+    "24911"
+  ],
+  "stand_genesis": "28.12.2022 18:38:40h",
+  "abgerufen_am": "2026-09-28T18:01:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24911-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24911-0001_flatfile.csv": "331fd5db001c83d899b782500242d78740bf98a8c1f563d21e1fda697548afda"
+  },
+  "bytes": 9644,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24911/table/24911-0001"
+}

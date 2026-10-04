@@ -1,0 +1,28 @@
+{
+  "tabelle": "31111-0105",
+  "titel": "Baugenehmigungen neuer Gebäude: Bundesländer, Jahre, Gebäudeart, Überwiegend verwendeter Baustoff",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31111",
+  "alle_statistiken": [
+    "31111"
+  ],
+  "stand_genesis": "20.06.2024 11:22:42h",
+  "abgerufen_am": "2026-09-28T18:04:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31111-0105",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31111-0105_flatfile.csv": "e82c445d4359a384468333a4610e0e0cae307eed75bf85dcab89db4b8eb8eb87"
+  },
+  "bytes": 1613784,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31111/table/31111-0105"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "45212-0004",
+  "titel": "Umsatzindex im Einzelhandel: Deutschland, Monate/Quartale/Halbjahre, Preisarten, Wirtschaftszweige",
+  "zeitraum": "Januar 1994 - Juli 2026",
+  "statistik": "45212",
+  "alle_statistiken": [
+    "45212"
+  ],
+  "stand_genesis": "26.06.2026 17:45:18h",
+  "abgerufen_am": "2026-09-28T19:11:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45212-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45212-0004_flatfile.csv": "fc15647b0e763a0cb2111c45ceadda01bcad498c69857ab93d10df047fe20649"
+  },
+  "bytes": 968579,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45212/table/45212-0004"
+}

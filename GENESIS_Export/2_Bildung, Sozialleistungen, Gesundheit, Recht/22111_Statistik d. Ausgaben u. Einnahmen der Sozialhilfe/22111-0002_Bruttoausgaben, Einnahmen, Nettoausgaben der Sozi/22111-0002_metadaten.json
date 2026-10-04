@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T17:18:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22111-0002",
+    "Content": "Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe:\nDeutschland, Jahre, Ort der Leistungserbringung",
+    "Time": {
+      "From": "1994",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22111",
+        "Content": "Statistik d. Ausgaben u. Einnahmen der Sozialhilfe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "HILGW1",
+          "Content": "Ort der Leistungserbringung",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BAG001",
+              "Content": "Bruttoausgaben",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "ENM001",
+              "Content": "Einnahmen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "ASG010",
+              "Content": "Nettoausgaben",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 21:36:28h"
+  }
+}

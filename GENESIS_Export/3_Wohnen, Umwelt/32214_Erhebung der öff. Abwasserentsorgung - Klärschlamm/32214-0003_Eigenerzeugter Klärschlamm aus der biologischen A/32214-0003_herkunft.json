@@ -1,0 +1,28 @@
+{
+  "tabelle": "32214-0003",
+  "titel": "Eigenerzeugter Klärschlamm aus der biologischen Abwasserbehandlung: Deutschland, Jahre",
+  "zeitraum": "2006 - 2024",
+  "statistik": "32214",
+  "alle_statistiken": [
+    "32214"
+  ],
+  "stand_genesis": "27.01.2026 12:30:28h",
+  "abgerufen_am": "2026-09-28T18:13:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32214-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32214-0003_flatfile.csv": "16d76af0be0eb4fdb26618d7b0d3c754fcdb5cdd330a61d56fc7f04d9b8adace"
+  },
+  "bytes": 16928,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32214/table/32214-0003"
+}

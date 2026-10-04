@@ -1,0 +1,28 @@
+{
+  "tabelle": "32221-0003",
+  "titel": "Wasseraufkommen: Bundesländer, Jahre, Verwendungsarten",
+  "zeitraum": "2007 - 2022",
+  "statistik": "32221",
+  "alle_statistiken": [
+    "32221"
+  ],
+  "stand_genesis": "28.12.2022 20:24:39h",
+  "abgerufen_am": "2026-09-28T18:13:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32221-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32221-0003_flatfile.csv": "a267c0fef8abfb9517ed4051f47bc2d6e62d6a4ee146c74eac4534e9507a6a45"
+  },
+  "bytes": 11080,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32221/table/32221-0003"
+}

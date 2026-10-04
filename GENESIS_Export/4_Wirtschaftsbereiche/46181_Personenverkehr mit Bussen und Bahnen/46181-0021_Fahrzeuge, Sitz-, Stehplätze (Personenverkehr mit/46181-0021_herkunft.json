@@ -1,0 +1,28 @@
+{
+  "tabelle": "46181-0021",
+  "titel": "Fahrzeuge, Sitz-, Stehplätze (Personenverkehr mit Bussen und Bahnen): Bundesländer, Stichtag, Verkehrsart",
+  "zeitraum": "31.12.2024 - 31.12.2024",
+  "statistik": "46181",
+  "alle_statistiken": [
+    "46181"
+  ],
+  "stand_genesis": "06.01.2026 10:08:56h",
+  "abgerufen_am": "2026-09-28T19:21:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46181-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46181-0021_flatfile.csv": "af0ac3db093e6e4be3b5b9c2052ffd9921f1ff75e372e58249c764cdd8ec9578"
+  },
+  "bytes": 49473,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46181/table/46181-0021"
+}

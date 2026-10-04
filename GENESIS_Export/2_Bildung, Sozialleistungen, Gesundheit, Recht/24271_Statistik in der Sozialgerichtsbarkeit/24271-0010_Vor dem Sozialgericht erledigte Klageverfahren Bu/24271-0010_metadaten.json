@@ -1,0 +1,82 @@
+{
+  "abgerufen_am": "2026-09-28T18:00:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "24271-0010",
+    "Content": "Vor dem Sozialgericht erledigte Klageverfahren:\nBundesländer, Jahre, Art der Erledigung, Sachgebiete",
+    "Time": {
+      "From": "2017",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "24271",
+        "Content": "Statistik in der Sozialgerichtsbarkeit",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "VRF004",
+            "Content": "Vor dem Sozialgericht erledigte Klageverfahren",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "SGSOZ1",
+          "Content": "Sachgebiete",
+          "Type": "Merkmal",
+          "Values": "17",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ERLAT3",
+          "Content": "Art der Erledigung",
+          "Type": "Merkmal",
+          "Values": "13",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "10.11.2023 12:26:31h"
+  }
+}

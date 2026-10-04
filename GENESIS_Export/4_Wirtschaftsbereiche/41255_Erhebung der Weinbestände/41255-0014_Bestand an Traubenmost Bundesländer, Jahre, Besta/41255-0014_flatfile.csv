@@ -1,0 +1,145 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;54;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;6;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;5260;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;640;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;5254;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;6;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;640;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;685;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;1326;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;45;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;6;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;5201;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;3444;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;634;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;2118;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;59;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;39;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;6;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;1371;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BSORT1;Bestandsort;BST-HANDEL;Bestand beim Handel;REBSO2;Rebsorte;;Insgesamt;5201;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BSORT1;Bestandsort;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;679;hl;WEI003;Bestand an Traubenmost
+41255;Erhebung der Weinbestände;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BSORT1;Bestandsort;BST-ERZEUGER;Bestand beim Erzeuger;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;WEI003;Bestand an Traubenmost

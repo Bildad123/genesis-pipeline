@@ -1,0 +1,28 @@
+{
+  "tabelle": "49911-0017",
+  "titel": "Durchgeführte Trichinenuntersuchungen bei Schwarzwild: Deutschland, Halbjahre, Herkunft, Ergebnisse der Trichinenuntersuchungen",
+  "zeitraum": "1. Halbjahr 2019 - 2. Halbjahr 2025",
+  "statistik": "49911",
+  "alle_statistiken": [
+    "49911"
+  ],
+  "stand_genesis": "29.12.2022 08:40:29h",
+  "abgerufen_am": "2026-09-28T19:42:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "49911-0017",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "49911-0017_flatfile.csv": "ae09d016d34f46ac2c50cb83aa651a09fe49027eeaf664b950639a60227318c6"
+  },
+  "bytes": 3191,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/49911/table/49911-0017"
+}

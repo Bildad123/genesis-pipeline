@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0024",
+  "titel": "Lebendgeborene: Deutschland, Jahre, Lebendgeburtenfolge",
+  "zeitraum": "2009 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "04.04.2025 16:28:37h",
+  "abgerufen_am": "2026-09-28T16:53:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0024",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0024_flatfile.csv": "9f5d551c7757fa9fe31b4b941328ecd2d82a79abb4507a57c083ae163db3e0bf"
+  },
+  "bytes": 14861,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0024"
+}

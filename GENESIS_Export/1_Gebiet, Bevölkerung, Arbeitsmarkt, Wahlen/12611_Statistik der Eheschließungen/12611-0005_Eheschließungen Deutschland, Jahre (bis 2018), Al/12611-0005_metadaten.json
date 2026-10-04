@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T16:51:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12611-0005",
+    "Content": "Eheschließungen: Deutschland, Jahre (bis 2018), Alter der\nEhefrau, Alter des Ehemannes",
+    "Time": {
+      "From": "2005",
+      "To": "2018"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12611",
+        "Content": "Statistik der Eheschließungen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "BEV003",
+                "Content": "Eheschließungen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ALTEF4",
+          "Content": "Alter der Ehefrau",
+          "Type": "Merkmal",
+          "Values": "14",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ALTEM4",
+          "Content": "Alter des Ehemannes",
+          "Type": "Merkmal",
+          "Values": "14",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "23.03.2026 15:51:02h"
+  }
+}

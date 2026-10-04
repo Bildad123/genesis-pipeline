@@ -1,0 +1,28 @@
+{
+  "tabelle": "21381-0011",
+  "titel": "Studienanfängerquote (Hochschulzugangsberechtigung): Bundesländer, Jahre, Geschlecht",
+  "zeitraum": "2000 - 2024",
+  "statistik": "21381",
+  "alle_statistiken": [
+    "21381"
+  ],
+  "stand_genesis": "28.12.2022 17:48:25h",
+  "abgerufen_am": "2026-09-28T17:09:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21381-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21381-0011_flatfile.csv": "888ae34064d012063be0a3dffdea1e5b57ff7a51ba0202ad215de7d3e445feee"
+  },
+  "bytes": 227042,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21381/table/21381-0011"
+}

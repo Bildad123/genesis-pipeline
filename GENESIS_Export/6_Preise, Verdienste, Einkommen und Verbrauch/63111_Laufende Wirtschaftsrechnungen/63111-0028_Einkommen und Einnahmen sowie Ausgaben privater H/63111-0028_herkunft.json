@@ -1,0 +1,28 @@
+{
+  "tabelle": "63111-0028",
+  "titel": "Einkommen und Einnahmen sowie Ausgaben privater Haushalte (LWR): Früheres Bundesgebiet/Neue Länder, Jahre (bis 2012), Soziale Stellung des Haupteinkommensbeziehers",
+  "zeitraum": "2000 - 2012",
+  "statistik": "63111",
+  "alle_statistiken": [
+    "63111"
+  ],
+  "stand_genesis": "05.02.2026 13:05:53h",
+  "abgerufen_am": "2026-09-28T20:45:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63111-0028",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63111-0028_flatfile.csv": "a7f7c471ae79b6a22697567cfbf05cbfac8be0aae037beedb4e5eeaf2e1a61cf"
+  },
+  "bytes": 37751,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63111/table/63111-0028"
+}

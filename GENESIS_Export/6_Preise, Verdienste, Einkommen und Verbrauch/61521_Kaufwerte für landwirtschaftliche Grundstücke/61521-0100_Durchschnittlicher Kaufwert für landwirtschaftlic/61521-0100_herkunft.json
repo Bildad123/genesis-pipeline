@@ -1,0 +1,28 @@
+{
+  "tabelle": "61521-0100",
+  "titel": "Durchschnittlicher Kaufwert für landwirtschaftliche Grundstücke: Deutschland, Jahre (bis 2020), Größenklassen der Ertragsmesszahlen, Größenklassen der veräußerten Fläche",
+  "zeitraum": "1991 - 2020",
+  "statistik": "61521",
+  "alle_statistiken": [
+    "61521"
+  ],
+  "stand_genesis": "01.02.2023 14:01:52h",
+  "abgerufen_am": "2026-09-28T20:35:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61521-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61521-0100_flatfile.csv": "d394162b0687a4eb5a90c5178eb46f9dfd14fd7b654ee0b6b56fae82e13ce70d"
+  },
+  "bytes": 22146,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61521/table/61521-0100"
+}

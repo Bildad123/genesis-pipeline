@@ -1,0 +1,28 @@
+{
+  "tabelle": "14111-0004",
+  "titel": "Gültige Erststimmen, gültige Zweitstimmen (Allgemeine Bundestagswahlstatistik): Bundesländer, Stichtag, Parteien",
+  "zeitraum": "22.09.2013 - 23.02.2025",
+  "statistik": "14111",
+  "alle_statistiken": [
+    "14111"
+  ],
+  "stand_genesis": "28.12.2022 18:48:23h",
+  "abgerufen_am": "2026-09-28T16:59:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "14111-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "14111-0004_flatfile.csv": "53c21400dc0a7072c2ee6c689c0d8aba94d5592f990ea905ff420fc3abb63043"
+  },
+  "bytes": 1145769,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/14111/table/14111-0004"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "32214-0002",
+  "titel": "Entsorgter Klärschlamm aus der biologischen Abwasserbehandlung: Deutschland, Jahre, Ort der Klärschlammentsorgung",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32214",
+  "alle_statistiken": [
+    "32214"
+  ],
+  "stand_genesis": "27.01.2026 12:30:20h",
+  "abgerufen_am": "2026-09-28T18:13:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32214-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32214-0002_flatfile.csv": "c2cc34ae1a5b9831810d49cf6f11e698fe9a63b966596aeace100736b1eb7455"
+  },
+  "bytes": 3400,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32214/table/32214-0002"
+}

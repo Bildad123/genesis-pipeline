@@ -1,0 +1,28 @@
+{
+  "tabelle": "32181-0003",
+  "titel": "Entsorgte Verpackungen: Deutschland, Jahre, Art des Verpackungsmaterials, Verwertungsarten",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32181",
+  "alle_statistiken": [
+    "32181"
+  ],
+  "stand_genesis": "02.05.2025 15:01:00h",
+  "abgerufen_am": "2026-09-28T18:12:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32181-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32181-0003_flatfile.csv": "a6237ec98f2adb39735c36e326f971db18ff2c9d60c534e315b125a932fd3963"
+  },
+  "bytes": 19754,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32181/table/32181-0003"
+}

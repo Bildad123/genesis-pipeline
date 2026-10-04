@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0013",
+  "titel": "Endgültige Kinderzahl (je Frau): Deutschland, Geburtsjahr der Frau, Altersgruppen der Frauen",
+  "zeitraum": "1930 - 1981",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "01.07.2026 13:20:43h",
+  "abgerufen_am": "2026-09-28T16:52:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0013_flatfile.csv": "15112bad1033d5ca73dc40ff3e62d95738e88ddc111000303919a34eb6b3a1fb"
+  },
+  "bytes": 23068,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0013"
+}

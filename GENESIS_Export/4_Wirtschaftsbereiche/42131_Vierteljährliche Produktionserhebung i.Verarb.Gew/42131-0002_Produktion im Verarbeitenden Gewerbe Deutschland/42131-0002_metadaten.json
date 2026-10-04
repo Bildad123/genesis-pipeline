@@ -1,0 +1,184 @@
+{
+  "abgerufen_am": "2026-09-28T18:53:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "42131-0002",
+    "Content": "Produktion im Verarbeitenden Gewerbe: Deutschland, Quartale,\nGüterverzeichnis (9-Steller)",
+    "Time": {
+      "From": "2026",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "42131",
+        "Content": "Vierteljährliche Produktionserhebung i.Verarb.Gew.",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "QUARTG",
+          "Content": "Quartale",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "PRODAW",
+              "Content": "Wert der zum Absatz bestimmten Produktion",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO006",
+              "Content": "Gewicht der zum Absatz bestimmten Produktion",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO007",
+              "Content": "Gewicht der zum Absatz bestimmten Produktion (kg)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO008",
+              "Content": "Menge der zum Absatz bestimmten Produktion",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO005",
+              "Content": "Menge der zum Absatz bestimmten Produktion (BM)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "UNT006",
+              "Content": "Unternehmen mit zum Absatz bestimmter Produktion",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO010",
+              "Content": "Gewicht der Gesamtproduktion",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO011",
+              "Content": "Gewicht der Gesamtproduktion (kg)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO012",
+              "Content": "Menge der Gesamtproduktion (Stück)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRO009",
+              "Content": "Menge der Gesamtproduktion (BM)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "UNT005",
+              "Content": "Unternehmen mit Produktion",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GP26P9",
+          "Content": "GP2026 (9-Steller (Arten))",
+          "Type": "Merkmal",
+          "Values": "5161",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "08.07.2026 13:11:16h"
+  }
+}

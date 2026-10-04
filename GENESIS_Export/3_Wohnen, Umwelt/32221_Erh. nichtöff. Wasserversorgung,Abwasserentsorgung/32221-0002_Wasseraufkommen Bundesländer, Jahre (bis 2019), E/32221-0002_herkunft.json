@@ -1,0 +1,28 @@
+{
+  "tabelle": "32221-0002",
+  "titel": "Wasseraufkommen: Bundesländer, Jahre (bis 2019), Eigengewinnung und Fremdbezug",
+  "zeitraum": "2007 - 2019",
+  "statistik": "32221",
+  "alle_statistiken": [
+    "32221"
+  ],
+  "stand_genesis": "20.02.2025 16:43:42h",
+  "abgerufen_am": "2026-09-28T18:13:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32221-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32221-0002_flatfile.csv": "8775f82407469e16455d7b85fa9f5934bfed052057fe4b698082dc58849605c2"
+  },
+  "bytes": 37086,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32221/table/32221-0002"
+}

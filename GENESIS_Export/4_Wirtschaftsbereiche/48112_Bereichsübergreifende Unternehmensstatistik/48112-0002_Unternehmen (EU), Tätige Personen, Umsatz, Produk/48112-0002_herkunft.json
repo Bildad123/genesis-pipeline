@@ -1,0 +1,28 @@
+{
+  "tabelle": "48112-0002",
+  "titel": "Unternehmen (EU), Tätige Personen, Umsatz, Produktionswert und weitere betriebswirtschaftliche Kennzahlen: Deutschland, Jahre, Wirtschaftszweige (WZ2008 1-4-Steller Hierarchie)",
+  "zeitraum": "2018 - 2024",
+  "statistik": "48112",
+  "alle_statistiken": [
+    "48112"
+  ],
+  "stand_genesis": "18.07.2025 16:50:51h",
+  "abgerufen_am": "2026-09-28T19:39:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "48112-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "48112-0002_flatfile.csv": "3236af6475de6116c3198484a988a14abfaf8cffb4efc39c7e85c6d1f9629a29"
+  },
+  "bytes": 3648049,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/48112/table/48112-0002"
+}

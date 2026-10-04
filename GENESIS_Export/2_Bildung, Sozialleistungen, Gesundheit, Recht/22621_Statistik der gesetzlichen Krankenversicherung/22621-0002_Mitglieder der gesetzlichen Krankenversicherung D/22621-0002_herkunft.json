@@ -1,0 +1,28 @@
+{
+  "tabelle": "22621-0002",
+  "titel": "Mitglieder der gesetzlichen Krankenversicherung: Deutschland, Jahre, Kassenart, Mitgliedsart, Geschlecht",
+  "zeitraum": "1991 - 2024",
+  "statistik": "22621",
+  "alle_statistiken": [
+    "22621"
+  ],
+  "stand_genesis": "28.12.2022 17:11:45h",
+  "abgerufen_am": "2026-09-28T17:40:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22621-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22621-0002_flatfile.csv": "1169f1c23c1338c87daad910191f43fdcdc9c6ca0aa1c169c2f2389ac9e4b405"
+  },
+  "bytes": 540700,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22621/table/22621-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22543-0006",
+  "titel": "Kinder in öffentlich geförderter Kindertagespflege: Deutschland, Stichtag, Geschlecht, Art der öffentlichen Finanzierung bzw. Förderung",
+  "zeitraum": "01.03.2012 - 01.03.2025",
+  "statistik": "22543",
+  "alle_statistiken": [
+    "22543"
+  ],
+  "stand_genesis": "21.10.2025 13:35:02h",
+  "abgerufen_am": "2026-09-28T17:39:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22543-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22543-0006_flatfile.csv": "986ccd225142b28cb7e4876840433a5bdd8bd094708a1ad2cc907a6b0ad388f0"
+  },
+  "bytes": 108483,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22543/table/22543-0006"
+}

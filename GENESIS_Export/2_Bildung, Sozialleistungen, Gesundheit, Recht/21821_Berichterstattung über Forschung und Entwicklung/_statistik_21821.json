@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:17:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21821",
+    "Content": "Berichterstattung über Forschung und Entwicklung",
+    "Cubes": "5",
+    "Variables": "9",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Allgemeine Angaben zur Statistik\n================================\n\nBezeichnung der Statistik: \nBerichterstattung über Forschung und Entwicklung (EVAS-Nr.\n21821).\n\nStatistische Einheiten (Darstellungs- und\nErhebungseinheiten):\nFür den Sektor Wirtschaft wird ab dem Berichtsjahr 2023 das\nStatistische Unternehmen dargestellt.\n\nRäumliche Abdeckung:\nDie regionale Gliederung der Daten erfolgt auf der Ebene des\nBundesgebietes sowie der Bundesländer.\n\nPeriodizität:\nDie Berichterstattung über Forschung und Entwicklung erfolgt\nseit 1999 jährlich.\n\nGeheimhaltung:\nInterne Ausgaben und Personal für Forschung und Entwicklung:\nAb 2023 wurde die Cell-Key-Methode zur statistischen\nGeheimhaltung eingesetzt, um Rückschlüsse auf Einzelangaben\nvon Personen und Einrichtungen zu verhindern. Einige\nMerkmalssummen werden daher gegenüber ihrem Originalwert\nleicht verändert ausgewiesen. Dies hat zur Folge, dass sich\ndie ausgewiesenen Einzelwerte in der Tabelle nicht\nnotwendigerweise zu den ausgewiesenen Summen addieren.\nDieses Vorgehen sichert neben dem Schutz von Einzelangaben\neine hohe Datenqualität.\n\nKontaktinformation: \nStatistisches Bundesamt: www.destatis.de/kontaktformular\n\n\n© Statistisches Bundesamt, Wiesbaden 2025",
+    "Updated": "13.08.2026 16:32:41h"
+  }
+}

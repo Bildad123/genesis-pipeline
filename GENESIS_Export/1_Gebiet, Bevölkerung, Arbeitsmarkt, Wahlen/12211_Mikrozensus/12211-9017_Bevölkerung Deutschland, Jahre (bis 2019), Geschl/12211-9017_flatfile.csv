@@ -1,0 +1,85 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;;Insgesamt;40107;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);379;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);25677;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;827;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);2386;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);2275;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;1513;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;1411;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;768;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);4328;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);21935;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);385;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);4946;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);11363;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);5003;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;1678;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);435;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);5610;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;1645;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);6990;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);14314;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;;Insgesamt;82257;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;;Insgesamt;41649;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);26813;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);9555;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);426;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);493;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;;Insgesamt;81755;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;816;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);4972;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;;Insgesamt;81848;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);13228;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);11802;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);13051;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);11242;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);9828;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);258;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);12202;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);4882;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;829;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);2194;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);9975;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;;Insgesamt;40482;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);299;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;;Insgesamt;41366;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);3232;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);25254;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);2059;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);1905;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);4445;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);13052;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);12289;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);805;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);14557;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;;Insgesamt;41986;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;;Insgesamt;40271;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);5632;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);708;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);24738;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);12937;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);928;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;745;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);26609;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;;Insgesamt;39972;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;;Insgesamt;41433;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);4099;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);12380;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;;Insgesamt;81404;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;851;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;701;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);557;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);6945;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);27281;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);14567;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKLANDW01;Landwirtschaftliche Krankenkassen (LKK);324;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);12256;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);13558;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKBETRIEB01;Betriebskrankenkassen (BKK);13936;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKKNAPP02;Bundesknappschaft, See-Krankenkasse;711;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);2053;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);5998;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKINNUNG01;Innungskrankenkassen (IKK);2766;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;KRKA01;Krankenkassen;KRKARTORT01;Ortskrankenkassen (AOK);27795;1000;BEV020;Bevölkerung
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;KRKA01;Krankenkassen;KRKEK01;Ersatzkassen (EK);14992;1000;BEV020;Bevölkerung

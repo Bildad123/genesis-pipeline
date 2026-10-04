@@ -1,0 +1,28 @@
+{
+  "tabelle": "46421-0002",
+  "titel": "Starts (Flight Stage): Deutschland, Jahre, Berichtsflughafen, Land des Folgeflughafens",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46421",
+  "alle_statistiken": [
+    "46421"
+  ],
+  "stand_genesis": "28.12.2022 17:57:22h",
+  "abgerufen_am": "2026-09-28T19:31:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46421-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46421-0002_flatfile.csv": "fceb17d2926ed25442ff783c23d12bdd37af89f019bb848f4ba9b30e31d40512"
+  },
+  "bytes": 1497646,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46421/table/46421-0002"
+}

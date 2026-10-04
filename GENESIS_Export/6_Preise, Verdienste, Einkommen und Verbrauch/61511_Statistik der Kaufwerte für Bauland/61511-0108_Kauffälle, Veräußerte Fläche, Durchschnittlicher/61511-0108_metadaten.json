@@ -1,0 +1,104 @@
+{
+  "abgerufen_am": "2026-09-28T20:34:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "61511-0108",
+    "Content": "Kauffälle, Veräußerte Fläche, Durchschnittlicher Kaufwert\nfür Bauland: Deutschland, Jahre (bis 2020), Baulandarten,\nVerwandtschaftsverhältnis",
+    "Time": {
+      "From": "2010",
+      "To": "2020"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "61511",
+        "Content": "Statistik der Kaufwerte für Bauland",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "KAU002",
+          "Content": "Kauffälle",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FLC023",
+          "Content": "Veräußerte Fläche",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "KAU004",
+          "Content": "Durchschnittlicher Kaufwert",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BAULA2",
+          "Content": "Baulandarten",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "VWTVH1",
+              "Content": "Verwandtschaftsverhältnis",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 19:28:03h"
+  }
+}

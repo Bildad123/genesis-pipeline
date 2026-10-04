@@ -1,0 +1,28 @@
+{
+  "tabelle": "42321-0003",
+  "titel": "Inlandsabsatz von Düngemitteln: Deutschland, Quartale, Düngemittelsorten",
+  "zeitraum": "3. Quartal 2010 - 2. Quartal 2026",
+  "statistik": "42321",
+  "alle_statistiken": [
+    "42321"
+  ],
+  "stand_genesis": "09.02.2022 14:06:52h",
+  "abgerufen_am": "2026-09-28T19:03:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42321-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42321-0003_flatfile.csv": "2030592b6ac868989ebc9c42b0d2069473b8f646d0a4b6400e3ad98ce963d39a"
+  },
+  "bytes": 42819,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42321/table/42321-0003"
+}

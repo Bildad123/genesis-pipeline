@@ -1,0 +1,28 @@
+{
+  "tabelle": "41241-0010",
+  "titel": "Anbaufläche, Erntemenge, Ertrag je Hektar (Feldfrüchte und Grünland): Bundesländer, Jahre, Fruchtarten",
+  "zeitraum": "2010 - 2026",
+  "statistik": "41241",
+  "alle_statistiken": [
+    "41241"
+  ],
+  "stand_genesis": "26.01.2024 17:25:53h",
+  "abgerufen_am": "2026-09-28T18:31:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41241-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41241-0010_flatfile.csv": "7fa6665ee8b348166c6d441ecc1ca2a13c47f336a175e11f3e77e49ac9324b29"
+  },
+  "bytes": 314418,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41241/table/41241-0010"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12631-0001",
+  "titel": "Ehescheidungen: Deutschland, Jahre",
+  "zeitraum": "1950 - 2025",
+  "statistik": "12631",
+  "alle_statistiken": [
+    "12631"
+  ],
+  "stand_genesis": "28.12.2022 17:56:41h",
+  "abgerufen_am": "2026-09-28T16:54:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12631-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12631-0001_flatfile.csv": "8b9612e4a10c2bdcd18052d1be522b9a45bd368b0d16c681ab34d3c611ba4b90"
+  },
+  "bytes": 11425,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12631/table/12631-0001"
+}

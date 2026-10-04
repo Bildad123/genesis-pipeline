@@ -1,0 +1,28 @@
+{
+  "tabelle": "21421-0002",
+  "titel": "Aufstiegs-BAföG - Geförderte Personen, finanzieller Aufwand: Deutschland, Jahre, Bewilligung/Inanspruch., Voll-/Teilzeit, Art des finanziellen Aufwandes, Fortbildungsstätten",
+  "zeitraum": "2003 - 2025",
+  "statistik": "21421",
+  "alle_statistiken": [
+    "21421"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:11:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21421-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21421-0002_flatfile.csv": "5e96ed732cc9c532a5bb530f9d36a3ed4fefc72ad575395509168eef6a8fc882"
+  },
+  "bytes": 168454,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21421/table/21421-0002"
+}

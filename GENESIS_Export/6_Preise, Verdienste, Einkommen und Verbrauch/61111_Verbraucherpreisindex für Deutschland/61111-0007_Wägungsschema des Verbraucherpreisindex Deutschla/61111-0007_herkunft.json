@@ -1,0 +1,28 @@
+{
+  "tabelle": "61111-0007",
+  "titel": "Wägungsschema des Verbraucherpreisindex: Deutschland, Jahre, Klassifikation der Verwendungszwecke des Individualkonsums (COICOP 2-5-Steller Hierarchie)",
+  "zeitraum": "2020 - 2020",
+  "statistik": "61111",
+  "alle_statistiken": [
+    "61111"
+  ],
+  "stand_genesis": "28.12.2022 11:39:13h",
+  "abgerufen_am": "2026-09-28T20:20:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61111-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61111-0007_flatfile.csv": "73de423e0bd6ee2ff907532639cb0df57b909d0a15823424e88d9e0f4de59973"
+  },
+  "bytes": 104838,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61111/table/61111-0007"
+}

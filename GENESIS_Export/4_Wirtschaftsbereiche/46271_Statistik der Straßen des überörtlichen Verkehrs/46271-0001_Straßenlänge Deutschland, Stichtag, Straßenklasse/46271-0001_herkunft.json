@@ -1,0 +1,28 @@
+{
+  "tabelle": "46271-0001",
+  "titel": "Straßenlänge: Deutschland, Stichtag, Straßenklasse/ Ortslage",
+  "zeitraum": "01.01.1995 - 01.01.2023",
+  "statistik": "46271",
+  "alle_statistiken": [
+    "46271"
+  ],
+  "stand_genesis": "26.07.2023 11:09:28h",
+  "abgerufen_am": "2026-09-28T19:24:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46271-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46271-0001_flatfile.csv": "cd2313ec126acd4acd7706621e4c468a43740523d0aadcb8ca1e3d12cf922582"
+  },
+  "bytes": 29582,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46271/table/46271-0001"
+}

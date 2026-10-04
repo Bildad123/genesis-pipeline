@@ -1,0 +1,75 @@
+{
+  "abgerufen_am": "2026-09-28T16:34:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12211-9065",
+    "Content": "Ledige Kinder in Familien (traditionelles Familienkonzept):\nDeutschland, Stichmonat (bis 04/1995), Altersgruppen",
+    "Time": {
+      "From": "05/1975",
+      "To": "04/1995"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12211",
+        "Content": "Mikrozensus",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "BEV045",
+                "Content": "Ledige Kinder in Familien (trad. Familienkonzept)",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ALTX33",
+          "Content": "Altersgruppen (u3-21m)",
+          "Type": "Merkmal",
+          "Values": "7",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "SMONAT",
+          "Content": "Stichmonat",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 09:37:10h"
+  }
+}

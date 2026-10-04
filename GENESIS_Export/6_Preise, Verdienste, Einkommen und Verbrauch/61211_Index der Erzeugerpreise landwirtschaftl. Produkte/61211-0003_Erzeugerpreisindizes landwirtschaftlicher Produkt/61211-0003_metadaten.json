@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T20:21:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "61211-0003",
+    "Content": "Erzeugerpreisindizes landwirtschaftlicher Produkte:\nDeutschland, Monate, Landwirtschaftliche Produkte",
+    "Time": {
+      "From": "1968",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "61211",
+        "Content": "Index der Erzeugerpreise landwirtschaftl. Produkte",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "PRE018",
+                "Content": "Erzeugerpreisindizes landwirtschaftlicher Produkte",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "MONAT",
+              "Content": "Monate",
+              "Type": "Merkmal",
+              "Values": "12",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "PROAT1",
+          "Content": "Landwirtschaftliche Produkte",
+          "Type": "Merkmal",
+          "Values": "49",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "10.01.2024 12:19:28h"
+  }
+}

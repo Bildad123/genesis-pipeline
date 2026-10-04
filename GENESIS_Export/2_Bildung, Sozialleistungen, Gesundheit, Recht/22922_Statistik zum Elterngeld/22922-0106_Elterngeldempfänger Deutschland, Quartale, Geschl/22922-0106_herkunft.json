@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0106",
+  "titel": "Elterngeldempfänger: Deutschland, Quartale, Geschlecht, Art der Inanspruchnahme, Höhe des monatlichen Elterngeldanspruchs",
+  "zeitraum": "1. Quartal 2017 - 2. Quartal 2026",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:43:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0106",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0106_flatfile.csv": "bacc907d99a58d4ab9084a256bb02541dcc53d7c06012cc768c40ea9784918c6"
+  },
+  "bytes": 1186423,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0106"
+}

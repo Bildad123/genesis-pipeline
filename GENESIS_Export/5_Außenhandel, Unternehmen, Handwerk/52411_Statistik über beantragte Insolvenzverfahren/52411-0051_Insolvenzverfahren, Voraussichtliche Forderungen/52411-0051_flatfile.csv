@@ -1,0 +1,9 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;;Insgesamt;131005;Anzahl;ISV001;Insolvenzverfahren
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;;Insgesamt;57016912;Tsd. EUR;FOR001;Voraussichtliche Forderungen
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;ISVART01;eröffnet;119034;Anzahl;ISV001;Insolvenzverfahren
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;ISVART01;eröffnet;53614923;Tsd. EUR;FOR001;Voraussichtliche Forderungen
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;ISVART03;Schuldenbereinigungsplan angenommen;370;Anzahl;ISV001;Insolvenzverfahren
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;ISVART03;Schuldenbereinigungsplan angenommen;33462;Tsd. EUR;FOR001;Voraussichtliche Forderungen
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;ISVART02;mangels Masse abgewiesen;11601;Anzahl;ISV001;Insolvenzverfahren
+52411;Statistik über beantragte Insolvenzverfahren;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ISVAT1;Beantragte Verfahren;ISVART02;mangels Masse abgewiesen;3368528;Tsd. EUR;FOR001;Voraussichtliche Forderungen

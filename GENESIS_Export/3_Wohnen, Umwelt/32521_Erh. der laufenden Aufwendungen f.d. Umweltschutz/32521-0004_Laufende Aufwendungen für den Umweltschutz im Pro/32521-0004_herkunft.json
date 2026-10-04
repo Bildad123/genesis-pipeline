@@ -1,0 +1,28 @@
+{
+  "tabelle": "32521-0004",
+  "titel": "Laufende Aufwendungen für den Umweltschutz im Produzierenden Gewerbe (ohne Baugewerbe): Deutschland, Jahre, Art der Umweltschutzaufwendungen",
+  "zeitraum": "2013 - 2022",
+  "statistik": "32521",
+  "alle_statistiken": [
+    "32521"
+  ],
+  "stand_genesis": "20.06.2024 16:17:22h",
+  "abgerufen_am": "2026-09-28T18:17:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32521-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32521-0004_flatfile.csv": "ef174536a76a2cef8870178b51f1fa765ad212016c1e4501afff6e9adf6ddee7"
+  },
+  "bytes": 13173,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32521/table/32521-0004"
+}

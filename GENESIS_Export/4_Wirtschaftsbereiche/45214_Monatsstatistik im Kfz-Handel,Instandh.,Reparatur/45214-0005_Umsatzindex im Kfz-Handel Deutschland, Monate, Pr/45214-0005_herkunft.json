@@ -1,0 +1,28 @@
+{
+  "tabelle": "45214-0005",
+  "titel": "Umsatzindex im Kfz-Handel: Deutschland, Monate, Preisarten, Original- und bereinigte Daten, Wirtschaftszweige",
+  "zeitraum": "Januar 1994 - Juni 2026",
+  "statistik": "45214",
+  "alle_statistiken": [
+    "45214"
+  ],
+  "stand_genesis": "25.08.2026 12:57:23h",
+  "abgerufen_am": "2026-09-28T19:12:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45214-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45214-0005_flatfile.csv": "da5cad204f9fc267af56e86c44562a060faeddea98af178c2a2e6ea0c3bcf712"
+  },
+  "bytes": 346028,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45214/table/45214-0005"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "73151-0002",
+  "titel": "Arbeitgeber, Arbeitnehmer (BAV-Förderbetrag): Deutschland, Jahre, Betriebsgrößenklassen",
+  "zeitraum": "2018 - 2025",
+  "statistik": "73151",
+  "alle_statistiken": [
+    "73151"
+  ],
+  "stand_genesis": "28.12.2022 20:03:52h",
+  "abgerufen_am": "2026-09-28T20:53:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73151-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73151-0002_flatfile.csv": "e45d1a0a875eb0ae3ac5902358c36d7bbe2dcb01c44d098e79e2793b09ec73bb"
+  },
+  "bytes": 4463,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73151/table/73151-0002"
+}

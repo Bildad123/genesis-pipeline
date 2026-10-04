@@ -1,0 +1,28 @@
+{
+  "tabelle": "45341-0100",
+  "titel": "Verfügbares Einkommen, Umsatz, Arbeitsstätten, Verkaufsfläche im Einzelhandel (ohne Handel mit Kraftfahrzeugen): Deutschland, Jahre",
+  "zeitraum": "2014 - 2019",
+  "statistik": "45341",
+  "alle_statistiken": [
+    "45341"
+  ],
+  "stand_genesis": "28.12.2022 19:04:53h",
+  "abgerufen_am": "2026-09-28T19:14:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45341-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45341-0100_flatfile.csv": "3fa3478fed1edcd06794d1fc71e74c89cf6192b54b907000a4988021fa734dbe"
+  },
+  "bytes": 2809,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45341/table/45341-0100"
+}

@@ -1,0 +1,125 @@
+{
+  "abgerufen_am": "2026-09-28T19:27:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46321-0017",
+    "Content": "Beförderte Güter, Beförderungsleistung, Ladeeinheiten,\nContainer u.Wechselbehälter(Binnensch.): Deutschland, Jahre,\nHauptverkehrsbeziehungen, Art der Ladeeinheit, Ladezustand",
+    "Time": {
+      "From": "2009",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46321",
+        "Content": "Güterverkehrsstatistik der Binnenschifffahrt",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "VERVZ1",
+          "Content": "Hauptverkehrsbeziehungen",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GUT003",
+              "Content": "Beförderte Güter",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "GUT004",
+              "Content": "Beförderungsleistung",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "LDE003",
+              "Content": "Ladeeinheiten",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "CON001",
+              "Content": "Container und Wechselbehälter",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "LDEAT4",
+          "Content": "Art der Ladeeinheit (Containergröße)",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "LDEZD1",
+              "Content": "Ladezustand",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "03.02.2023 16:20:01h"
+  }
+}

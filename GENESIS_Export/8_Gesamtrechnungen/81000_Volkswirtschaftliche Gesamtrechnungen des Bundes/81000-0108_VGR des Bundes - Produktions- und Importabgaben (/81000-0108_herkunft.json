@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0108",
+  "titel": "VGR des Bundes - Produktions- und Importabgaben (nominal): Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "1991 - 2024",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 15:00:35h",
+  "abgerufen_am": "2026-09-28T21:09:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0108",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0108_flatfile.csv": "a66da4ee48a664f4a8322e30ca2bff341917f076e4aa877c7b0a62cc195b17a4"
+  },
+  "bytes": 163236,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0108"
+}

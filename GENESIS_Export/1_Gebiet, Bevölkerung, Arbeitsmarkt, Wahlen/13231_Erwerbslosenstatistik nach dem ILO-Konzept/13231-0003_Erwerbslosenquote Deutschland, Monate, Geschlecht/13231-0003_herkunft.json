@@ -1,0 +1,28 @@
+{
+  "tabelle": "13231-0003",
+  "titel": "Erwerbslosenquote: Deutschland, Monate, Geschlecht, Altersgruppen, Original- und bereinigte Daten",
+  "zeitraum": "Januar 1991 - Juli 2026",
+  "statistik": "13231",
+  "alle_statistiken": [
+    "13231"
+  ],
+  "stand_genesis": "28.12.2022 18:54:29h",
+  "abgerufen_am": "2026-09-28T16:58:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13231-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13231-0003_flatfile.csv": "880d72caa5d640ca052306c928e97776a11ce10a203ffada1169d61d97aacd69"
+  },
+  "bytes": 199702,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13231/table/13231-0003"
+}

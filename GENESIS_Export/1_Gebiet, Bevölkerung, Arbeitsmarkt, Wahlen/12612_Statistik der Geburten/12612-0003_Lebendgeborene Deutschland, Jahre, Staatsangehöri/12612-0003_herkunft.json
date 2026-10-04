@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0003",
+  "titel": "Lebendgeborene: Deutschland, Jahre, Staatsangehörigkeit",
+  "zeitraum": "1960 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "28.12.2022 17:19:28h",
+  "abgerufen_am": "2026-09-28T16:51:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0003_flatfile.csv": "798fbfece213ec032305c84ef6f4ab04350cabf515b9a3798fb7e613c7ec26c1"
+  },
+  "bytes": 287420,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0003"
+}

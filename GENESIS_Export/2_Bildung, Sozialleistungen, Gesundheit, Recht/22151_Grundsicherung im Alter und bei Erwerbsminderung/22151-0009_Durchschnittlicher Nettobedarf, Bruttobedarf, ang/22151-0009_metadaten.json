@@ -1,0 +1,116 @@
+{
+  "abgerufen_am": "2026-09-28T17:21:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22151-0009",
+    "Content": "Durchschnittlicher Nettobedarf, Bruttobedarf, angerechnete\nEinkommen: Deutschland, Berichtsmonat im Quartal,\nGeschlecht/Altersgruppen/Ort der Leistungserbringung",
+    "Time": {
+      "From": "2015",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22151",
+        "Content": "Grundsicherung im Alter und bei Erwerbsminderung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "QUARM2",
+              "Content": "Berichtsmonat im Quartal",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BDF002",
+              "Content": "Durchschnittlicher Nettobedarf",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "BDF001",
+              "Content": "Durchschnittlicher Bruttobedarf",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "EKM018",
+              "Content": "Durch.angerechn.Eink.(Leist.-ber.m.angerech.Eink.)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "EKM017",
+              "Content": "Durchschn.angerechn.Einkommen (alle Leistungsber.)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "15.04.2025 12:06:26h"
+  }
+}

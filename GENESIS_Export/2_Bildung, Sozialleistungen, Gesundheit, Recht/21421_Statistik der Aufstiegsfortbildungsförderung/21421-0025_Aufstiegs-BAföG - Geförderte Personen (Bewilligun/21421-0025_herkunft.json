@@ -1,0 +1,28 @@
+{
+  "tabelle": "21421-0025",
+  "titel": "Aufstiegs-BAföG - Geförderte Personen (Bewilligung) (Vollzeit): Bundesländer, Jahre, Geschlecht, Einkommensgrößenklassen",
+  "zeitraum": "2003 - 2025",
+  "statistik": "21421",
+  "alle_statistiken": [
+    "21421"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:12:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21421-0025",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21421-0025_flatfile.csv": "e6da77a0e463a4b35d6f2cb9761ba5eca6446144c326d882389739207cb68e99"
+  },
+  "bytes": 1132427,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21421/table/21421-0025"
+}

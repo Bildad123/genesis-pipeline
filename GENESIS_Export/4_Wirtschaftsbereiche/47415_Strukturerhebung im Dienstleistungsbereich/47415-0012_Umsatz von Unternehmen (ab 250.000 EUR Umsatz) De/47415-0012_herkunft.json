@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0012",
+  "titel": "Umsatz von Unternehmen (ab 250.000 EUR Umsatz): Deutschland, Jahre, Art des Umsatzes, Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)",
+  "zeitraum": "2008 - 2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 17:01:59h",
+  "abgerufen_am": "2026-09-28T19:35:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0012_flatfile.csv": "166304fe37388889d64243b896cc36097064a1c542f2c818ece21842e2df172c"
+  },
+  "bytes": 208817,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0012"
+}

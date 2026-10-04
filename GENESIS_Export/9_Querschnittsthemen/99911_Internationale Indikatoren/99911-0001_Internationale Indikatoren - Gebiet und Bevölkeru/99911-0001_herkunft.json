@@ -1,0 +1,28 @@
+{
+  "tabelle": "99911-0001",
+  "titel": "Internationale Indikatoren - Gebiet und Bevölkerung: Staaten, Jahre",
+  "zeitraum": "1990 - 2024",
+  "statistik": "99911",
+  "alle_statistiken": [
+    "99911"
+  ],
+  "stand_genesis": "28.12.2022 17:27:42h",
+  "abgerufen_am": "2026-09-28T21:15:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "99911-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "99911-0001_flatfile.csv": "9fc8f08e6454fe69fa0e45f05d67245f6128acf663913136ed2874bcfcf54eb0"
+  },
+  "bytes": 2570428,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/99911/table/99911-0001"
+}

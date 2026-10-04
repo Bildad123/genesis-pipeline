@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0113",
+  "titel": "Kinder in Tageseinrichtungen: Bundesländer, Stichtag, Herkunft der Eltern",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 14:05:40h",
+  "abgerufen_am": "2026-09-28T17:37:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0113",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0113_flatfile.csv": "52eae019c899af1b517fa7e4e63f9d6a39d0f3dc5c02dd4a2c297f6f49a5a111"
+  },
+  "bytes": 10987,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0113"
+}

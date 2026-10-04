@@ -1,0 +1,28 @@
+{
+  "tabelle": "46411-0001",
+  "titel": "Unternehmen, Umsatz, Personal, Luftfahrzeuge (Luftverkehr): Deutschland, Jahre",
+  "zeitraum": "1980 - 2024",
+  "statistik": "46411",
+  "alle_statistiken": [
+    "46411"
+  ],
+  "stand_genesis": "29.12.2022 08:14:54h",
+  "abgerufen_am": "2026-09-28T19:31:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46411-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46411-0001_flatfile.csv": "b87a13f8f7edff49f949a8bc84336a03efa625c82ed2cbaf6d7e929e6f714405"
+  },
+  "bytes": 23810,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46411/table/46411-0001"
+}

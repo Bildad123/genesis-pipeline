@@ -1,0 +1,28 @@
+{
+  "tabelle": "62431-0001",
+  "titel": "Arbeitskosten je geleistete Stunde (Jahresschätzung): Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "1996 - 2025",
+  "statistik": "62431",
+  "alle_statistiken": [
+    "62431"
+  ],
+  "stand_genesis": "28.12.2022 19:22:27h",
+  "abgerufen_am": "2026-09-28T20:43:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62431-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62431-0001_flatfile.csv": "b60c45b612addff1b71026e7729d0063085d9c510f9eeb88e9a7aa64573cae9a"
+  },
+  "bytes": 176992,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62431/table/62431-0001"
+}

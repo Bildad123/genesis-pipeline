@@ -1,0 +1,134 @@
+{
+  "abgerufen_am": "2026-09-28T18:21:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "41141-0018",
+    "Content": "Landwirtschaftliche Betriebe mit Viehhaltung, Viehbestand,\nLandwirtschaftlich genutzte Fläche: Deutschland, Stichtag,\nTierarten, Bestandsgrößenklassen",
+    "Time": {
+      "From": "01.03.2020",
+      "To": "01.03.2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "41141",
+        "Content": "Landwirtschaftszählung: Haupterhebung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BTR034",
+          "Content": "Landwirtschaftliche Betriebe mit Viehhaltung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "PLZ006",
+          "Content": "Haltungsplätze",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "TIE003",
+          "Content": "Tiere",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VIE002",
+          "Content": "Großvieheinheiten",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VIE003",
+          "Content": "Viehbestand",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FLC017",
+          "Content": "Landwirtschaftlich genutzte Fläche",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "TIER07",
+          "Content": "Tierarten",
+          "Type": "Merkmal",
+          "Values": "13",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BSTGK1",
+              "Content": "Bestandsgrößenklassen",
+              "Type": "Merkmal",
+              "Values": "24",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 21:35:12h"
+  }
+}

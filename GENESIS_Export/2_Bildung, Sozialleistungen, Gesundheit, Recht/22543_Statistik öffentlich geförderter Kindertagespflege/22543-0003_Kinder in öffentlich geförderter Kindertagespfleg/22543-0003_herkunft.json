@@ -1,0 +1,28 @@
+{
+  "tabelle": "22543-0003",
+  "titel": "Kinder in öffentlich geförderter Kindertagespflege: Deutschland, Stichtag, Geschlecht, Migrationshintergrund",
+  "zeitraum": "01.03.2012 - 01.03.2025",
+  "statistik": "22543",
+  "alle_statistiken": [
+    "22543"
+  ],
+  "stand_genesis": "21.10.2025 13:33:05h",
+  "abgerufen_am": "2026-09-28T17:38:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22543-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22543-0003_flatfile.csv": "3db198b3622351e9026538ddcb9bfc5d604bd61e108575f217e5eb9cf12686f2"
+  },
+  "bytes": 36103,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22543/table/22543-0003"
+}

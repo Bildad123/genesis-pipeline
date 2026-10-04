@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0005",
+  "titel": "Gewerbeanmeldungen: Deutschland, Monate, Grund der Gewerbeanmeldung, Rechtsform",
+  "zeitraum": "Januar 2003 - Juli 2026",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "30.07.2024 12:45:56h",
+  "abgerufen_am": "2026-09-28T20:05:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0005_flatfile.csv": "26c671971ddd37067c3ab4fafc183e68a7f13eda738970c3ab5d42838d0ece25"
+  },
+  "bytes": 302368,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0005"
+}

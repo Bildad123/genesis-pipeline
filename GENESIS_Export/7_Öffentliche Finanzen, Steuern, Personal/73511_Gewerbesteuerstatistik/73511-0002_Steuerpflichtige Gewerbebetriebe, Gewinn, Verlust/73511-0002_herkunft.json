@@ -1,0 +1,28 @@
+{
+  "tabelle": "73511-0002",
+  "titel": "Steuerpflichtige Gewerbebetriebe, Gewinn, Verlust, Abgerundeter Gewerbeertrag, Freibetrag, Positiver Steuermessbetrag: Deutschland, Jahre, Wirtschaftsabschnitte",
+  "zeitraum": "2010 - 2021",
+  "statistik": "73511",
+  "alle_statistiken": [
+    "73511"
+  ],
+  "stand_genesis": "28.12.2022 19:23:30h",
+  "abgerufen_am": "2026-09-28T20:59:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73511-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73511-0002_flatfile.csv": "40ec5d30acdb8d19f128aed0104533abaf29a2658765601fdc9a3c03961deff2"
+  },
+  "bytes": 41405,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73511/table/73511-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "74211-0001",
+  "titel": "Versorgungsempfänger: Deutschland, Stichtag, Körperschaftsebenen",
+  "zeitraum": "01.01.2012 - 01.01.2025",
+  "statistik": "74211",
+  "alle_statistiken": [
+    "74211"
+  ],
+  "stand_genesis": "28.12.2022 19:05:43h",
+  "abgerufen_am": "2026-09-28T21:00:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "74211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "74211-0001_flatfile.csv": "fe237d926a24c05ae1f4ae4d1866c6767ac00f26fdc6c80a7264e6f874da5642"
+  },
+  "bytes": 29626,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/74211/table/74211-0001"
+}

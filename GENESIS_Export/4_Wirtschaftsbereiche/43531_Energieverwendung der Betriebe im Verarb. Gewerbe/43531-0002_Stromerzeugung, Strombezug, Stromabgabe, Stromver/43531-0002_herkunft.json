@@ -1,0 +1,28 @@
+{
+  "tabelle": "43531-0002",
+  "titel": "Stromerzeugung, Strombezug, Stromabgabe, Stromverbrauch: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2008 - 2024",
+  "statistik": "43531",
+  "alle_statistiken": [
+    "43531"
+  ],
+  "stand_genesis": "28.12.2022 17:05:14h",
+  "abgerufen_am": "2026-09-28T19:06:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43531-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43531-0002_flatfile.csv": "2f5afde649dc24addcb0419a4bb82a01ae9cd6b2eed0f3ade15a9307176996d0"
+  },
+  "bytes": 33007,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43531/table/43531-0002"
+}

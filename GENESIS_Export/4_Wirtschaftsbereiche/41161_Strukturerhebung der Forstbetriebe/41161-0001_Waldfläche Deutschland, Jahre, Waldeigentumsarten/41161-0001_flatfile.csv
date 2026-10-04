@@ -1,0 +1,6 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41161;Strukturerhebung der Forstbetriebe;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;WLDEG1;Waldeigentumsarten;WLD-LAND;Landeswald;3301391,54;ha;FLC019;Waldfläche
+41161;Strukturerhebung der Forstbetriebe;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;WLDEG1;Waldeigentumsarten;WLD-BUND;Bundeswald;306136,33;ha;FLC019;Waldfläche
+41161;Strukturerhebung der Forstbetriebe;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;WLDEG1;Waldeigentumsarten;;Insgesamt;10181972,15;ha;FLC019;Waldfläche
+41161;Strukturerhebung der Forstbetriebe;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;WLDEG1;Waldeigentumsarten;WLD-PRIVAT;Privatwald;4375184,27;ha;FLC019;Waldfläche
+41161;Strukturerhebung der Forstbetriebe;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;WLDEG1;Waldeigentumsarten;WLD-KRP;Körperschaftswald;2199260,01;ha;FLC019;Waldfläche

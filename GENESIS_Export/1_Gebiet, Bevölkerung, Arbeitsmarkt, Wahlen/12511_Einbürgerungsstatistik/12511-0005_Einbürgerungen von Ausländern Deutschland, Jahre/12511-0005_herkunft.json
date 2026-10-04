@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0005",
+  "titel": "Einbürgerungen von Ausländern: Deutschland, Jahre, Staatsangehörigkeit, Geschlecht, Familienstand",
+  "zeitraum": "2025 - 2025",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "10.09.2026 11:38:04h",
+  "abgerufen_am": "2026-09-28T16:41:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0005_flatfile.csv": "bc16c6da054ffd86eec549bd20fac9fd2f5ec609d54d753a1bdc90ab5e9355e8"
+  },
+  "bytes": 984899,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0005"
+}

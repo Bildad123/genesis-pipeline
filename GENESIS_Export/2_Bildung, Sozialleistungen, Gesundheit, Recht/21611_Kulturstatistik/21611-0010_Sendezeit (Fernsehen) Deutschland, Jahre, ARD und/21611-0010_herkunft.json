@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0010",
+  "titel": "Sendezeit (Fernsehen): Deutschland, Jahre, ARD und Landesrundfunkanstalten, Ressorts",
+  "zeitraum": "2000 - 2023",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:14:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0010_flatfile.csv": "64b56bf6bcf19e9037b6839be931efeddd3b19234b8d0753e5f70f80bf62926f"
+  },
+  "bytes": 683148,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0010"
+}

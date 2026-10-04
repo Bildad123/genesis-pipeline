@@ -1,0 +1,28 @@
+{
+  "tabelle": "61421-0005",
+  "titel": "Index der Ausfuhrpreise: Deutschland, Jahre, Güterverzeichnis (GP2019 2-4-Steller Hierarchie)",
+  "zeitraum": "1962 - 2025",
+  "statistik": "61421",
+  "alle_statistiken": [
+    "61421"
+  ],
+  "stand_genesis": "20.03.2024 11:11:24h",
+  "abgerufen_am": "2026-09-28T20:30:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61421-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61421-0005_flatfile.csv": "804eb7c0e486b6ec34b30b801fdc60c6165c4a18809f3719066c6f6dd6410c52"
+  },
+  "bytes": 829187,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61421/table/61421-0005"
+}

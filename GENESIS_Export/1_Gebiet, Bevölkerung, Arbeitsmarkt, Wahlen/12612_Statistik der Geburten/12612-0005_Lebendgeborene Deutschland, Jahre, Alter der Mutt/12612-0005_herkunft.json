@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0005",
+  "titel": "Lebendgeborene: Deutschland, Jahre, Alter der Mutter, Lebendgeburtenfolge",
+  "zeitraum": "2009 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "28.12.2022 17:19:28h",
+  "abgerufen_am": "2026-09-28T16:52:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0005_flatfile.csv": "289b265b88073633ca21b8eb973d78932672fe3ba20da12736adefd143b4bb9d"
+  },
+  "bytes": 33109,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0005"
+}

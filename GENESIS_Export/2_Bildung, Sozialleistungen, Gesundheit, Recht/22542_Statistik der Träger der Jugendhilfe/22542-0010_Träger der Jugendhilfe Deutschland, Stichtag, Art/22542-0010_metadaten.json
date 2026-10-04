@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T17:37:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22542-0010",
+    "Content": "Träger der Jugendhilfe: Deutschland, Stichtag, Art des\nTrägers, Rechtsform des Trägers",
+    "Time": {
+      "From": "15.12.2022",
+      "To": "15.12.2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22542",
+        "Content": "Statistik der Träger der Jugendhilfe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "TRG001",
+                "Content": "Träger der Jugendhilfe",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "TRGAR6",
+          "Content": "Art des Trägers",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "RECFR4",
+          "Content": "Rechtsform des Trägers",
+          "Type": "Merkmal",
+          "Values": "13",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "14.03.2024 16:29:12h"
+  }
+}

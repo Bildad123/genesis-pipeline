@@ -1,0 +1,273 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);20641;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART3;Schweine;7600;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;2624;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART6;Ziegen;9;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART50;Hühner;34;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART511;Gänse;107;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART512;Enten;3;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART511;Gänse;222;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);4520;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART513;Truthühner;33;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;92;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART50;Hühner;8;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART3;Schweine;400;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART309;Zuchtschweine;900;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART6;Ziegen;11;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;362;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART513;Truthühner;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;1040;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART50;Hühner;26248;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART512;Enten;535;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART309;Zuchtschweine;500;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART303;Mastschweine;6400;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;3354;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;7;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;4948;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART4;Schafe;6255;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART309;Zuchtschweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART4;Schafe;529;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;324;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART309;Zuchtschweine;0;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;744;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);7814;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART512;Enten;148;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART303;Mastschweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;4141;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;278;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART6;Ziegen;2574;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;4171;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART303;Mastschweine;400;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART4;Schafe;424;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART511;Gänse;12;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART4;Schafe;8;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART4;Schafe;966;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART303;Mastschweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART50;Hühner;1599;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;503;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART513;Truthühner;233;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);4681;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;8510;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART6;Ziegen;761;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;947;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART309;Zuchtschweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;208;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART309;Zuchtschweine;2100;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;1630;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART309;Zuchtschweine;100;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART513;Truthühner;61;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART303;Mastschweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART3;Schweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;41913;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART309;Zuchtschweine;3400;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART513;Truthühner;54;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART3;Schweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART6;Ziegen;63;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART511;Gänse;137;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART4;Schafe;2480;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART3;Schweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART3;Schweine;8600;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;63;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART512;Enten;5;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART303;Mastschweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART3;Schweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;6598;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART50;Hühner;4426;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;1565;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART50;Hühner;963;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;33;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;24;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;85;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART6;Ziegen;3819;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART512;Enten;160;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART511;Gänse;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART4;Schafe;26;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;7346;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART512;Enten;232;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;1121;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;30;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);3316;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;952;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART50;Hühner;5612;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);22;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);6233;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);24788;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART513;Truthühner;2;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART309;Zuchtschweine;100;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;2538;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;614;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART4;Schafe;1275;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART4;Schafe;1553;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART511;Gänse;784;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART303;Mastschweine;7100;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART50;Hühner;1761;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART6;Ziegen;136;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART513;Truthühner;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART513;Truthühner;8;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART303;Mastschweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART6;Ziegen;881;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;6;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;808;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;525;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART511;Gänse;326;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART303;Mastschweine;3000;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART3;Schweine;3600;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART4;Schafe;148;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART6;Ziegen;338;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART303;Mastschweine;7500;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART512;Enten;331;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART6;Ziegen;884;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;25940;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART511;Gänse;340;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART511;Gänse;121;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;242;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;1741;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART309;Zuchtschweine;100;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART50;Hühner;1683;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;151;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;5135;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART3;Schweine;1800;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART309;Zuchtschweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART6;Ziegen;537;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;4075;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;15;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART50;Hühner;1107;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART511;Gänse;203;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART513;Truthühner;441;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART511;Gänse;612;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART512;Enten;44;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART512;Enten;5;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART4;Schafe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;7951;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART50;Hühner;9717;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART6;Ziegen;263;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART3;Schweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART3;Schweine;0;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART511;Gänse;608;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);127;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);20698;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART303;Mastschweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;257;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART513;Truthühner;49;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);10433;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);108;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART309;Zuchtschweine;3400;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART6;Ziegen;367;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART50;Hühner;246;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;735;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART512;Enten;404;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;205;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART512;Enten;2027;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART511;Gänse;45;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART3;Schweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART512;Enten;576;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART4;Schafe;2299;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;3412;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART3;Schweine;1300;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART511;Gänse;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART50;Hühner;3482;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;9474;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;.;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART4;Schafe;10;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART4;Schafe;824;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;1574;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;517;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);824;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART512;Enten;761;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;13395;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;36;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART50;Hühner;558;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART513;Truthühner;155;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;1560;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART303;Mastschweine;1700;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART512;Enten;169;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART3;Schweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART511;Gänse;1047;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART309;Zuchtschweine;4300;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART513;Truthühner;64;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;2507;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART303;Mastschweine;1100;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART503;Schlacht- u. Masthühner sowie sämtliche Hähne;104;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;1073;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART513;Truthühner;56;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEA03;Tierarten;TIERART3;Schweine;8400;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);58381;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);3229;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART2;Rinder (einschließlich Kälber);9145;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART303;Mastschweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART513;Truthühner;298;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;TIEA03;Tierarten;TIERART50;Hühner;28;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART4;Schafe;2921;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART50;Hühner;686;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART1;Pferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;TIEA03;Tierarten;TIERART3;Schweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART309;Zuchtschweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEA03;Tierarten;TIERART309;Zuchtschweine;100;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART513;Truthühner;389;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART513;Truthühner;78;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;1736;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART210;Rinder 2 Jahre und älter, Milchkühe;10834;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;TIEA03;Tierarten;TIERART512;Enten;365;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART6;Ziegen;144;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;TIEA03;Tierarten;TIERART6;Ziegen;8;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART6;Ziegen;424;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;TIEA03;Tierarten;TIERART211;Rinder 2 Jahre und älter, Ammen- und Mutterkühe;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART511;Gänse;79;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;9576;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;3299;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;TIEA03;Tierarten;TIERART101;Ponys und Kleinpferde;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART309;Zuchtschweine;-;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEA03;Tierarten;TIERART303;Mastschweine;200;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;TIEA03;Tierarten;TIERART4;Schafe;630;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;TIEA03;Tierarten;TIERART512;Enten;411;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;TIEA03;Tierarten;TIERART502;Legehennen 1/2 Jahr und älter;4873;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;TIEA03;Tierarten;TIERART214;Rinder 2 Jahre und älter, andere Kühe;89;Anzahl;BETR01;Betriebe
+41311;Allg. und Repräs. Erhebung über die Viehbestände;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;TIEA03;Tierarten;TIERART303;Mastschweine;0;Anzahl;BETR01;Betriebe

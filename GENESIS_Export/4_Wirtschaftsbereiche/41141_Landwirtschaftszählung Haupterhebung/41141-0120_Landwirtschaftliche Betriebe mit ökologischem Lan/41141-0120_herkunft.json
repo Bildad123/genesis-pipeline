@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0120",
+  "titel": "Landwirtschaftliche Betriebe mit ökologischem Landbau, LF: Bundesländer, Jahre, Umfang der ökologischen Bewirtschaftung, Betriebswirtschaftliche Ausrichtung",
+  "zeitraum": "2020 - 2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "29.12.2022 08:02:05h",
+  "abgerufen_am": "2026-09-28T18:24:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0120",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0120_flatfile.csv": "49406c00aa75b384d7a8d95949f4241a4e15afe550dc1932ea859eaca1fa86a1"
+  },
+  "bytes": 280368,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0120"
+}

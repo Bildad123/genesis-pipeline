@@ -1,0 +1,28 @@
+{
+  "tabelle": "45412-0020",
+  "titel": "Ankünfte, Übernachtungen, durchschnittliche Aufenthaltsdauer in Beherbergungsbetrieben: Bundesländer, Jahre",
+  "zeitraum": "2008 - 2025",
+  "statistik": "45412",
+  "alle_statistiken": [
+    "45412"
+  ],
+  "stand_genesis": "05.06.2024 15:18:44h",
+  "abgerufen_am": "2026-09-28T19:16:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45412-0020",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45412-0020_flatfile.csv": "1cc0ba29332dd3072b6178006051832aeb25fadc70f1efbaacd48add051331ec"
+  },
+  "bytes": 108471,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45412/table/45412-0020"
+}

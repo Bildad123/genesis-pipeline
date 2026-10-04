@@ -1,0 +1,28 @@
+{
+  "tabelle": "21111-0013",
+  "titel": "Absolventen und Abgänger: Bundesländer, Schuljahr, Geschlecht, Schulart, Schulabschlüsse",
+  "zeitraum": "1997/98 - 2023/24",
+  "statistik": "21111",
+  "alle_statistiken": [
+    "21111"
+  ],
+  "stand_genesis": "24.11.2023 15:07:42h",
+  "abgerufen_am": "2026-09-28T17:00:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21111-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21111-0013_flatfile.csv": "203af909c846f62709297ed897e9d0ab36407b877f3a53ebc961fabb9e308aa3"
+  },
+  "bytes": 2441631,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21111/table/21111-0013"
+}

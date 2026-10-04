@@ -1,0 +1,28 @@
+{
+  "tabelle": "41244-0004",
+  "titel": "Rebfläche im Ertrag, Weinmostertrag je Hektar, Erntemenge an Weinmost: Deutschland, Jahre, Rebsorte, Weinanbaugebiete",
+  "zeitraum": "2019 - 2026",
+  "statistik": "41244",
+  "alle_statistiken": [
+    "41244"
+  ],
+  "stand_genesis": "29.12.2022 08:01:59h",
+  "abgerufen_am": "2026-09-28T18:32:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41244-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41244-0004_flatfile.csv": "eb4facf9d2ff7000204bdba553a0f31155bc3c7acc446e0b57553062f137914d"
+  },
+  "bytes": 84058,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41244/table/41244-0004"
+}

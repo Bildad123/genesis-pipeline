@@ -1,0 +1,28 @@
+{
+  "tabelle": "43421-0001",
+  "titel": "Thermische Leistung der Geothermieanlagen, Nettowärmeerzeugung, Wärmeabgabe: Deutschland, Jahre",
+  "zeitraum": "2003 - 2024",
+  "statistik": "43421",
+  "alle_statistiken": [
+    "43421"
+  ],
+  "stand_genesis": "28.12.2022 18:18:28h",
+  "abgerufen_am": "2026-09-28T19:06:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43421-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43421-0001_flatfile.csv": "43082e90da2013a5876c9fc0816cf5ebea419d08db16b2f8ea617c0c5e58f0a1"
+  },
+  "bytes": 9026,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43421/table/43421-0001"
+}

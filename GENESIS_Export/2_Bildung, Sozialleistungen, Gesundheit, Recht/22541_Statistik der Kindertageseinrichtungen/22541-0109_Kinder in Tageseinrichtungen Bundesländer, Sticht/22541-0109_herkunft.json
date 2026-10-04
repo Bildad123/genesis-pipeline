@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0109",
+  "titel": "Kinder in Tageseinrichtungen: Bundesländer, Stichtag, Art des Trägers",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 14:02:44h",
+  "abgerufen_am": "2026-09-28T17:37:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0109",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0109_flatfile.csv": "5d7e07c4fffec4f4763adf58949bf7b22dba196e5cfa22cdb6d472dec9791438"
+  },
+  "bytes": 66262,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0109"
+}

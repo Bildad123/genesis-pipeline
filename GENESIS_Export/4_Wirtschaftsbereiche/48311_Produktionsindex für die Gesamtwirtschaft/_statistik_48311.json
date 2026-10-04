@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:22:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "48311",
+    "Content": "Produktionsindex für die Gesamtwirtschaft",
+    "Cubes": "1",
+    "Variables": "5",
+    "Frequency": [
+      {
+        "From": "01.01.2015",
+        "To": null,
+        "Type": "Monatlich"
+      }
+    ],
+    "Information": null,
+    "Updated": "03.09.2026 12:29:40h"
+  }
+}

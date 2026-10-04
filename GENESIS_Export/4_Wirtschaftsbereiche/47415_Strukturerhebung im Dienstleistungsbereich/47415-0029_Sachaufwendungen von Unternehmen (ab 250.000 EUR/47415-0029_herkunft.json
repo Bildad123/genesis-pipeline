@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0029",
+  "titel": "Sachaufwendungen von Unternehmen (ab 250.000 EUR Umsatz): Deutschland, Jahre (bis 2007), Art der Sachaufwendungen, Wirtschaftszweige (WZ2003 2-4-Steller Hierarchie)",
+  "zeitraum": "2003 - 2007",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:37:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0029",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0029_flatfile.csv": "74d06861a6d5b5c4a09baf3d01412d8f1cd4bb664c53a0d87edcb845e6616181"
+  },
+  "bytes": 187469,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0029"
+}

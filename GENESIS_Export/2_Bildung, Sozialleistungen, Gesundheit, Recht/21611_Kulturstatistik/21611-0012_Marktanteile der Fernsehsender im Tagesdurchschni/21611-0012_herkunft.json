@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0012",
+  "titel": "Marktanteile der Fernsehsender im Tagesdurchschnitt: Deutschland, Jahre, Fernsehsender",
+  "zeitraum": "2008 - 2025",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:14:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0012_flatfile.csv": "55a29bb864a6d54bb34f584dc488472a3fc7dde9a828a048bf5a9d02fe52f4be"
+  },
+  "bytes": 65859,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0012"
+}

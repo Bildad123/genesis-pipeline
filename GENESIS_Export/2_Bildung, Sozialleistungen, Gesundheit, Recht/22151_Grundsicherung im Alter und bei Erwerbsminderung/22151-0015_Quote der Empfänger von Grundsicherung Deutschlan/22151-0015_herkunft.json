@@ -1,0 +1,28 @@
+{
+  "tabelle": "22151-0015",
+  "titel": "Quote der Empfänger von Grundsicherung: Deutschland, Berichtsmonat im Quartal, Nationalität, Geschlecht, Altersgruppen",
+  "zeitraum": "März 2015 - Juni 2026",
+  "statistik": "22151",
+  "alle_statistiken": [
+    "22151"
+  ],
+  "stand_genesis": "15.04.2025 12:33:38h",
+  "abgerufen_am": "2026-09-28T17:22:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22151-0015",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22151-0015_flatfile.csv": "78db84d6da67e8b39e3c3d3c923189a9440a5325075282c7be4c61bfbf9a3d84"
+  },
+  "bytes": 45610,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22151/table/22151-0015"
+}

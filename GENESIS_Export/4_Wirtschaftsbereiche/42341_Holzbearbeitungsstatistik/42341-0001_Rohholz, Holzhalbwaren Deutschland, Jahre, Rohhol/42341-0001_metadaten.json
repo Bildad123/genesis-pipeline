@@ -1,0 +1,105 @@
+{
+  "abgerufen_am": "2026-09-28T19:03:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "42341-0001",
+    "Content": "Rohholz, Holzhalbwaren: Deutschland, Jahre, Rohholzart,\nHolzerzeugnisse, Bestandsveränderungen",
+    "Time": {
+      "From": "2015",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "42341",
+        "Content": "Holzbearbeitungsstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "HLZAT1",
+          "Content": "Rohholzart",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "HLZ001",
+              "Content": "Rohholz",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "HLZ002",
+              "Content": "Holzhalbwaren",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "HLZEZ1",
+          "Content": "Holzerzeugnisse",
+          "Type": "Merkmal",
+          "Values": "5",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BSTVE1",
+              "Content": "Bestandsveränderungen",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "04.04.2022 14:13:27h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0100",
+  "titel": "VGR des Bundes - Produktionswert (nominal/preisbereinigt): Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 12:17:20h",
+  "abgerufen_am": "2026-09-28T21:08:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0100_flatfile.csv": "f98287d11fcb14cdbcfda1d45725861492c20c915d80b6ceafdd548398043232"
+  },
+  "bytes": 644664,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0100"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22621-0001",
+  "titel": "Kassen der gesetzlichen Krankenversicherung: Deutschland, Jahre, Kassenart",
+  "zeitraum": "1991 - 2024",
+  "statistik": "22621",
+  "alle_statistiken": [
+    "22621"
+  ],
+  "stand_genesis": "28.12.2022 17:11:45h",
+  "abgerufen_am": "2026-09-28T17:40:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22621-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22621-0001_flatfile.csv": "6c68723671fc1be7152f9b2cc937bdf138b8367c42943d6dcbbcfa97c84d449d"
+  },
+  "bytes": 69550,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22621/table/22621-0001"
+}

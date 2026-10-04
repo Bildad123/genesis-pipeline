@@ -1,0 +1,28 @@
+{
+  "tabelle": "22221-0028",
+  "titel": "Empfänger von anderen Asylbewerberleistungen: Deutschland, Jahre, Altersgruppen, Hilfearten",
+  "zeitraum": "2020 - 2025",
+  "statistik": "22221",
+  "alle_statistiken": [
+    "22221"
+  ],
+  "stand_genesis": "28.07.2023 13:48:55h",
+  "abgerufen_am": "2026-09-28T17:26:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22221-0028",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22221-0028_flatfile.csv": "1afbbcd3c5da29524ba0cb87560016b62088747ab453c77075eb9d316ba3db58"
+  },
+  "bytes": 11372,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22221/table/22221-0028"
+}

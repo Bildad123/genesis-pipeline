@@ -1,0 +1,115 @@
+{
+  "abgerufen_am": "2026-09-28T19:28:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46331-0007",
+    "Content": "Empfang und Versand von Gütern (Seeverkehr): Deutschland,\nMonate, Ausgewählte Häfen, Ladungsarten",
+    "Time": {
+      "From": "2011",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46331",
+        "Content": "Seeverkehrsstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "HFNSE1",
+          "Content": "Ausgewählte Häfen der Seeschifffahrt",
+          "Type": "Merkmal",
+          "Values": "29",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GUT001",
+              "Content": "Empfang von Gütern",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "GUT002",
+              "Content": "Versand von Gütern",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "GUT008",
+              "Content": "Umgeschlagene Güter",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "MONAT",
+              "Content": "Monate",
+              "Type": "Merkmal",
+              "Values": "12",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "LADAT2",
+        "Content": "Ladungsarten",
+        "Type": "Merkmal",
+        "Values": "8",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.06.2023 12:15:12h"
+  }
+}

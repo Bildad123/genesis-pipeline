@@ -1,0 +1,28 @@
+{
+  "tabelle": "32421-0002",
+  "titel": "Verwendung, Einfuhr und Ausfuhr klimawirksamer Stoffe: Deutschland, Jahre, Wirtschaftszweig des Unternehmens, Stoffgruppen",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32421",
+  "alle_statistiken": [
+    "32421"
+  ],
+  "stand_genesis": "26.02.2024 12:50:24h",
+  "abgerufen_am": "2026-09-28T18:16:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32421-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32421-0002_flatfile.csv": "fd6bdd1ab15128fe0be57e35a4fb234352d0e3c2e5dd43b368a230b2a7034aba"
+  },
+  "bytes": 860075,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32421/table/32421-0002"
+}

@@ -1,0 +1,111 @@
+{
+  "abgerufen_am": "2026-09-28T19:21:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46181-0010",
+    "Content": "Unternehmen, Beförderte Personen, Beförderungsleistung,\nFahrleistung, Beförderungsangebot (Personenverkehr mit\nBussen und Bahnen): Bundesländer, Jahre, Verkehrsart",
+    "Time": {
+      "From": "2022",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46181",
+        "Content": "Personenverkehr mit Bussen und Bahnen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "UNT003",
+          "Content": "Unternehmen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VER013",
+          "Content": "Beförderte Personen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "GUT004",
+          "Content": "Beförderungsleistung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FLST01",
+          "Content": "Fahrleistung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "GUT007",
+          "Content": "Beförderungsangebot",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "DLAND",
+          "Content": "Bundesländer",
+          "Type": "Merkmal",
+          "Values": "16",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "VERAR3",
+        "Content": "Verkehrsart",
+        "Type": "Merkmal",
+        "Values": "6",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "12.03.2025 13:42:59h"
+  }
+}

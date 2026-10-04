@@ -1,0 +1,28 @@
+{
+  "tabelle": "21111-0007",
+  "titel": "Schüler mit sonderpädagogischer Förderung: Deutschland, Schuljahr, Schulart, Förderschwerpunkte",
+  "zeitraum": "2000/01 - 2024/25",
+  "statistik": "21111",
+  "alle_statistiken": [
+    "21111"
+  ],
+  "stand_genesis": "24.11.2023 14:56:47h",
+  "abgerufen_am": "2026-09-28T17:00:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21111-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21111-0007_flatfile.csv": "b301f1767a4374138ee156f52f468143ce40bcb8bc44ded3486b166898781560"
+  },
+  "bytes": 841443,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21111/table/21111-0007"
+}

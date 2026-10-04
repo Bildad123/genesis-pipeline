@@ -1,0 +1,28 @@
+{
+  "tabelle": "21521-0001",
+  "titel": "Betriebliche Weiterbildung in Unternehmen: Deutschland, Jahre, Weiterbildungsangebot, Wirtschaftsbereiche",
+  "zeitraum": "2015 - 2020",
+  "statistik": "21521",
+  "alle_statistiken": [
+    "21521"
+  ],
+  "stand_genesis": "28.12.2022 19:41:18h",
+  "abgerufen_am": "2026-09-28T17:13:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21521-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21521-0001_flatfile.csv": "46ffc8318a86c268b4764fdbba46b889ae4165399f84a9e3c984503474751ff9"
+  },
+  "bytes": 57285,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21521/table/21521-0001"
+}

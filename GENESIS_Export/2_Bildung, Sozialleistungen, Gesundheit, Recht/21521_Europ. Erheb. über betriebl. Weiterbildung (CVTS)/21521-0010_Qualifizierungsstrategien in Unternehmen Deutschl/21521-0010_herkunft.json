@@ -1,0 +1,28 @@
+{
+  "tabelle": "21521-0010",
+  "titel": "Qualifizierungsstrategien in Unternehmen: Deutschland, Jahre, Maßnahmen zur zukünftigen Qualifizierung, Beschäftigtengrößenklassen",
+  "zeitraum": "2015 - 2020",
+  "statistik": "21521",
+  "alle_statistiken": [
+    "21521"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:14:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21521-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21521-0010_flatfile.csv": "0f82cdf3b1f5231119e5f08bbeb076ab8fdbdd4fa0548f983fa10d57e53ac7df"
+  },
+  "bytes": 10385,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21521/table/21521-0010"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "43531-0001",
+  "titel": "Energieverbrauch der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Nutzung des Energieverbrauchs, Wirtschaftszweige, Energieträger",
+  "zeitraum": "2008 - 2024",
+  "statistik": "43531",
+  "alle_statistiken": [
+    "43531"
+  ],
+  "stand_genesis": "28.12.2022 17:05:14h",
+  "abgerufen_am": "2026-09-28T19:06:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43531-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43531-0001_flatfile.csv": "3ff58aa33b2f957771f9d437b0099a6628596a6b804c38cebe4a223e4b5dbdf2"
+  },
+  "bytes": 1444095,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43531/table/43531-0001"
+}

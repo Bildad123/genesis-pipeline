@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:24:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "91311",
+    "Content": "Kulturindikatoren",
+    "Cubes": "2",
+    "Variables": "5",
+    "Frequency": [
+      {
+        "From": "01.01.2000",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "So vielfältig wie die deutsche Kulturlandschaft ist auch das\nBild der Kulturstatistik in Deutschland. Eine Vielzahl von\namtlichen und nichtamtlichen Statistiken enthält\nkulturrelevante Merkmale, die Ergebnisse sind allerdings\nvielfach verstreut und nur in wenigen Fällen miteinander\nvergleichbar. Nach wie vor fehlt es an einer geordneten\nKulturstatistik. Im Grundsatz findet der Ansatz für die\nKonzeption einer einheitlichen Kulturstatistik in\nDeutschland politische Unterstützung, so beispielsweise im\nAbschlussbericht der Enquete-Kommission des Deutschen\nBundestages \"Kultur in Deutschland\" (Drucksache 16/7000 vom\n11.12.2007).\n\nDie Kulturindikatoren stellen einen Einstieg in die\nstatistische Berichterstattung über Kultur in Deutschland\ndar. Um einer breiteren Öffentlichkeit die gewünschten\nInformationen in geeigneter Form näher zu bringen, wird eine\nAuswahl von 15 Indikatoren systematisch dargestellt und\ndamit ein Überblick über relevante Kulturbereiche gegeben.\n\n\n© Statistisches Bundesamt, Wiesbaden 2010",
+    "Updated": "19.12.2025 08:37:51h"
+  }
+}

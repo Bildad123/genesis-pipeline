@@ -1,0 +1,28 @@
+{
+  "tabelle": "41215-0014",
+  "titel": "Betriebe mit Erdbeeranbau, Anbaufläche, Erntemenge: Bundesländer, Jahre, Anbauform",
+  "zeitraum": "2006 - 2025",
+  "statistik": "41215",
+  "alle_statistiken": [
+    "41215"
+  ],
+  "stand_genesis": "05.12.2024 14:57:37h",
+  "abgerufen_am": "2026-09-28T18:29:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41215-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41215-0014_flatfile.csv": "460d98ac46b0ba2f40b56bb02077c25e480f622f29e7d66570343a8e9f251461"
+  },
+  "bytes": 31839,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41215/table/41215-0014"
+}

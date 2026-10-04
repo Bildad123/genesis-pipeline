@@ -1,0 +1,112 @@
+{
+  "abgerufen_am": "2026-09-28T20:00:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "51000-0035",
+    "Content": "Aus- und Einfuhr (Außenhandel): Bundesländer, Monate,\nWarensystematik",
+    "Time": {
+      "From": "2026",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "51000",
+        "Content": "Außenhandel",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "MONAT",
+          "Content": "Monate",
+          "Type": "Merkmal",
+          "Values": "12",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GEWA",
+              "Content": "Ausfuhr: Gewicht",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WERTA",
+              "Content": "Ausfuhr: Wert",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "GEWE",
+              "Content": "Einfuhr: Gewicht",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WERTE",
+              "Content": "Einfuhr: Wert",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GP26B2",
+          "Content": "GP2026 (2-Steller): Außenhandel",
+          "Type": "Merkmal",
+          "Values": "34",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLANDX",
+        "Content": "Bundesländer mit Ausland und Restposition",
+        "Type": "Merkmal",
+        "Values": "18",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "19.03.2026 14:21:46h"
+  }
+}

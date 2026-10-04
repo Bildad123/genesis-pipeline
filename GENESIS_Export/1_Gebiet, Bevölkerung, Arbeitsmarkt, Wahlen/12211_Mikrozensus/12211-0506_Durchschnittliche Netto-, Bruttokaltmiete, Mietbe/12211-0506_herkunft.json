@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0506",
+  "titel": "Durchschnittliche Netto-, Bruttokaltmiete, Mietbelastung von Hauptmieterhaushalten: Deutschland, Jahre, Haushaltsgröße, Haushaltsnettoeinkommensklassen",
+  "zeitraum": "2022 - 2022",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "18.05.2026 13:13:46h",
+  "abgerufen_am": "2026-09-28T16:28:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0506",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0506_flatfile.csv": "c98250521561de085eeb2ce7d591f4fc707f888ff3b8eb248b3bd1fc9ca7c453"
+  },
+  "bytes": 24558,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0506"
+}

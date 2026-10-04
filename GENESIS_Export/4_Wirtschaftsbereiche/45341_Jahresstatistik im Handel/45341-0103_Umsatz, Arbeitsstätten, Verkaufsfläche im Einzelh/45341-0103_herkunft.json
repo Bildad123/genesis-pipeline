@@ -1,0 +1,28 @@
+{
+  "tabelle": "45341-0103",
+  "titel": "Umsatz, Arbeitsstätten, Verkaufsfläche im Einzelhandel (ohne Handel mit Kraftfahrzeugen): Regierungsbezirke, Jahre",
+  "zeitraum": "2014 - 2019",
+  "statistik": "45341",
+  "alle_statistiken": [
+    "45341"
+  ],
+  "stand_genesis": "28.12.2022 19:04:53h",
+  "abgerufen_am": "2026-09-28T19:14:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45341-0103",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45341-0103_flatfile.csv": "52ea07f7d62cf11944fde28477f7477c45e0fe0920cdeeb2dd8d5290c5e43843"
+  },
+  "bytes": 73761,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45341/table/45341-0103"
+}

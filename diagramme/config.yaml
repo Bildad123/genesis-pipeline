@@ -1,0 +1,45 @@
+# Konfiguration für genesis_diagramme.py – alle Parameter des Verfahrens (siehe METHODE.md, Abschnitt 16)
+# Pfade relativ zum Ordner dieser Datei.
+
+pfade:
+  export: ../GENESIS_Export # Rohdaten (werden nur gelesen)
+  ausgabe: ../GENESIS_Diagramme # Ergebnis
+
+seed: 20261001 # Startwert aller Zufallsentscheidungen
+anzahl_diagramme: 4000 # Zielgröße N
+immer_neu_erzeugen: true # true: jeder Lauf erzeugt alle Diagramme und PNG neu; false: Zwischenspeicher nutzen (schneller)
+
+ausschluss: # Stufe 1 (METHODE 5.2)
+  max_mb: 50 # E2
+  min_zeilen: 6 # E3
+  max_anteil_fehlend: 0.8 # E4
+  dubletten_entfernen: true # E5
+
+kandidaten: # Stufe 2 (METHODE 6.3)
+  min_qualitaet: 0.4
+  gewichte: { v: 0.35, k: 0.25, l: 0.20, a: 0.20 }
+  max_wertmerkmale_je_tabelle: 3 # höchstens so viele Messgrößen je Tabelle werden geprüft
+
+auswahl: # Stufe 3 (METHODE 7)
+  max_je_tabelle: 8
+  max_anteil_statistik: 0.10
+  ipf_toleranz: 0.5
+  ipf_max_iter: 1000
+
+text:
+  max_titel_zeichen: 110 # Q1: höchstens zwei Zeilen à 62 Zeichen (METHODE 9.8)
+  min_abstand_extrem: 1.0 # Prozent bzw. Prozentpunkte
+
+# Statistiken aus Stichprobenerhebungen (Hinweis in der Quellzeile, METHODE 9.4)
+stichproben_statistiken:
+  [
+    "12211",
+    "12231",
+    "12251",
+    "12241",
+    "12631",
+    "63121",
+    "63221",
+    "63211",
+    "63111",
+  ]

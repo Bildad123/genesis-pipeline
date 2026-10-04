@@ -1,0 +1,28 @@
+{
+  "tabelle": "32213-0001",
+  "titel": "Länge des Kanalnetzes, Abwasserbehandlungsanlagen, Angeschlossene Einwohnerwerte, Jahresabwassermenge, Schmutzwasser: Bundesländer, Jahre",
+  "zeitraum": "2007 - 2022",
+  "statistik": "32213",
+  "alle_statistiken": [
+    "32213"
+  ],
+  "stand_genesis": "28.12.2022 20:24:39h",
+  "abgerufen_am": "2026-09-28T18:12:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32213-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32213-0001_flatfile.csv": "6912a1785b5964a600c5e404718f66d64335ebf5596209684587c08786b28e1c"
+  },
+  "bytes": 16461,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32213/table/32213-0001"
+}

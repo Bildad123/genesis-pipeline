@@ -1,0 +1,28 @@
+{
+  "tabelle": "61211-0001",
+  "titel": "Erzeugerpreisindizes landwirtschaftlicher Produkte: Deutschland, Jahre, Landwirtschaftliche Produkte",
+  "zeitraum": "1961 - 2025",
+  "statistik": "61211",
+  "alle_statistiken": [
+    "61211"
+  ],
+  "stand_genesis": "10.01.2024 12:18:10h",
+  "abgerufen_am": "2026-09-28T20:21:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61211-0001_flatfile.csv": "f807d59040698e927cb5fe30a9713ae9184e5a6da155139b167a39569631b19f"
+  },
+  "bytes": 121078,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61211/table/61211-0001"
+}

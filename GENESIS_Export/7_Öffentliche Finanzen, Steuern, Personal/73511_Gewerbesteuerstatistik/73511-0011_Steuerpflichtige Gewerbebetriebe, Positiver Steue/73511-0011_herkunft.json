@@ -1,0 +1,28 @@
+{
+  "tabelle": "73511-0011",
+  "titel": "Steuerpflichtige Gewerbebetriebe, Positiver Steuermessbetrag, Abgerundeter Gewerbeertrag: Bundesländer, Jahre, Rechtsformgruppen, Gewerbeertragsgrößenklassen",
+  "zeitraum": "2010 - 2021",
+  "statistik": "73511",
+  "alle_statistiken": [
+    "73511"
+  ],
+  "stand_genesis": "29.12.2022 08:06:41h",
+  "abgerufen_am": "2026-09-28T20:59:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73511-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73511-0011_flatfile.csv": "df70128c2e33503013e6a4764340ab12197e98f0401446f72a1a7e67aad34808"
+  },
+  "bytes": 210570,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73511/table/73511-0011"
+}

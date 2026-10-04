@@ -1,0 +1,28 @@
+{
+  "tabelle": "32211-0002",
+  "titel": "Wassergewinnung: Bundesländer, Jahre, Wasserarten",
+  "zeitraum": "2007 - 2022",
+  "statistik": "32211",
+  "alle_statistiken": [
+    "32211"
+  ],
+  "stand_genesis": "28.12.2022 20:24:39h",
+  "abgerufen_am": "2026-09-28T18:12:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32211-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32211-0002_flatfile.csv": "40a485fe19d84b57cba3b96564d54c1161eba327949a9fe5ac9c4c482e6bd258"
+  },
+  "bytes": 13421,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32211/table/32211-0002"
+}

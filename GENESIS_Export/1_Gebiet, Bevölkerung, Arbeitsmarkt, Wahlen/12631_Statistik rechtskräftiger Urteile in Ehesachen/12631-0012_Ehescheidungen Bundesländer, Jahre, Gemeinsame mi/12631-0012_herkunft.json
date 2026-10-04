@@ -1,0 +1,28 @@
+{
+  "tabelle": "12631-0012",
+  "titel": "Ehescheidungen: Bundesländer, Jahre, Gemeinsame minderjährige Kinder",
+  "zeitraum": "1997 - 2025",
+  "statistik": "12631",
+  "alle_statistiken": [
+    "12631"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T16:54:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12631-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12631-0012_flatfile.csv": "74732e889403a4938c0992428803f2e79894a98cbba717c3762e763f686f94ee"
+  },
+  "bytes": 14923,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12631/table/12631-0012"
+}

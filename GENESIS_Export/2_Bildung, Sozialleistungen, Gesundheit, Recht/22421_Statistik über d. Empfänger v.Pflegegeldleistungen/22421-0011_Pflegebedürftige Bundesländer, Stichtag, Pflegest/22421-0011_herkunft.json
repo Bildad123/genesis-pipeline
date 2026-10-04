@@ -1,0 +1,28 @@
+{
+  "tabelle": "22421-0011",
+  "titel": "Pflegebedürftige: Bundesländer, Stichtag, Pflegestufe/Pflegegrad",
+  "zeitraum": "31.12.2017 - 31.12.2023",
+  "statistik": "22421",
+  "alle_statistiken": [
+    "22421"
+  ],
+  "stand_genesis": "19.03.2025 18:28:40h",
+  "abgerufen_am": "2026-09-28T17:31:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22421-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22421-0011_flatfile.csv": "f386bd8b72f3745f9253cea25d334b07dd9bf4332cf47024e78dc4a043293eca"
+  },
+  "bytes": 23621,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22421/table/22421-0011"
+}

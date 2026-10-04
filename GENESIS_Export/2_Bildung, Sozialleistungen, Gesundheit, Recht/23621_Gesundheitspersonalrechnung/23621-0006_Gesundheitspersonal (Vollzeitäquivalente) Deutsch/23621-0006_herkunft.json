@@ -1,0 +1,28 @@
+{
+  "tabelle": "23621-0006",
+  "titel": "Gesundheitspersonal (Vollzeitäquivalente): Deutschland, Jahre, Einrichtungen, Geschlecht",
+  "zeitraum": "2000 - 2024",
+  "statistik": "23621",
+  "alle_statistiken": [
+    "23621"
+  ],
+  "stand_genesis": "28.12.2022 17:30:03h",
+  "abgerufen_am": "2026-09-28T17:57:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23621-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23621-0006_flatfile.csv": "ea18ee9f8c6433d74760be20d3f980f4140c2d01bf73bfa55450473696567ca2"
+  },
+  "bytes": 195608,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23621/table/23621-0006"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0003",
+  "titel": "Bevölkerung, Erwerbstätige, Erwerbslose, Erwerbspersonen, Nichterwerbspersonen aus Hauptwohnsitzhaush.: Deutschland, Jahre, Geschlecht, Größenkl. persönl. monatl. Nettoeinkommen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:26:09h",
+  "abgerufen_am": "2026-09-28T16:25:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0003_flatfile.csv": "b0312a09375d9583b4d6482124f19cd6a9abc2411aaa7977d6d064c171212a15"
+  },
+  "bytes": 50620,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0003"
+}

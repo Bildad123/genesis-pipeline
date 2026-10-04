@@ -1,0 +1,28 @@
+{
+  "tabelle": "71141-0005",
+  "titel": "Investitionsausgaben der öffentlichen Haushalte: Deutschland, Jahre, Körperschaftsgruppen, Art der Investitionsausgaben",
+  "zeitraum": "1984 - 2011",
+  "statistik": "71141",
+  "alle_statistiken": [
+    "71141"
+  ],
+  "stand_genesis": "28.12.2022 17:40:39h",
+  "abgerufen_am": "2026-09-28T20:48:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71141-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71141-0005_flatfile.csv": "68f76f684cdd5b656f4dd759582f310ab613400cef5de2126b42628c4daf7b03"
+  },
+  "bytes": 534501,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71141/table/71141-0005"
+}

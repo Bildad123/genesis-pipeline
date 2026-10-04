@@ -1,0 +1,28 @@
+{
+  "tabelle": "85141-0001",
+  "titel": "Wasser: Deutschland, Jahre, Wasserentnahme und -bezug, Produktionsbereiche",
+  "zeitraum": "1991 - 2016",
+  "statistik": "85141",
+  "alle_statistiken": [
+    "85141"
+  ],
+  "stand_genesis": "11.08.2023 13:36:19h",
+  "abgerufen_am": "2026-09-28T21:14:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85141-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85141-0001_flatfile.csv": "00c8eedca1e3f3ffecacbfaed7b5c107dec0245164bcd7d9fb5ee5d629c5a68d"
+  },
+  "bytes": 147082,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85141/table/85141-0001"
+}

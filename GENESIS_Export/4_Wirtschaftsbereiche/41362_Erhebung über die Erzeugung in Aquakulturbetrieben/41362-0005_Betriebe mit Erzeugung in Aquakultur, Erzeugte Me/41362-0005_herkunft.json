@@ -1,0 +1,28 @@
+{
+  "tabelle": "41362-0005",
+  "titel": "Betriebe mit Erzeugung in Aquakultur, Erzeugte Menge: Bundesländer, Jahre, Aquakulturerzeugnisse",
+  "zeitraum": "2011 - 2024",
+  "statistik": "41362",
+  "alle_statistiken": [
+    "41362"
+  ],
+  "stand_genesis": "29.12.2022 08:00:13h",
+  "abgerufen_am": "2026-09-28T18:43:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41362-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41362-0005_flatfile.csv": "62f1168471c7cf0a4e92e14f8f1991c00b6dcacf09d4dde4584758d6c601c5a3"
+  },
+  "bytes": 39969,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41362/table/41362-0005"
+}

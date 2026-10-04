@@ -1,0 +1,28 @@
+{
+  "tabelle": "79994-0109",
+  "titel": "Genannte CPV-Codes in vergebenen öffentlichen Aufträgen und Konzessionen: Bundesländer, Quartale, Auftraggeberebene, CPV-Codes (Abteilungen)",
+  "zeitraum": "1. Quartal 2021 - 4. Quartal 2024",
+  "statistik": "79994",
+  "alle_statistiken": [
+    "79994"
+  ],
+  "stand_genesis": "03.02.2025 17:49:13h",
+  "abgerufen_am": "2026-09-28T21:05:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "79994-0109",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "79994-0109_flatfile.csv": "94d4cdf3bcde435c3219d90320c8b9f2f7994e1101ce3cfbd332302732e6a38c"
+  },
+  "bytes": 1778972,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/79994/table/79994-0109"
+}

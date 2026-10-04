@@ -1,0 +1,28 @@
+{
+  "tabelle": "45341-0007",
+  "titel": "Bruttoinvestitionen im Handel: Deutschland, Jahre, Bruttoinvestitionsarten, Wirtschaftszweige",
+  "zeitraum": "2005 - 2020",
+  "statistik": "45341",
+  "alle_statistiken": [
+    "45341"
+  ],
+  "stand_genesis": "28.12.2022 19:04:53h",
+  "abgerufen_am": "2026-09-28T19:13:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45341-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45341-0007_flatfile.csv": "9f56fb528c7a3b42cbe2677a302c119361445bd59cb51e6c7776fee6be0f5e0e"
+  },
+  "bytes": 245083,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45341/table/45341-0007"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "33111-0007",
+  "titel": "Bodenfläche: Deutschland, Stichtag, Nutzungsarten (tatsächliche Nutzung) (AdV-TN 2023)",
+  "zeitraum": "31.12.2023 - 31.12.2024",
+  "statistik": "33111",
+  "alle_statistiken": [
+    "33111"
+  ],
+  "stand_genesis": "06.01.2025 16:17:15h",
+  "abgerufen_am": "2026-09-28T18:19:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "33111-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "33111-0007_flatfile.csv": "6da06e246e36bc6c6ae87f2f8c25677967ee47601b6c726480420e07bfd6eb9b"
+  },
+  "bytes": 29592,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/33111/table/33111-0007"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21721-0001",
+  "titel": "Deutsche Studierende im Ausland (hochgerechnet): Deutschland, Jahre",
+  "zeitraum": "2000 - 2023",
+  "statistik": "21721",
+  "alle_statistiken": [
+    "21721"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:16:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21721-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21721-0001_flatfile.csv": "835fb5e3d4c9dde4b6b572efd17ce048463fdb3b4c3cf192b5e4b996fb559648"
+  },
+  "bytes": 4230,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21721/table/21721-0001"
+}

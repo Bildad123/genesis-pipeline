@@ -1,0 +1,28 @@
+{
+  "tabelle": "21411-0004",
+  "titel": "BAföG - Geförderte Personen: Deutschland, Jahre, Ausbildungsstätte, Berufsgruppe des Vaters",
+  "zeitraum": "2016 - 2025",
+  "statistik": "21411",
+  "alle_statistiken": [
+    "21411"
+  ],
+  "stand_genesis": "04.06.2024 13:51:54h",
+  "abgerufen_am": "2026-09-28T17:09:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21411-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21411-0004_flatfile.csv": "096e9cde5e6ff17722e133d3efcb15b685c303725e6350cc51e9f947ddc0e7bc"
+  },
+  "bytes": 40109,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21411/table/21411-0004"
+}

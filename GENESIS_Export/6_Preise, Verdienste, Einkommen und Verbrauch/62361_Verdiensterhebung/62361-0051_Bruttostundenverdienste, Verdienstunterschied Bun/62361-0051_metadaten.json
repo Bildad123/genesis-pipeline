@@ -1,0 +1,92 @@
+{
+  "abgerufen_am": "2026-09-28T20:42:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "62361-0051",
+    "Content": "Bruttostundenverdienste, Verdienstunterschied: Bundesländer, Stichmonat, Geschlecht, Wirtschaftsabschnitte",
+    "Time": {
+      "From": "04/2022",
+      "To": "04/2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "62361",
+        "Content": "Verdiensterhebung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "VST007",
+          "Content": "Bruttostundenverdienste",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VST100",
+          "Content": "Verdienstunterschied zwischen Männern und Frauen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08D1",
+          "Content": "WZ2008 (Abschnitte)",
+          "Type": "Merkmal",
+          "Values": "18",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "SMONAT",
+        "Content": "Stichmonat",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "26.01.2023 18:00:04h"
+  }
+}

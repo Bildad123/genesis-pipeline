@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T16:36:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12241-0010",
+    "Content": "EU-SILC - Personen in Hauptwohnsitzhaushalten: Deutschland,\nJahre, Gemeindetyp, Art der Nutzung der Wohnung, Monatliche\nWohnkostenbelastung",
+    "Time": {
+      "From": "2020",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12241",
+        "Content": "Einkommen und Lebensbedingungen (EU-SILC)",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "PER002",
+                "Content": "Personen in Hauptwohnsitzhaushalten",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "WOKOB1",
+          "Content": "Monatliche Wohnkostenbelastung",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WHGAT5",
+          "Content": "Art der Nutzung der Wohnung",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GEMTP1",
+              "Content": "Gemeindetyp",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "14.02.2025 10:27:37h"
+  }
+}

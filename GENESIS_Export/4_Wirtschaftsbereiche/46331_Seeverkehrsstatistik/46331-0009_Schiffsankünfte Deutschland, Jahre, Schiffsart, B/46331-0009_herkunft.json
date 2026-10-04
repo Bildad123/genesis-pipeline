@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0009",
+  "titel": "Schiffsankünfte: Deutschland, Jahre, Schiffsart, Bruttoraumzahlklasse",
+  "zeitraum": "2001 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.12.2022 20:02:05h",
+  "abgerufen_am": "2026-09-28T19:28:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0009_flatfile.csv": "62d4ea98a191a6ce23df0ff35e01876590d45ede7d33efffb49a8ad7e4353848"
+  },
+  "bytes": 602453,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0009"
+}

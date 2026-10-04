@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0131",
+  "titel": "Gewerbetreibende aus vollständigen Aufgaben: Bundesländer, Monate, Geschlecht",
+  "zeitraum": "Januar 2003 - Juli 2026",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "30.07.2024 12:55:33h",
+  "abgerufen_am": "2026-09-28T20:10:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0131",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0131_flatfile.csv": "64cad8d74ff99047db51970a25fc23bb525d1802f260ef868baaed00090f83de"
+  },
+  "bytes": 116302,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0131"
+}

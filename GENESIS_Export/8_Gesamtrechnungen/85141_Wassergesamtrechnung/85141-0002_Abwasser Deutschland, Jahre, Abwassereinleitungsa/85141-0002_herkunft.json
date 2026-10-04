@@ -1,0 +1,28 @@
+{
+  "tabelle": "85141-0002",
+  "titel": "Abwasser: Deutschland, Jahre, Abwassereinleitungsarten, Produktionsbereiche",
+  "zeitraum": "1991 - 2016",
+  "statistik": "85141",
+  "alle_statistiken": [
+    "85141"
+  ],
+  "stand_genesis": "11.08.2023 13:36:29h",
+  "abgerufen_am": "2026-09-28T21:14:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85141-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85141-0002_flatfile.csv": "99db81a2612e5a0759db71b2b6f910e1f4e11244ed64a953eb55730194f92158"
+  },
+  "bytes": 208334,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85141/table/85141-0002"
+}

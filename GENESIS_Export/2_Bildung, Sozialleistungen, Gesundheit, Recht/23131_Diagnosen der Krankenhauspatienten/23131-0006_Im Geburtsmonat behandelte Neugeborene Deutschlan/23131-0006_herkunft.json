@@ -1,0 +1,28 @@
+{
+  "tabelle": "23131-0006",
+  "titel": "Im Geburtsmonat behandelte Neugeborene: Deutschland, Jahre, Geschlecht, Wohnort des Patienten, Hauptdiagnose ICD-10 (Position Q)",
+  "zeitraum": "2000 - 2024",
+  "statistik": "23131",
+  "alle_statistiken": [
+    "23131"
+  ],
+  "stand_genesis": "28.12.2022 17:50:39h",
+  "abgerufen_am": "2026-09-28T17:49:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23131-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23131-0006_flatfile.csv": "c5d08686c0a81d74e41f63b15bb0912810679e739e04d83895b08f78005d8406"
+  },
+  "bytes": 1823814,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23131/table/23131-0006"
+}

@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T21:12:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "81511-0001",
+    "Content": "Input-Output-Tabelle (Revision 2005) -\nInländische Produktion (Herstellungspreise):\nDeutschland, Jahre (bis 2007)",
+    "Time": {
+      "From": "2000",
+      "To": "2007"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "81511",
+        "Content": "Input-Output-Rechnung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "PRO017",
+                "Content": "Inländische Produktion (Herstellungspreise)",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "SPALTE",
+          "Content": "Input der Produktionsbereiche, letzte Verwendung",
+          "Type": "Merkmal",
+          "Values": "20",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ZEILE",
+          "Content": "Gütergruppen, Primärinput, Output",
+          "Type": "Merkmal",
+          "Values": "23",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:20:43h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21352-0010",
+  "titel": "Promovierende: Bundesländer, Stichtag, Nationalität, Geschlecht, Hochschulart",
+  "zeitraum": "01.12.2019 - 01.12.2025",
+  "statistik": "21352",
+  "alle_statistiken": [
+    "21352"
+  ],
+  "stand_genesis": "21.08.2026 16:29:42h",
+  "abgerufen_am": "2026-09-28T17:07:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21352-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21352-0010_flatfile.csv": "b86da89e5c47b8341971348e5d35fe06466877a1909e28d3bb13c969f03d1f66"
+  },
+  "bytes": 206560,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21352/table/21352-0010"
+}

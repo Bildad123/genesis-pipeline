@@ -1,0 +1,28 @@
+{
+  "tabelle": "73423-0001",
+  "titel": "Absatz, Verbrauch und Hersteller von Schaumwein: Deutschland, Jahre",
+  "zeitraum": "1991 - 2025",
+  "statistik": "73423",
+  "alle_statistiken": [
+    "73423"
+  ],
+  "stand_genesis": "20.03.2025 12:57:17h",
+  "abgerufen_am": "2026-09-28T20:58:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73423-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73423-0001_flatfile.csv": "3543f1fcf1662fc57eefc542b908714c23ad355041fb93679e51d2d8e4023512"
+  },
+  "bytes": 33967,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73423/table/73423-0001"
+}

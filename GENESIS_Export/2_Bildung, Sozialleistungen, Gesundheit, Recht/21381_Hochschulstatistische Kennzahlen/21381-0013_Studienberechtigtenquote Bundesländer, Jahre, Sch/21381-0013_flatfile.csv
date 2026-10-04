@@ -1,0 +1,913 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;39,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;25,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;23,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;57,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;46,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;48,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;51,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;43,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;51,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;48,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;41,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;44,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;49,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;50,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;37,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;45,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;47,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;51,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;48,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;55,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;42,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;48,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;46,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;46,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;40,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;53,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;57,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;63,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;44,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;61,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;51,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;50,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;46,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;54,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;42,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;38,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;65,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;47,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;74,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;38,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;54,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;45,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;43,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;52,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;48,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;42,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;46,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;60,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;61,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;36,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;45,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;45,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;51,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;17,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;47,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;47,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;45,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;3,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;52,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;59,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;45,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;50,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;56,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;47,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;48,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;54,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;65,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;44,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;52,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;25,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;65,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;39,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;68,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;57,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;22,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;42,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;23,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;39,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;49,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;51,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;37,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;46,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;59,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;52,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;61,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;25,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;79,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;46,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;46,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;57,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;45,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;55,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;47,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;54,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;55,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;49,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;46,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;62,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;49,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;64,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;43,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;20,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;49,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;46,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;44,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;45,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;38,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;37,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;45,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;44,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;45,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;51,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;48,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;48,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;27,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;20,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;47,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;43,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;51,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;49,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;48,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;53,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;52,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;48,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;35,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;59,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;44,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;53,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;43,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;22,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;24,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;17,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;49,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;55,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;46,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;46,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;49,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;37,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;61,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;49,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;48,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;48,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;35,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;76,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;17,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;27,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;3,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;43,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;52,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;60,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;34,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;25,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;21,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;54,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;45,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;18,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;54,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;44,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;62,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;43,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;27,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;22,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;53,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;35,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;45,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;62,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;49,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;74,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;35,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;47,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;56,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;50,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;44,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;54,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;38,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;26,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;55,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;61,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;38,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;41,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;58,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;53,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;53,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;2,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;37,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;56,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;58,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;62,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;54,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;42,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;48,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;34,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;51,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;49,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;51,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;39,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;47,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;74,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;43,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;3,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;19,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;65,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;43,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;45,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;49,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;40,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;47,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;54,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;19,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;48,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;46,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;44,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;45,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;59,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;50,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;22,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;48,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;51,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;48,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;46,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;43,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;2,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;47,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;45,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;46,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;45,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;56,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;50,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;76,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;52,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;41,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;54,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;52,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;51,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;52,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;57,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;50,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;52,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;37,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;57,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;44,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;46,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;52,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;56,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;47,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;47,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;41,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;48,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;58,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;48,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;63,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;47,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;32,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;56,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;45,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;53,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;46,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;42,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;56,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;66,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;59,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;56,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;48,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;54,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;20,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;2,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;55,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;27,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;40,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;37,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;54,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;38,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;50,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;20,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;3,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;50,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;51,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;43,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;28,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;17,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;65,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;54,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;43,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;38,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;43,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;40,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;60,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;67,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;51,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;27,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;48,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;47,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;54,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;52,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;48,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;49,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;3,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;44,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;56,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;46,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;35,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;50,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;45,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;-;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;28,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;48,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;39,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;43,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;46,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;41,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;21,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;56,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;67,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;36,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;62,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;3,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;51,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;58,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;48,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;39,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;21,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;39,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;11,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;57,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;38,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;13,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;18,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;19,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;43,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;20,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;29,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;25,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;2,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;52,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;45,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;48,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;53,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;37,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;48,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;45,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;23,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;57,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;53,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;25,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;4,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;71,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;45,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;58,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;43,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;53,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;55,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;55,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;3,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;57,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;56,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;48,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;42,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;45,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;44,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;51,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;16,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;17,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;43,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;40,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;40,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;17,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;47,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;37,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;26,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;41,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;41,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;57,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;42,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;48,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;50,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;47,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;43,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;46,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;41,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;52,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;38,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;45,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;43,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;25,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;10,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;43,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;36,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;46,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;11,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;19,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;47,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;30,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;45,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;46,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;20,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;37,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;31,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;46,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;39,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;47,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;41,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;51,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;15,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;6,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;41,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;48,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;28,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;53,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;14,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;86,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;46,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;;Insgesamt;34,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;48,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;25,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;02;Hamburg;BILAG2;Schulabschluss;;Insgesamt;60,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;;Insgesamt;40,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;;Insgesamt;49,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;51,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;21,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;41,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;51,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;5,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2014;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;;Insgesamt;58,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;16;Thüringen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;8,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;;Insgesamt;33,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;9,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;BILAG2;Schulabschluss;;Insgesamt;38,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2006;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;41,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;15;Sachsen-Anhalt;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;32,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,9;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;33,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;54,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;24,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,0;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;;Insgesamt;25,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;12,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;64,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2017;DLAND;Bundesländer;09;Bayern;BILAG2;Schulabschluss;;Insgesamt;45,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2009;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;46,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;38,3;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2007;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;34,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2016;DLAND;Bundesländer;03;Niedersachsen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;36,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;BILAG2;Schulabschluss;;Insgesamt;43,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;56,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;54,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;55,1;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2022;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;42,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILAG2;Schulabschluss;;Insgesamt;51,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;08;Baden-Württemberg;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2019;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;35,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;12;Brandenburg;BILAG2;Schulabschluss;;Insgesamt;46,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;06;Hessen;BILAG2;Schulabschluss;;Insgesamt;47,6;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2012;DLAND;Bundesländer;10;Saarland;BILAG2;Schulabschluss;;Insgesamt;59,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2013;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;2,5;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2015;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;57,2;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2011;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;49,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;BILABS14;Fachhochschulreife;7,8;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2008;DLAND;Bundesländer;11;Berlin;BILAG2;Schulabschluss;;Insgesamt;44,7;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2020;DLAND;Bundesländer;01;Schleswig-Holstein;BILAG2;Schulabschluss;BILABS15;Allgemeine Hochschulreife;42,4;Prozent;BIL023;Studienberechtigtenquote
+21381;Hochschulstatistische Kennzahlen;JAHR;Jahr;2018;DLAND;Bundesländer;07;Rheinland-Pfalz;BILAG2;Schulabschluss;;Insgesamt;48,2;Prozent;BIL023;Studienberechtigtenquote

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0118",
+  "titel": "Durchschnittliche Höhe des Elterngeldanspruchs: Bundesländer, Quartale, Geschlecht, Art der Inanspruchnahme, Erwerbstätigkeit",
+  "zeitraum": "1. Quartal 2017 - 2. Quartal 2026",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:45:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0118",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0118_flatfile.csv": "7e94f265db97714b60cff0f843a82f285080cc6a259e855a88acb46481b783fe"
+  },
+  "bytes": 5574041,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0118"
+}

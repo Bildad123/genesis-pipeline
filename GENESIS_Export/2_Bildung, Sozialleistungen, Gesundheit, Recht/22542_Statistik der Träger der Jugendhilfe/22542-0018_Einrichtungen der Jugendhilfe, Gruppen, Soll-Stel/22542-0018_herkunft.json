@@ -1,0 +1,28 @@
+{
+  "tabelle": "22542-0018",
+  "titel": "Einrichtungen der Jugendhilfe, Gruppen, Soll-Stellen, genehmigte Plätze, belegte Plätze: Deutschland, Stichtag, Art des Trägers",
+  "zeitraum": "15.12.2022 - 15.12.2024",
+  "statistik": "22542",
+  "alle_statistiken": [
+    "22542"
+  ],
+  "stand_genesis": "14.03.2024 16:30:45h",
+  "abgerufen_am": "2026-09-28T17:38:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22542-0018",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22542-0018_flatfile.csv": "987470ddf7f9481edc920c4282b7fb97c0967c6cb64f1f554d6b1a884d989e92"
+  },
+  "bytes": 3599,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22542/table/22542-0018"
+}

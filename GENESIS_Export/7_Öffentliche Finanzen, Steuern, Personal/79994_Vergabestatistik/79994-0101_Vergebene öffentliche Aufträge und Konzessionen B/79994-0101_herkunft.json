@@ -1,0 +1,28 @@
+{
+  "tabelle": "79994-0101",
+  "titel": "Vergebene öffentliche Aufträge und Konzessionen: Bundesländer, Quartale, Auftraggeberebene, Schwellenwert, EU-Angebote",
+  "zeitraum": "1. Quartal 2021 - 4. Quartal 2024",
+  "statistik": "79994",
+  "alle_statistiken": [
+    "79994"
+  ],
+  "stand_genesis": "28.12.2022 19:36:00h",
+  "abgerufen_am": "2026-09-28T21:02:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "79994-0101",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "79994-0101_flatfile.csv": "5a45b4c22c7a35465ff1820f833537545478878d68c37944c863699e7356912f"
+  },
+  "bytes": 1388756,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/79994/table/79994-0101"
+}

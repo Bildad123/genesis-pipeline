@@ -1,0 +1,104 @@
+{
+  "abgerufen_am": "2026-09-28T20:43:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "63111-0002",
+    "Content": "Ausstattung privater Haushalte (LWR): Deutschland, Stichtag (bis 01.01.2022), Gebrauchsgüter, Haushaltstyp",
+    "Time": {
+      "From": "01.01.2000",
+      "To": "01.01.2022"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "63111",
+        "Content": "Laufende Wirtschaftsrechnungen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "HSH011",
+          "Content": "Erfasste Haushalte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "HSH012",
+          "Content": "Hochgerechnete Haushalte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ATG001",
+          "Content": "Ausstattungsgrad je 100 Haushalte",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GUTGB2",
+              "Content": "Gebrauchsgüter",
+              "Type": "Merkmal",
+              "Values": "76",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "HSHTP2",
+        "Content": "Haushaltstyp",
+        "Type": "Merkmal",
+        "Values": "7",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "04.02.2026 17:28:55h"
+  }
+}

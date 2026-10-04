@@ -1,0 +1,73 @@
+{
+  "abgerufen_am": "2026-09-28T18:16:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32331-0021",
+    "Content": "Geprüfte Anlagen zum Umgang mit wassergefährdenden Stoffen:\nBundesländer, Jahre, Standort",
+    "Time": {
+      "From": "2018",
+      "To": "2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "32331",
+        "Content": "Erh. der Anlagen zum Umgang mit wassergef. Stoffen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "ANL016",
+            "Content": "Geprüfte Anlagen z. Umgang mit wassergef. Stoffen",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAND1",
+          "Content": "Standort",
+          "Type": "Merkmal",
+          "Values": "7",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "DLAND",
+          "Content": "Bundesländer",
+          "Type": "Merkmal",
+          "Values": "16",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "20.10.2020 11:49:52h"
+  }
+}

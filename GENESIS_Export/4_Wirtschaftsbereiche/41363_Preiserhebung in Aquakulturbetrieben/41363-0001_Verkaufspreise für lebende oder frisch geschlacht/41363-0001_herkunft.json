@@ -1,0 +1,28 @@
+{
+  "tabelle": "41363-0001",
+  "titel": "Verkaufspreise für lebende oder frisch geschlachtete Fische: Deutschland, Jahre, Fischarten, Vermarktungswege",
+  "zeitraum": "2011 - 2025",
+  "statistik": "41363",
+  "alle_statistiken": [
+    "41363"
+  ],
+  "stand_genesis": "29.12.2022 08:02:31h",
+  "abgerufen_am": "2026-09-28T18:43:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41363-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41363-0001_flatfile.csv": "247b72a5c4c119ded2cb76c56ff81b2070f4137859ef16b1cb52aee9a1e1f3f0"
+  },
+  "bytes": 218345,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41363/table/41363-0001"
+}

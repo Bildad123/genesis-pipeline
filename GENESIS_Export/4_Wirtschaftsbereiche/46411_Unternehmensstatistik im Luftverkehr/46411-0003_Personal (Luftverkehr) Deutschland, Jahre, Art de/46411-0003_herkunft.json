@@ -1,0 +1,28 @@
+{
+  "tabelle": "46411-0003",
+  "titel": "Personal (Luftverkehr): Deutschland, Jahre, Art des Personals",
+  "zeitraum": "1980 - 2024",
+  "statistik": "46411",
+  "alle_statistiken": [
+    "46411"
+  ],
+  "stand_genesis": "29.12.2022 08:14:54h",
+  "abgerufen_am": "2026-09-28T19:31:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46411-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46411-0003_flatfile.csv": "0f25c8ed788ce3d42b0c9dd953b546ca6aaa29cb132101eff3a647c1cc188200"
+  },
+  "bytes": 24182,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46411/table/46411-0003"
+}

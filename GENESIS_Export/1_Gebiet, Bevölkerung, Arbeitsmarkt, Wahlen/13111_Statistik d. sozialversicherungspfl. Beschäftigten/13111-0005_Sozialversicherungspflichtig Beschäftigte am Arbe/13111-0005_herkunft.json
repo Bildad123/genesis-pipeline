@@ -1,0 +1,28 @@
+{
+  "tabelle": "13111-0005",
+  "titel": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort: Bundesländer, Stichtag, Geschlecht",
+  "zeitraum": "31.03.2008 - 31.12.2025",
+  "statistik": "13111",
+  "alle_statistiken": [
+    "13111"
+  ],
+  "stand_genesis": "28.12.2022 17:14:03h",
+  "abgerufen_am": "2026-09-28T16:57:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13111-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13111-0005_flatfile.csv": "850bf255601e6a9d653ab8463424e9e2b59bf1f21ba0903317ce27cc32509f24"
+  },
+  "bytes": 83764,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13111/table/13111-0005"
+}

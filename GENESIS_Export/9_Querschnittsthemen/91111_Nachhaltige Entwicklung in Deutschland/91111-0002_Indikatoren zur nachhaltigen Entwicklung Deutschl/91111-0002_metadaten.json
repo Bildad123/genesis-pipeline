@@ -1,0 +1,75 @@
+{
+  "abgerufen_am": "2026-09-28T21:15:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "91111-0002",
+    "Content": "Indikatoren zur nachhaltigen Entwicklung: Deutschland, Jahre (bis 11.1.2017)",
+    "Time": {
+      "From": "1990",
+      "To": "2015"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "91111",
+        "Content": "Nachhaltige Entwicklung in Deutschland",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "INDIKA",
+                "Content": "Indikatoren",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "IND001",
+          "Content": "Indikatoren: Nachhaltige Entwicklung",
+          "Type": "Merkmal",
+          "Values": "52",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:27:42h"
+  }
+}

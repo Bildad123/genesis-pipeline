@@ -1,0 +1,28 @@
+{
+  "tabelle": "61261-0013",
+  "titel": "Baukostenindizes für Wohngebäude: Deutschland, Jahre, Art der Baukosten",
+  "zeitraum": "2000 - 2025",
+  "statistik": "61261",
+  "alle_statistiken": [
+    "61261"
+  ],
+  "stand_genesis": "09.07.2024 13:27:38h",
+  "abgerufen_am": "2026-09-28T20:25:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61261-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61261-0013_flatfile.csv": "c0515f052ef25abfcd7d34b404d702487c1f957edcc963b23bfa1e3a9523bacf"
+  },
+  "bytes": 16297,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61261/table/61261-0013"
+}

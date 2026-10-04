@@ -1,0 +1,28 @@
+{
+  "tabelle": "12411-0016",
+  "titel": "Bevölkerung: Kreise, Stichtag, Geschlecht",
+  "zeitraum": "31.12.1995 - 31.12.2025",
+  "statistik": "12411",
+  "alle_statistiken": [
+    "12411"
+  ],
+  "stand_genesis": "22.01.2025 17:50:45h",
+  "abgerufen_am": "2026-09-28T16:39:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12411-0016",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12411-0016_flatfile.csv": "7b0a4c0f3f773e49de43a2e085bd9a701aa7a97f3156d29de49f5427cec040be"
+  },
+  "bytes": 264792,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0016"
+}

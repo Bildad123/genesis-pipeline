@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0019",
+  "titel": "Lebendgeborene je 1000 Einwohner: Deutschland, Jahre",
+  "zeitraum": "1950 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "24.04.2025 12:17:02h",
+  "abgerufen_am": "2026-09-28T16:52:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0019",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0019_flatfile.csv": "0dc7790f4b3d8423305f9bd8f3e63af25aaba9bdfc7367f31acf852f6a9dc5b0"
+  },
+  "bytes": 10736,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0019"
+}

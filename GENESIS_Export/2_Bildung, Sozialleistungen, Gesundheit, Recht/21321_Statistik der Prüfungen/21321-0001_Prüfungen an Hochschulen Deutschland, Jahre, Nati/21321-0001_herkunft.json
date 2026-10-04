@@ -1,0 +1,28 @@
+{
+  "tabelle": "21321-0001",
+  "titel": "Prüfungen an Hochschulen: Deutschland, Jahre, Nationalität, Geschlecht, Prüfungsergebnis",
+  "zeitraum": "1999 - 2024",
+  "statistik": "21321",
+  "alle_statistiken": [
+    "21321"
+  ],
+  "stand_genesis": "28.12.2022 18:48:44h",
+  "abgerufen_am": "2026-09-28T17:05:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21321-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21321-0001_flatfile.csv": "d07740425de73d48af7c558a03d3176327135c226f9fd17901ec2a1baf147a20"
+  },
+  "bytes": 50494,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21321/table/21321-0001"
+}

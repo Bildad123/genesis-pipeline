@@ -1,0 +1,28 @@
+{
+  "tabelle": "24261-0002",
+  "titel": "Klagen vor dem Finanzgericht: Deutschland, Jahre, Stand der Erledigung",
+  "zeitraum": "2018 - 2025",
+  "statistik": "24261",
+  "alle_statistiken": [
+    "24261"
+  ],
+  "stand_genesis": "08.11.2023 11:11:55h",
+  "abgerufen_am": "2026-09-28T18:00:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24261-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24261-0002_flatfile.csv": "15dc9c784f6180e3255a23f8766eb61b6c47d151858d8438cdd6f2dc858c7b15"
+  },
+  "bytes": 9524,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24261/table/24261-0002"
+}

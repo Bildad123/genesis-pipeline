@@ -1,0 +1,28 @@
+{
+  "tabelle": "45213-0011",
+  "titel": "Beschäftigtenindex im Gastgewerbe: Bundesländer, Jahre",
+  "zeitraum": "2021 - 2025",
+  "statistik": "45213",
+  "alle_statistiken": [
+    "45213"
+  ],
+  "stand_genesis": "17.08.2026 17:20:50h",
+  "abgerufen_am": "2026-09-28T19:12:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45213-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45213-0011_flatfile.csv": "8f7374e0002317a15afe21dc1955e0d33a012ae829b9b13ca5e127110a10fafe"
+  },
+  "bytes": 18859,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45213/table/45213-0011"
+}

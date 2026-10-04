@@ -1,0 +1,28 @@
+{
+  "tabelle": "85121-0001",
+  "titel": "Energieverbrauch: Deutschland, Jahre, Produktionsbereiche",
+  "zeitraum": "1995 - 2020",
+  "statistik": "85121",
+  "alle_statistiken": [
+    "85121"
+  ],
+  "stand_genesis": "10.04.2024 14:44:35h",
+  "abgerufen_am": "2026-09-28T21:14:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85121-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85121-0001_flatfile.csv": "8f0877f3c5f1d8603f4495eaa839551a25d3f27856d1b3b613426c4d847f71c3"
+  },
+  "bytes": 268668,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85121/table/85121-0001"
+}

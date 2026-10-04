@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0114",
+  "titel": "Kinder in Tageseinrichtungen: Bundesländer, Stichtag, In der Familie vorrangig gesprochene Sprache",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 14:06:23h",
+  "abgerufen_am": "2026-09-28T17:37:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0114",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0114_flatfile.csv": "163c99986aeb824aecf86c97ddec7db172b6c16539c3fcba1f7b19c92f045279"
+  },
+  "bytes": 11052,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0114"
+}

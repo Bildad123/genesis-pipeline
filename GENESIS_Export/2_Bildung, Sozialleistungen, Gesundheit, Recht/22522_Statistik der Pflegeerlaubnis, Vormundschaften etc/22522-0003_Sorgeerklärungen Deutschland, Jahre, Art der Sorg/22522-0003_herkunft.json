@@ -1,0 +1,28 @@
+{
+  "tabelle": "22522-0003",
+  "titel": "Sorgeerklärungen: Deutschland, Jahre, Art der Sorgeerklärung",
+  "zeitraum": "2013 - 2025",
+  "statistik": "22522",
+  "alle_statistiken": [
+    "22522"
+  ],
+  "stand_genesis": "28.12.2022 21:12:07h",
+  "abgerufen_am": "2026-09-28T17:33:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22522-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22522-0003_flatfile.csv": "5938e5dcdcc032e8bf49ea5e913d93c36816ad95064adfd785f690775fc54ec2"
+  },
+  "bytes": 9065,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22522/table/22522-0003"
+}

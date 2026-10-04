@@ -1,0 +1,13 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-G;Großstädte;9,6;EUR/qm;MIT005;Durchschn. Bruttokaltmiete v.Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-G;Großstädte;8,1;EUR/qm;MIT004;Durchschn. Nettokaltmiete v. Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-G;Großstädte;29,0;Prozent;MIT006;Durchschn. Mietbelastung von Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-K-L;Kleinstädte und Landgemeinden;7,4;EUR/qm;MIT005;Durchschn. Bruttokaltmiete v.Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-K-L;Kleinstädte und Landgemeinden;6,4;EUR/qm;MIT004;Durchschn. Nettokaltmiete v. Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-K-L;Kleinstädte und Landgemeinden;26,0;Prozent;MIT006;Durchschn. Mietbelastung von Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;;Insgesamt;8,6;EUR/qm;MIT005;Durchschn. Bruttokaltmiete v.Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;;Insgesamt;7,4;EUR/qm;MIT004;Durchschn. Nettokaltmiete v. Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;;Insgesamt;27,9;Prozent;MIT006;Durchschn. Mietbelastung von Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-M;Mittelstädte;8,1;EUR/qm;MIT005;Durchschn. Bruttokaltmiete v.Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-M;Mittelstädte;6,9;EUR/qm;MIT004;Durchschn. Nettokaltmiete v. Hauptmieterhaushalten
+12211;Mikrozensus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GEMTP1;Gemeindetyp;GEM-M;Mittelstädte;27,7;Prozent;MIT006;Durchschn. Mietbelastung von Hauptmieterhaushalten

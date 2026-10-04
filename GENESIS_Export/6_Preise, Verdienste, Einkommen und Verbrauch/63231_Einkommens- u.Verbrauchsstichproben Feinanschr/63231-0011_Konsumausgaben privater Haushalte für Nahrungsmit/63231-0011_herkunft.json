@@ -1,0 +1,28 @@
+{
+  "tabelle": "63231-0011",
+  "titel": "Konsumausgaben privater Haushalte für Nahrungsmittel, Getränke und Tabakwaren (EVS): Früheres Bundesgebiet / Neue Länder, Jahre, Verwendungszwecke, Haushaltsgröße",
+  "zeitraum": "2023 - 2023",
+  "statistik": "63231",
+  "alle_statistiken": [
+    "63231"
+  ],
+  "stand_genesis": "15.06.2026 13:18:41h",
+  "abgerufen_am": "2026-09-28T20:46:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63231-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63231-0011_flatfile.csv": "324a584bef72f3616d0a19e5dffae1a06467f93f091dbd1c1a55c4657f880f5e"
+  },
+  "bytes": 53748,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63231/table/63231-0011"
+}

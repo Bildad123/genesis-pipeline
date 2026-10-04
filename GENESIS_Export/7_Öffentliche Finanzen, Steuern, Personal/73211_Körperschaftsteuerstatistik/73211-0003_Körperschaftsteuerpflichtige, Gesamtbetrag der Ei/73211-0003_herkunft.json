@@ -1,0 +1,28 @@
+{
+  "tabelle": "73211-0003",
+  "titel": "Körperschaftsteuerpflichtige, Gesamtbetrag der Einkünfte, Zu versteuerndes Einkommen, Festgesetzte Körperschaftsteuer: Deutschland, Jahre, Wirtschaftszweige, Gewinn-u.Verlustfälle",
+  "zeitraum": "2010 - 2021",
+  "statistik": "73211",
+  "alle_statistiken": [
+    "73211"
+  ],
+  "stand_genesis": "28.12.2022 19:23:30h",
+  "abgerufen_am": "2026-09-28T20:54:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73211-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73211-0003_flatfile.csv": "6687803498c840389937bba8d8b6f9e335ae050e3c20b47205ead4a9d812682a"
+  },
+  "bytes": 55249,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73211/table/73211-0003"
+}

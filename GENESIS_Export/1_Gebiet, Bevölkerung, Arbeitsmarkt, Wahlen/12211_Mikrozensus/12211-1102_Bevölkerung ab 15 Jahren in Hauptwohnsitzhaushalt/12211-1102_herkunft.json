@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-1102",
+  "titel": "Bevölkerung ab 15 Jahren in Hauptwohnsitzhaushalten: Bundesländer, Jahre, Geschlecht, Altersgruppen, Bildungsstatus",
+  "zeitraum": "2021 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "21.05.2025 11:58:20h",
+  "abgerufen_am": "2026-09-28T16:29:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-1102",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-1102_flatfile.csv": "12abe317e2bb64082e26b82f59b66b531255c98e39307799d0bd675b68c9e8bc"
+  },
+  "bytes": 416823,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-1102"
+}

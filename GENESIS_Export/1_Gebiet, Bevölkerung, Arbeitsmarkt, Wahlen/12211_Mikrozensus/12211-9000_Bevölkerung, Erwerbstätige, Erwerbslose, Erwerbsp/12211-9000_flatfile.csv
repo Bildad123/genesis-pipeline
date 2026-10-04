@@ -1,0 +1,916 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27016;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18707;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;8309;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1661;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17046;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26936;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18754;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;8181;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1449;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17305;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27301;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18247;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9054;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;2007;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16240;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27144;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18574;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;8571;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1913;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16661;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27107;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22467;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4640;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;876;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21590;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27076;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22603;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4474;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;811;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21791;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;26669;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21924;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4746;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1184;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20739;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;26833;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21964;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4869;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1119;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20845;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27457;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22442;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5015;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1025;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21417;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27305;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22486;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4819;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;950;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21536;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54103;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41220;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12883;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3226;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37994;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54393;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41226;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13166;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3135;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38091;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54549;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41170;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13380;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3601;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37568;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54858;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41060;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13798;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4258;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36801;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55129;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40625;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;14504;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4578;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36047;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26795;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18829;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7966;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1392;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17438;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26391;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19598;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;6792;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;579;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19020;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;52619;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40564;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12055;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2394;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38170;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26445;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19801;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;6644;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;548;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19253;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;53902;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41214;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12687;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2944;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38270;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26644;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19560;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7084;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;742;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18818;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26467;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19584;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;6884;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;659;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18924;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26301;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19134;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7167;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;898;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18236;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26355;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19219;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7136;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;821;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18398;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26246;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18823;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7423;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;985;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17839;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26288;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19037;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7251;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;947;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18090;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26700;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18882;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7818;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1249;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17633;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27714;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22486;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5228;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2346;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20141;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;26204;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18802;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;7402;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1061;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17741;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27828;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22378;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5450;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2572;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19806;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27308;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22391;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4917;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1835;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20556;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27457;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22472;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4985;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1686;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20786;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27533;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22462;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5071;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1940;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20522;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;26560;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21859;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4701;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1227;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20632;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;26493;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21792;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4702;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1233;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20559;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;26415;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21762;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4653;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1333;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20429;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27201;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22333;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4869;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1695;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20637;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;53521;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42404;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;11117;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1360;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41044;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;53497;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42065;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;11432;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1455;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40610;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;53772;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42070;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;11703;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1610;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40460;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54101;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42003;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12098;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1767;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40236;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;53187;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41183;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12005;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1940;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39242;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;52970;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41058;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;11912;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2082;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38976;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;52848;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40896;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;11952;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2173;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38722;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;52739;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40615;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12124;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2218;1000;ERW003;Erwerbslose
+12211;Mikrozensus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38398;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;35439;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15737;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39907;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4468;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55643;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16014;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9232;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;18002;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1988;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27234;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20744;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5340;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22731;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1987;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28070;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16225;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3858;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17402;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1177;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21256;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15989;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1647;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16031;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;42;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17678;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15825;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2882;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16343;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;518;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19225;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21689;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;4727;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22936;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1247;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27663;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10253;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9973;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;11416;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1163;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21386;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25499;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12521;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25556;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;57;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38077;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9434;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10361;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9902;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;468;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20263;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10023;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10332;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10755;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;732;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21085;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25083;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12847;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25287;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;204;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38134;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25149;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12928;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25350;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;201;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38278;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9352;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10478;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9775;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;423;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20252;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9394;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10680;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9447;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;53;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20127;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26097;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13020;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26470;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;373;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39491;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10400;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9819;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;11531;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1131;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21348;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9079;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10944;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9171;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;92;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20115;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16547;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2391;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16656;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;109;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;18848;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9381;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10723;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9426;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;45;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20149;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16397;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3837;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17524;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1127;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21360;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;14983;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10192;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17025;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;2042;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27217;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;27087;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13302;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;29401;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2314;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42701;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9667;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10411;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9753;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;86;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20164;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15812;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9174;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17911;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;2100;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27084;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16376;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3521;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17205;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;829;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20724;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15437;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10254;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16826;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1389;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27079;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36232;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15483;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39950;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3722;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55433;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20278;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5600;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22630;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2354;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28229;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25529;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13390;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26460;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;931;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39850;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36070;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15542;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39864;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3794;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55406;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15822;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1596;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15868;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;46;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17464;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26276;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;14356;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;28483;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2207;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42837;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19720;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5479;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22345;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2626;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27824;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15726;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1962;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15924;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;198;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17886;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16532;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3375;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17053;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;521;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20425;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36415;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15168;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40144;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3730;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55312;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10689;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9443;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;11790;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1101;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21232;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20796;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5261;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22843;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2047;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28104;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15906;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1745;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15955;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;49;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17700;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;35634;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15879;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39629;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3995;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55509;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9254;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10851;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9329;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;75;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20180;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15967;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1607;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16013;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;46;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17620;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10008;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10262;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10532;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;524;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20792;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15944;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2692;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16492;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;548;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19183;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17410;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3831;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;18350;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;941;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22182;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25511;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12559;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25560;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;49;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38119;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21436;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5023;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22855;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1419;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27879;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20073;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5570;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22358;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2285;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27927;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15181;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10177;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16943;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1762;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27119;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15918;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2977;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16422;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;504;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19399;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26053;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12969;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26250;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;197;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38988;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15793;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9850;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17517;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1726;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27367;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20439;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5634;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22433;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1997;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28067;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16045;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9479;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17824;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1779;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27303;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16797;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3852;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17843;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1046;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21691;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9039;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10858;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9204;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;165;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20062;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;14970;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10160;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17078;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;2108;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27237;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9972;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10618;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10937;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;965;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21555;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;24941;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12270;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25153;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;212;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37423;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15741;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1910;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15947;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;206;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17857;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20322;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5560;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22698;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2376;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28258;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25893;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13281;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26745;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;852;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40026;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25203;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12160;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25344;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;141;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37504;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26326;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;14026;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;28712;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2386;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42732;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;11623;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;8958;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;12650;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1027;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21608;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26428;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13336;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;27194;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;766;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40530;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25393;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12325;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25477;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;84;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37802;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15710;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1618;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15773;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;63;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17391;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;24805;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12909;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25091;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;286;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1967-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38000;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25177;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13360;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26118;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;941;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1976-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39477;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25214;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12279;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25312;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;98;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1962-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37591;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16032;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3020;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16499;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;467;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19519;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26399;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13853;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;27959;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1560;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1982-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41809;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9449;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10715;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9474;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;25;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20189;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9227;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10705;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9331;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;104;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20036;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9386;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10657;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9495;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;109;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20152;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16488;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2554;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16701;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;213;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19255;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20375;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5588;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22426;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2051;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28014;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16516;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3123;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16896;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;380;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20019;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36026;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15481;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40129;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4103;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55610;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9677;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10240;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10132;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;455;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20372;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15117;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10177;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17208;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;2091;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27385;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;35734;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;14711;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40347;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4614;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55058;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16141;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3791;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17239;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1098;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21030;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9504;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10592;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9549;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;45;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20141;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26650;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13810;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;28940;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2290;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1986-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42746;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21111;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5266;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22901;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1790;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28166;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9393;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10489;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9750;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;357;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20239;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16040;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9579;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17718;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1678;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27297;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15220;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10149;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17265;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;2048;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27413;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;14959;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10276;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;16964;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;2005;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1993-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27240;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9147;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10842;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9240;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;93;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20082;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16594;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3762;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17739;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1145;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21499;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37126;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;14981;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39762;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2636;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1991-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54743;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10023;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10389;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;11121;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1098;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21510;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;35209;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;14621;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40150;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4941;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54771;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26238;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12756;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26416;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;178;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39171;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16382;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3795;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17627;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1245;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21417;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15555;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1612;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15659;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;104;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1959-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17271;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15936;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2008;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16046;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;110;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1969-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;18054;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25287;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12469;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25381;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;94;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1964-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37850;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;35727;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15532;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39756;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4029;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1995-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55287;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9609;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10466;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9769;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;160;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1974-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20235;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16066;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2166;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16150;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;84;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;18316;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10493;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9540;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;11662;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1169;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1988-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21202;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26782;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13614;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;29158;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2376;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1987-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42765;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19397;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5448;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22239;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2842;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;27687;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16252;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3966;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17362;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1110;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1984-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;21327;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16571;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2345;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16663;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;92;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1973-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19008;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36118;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15049;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;40182;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4064;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55230;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;35498;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15749;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39894;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4396;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55643;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;24781;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12766;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25153;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;372;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1968-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37919;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9505;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10578;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9592;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;87;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1972-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20140;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25337;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13181;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26241;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;905;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1975-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39422;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;36617;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15200;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39798;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;3181;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1992-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;54998;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16122;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1805;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16153;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;31;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17958;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25473;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12200;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25561;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;88;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1961-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;37761;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20490;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5563;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22612;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2122;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28175;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16216;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;3041;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16613;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;397;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1979-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;19654;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9498;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10369;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9962;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;464;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1978-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20331;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25320;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13015;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25480;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;160;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1970-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;38495;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26540;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13638;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;27585;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1045;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1981-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;41217;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9494;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10540;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9573;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;79;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1960-10P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20113;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15145;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10316;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17019;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1874;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27334;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9913;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10212;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10299;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;386;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1980-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20511;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;15923;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2222;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16020;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;97;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1971-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;18242;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9389;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10753;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9408;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;19;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1966-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20161;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10101;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10168;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;11310;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1209;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1985-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;21476;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;29033;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;12789;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;31000;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;1968;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1990-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;43790;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9404;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;10678;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9446;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;42;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1963-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;20124;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;15605;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;9924;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;17490;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;1886;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESW;weiblich;27414;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;27486;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13293;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;29633;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2147;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1989-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42923;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26113;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;14408;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;28177;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;2064;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1983-06P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;42585;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16051;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;1806;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;16082;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;31;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1965-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;17888;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;25351;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;13339;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;26323;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;972;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1977-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39662;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;20422;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;5557;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;22639;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;2220;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;GESM;männlich;28196;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;35765;1000;ERW002;Erwerbstätige
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;15421;1000;ERW004;Nichterwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;39920;1000;ERW001;Erwerbspersonen
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;4155;1000;ERW003;Erwerbslose
+12211;Mikrozensus;SMONAT;Stichmonat;1994-04P1M;DINSG;Deutschland insgesamt;DG;Deutschland;GES;Geschlecht;;Insgesamt;55341;1000;BEV023;Bevölkerung (15 bis unter 65 Jahre)

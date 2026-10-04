@@ -1,0 +1,28 @@
+{
+  "tabelle": "42321-0002",
+  "titel": "Inlandsabsatz von Kalk-Dünger für die Forstwirtschaft: Deutschland, Wirtschaftsjahr",
+  "zeitraum": "2010/11 - 2024/25",
+  "statistik": "42321",
+  "alle_statistiken": [
+    "42321"
+  ],
+  "stand_genesis": "09.02.2022 14:41:11h",
+  "abgerufen_am": "2026-09-28T19:03:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42321-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42321-0002_flatfile.csv": "0063163579c66f04ea89cb7ce7735322400e4de2264faae185d9f82a01bec6cd"
+  },
+  "bytes": 2817,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42321/table/42321-0002"
+}

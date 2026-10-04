@@ -1,0 +1,28 @@
+{
+  "tabelle": "22543-0007",
+  "titel": "Tagespflegepersonen: Deutschland, Stichtag, Geschlecht, Altersgruppen",
+  "zeitraum": "01.03.2012 - 01.03.2025",
+  "statistik": "22543",
+  "alle_statistiken": [
+    "22543"
+  ],
+  "stand_genesis": "21.10.2025 13:35:42h",
+  "abgerufen_am": "2026-09-28T17:39:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22543-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22543-0007_flatfile.csv": "1b2e567583cdaedb54c0dbceca882b47800184ba2c7b8371f0e02b3f920bf69c"
+  },
+  "bytes": 117628,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22543/table/22543-0007"
+}

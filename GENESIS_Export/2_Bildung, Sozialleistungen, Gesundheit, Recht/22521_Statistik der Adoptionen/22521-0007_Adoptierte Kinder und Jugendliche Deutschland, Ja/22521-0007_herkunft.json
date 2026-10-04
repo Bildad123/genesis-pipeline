@@ -1,0 +1,28 @@
+{
+  "tabelle": "22521-0007",
+  "titel": "Adoptierte Kinder und Jugendliche: Deutschland, Jahre (bis 2017), Altersgruppen, Familienstand der abgebenden Eltern, Art der Unterbringung vor der Adoption",
+  "zeitraum": "2010 - 2017",
+  "statistik": "22521",
+  "alle_statistiken": [
+    "22521"
+  ],
+  "stand_genesis": "14.08.2024 13:23:26h",
+  "abgerufen_am": "2026-09-28T17:33:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22521-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22521-0007_flatfile.csv": "7a777e71ef1c1ab6193da2ffe4e28087f8042e44e87ef727d5fa94cb81d02250"
+  },
+  "bytes": 117957,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22521/table/22521-0007"
+}

@@ -1,0 +1,105 @@
+{
+  "abgerufen_am": "2026-09-28T20:53:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "73111-0004",
+    "Content": "Lohn- und Einkommensteuerpflichtige mit außergewöhnlichen\nBelastungen: Deutschland, Jahre, Art der außergew. Belast.,\nGrund-/Splittingtabelle, Größenklassen der Einkünfte",
+    "Time": {
+      "From": "2007",
+      "To": "2022"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "73111",
+        "Content": "Lohn- und Einkommensteuerstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BELAT1",
+          "Content": "Art der außergewöhnlichen Belastungen",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STP021",
+              "Content": "Lohn- u. Einkommensteuerpflichtige (m.außerg.Bel.)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "BEL001",
+              "Content": "Außergewöhnliche Belastungen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "TABGS1",
+          "Content": "Grund-/Splittingtabelle",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "EKFGR1",
+              "Content": "Größenklassen der Einkünfte",
+              "Type": "Merkmal",
+              "Values": "10",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.05.2025 10:33:53h"
+  }
+}

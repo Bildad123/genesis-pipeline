@@ -1,0 +1,28 @@
+{
+  "tabelle": "41232-0012",
+  "titel": "Erntemenge (Strauchbeeren): Bundesländer, Jahre, Art der Verwendung",
+  "zeitraum": "2012 - 2024",
+  "statistik": "41232",
+  "alle_statistiken": [
+    "41232"
+  ],
+  "stand_genesis": "28.12.2022 21:04:33h",
+  "abgerufen_am": "2026-09-28T18:30:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41232-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41232-0012_flatfile.csv": "975876d1b408e050da0dae503dddcbb896522885cd43073a6754f7f4dbcef144"
+  },
+  "bytes": 8293,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41232/table/41232-0012"
+}

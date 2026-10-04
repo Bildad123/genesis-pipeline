@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T17:39:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22543-0006",
+    "Content": "Kinder in öffentlich geförderter Kindertagespflege:\nDeutschland, Stichtag, Geschlecht, Art der öffentlichen\nFinanzierung bzw. Förderung",
+    "Time": {
+      "From": "01.03.2012",
+      "To": "01.03.2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22543",
+        "Content": "Statistik öffentlich geförderter Kindertagespflege",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "KIN002",
+                "Content": "Kinder in öffentlich geförderter Kindertagespflege",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "PFLFD1",
+              "Content": "Art der öffentlichen Finanzierung bzw. Förderung",
+              "Type": "Merkmal",
+              "Values": "7",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "21.10.2025 13:35:02h"
+  }
+}

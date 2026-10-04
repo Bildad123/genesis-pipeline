@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:16:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "13211",
+    "Content": "Arbeitsmarktstatistik der Bundesagentur für Arbeit",
+    "Cubes": "16",
+    "Variables": "13",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Monatlich"
+      }
+    ],
+    "Information": "Arbeitsmarktstatistik der Bundesagentur für Arbeit:\n- Statistik der Arbeitslosen,\n- Statistik der gemeldeten Arbeitsstellen,\n- Statistik über Kurzarbeit.\n\nFür Informationen über Methoden, Definitionen und\nDatenqualität zu den einzelnen Fachstatistiken der\nBundesagentur für Arbeit siehe:\nstatistik.arbeitsagentur.de > Grundlagen",
+    "Updated": "31.03.2026 11:49:02h"
+  }
+}

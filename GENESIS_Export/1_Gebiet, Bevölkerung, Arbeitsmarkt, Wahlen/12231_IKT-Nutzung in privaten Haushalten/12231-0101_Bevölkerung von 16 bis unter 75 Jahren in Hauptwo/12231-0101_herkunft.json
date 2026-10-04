@@ -1,0 +1,28 @@
+{
+  "tabelle": "12231-0101",
+  "titel": "Bevölkerung von 16 bis unter 75 Jahren in Hauptwohnsitzhaushalten: Bundesländer, Jahre, Altersgruppen, Private Internetaktivitäten in den letzten drei Monaten",
+  "zeitraum": "2022 - 2025",
+  "statistik": "12231",
+  "alle_statistiken": [
+    "12231"
+  ],
+  "stand_genesis": "23.01.2023 12:53:02h",
+  "abgerufen_am": "2026-09-28T16:35:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12231-0101",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12231-0101_flatfile.csv": "4aa43a409dec52edf7ab4f530de29fe3880b298e3c6bc1ff32cde804ae30c9ac"
+  },
+  "bytes": 180891,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12231/table/12231-0101"
+}

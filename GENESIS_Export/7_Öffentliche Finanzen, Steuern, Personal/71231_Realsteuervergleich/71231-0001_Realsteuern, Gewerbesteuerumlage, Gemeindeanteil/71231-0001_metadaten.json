@@ -1,0 +1,136 @@
+{
+  "abgerufen_am": "2026-09-28T20:49:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "71231-0001",
+    "Content": "Realsteuern, Gewerbesteuerumlage, Gemeindeanteil an der\nEinkommensteuer, Gemeindeanteil an der Umsatzsteuer,\nGemeindliche Steuerkraft: Deutschland, Jahre",
+    "Time": {
+      "From": "2000",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "71231",
+        "Content": "Realsteuervergleich",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STR030",
+          "Content": "Realsteuern",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STRAK1",
+              "Content": "Realsteueraufkommen",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "START8",
+                  "Content": "Realsteuerart",
+                  "Type": "Merkmal",
+                  "Values": "4",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        },
+        {
+          "Code": "STEU09",
+          "Content": "Gewerbesteuerumlage",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "STEU08",
+          "Content": "Gemeindeanteil an der Einkommensteuer",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "STEU12",
+          "Content": "Gemeindeanteil an der Umsatzsteuer",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "STEU10",
+          "Content": "Gemeindliche Steuerkraft",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "STEU11",
+          "Content": "Gemeindliche Steuerkraft je Einwohner",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:56:00h"
+  }
+}

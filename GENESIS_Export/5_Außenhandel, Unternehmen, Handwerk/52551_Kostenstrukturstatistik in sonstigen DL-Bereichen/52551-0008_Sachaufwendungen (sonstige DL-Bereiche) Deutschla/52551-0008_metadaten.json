@@ -1,0 +1,115 @@
+{
+  "abgerufen_am": "2026-09-28T20:16:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "52551-0008",
+    "Content": "Sachaufwendungen (sonstige DL-Bereiche): Deutschland,\nJahre (bis 2006), Art der Sachaufwendungen,\nWirtschaftszweige, Umsatz-/Beschäftigtengrößenklassen",
+    "Time": {
+      "From": "2002",
+      "To": "2006"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "52551",
+        "Content": "Kostenstrukturstatistik in sonstigen DL-Bereichen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ADSAW2",
+          "Content": "Art der Sachaufwendungen",
+          "Type": "Merkmal",
+          "Values": "10",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "SAW002",
+              "Content": "Sachaufwendungen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "SAW003",
+              "Content": "Sachaufwendungen anteilig am Umsatz",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "SAW004",
+              "Content": "Sachaufwendungen anteilig an den Aufwendungen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ03W7",
+          "Content": "WZ2003: Kostenstrukturstatistik",
+          "Type": "Merkmal",
+          "Values": "26",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UMSGR5",
+              "Content": "Umsatzgrößenklassen",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:27:39h"
+  }
+}

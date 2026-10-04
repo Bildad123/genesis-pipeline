@@ -1,0 +1,127 @@
+{
+  "abgerufen_am": "2026-09-28T19:23:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46241-0011",
+    "Content": "Unfallbeteiligte, Hauptverursacher des Unfalls:\nDeutschland, Jahre, Geschlecht, Altersgruppen, Art der\nVerkehrsbeteiligung, Unfallkategorie, Ortslage",
+    "Time": {
+      "From": "2008",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46241",
+        "Content": "Statistik der Straßenverkehrsunfälle",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GES01",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ALTX18",
+              "Content": "Altersgruppen (u15-75m, unbekannt)",
+              "Type": "Merkmal",
+              "Values": "11",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "VER024",
+                  "Content": "Unfallbeteiligte",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "VER022",
+                  "Content": "Hauptverursacher des Unfalls",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "VERVB1",
+          "Content": "Art der Verkehrsbeteiligung",
+          "Type": "Merkmal",
+          "Values": "13",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "VERUK1",
+              "Content": "Unfallkategorie",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "VEROL1",
+                  "Content": "Ortslage",
+                  "Type": "Merkmal",
+                  "Values": "3",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:06:48h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12711-0001",
+  "titel": "Gesamtwanderungen über die Grenzen der Bundesländer: Deutschland, Jahre, Nationalität, Geschlecht",
+  "zeitraum": "2000 - 2025",
+  "statistik": "12711",
+  "alle_statistiken": [
+    "12711"
+  ],
+  "stand_genesis": "28.12.2022 17:34:56h",
+  "abgerufen_am": "2026-09-28T16:55:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12711-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12711-0001_flatfile.csv": "8ff07325fb8e7b4c8fbfedb6a769c3c2201a6322530dcdcf71a210819f711bd3"
+  },
+  "bytes": 124272,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12711/table/12711-0001"
+}

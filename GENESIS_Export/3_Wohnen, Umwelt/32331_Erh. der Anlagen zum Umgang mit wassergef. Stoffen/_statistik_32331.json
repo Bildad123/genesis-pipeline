@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:19:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32331",
+    "Content": "Erh. der Anlagen zum Umgang mit wassergef. Stoffen",
+    "Cubes": "40",
+    "Variables": "17",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Erhebung der Anlagen zum Umgang mit wassergefährdenden\nStoffen\n\n*******************************************************\n*   Die Statistik wurde zum 20.08.2024 stillgelegt.   *\n*******************************************************",
+    "Updated": "29.07.2026 17:56:06h"
+  }
+}

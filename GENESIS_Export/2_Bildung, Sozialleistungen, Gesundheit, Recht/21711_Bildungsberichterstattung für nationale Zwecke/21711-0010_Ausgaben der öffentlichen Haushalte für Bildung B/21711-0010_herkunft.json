@@ -1,0 +1,28 @@
+{
+  "tabelle": "21711-0010",
+  "titel": "Ausgaben der öffentlichen Haushalte für Bildung: Bundesländer, Jahre, Körperschaftsgruppen, Aufgabenbereiche der öffentlichen Haushalte",
+  "zeitraum": "1995 - 2025",
+  "statistik": "21711",
+  "alle_statistiken": [
+    "21711"
+  ],
+  "stand_genesis": "28.12.2022 17:03:28h",
+  "abgerufen_am": "2026-09-28T17:16:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21711-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21711-0010_flatfile.csv": "581b6dfa914cc7cf9a37b2a7a5dc8a7b58c1d2aeb0c658fb58c9bcd000670faa"
+  },
+  "bytes": 409864,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21711/table/21711-0010"
+}

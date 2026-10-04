@@ -1,0 +1,28 @@
+{
+  "tabelle": "63111-0005",
+  "titel": "Ausstattung privater Haushalte (LWR): Deutschland, Stichtag (bis 01.01.2022), Gebrauchsgüter, Alter des Haupteinkommensbeziehers",
+  "zeitraum": "01.01.2004 - 01.01.2022",
+  "statistik": "63111",
+  "alle_statistiken": [
+    "63111"
+  ],
+  "stand_genesis": "04.02.2026 17:33:52h",
+  "abgerufen_am": "2026-09-28T20:44:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63111-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63111-0005_flatfile.csv": "2b8b8cf418b6aede20503ec803f412f979c5ce2773ef63eb4ac15887b62a3666"
+  },
+  "bytes": 1864147,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63111/table/63111-0005"
+}

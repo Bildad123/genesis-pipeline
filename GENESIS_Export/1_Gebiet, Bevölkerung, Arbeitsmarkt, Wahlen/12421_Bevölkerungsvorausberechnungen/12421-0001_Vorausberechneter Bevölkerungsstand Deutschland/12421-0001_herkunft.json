@@ -1,0 +1,28 @@
+{
+  "tabelle": "12421-0001",
+  "titel": "Vorausberechneter Bevölkerungsstand: Deutschland, Stichtag, Varianten der Bevölkerungsvorausberechnung",
+  "zeitraum": "31.12.2025 - 31.12.2070",
+  "statistik": "12421",
+  "alle_statistiken": [
+    "12421"
+  ],
+  "stand_genesis": "08.12.2025 16:47:51h",
+  "abgerufen_am": "2026-09-28T16:40:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12421-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12421-0001_flatfile.csv": "08453e2a438c307c968a34c8a0d7cf46cfe5e9345d9b101c50e2bb89b7a91a05"
+  },
+  "bytes": 379700,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12421/table/12421-0001"
+}

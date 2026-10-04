@@ -1,0 +1,28 @@
+{
+  "tabelle": "22111-0005",
+  "titel": "Bruttoausgaben der Sozialhilfe: Deutschland, Jahre, Sozialhilfearten, Sozialhilfeträger, Ort der Leistungserbringung",
+  "zeitraum": "2005 - 2025",
+  "statistik": "22111",
+  "alle_statistiken": [
+    "22111"
+  ],
+  "stand_genesis": "28.12.2022 17:49:32h",
+  "abgerufen_am": "2026-09-28T17:18:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22111-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22111-0005_flatfile.csv": "356ce7353b2628e55b8e125e917e68c99837230a34bfd53744943f8bbc79d300"
+  },
+  "bytes": 82449,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22111/table/22111-0005"
+}

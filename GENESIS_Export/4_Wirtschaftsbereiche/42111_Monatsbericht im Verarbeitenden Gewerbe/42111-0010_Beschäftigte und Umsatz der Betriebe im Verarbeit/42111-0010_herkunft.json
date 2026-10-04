@@ -1,0 +1,28 @@
+{
+  "tabelle": "42111-0010",
+  "titel": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Bundesländer, Jahre",
+  "zeitraum": "2005 - 2025",
+  "statistik": "42111",
+  "alle_statistiken": [
+    "42111"
+  ],
+  "stand_genesis": "28.12.2022 17:02:30h",
+  "abgerufen_am": "2026-09-28T18:45:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42111-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42111-0010_flatfile.csv": "9cfbfaa4b742d012b36fb6dd45c36313b151960679a35ee34a77efd85033a4a5"
+  },
+  "bytes": 603336,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42111/table/42111-0010"
+}

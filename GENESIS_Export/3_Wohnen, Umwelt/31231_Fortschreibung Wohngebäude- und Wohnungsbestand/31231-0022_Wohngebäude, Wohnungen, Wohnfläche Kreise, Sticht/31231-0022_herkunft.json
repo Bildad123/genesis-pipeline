@@ -1,0 +1,28 @@
+{
+  "tabelle": "31231-0022",
+  "titel": "Wohngebäude, Wohnungen, Wohnfläche: Kreise, Stichtag, Anzahl der Wohnungen",
+  "zeitraum": "31.12.2015 - 31.12.2025",
+  "statistik": "31231",
+  "alle_statistiken": [
+    "31231"
+  ],
+  "stand_genesis": "25.04.2024 16:50:37h",
+  "abgerufen_am": "2026-09-28T18:09:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31231-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31231-0022_flatfile.csv": "eb89266a65187fc22062862626da0f028b37c18f9726a19f63a6c9b66e0dc354"
+  },
+  "bytes": 1548415,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31231/table/31231-0022"
+}

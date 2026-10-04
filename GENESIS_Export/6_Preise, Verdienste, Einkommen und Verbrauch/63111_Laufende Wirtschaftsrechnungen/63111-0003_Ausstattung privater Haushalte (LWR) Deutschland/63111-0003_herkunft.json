@@ -1,0 +1,28 @@
+{
+  "tabelle": "63111-0003",
+  "titel": "Ausstattung privater Haushalte (LWR): Deutschland, Stichtag (bis 01.01.2022), Gebrauchsgüter, Haushaltsnettoeinkommensklassen",
+  "zeitraum": "01.01.2021 - 01.01.2022",
+  "statistik": "63111",
+  "alle_statistiken": [
+    "63111"
+  ],
+  "stand_genesis": "04.02.2026 17:29:54h",
+  "abgerufen_am": "2026-09-28T20:44:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63111-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63111-0003_flatfile.csv": "2f3f567b84a8bb4edfc3d16ed9274c49b0f38e07ff174c934758986d9443be32"
+  },
+  "bytes": 277873,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63111/table/63111-0003"
+}

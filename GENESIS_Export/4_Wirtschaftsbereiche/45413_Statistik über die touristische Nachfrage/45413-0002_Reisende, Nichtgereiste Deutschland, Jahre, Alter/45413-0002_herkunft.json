@@ -1,0 +1,28 @@
+{
+  "tabelle": "45413-0002",
+  "titel": "Reisende, Nichtgereiste: Deutschland, Jahre, Altersgruppen",
+  "zeitraum": "2012 - 2025",
+  "statistik": "45413",
+  "alle_statistiken": [
+    "45413"
+  ],
+  "stand_genesis": "28.12.2022 21:20:39h",
+  "abgerufen_am": "2026-09-28T19:16:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45413-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45413-0002_flatfile.csv": "a296256ce3bc130fdb542c4bddef9fd124d5bc7b3429c251bb5dbb813104252e"
+  },
+  "bytes": 34173,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45413/table/45413-0002"
+}

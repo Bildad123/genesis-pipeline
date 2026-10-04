@@ -1,0 +1,28 @@
+{
+  "tabelle": "22517-0004",
+  "titel": "Erzieherische Hilfen/Beratungen: Früheres Bundesgebiet/ Neue Länder, Jahre, Geschlecht, Migrationshintergrund, Art der Hilfe",
+  "zeitraum": "2008 - 2024",
+  "statistik": "22517",
+  "alle_statistiken": [
+    "22517"
+  ],
+  "stand_genesis": "05.01.2024 12:26:21h",
+  "abgerufen_am": "2026-09-28T17:31:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22517-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22517-0004_flatfile.csv": "0bacf4afb9ad32351744fba06bde1cca116d837efd15651346b9f555c27b82e5"
+  },
+  "bytes": 147449,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22517/table/22517-0004"
+}

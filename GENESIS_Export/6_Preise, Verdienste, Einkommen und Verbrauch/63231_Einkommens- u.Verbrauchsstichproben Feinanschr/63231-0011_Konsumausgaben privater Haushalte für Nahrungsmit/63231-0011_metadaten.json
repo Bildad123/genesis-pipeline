@@ -1,0 +1,82 @@
+{
+  "abgerufen_am": "2026-09-28T20:46:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "63231-0011",
+    "Content": "Konsumausgaben privater Haushalte für Nahrungsmittel,\nGetränke und Tabakwaren (EVS): Früheres Bundesgebiet / Neue\nLänder, Jahre, Verwendungszwecke, Haushaltsgröße",
+    "Time": {
+      "From": "2023",
+      "To": "2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "63231",
+        "Content": "Einkommens- u.Verbrauchsstichproben: Feinanschr.",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "HSH015",
+            "Content": "Durchschnittsbetrag je Haushalt und Monat",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "HSHGR2",
+          "Content": "Haushaltsgröße",
+          "Type": "Merkmal",
+          "Values": "5",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "SE21E2",
+          "Content": "Verwendungszwecke privater Konsumausgaben",
+          "Type": "Merkmal",
+          "Values": "13",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DINSGF",
+        "Content": "Früheres Bundesgebiet / Neue Länder",
+        "Type": "Merkmal",
+        "Values": "2",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "15.06.2026 13:18:41h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "23631-0002",
+  "titel": "Krankheitskosten, Krankheitskosten je Einwohner: Deutschland, Jahre, Geschlecht, Altersgruppen",
+  "zeitraum": "2015 - 2023",
+  "statistik": "23631",
+  "alle_statistiken": [
+    "23631"
+  ],
+  "stand_genesis": "07.08.2025 13:09:53h",
+  "abgerufen_am": "2026-09-28T17:57:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23631-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23631-0002_flatfile.csv": "484f8bb6cdb2b6098958fe97b663b5ddbab21e3772405bbb16ae40fe6e09353d"
+  },
+  "bytes": 18764,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23631/table/23631-0002"
+}

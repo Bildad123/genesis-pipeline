@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:24:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "81511",
+    "Content": "Input-Output-Rechnung",
+    "Cubes": "7",
+    "Variables": "17",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Die Ergebnisse der Input-Output-Rechnung geben einen\ndetaillierten Einblick in die Güterströme und\nProduktionsverflechtungen in der Volkswirtschaft und mit der\nübrigen Welt. Sie dienen u.a. als Grundlage für\nStrukturuntersuchungen der Wirtschaft. Input-Output-Tabellen\nwerden für Analysen der direkten und indirekten Auswirkungen\nvon Nachfrage-, Preis- und Lohnänderungen usw. auf die\nGesamtwirtschaft und die einzelnen Bereiche verwendet.\nDarüber hinaus sind sie eine vielseitig verwendbare Basis\nfür Vorausschätzungen der wirtschaftlichen Entwicklung. Sie\nwerden ferner u.a. für internationale Vergleiche der\nProduktionsstrukturen und ergebnisse in den\nVolkswirtschaften genutzt.\n\nDie Input-Output-Tabellen für inländische Produktion und\nImporte bzw. für die inländische Produktion und die\nImportmatrix zeigen das Aufkommen an Gütern und deren\nVerwendung nach in den Zeilen und Spalten einheitlich\nabgegrenzten Gütergruppen und Produktionsbereichen bzw. nach\nden Kategorien der letzten Verwendung. Als Darstellungs-\neinheiten werden in den Input-Output-Tabellen nach\nproduktionsrelevanten Merkmalen abgegrenzte \"homogene\nProduktionseinheiten\" zu Produktionsbereichen\nzusammengefasst.\n\nNach Wirtschaftsbereichen gegliederte Aufkommens- und\nVerwendungstabellen ermöglichen den Übergang von den Input-\nOutput-Tabellen zu den detaillierten Jahresergebnissen der\nInlandsproduktberechnung und umgekehrt. Eine Abstimmung\nzwischen der Input-Output-Rechnung und der\nInlandsproduktsberechnung erfolgt auf verschiedenen Stufen\ndes Berechnungsprozesses.\n\nDie Input-Output-Rechnung folgt den Methoden und Konzepten\ndes Europäischen Systems Volkswirtschaftlicher\nGesamtrechnungen - ESVG - mit einer Ausnahme. Firmeninterne\nLieferungen und Leistungen (sog. Weiterverarbeitungs-\nproduktion) sind in den Produktionswerten und den\nVorleistungen der deutschen Input-Output-Tabellen enthalten.\nIn diesem Punkt weichen die Konzepte der Input-Output-\nTabellen auch von den Konzepten der Aufkommens- und\nVerwendungstabellen und den Konzepten der Inlandsprodukts-\nberechnung ab. Davon abweichend bleiben bei den vom\nStatistischen Amt der Europäischen Gemeinschaften (Eurostat)\npublizierten Input-Output-Tabellen firmeninterne Lieferungen\nund Leistungen unberücksichtigt.\n\nDie veröffentlichten Ergebnisse nach Revision 2005 und 2011\nbasieren auf dem ESVG 1995. Mit der Revision 2014 wurde dann\nauf das ESVG 2010 umgestellt.\n\nDie Input-Output-Tabellen werden ergänzt um dazugehörige\nAuswertungstabellen (Input-Koeffizienten und inverse\nKoeffizienten) und um Tabellen mit Angaben über\nErwerbstätige und Arbeitnehmer nach Produktionsbereichen.\n\nDie nationalen Ergebnisse der Input-Output-Rechnung sind\nteilweise tiefer gegliedert als auf europäischer Ebene\nvorgeschrieben. In den Input-Output-Tabellen wird aktuell\n(nach Revision 2014) nach 72 Gütergruppen und 72\nProduktionsbereichen differenziert. Die 63 Wirtschafts-\nbereiche in der Aufkommens- und Verwendungstabelle\nentsprechen den Wirtschaftsbereichen der Inlandsprodukts-\nberechnung und den Vorgaben der EU. Die Gütergliederung der\nAufkommens- und Verwendungstabelle ist mit 85 Gruppen jedoch\nwesentlich detaillierter als die Gütergliederung der Input-\nOutput-Tabellen.\n\nWeitere Hinweise zu den Konzepten der Input-Output-Rechnung\nund zum Aufbau der Tabellen finden Sie in der Publikation\n\"Input-Output-Rechnung im Überblick\" (www.destatis.de >\nPublikationen) und im \"ESVG 2010  Kapitel 9\"\n(www.destatis.de/Europa > Publikationen).\n\n\n© Statistisches Bundesamt, Wiesbaden 2015",
+    "Updated": "18.06.2026 11:42:35h"
+  }
+}

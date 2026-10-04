@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0022",
+  "titel": "Empfang und Versand von Gütern bzw. Ladeeinheiten (Seegüterumschlag deutscher Häfen): Bundesländer mit Seehäfen, Jahre, Güterabteilungen, Ladungsarten",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.06.2023 12:39:09h",
+  "abgerufen_am": "2026-09-28T19:29:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0022_flatfile.csv": "509386b282c13856be0ab98588d3b0dc25be472279468d7b8cd363a5ad886a32"
+  },
+  "bytes": 3133739,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0022"
+}

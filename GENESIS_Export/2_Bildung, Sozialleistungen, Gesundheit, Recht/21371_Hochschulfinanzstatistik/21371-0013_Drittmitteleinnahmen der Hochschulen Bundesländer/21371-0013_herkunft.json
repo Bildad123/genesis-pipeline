@@ -1,0 +1,28 @@
+{
+  "tabelle": "21371-0013",
+  "titel": "Drittmitteleinnahmen der Hochschulen: Bundesländer, Jahre, Hochschulart, Fächergruppen",
+  "zeitraum": "2006 - 2024",
+  "statistik": "21371",
+  "alle_statistiken": [
+    "21371"
+  ],
+  "stand_genesis": "04.03.2026 15:15:39h",
+  "abgerufen_am": "2026-09-28T17:08:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21371-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21371-0013_flatfile.csv": "8a31c40a5112ff5d551e322dde5ddf6f288adad366256cf7b4724bfb25ac918a"
+  },
+  "bytes": 330345,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21371/table/21371-0013"
+}

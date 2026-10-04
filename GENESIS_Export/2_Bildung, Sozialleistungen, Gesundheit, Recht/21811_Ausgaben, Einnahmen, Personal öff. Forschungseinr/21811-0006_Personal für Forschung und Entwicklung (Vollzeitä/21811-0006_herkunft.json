@@ -1,0 +1,28 @@
+{
+  "tabelle": "21811-0006",
+  "titel": "Personal für Forschung und Entwicklung (Vollzeitäquivalente): Deutschland, Jahre, Einrichtungsart, Personalgruppen, Geschlecht, Altersgruppen",
+  "zeitraum": "2019 - 2024",
+  "statistik": "21811",
+  "alle_statistiken": [
+    "21811"
+  ],
+  "stand_genesis": "10.12.2025 11:04:30h",
+  "abgerufen_am": "2026-09-28T17:17:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21811-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21811-0006_flatfile.csv": "62121c60e44947f3033a1978d2f53292dab7570ffd57bebe9a530bdd1fcf5c3c"
+  },
+  "bytes": 485456,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21811/table/21811-0006"
+}

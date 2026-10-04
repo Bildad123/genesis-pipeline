@@ -1,0 +1,28 @@
+{
+  "tabelle": "32131-0003",
+  "titel": "Eingesammelte Transport- und Umverpackungen: Bundesländer, Jahre, Verbleib der Verpackungen",
+  "zeitraum": "2001 - 2020",
+  "statistik": "32131",
+  "alle_statistiken": [
+    "32131"
+  ],
+  "stand_genesis": "28.12.2022 17:46:05h",
+  "abgerufen_am": "2026-09-28T18:10:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32131-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32131-0003_flatfile.csv": "775c12990b425765b4b228d209ec5147c3be06b689331b37cca87f721a6bde6d"
+  },
+  "bytes": 12218,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32131/table/32131-0003"
+}

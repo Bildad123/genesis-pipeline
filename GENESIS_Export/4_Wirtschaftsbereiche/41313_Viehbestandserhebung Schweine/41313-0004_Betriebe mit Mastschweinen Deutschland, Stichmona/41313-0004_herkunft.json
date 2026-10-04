@@ -1,0 +1,28 @@
+{
+  "tabelle": "41313-0004",
+  "titel": "Betriebe mit Mastschweinen: Deutschland, Stichmonat, Bestandsgrößenklassen",
+  "zeitraum": "05/2010 - 05/2026",
+  "statistik": "41313",
+  "alle_statistiken": [
+    "41313"
+  ],
+  "stand_genesis": "06.02.2023 13:34:36h",
+  "abgerufen_am": "2026-09-28T18:39:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41313-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41313-0004_flatfile.csv": "4ba03514a7243d31e49d1053128600134d4b995ca13c4a287337741c03c522c4"
+  },
+  "bytes": 3194,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41313/table/41313-0004"
+}

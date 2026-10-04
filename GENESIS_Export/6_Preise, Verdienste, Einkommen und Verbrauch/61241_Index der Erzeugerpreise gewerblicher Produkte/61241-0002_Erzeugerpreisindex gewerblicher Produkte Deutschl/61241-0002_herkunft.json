@@ -1,0 +1,28 @@
+{
+  "tabelle": "61241-0002",
+  "titel": "Erzeugerpreisindex gewerblicher Produkte: Deutschland, Monate",
+  "zeitraum": "Januar 1976 - August 2026",
+  "statistik": "61241",
+  "alle_statistiken": [
+    "61241"
+  ],
+  "stand_genesis": "28.12.2022 17:14:25h",
+  "abgerufen_am": "2026-09-28T20:22:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61241-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61241-0002_flatfile.csv": "6291b524c21ce3857f899dbb6b877306ea10f1eb52944f1d599ff00801dd9321"
+  },
+  "bytes": 12595,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61241/table/61241-0002"
+}

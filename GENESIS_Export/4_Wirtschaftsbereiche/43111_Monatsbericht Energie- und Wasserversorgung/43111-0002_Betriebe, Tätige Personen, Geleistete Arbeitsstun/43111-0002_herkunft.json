@@ -1,0 +1,28 @@
+{
+  "tabelle": "43111-0002",
+  "titel": "Betriebe, Tätige Personen, Geleistete Arbeitsstunden, Entgelte (Energie- und Wasserversorgung): Deutschland, Monate, Wirtschaftszweige, Original- und bereinigte Daten",
+  "zeitraum": "Januar 1980 - Juli 2026",
+  "statistik": "43111",
+  "alle_statistiken": [
+    "43111"
+  ],
+  "stand_genesis": "28.12.2022 18:38:36h",
+  "abgerufen_am": "2026-09-28T19:04:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43111-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43111-0002_flatfile.csv": "21c6858ee55c72fcaf5953c138123a44d2bcf9d30878d50e324b45b3862be950"
+  },
+  "bytes": 208339,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43111/table/43111-0002"
+}

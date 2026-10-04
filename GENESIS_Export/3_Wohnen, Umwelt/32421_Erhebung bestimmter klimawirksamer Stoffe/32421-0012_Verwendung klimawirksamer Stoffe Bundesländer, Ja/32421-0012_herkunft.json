@@ -1,0 +1,28 @@
+{
+  "tabelle": "32421-0012",
+  "titel": "Verwendung klimawirksamer Stoffe: Bundesländer, Jahre, Stoffgruppen, Einsatzbereiche",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32421",
+  "alle_statistiken": [
+    "32421"
+  ],
+  "stand_genesis": "26.02.2024 12:51:33h",
+  "abgerufen_am": "2026-09-28T18:17:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32421-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32421-0012_flatfile.csv": "c5c966662df7125e54ebc12873681e412d834f31ce5d8c837a339b6b5a4cf6cf"
+  },
+  "bytes": 649736,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32421/table/32421-0012"
+}

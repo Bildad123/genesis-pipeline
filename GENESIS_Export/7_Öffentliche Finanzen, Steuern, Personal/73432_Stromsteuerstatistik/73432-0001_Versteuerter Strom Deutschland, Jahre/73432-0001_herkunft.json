@@ -1,0 +1,28 @@
+{
+  "tabelle": "73432-0001",
+  "titel": "Versteuerter Strom: Deutschland, Jahre",
+  "zeitraum": "2012 - 2024",
+  "statistik": "73432",
+  "alle_statistiken": [
+    "73432"
+  ],
+  "stand_genesis": "29.12.2022 08:00:11h",
+  "abgerufen_am": "2026-09-28T20:58:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73432-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73432-0001_flatfile.csv": "1abfeaa799aebaa13ab68155978ab6610a0a866d737617b80fb1751b1b63fe79"
+  },
+  "bytes": 7847,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73432/table/73432-0001"
+}

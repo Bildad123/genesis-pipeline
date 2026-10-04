@@ -1,0 +1,703 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;513015;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;1312;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;514327;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;166206;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;166206;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;346540;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;346540;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;899945;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;899945;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;563727;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;563727;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;433428;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;433428;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;139182;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;139182;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;543397;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;543397;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;474660;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;67;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;474727;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1096922;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1096922;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;145160;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;488;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;145648;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;61322;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;61322;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;469332;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;25;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;469357;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;129370;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;36;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;129406;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;281239;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;281239;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;467678;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;467678;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;141172;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;141172;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;971768;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;2;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;971770;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;567570;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;567570;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;480042;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;480042;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;72872;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;72872;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;580643;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;1444;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;582087;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1081217;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;69;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1081286;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;403406;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;403406;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;540658;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;22;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;540680;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1004496;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1004496;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;87123;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;87123;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;150190;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;150190;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1177786;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;3035;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1180821;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;495095;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;495095;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;497849;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;29;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;497878;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;342893;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;342893;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;191526;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;191526;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;69955;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;19;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;69974;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;914150;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-67;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;914083;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;429330;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;429330;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;144041;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;144041;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;554572;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;554572;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;490344;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;490344;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1105521;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1105521;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;59141;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;59142;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;544108;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;544108;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;281356;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;281356;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;148298;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;6;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;148304;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;464576;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;464576;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;146205;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;146205;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;957263;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;957263;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;492116;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;4;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;492120;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;584210;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;584210;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;69959;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;69960;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;503391;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;503391;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1153438;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;57;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1153495;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;102865;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;-36;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;102829;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;389936;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;389936;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;569885;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;26;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;569911;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;490588;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;490588;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;996216;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;996216;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;376887;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;376887;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;259105;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;259105;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;863042;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;863042;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;522668;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;522668;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;99762;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;99762;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;540170;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;540170;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;531576;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;78;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;531654;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;790568;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;790568;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;139001;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;139001;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1110716;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1110716;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;479054;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;479054;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;55998;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;55998;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;470551;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;470552;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;529699;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;529699;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;288413;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;288413;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;460242;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;94;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;460336;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;126599;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;126599;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;941643;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;941644;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;529609;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;529609;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;482515;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;8;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;482523;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;81765;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;81766;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;622886;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;-87;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;622799;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;91775;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;91775;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;414365;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;414365;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;126871;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;30;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;126901;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1114855;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;3;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1114858;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;519611;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1235;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;520846;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;376717;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;376717;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;536300;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;536300;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;498641;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-4;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;498637;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;847793;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;847793;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;361042;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;361042;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;934902;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;161;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;935063;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;106085;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;106085;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;550899;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;550899;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;529566;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;529567;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;172406;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;-48;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;172358;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;54919;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;54919;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;533612;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;533612;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;481327;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;9;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;481336;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;284209;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;284209;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;134606;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;-1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;134605;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;474739;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;474739;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1126069;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1126069;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;484677;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;484677;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;130422;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;6;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;130428;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;928257;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;928257;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;559413;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;559413;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;509396;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;509396;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;56916;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;11;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;56927;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;78096;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;78096;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;371967;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;371967;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;564128;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;564128;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;550649;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;5;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;550654;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;96271;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;96271;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;409211;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;409211;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;507291;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;22;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;507313;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;138149;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;138149;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1094500;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1094501;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;230957;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;230957;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;381496;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;381496;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;838541;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;838541;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;104282;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;104282;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;539097;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;539097;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;975021;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;975021;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;540892;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;540893;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;465163;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;465163;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;96837;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;96837;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;56258;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;56258;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;467298;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;467298;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;240934;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;240934;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;566535;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;-64;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;566471;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1189421;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;-151;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1189270;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;126203;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;126203;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;950593;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;950594;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;58533;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;58534;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;128870;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;128870;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;84128;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;279;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;84407;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;780293;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;780293;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;530197;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;113;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;530310;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;508834;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;508834;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;162861;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;162861;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;489806;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;3;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;489809;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;71227;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;22;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;71249;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;558406;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;558406;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;450480;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-39;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;450441;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;530343;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;530344;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;60555;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;60555;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1070513;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1070514;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;391267;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;391267;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;240312;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;240312;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1031502;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1031502;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;525791;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;525791;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;946732;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;946732;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;577225;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;-5;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;577220;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;454736;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;454736;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;113543;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;113543;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;553216;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;14;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;553230;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;459607;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;459607;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;529871;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;529871;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1093999;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1093999;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;56022;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;56022;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;119460;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;119460;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;124878;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;124879;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;973443;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;13;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;973456;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;58143;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;14;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;58157;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;562271;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;562271;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1002032;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-4;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1002028;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;750978;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;750978;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;564034;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;564034;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;85704;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;2;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;85706;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;162737;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;162737;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;480787;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;480787;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;523569;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;523569;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;424946;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;424946;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1053135;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1053136;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;64343;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;64343;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;481962;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;481961;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;226124;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;226124;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;77594;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;77594;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;509401;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;509401;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;597143;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;1591;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;598734;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;939315;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;939315;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;154823;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;154823;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;463670;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-28;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;463642;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;540559;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;47;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;540606;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1088105;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1088105;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;118378;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;118378;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;61032;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;209;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;61241;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;543146;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;543146;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;454027;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;454027;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1061773;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;191;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1061964;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;143087;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;143088;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;951847;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;33;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;951880;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;553525;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;553525;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;162210;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;162210;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1032626;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;2547;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1035173;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;723257;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;723257;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;474345;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;474346;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;70341;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;70341;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1068706;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1068706;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;69369;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;69369;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1077192;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1077193;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;409072;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;409072;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;551128;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;3;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;551131;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;476476;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;476476;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;275271;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;-84;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;275187;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;919190;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;919190;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;85847;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;85847;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;505630;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;505630;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;583553;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;31;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;583584;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1097646;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1097646;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;438096;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;438096;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1113170;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1113170;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;62594;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;4;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;62598;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;118621;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;118621;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;541859;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;541859;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;445209;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;445209;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;137237;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;137238;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;714860;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;714860;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;561413;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;561413;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;164749;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;164749;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;78584;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;-1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;78583;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1005140;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;51;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1005191;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1103865;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;19;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1103884;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;71889;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;5;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;71894;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;468650;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;468650;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;421045;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;421045;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1035187;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1035187;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1136638;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;-5;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1136633;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;539928;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;1;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;539929;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;77983;Anzahl;BEV017;Fortzüge in ein anderes Bundesland
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;0;Anzahl;BEV018;Wanderungssaldo Bundesländer
+12711;Wanderungsstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;77983;Anzahl;BEV016;Zuzüge aus einem anderen Bundesland

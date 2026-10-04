@@ -1,0 +1,28 @@
+{
+  "tabelle": "32214-0001",
+  "titel": "Entsorgter Klärschlamm aus der biologischen Abwasserbehandlung: Deutschland, Jahre, Entsorgungsarten des Klärschlamms",
+  "zeitraum": "2013 - 2024",
+  "statistik": "32214",
+  "alle_statistiken": [
+    "32214"
+  ],
+  "stand_genesis": "22.01.2026 17:16:42h",
+  "abgerufen_am": "2026-09-28T18:12:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32214-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32214-0001_flatfile.csv": "9e5aa89eec0de237651f24ede82010021fed63daa275ad6270e613e8923ad7fe"
+  },
+  "bytes": 25940,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32214/table/32214-0001"
+}

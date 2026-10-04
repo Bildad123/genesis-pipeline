@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0300",
+  "titel": "VGR des Bundes - Hauptaggregate der Sektoren: Deutschland, Jahre, Wirtschafts-Sektoren, Hauptaggregatarten",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 16:25:22h",
+  "abgerufen_am": "2026-09-28T21:11:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0300",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0300_flatfile.csv": "f60b3b8106b1ae2640f62003b86841fed1a6c32abb75d0d1476cdc84f1419912"
+  },
+  "bytes": 491021,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0300"
+}

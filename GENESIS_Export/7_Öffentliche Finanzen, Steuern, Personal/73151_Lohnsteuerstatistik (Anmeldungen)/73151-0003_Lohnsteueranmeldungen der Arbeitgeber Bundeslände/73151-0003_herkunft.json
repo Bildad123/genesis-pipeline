@@ -1,0 +1,28 @@
+{
+  "tabelle": "73151-0003",
+  "titel": "Lohnsteueranmeldungen der Arbeitgeber: Bundesländer, Jahre, Betriebsgrößenklassen",
+  "zeitraum": "2018 - 2025",
+  "statistik": "73151",
+  "alle_statistiken": [
+    "73151"
+  ],
+  "stand_genesis": "28.12.2022 20:03:52h",
+  "abgerufen_am": "2026-09-28T20:54:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73151-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73151-0003_flatfile.csv": "54002c1c4d65579b9948ca050d5354180b32c5df1f86283d5478fbf61fa93c18"
+  },
+  "bytes": 490796,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73151/table/73151-0003"
+}

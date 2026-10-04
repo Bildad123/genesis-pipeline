@@ -1,0 +1,28 @@
+{
+  "tabelle": "52411-0110",
+  "titel": "Insolvenzverfahren (Unternehmen), Voraussichtliche Forderungen (Unternehmen), Arbeitnehmer: Bundesländer, Monate",
+  "zeitraum": "Januar 2003 - Juni 2026",
+  "statistik": "52411",
+  "alle_statistiken": [
+    "52411"
+  ],
+  "stand_genesis": "30.07.2024 13:44:12h",
+  "abgerufen_am": "2026-09-28T20:14:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52411-0110",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52411-0110_flatfile.csv": "a6d84b16c54cee321dc8e61f9642334ffd78767038eba928370f978932e48f54"
+  },
+  "bytes": 276662,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52411/table/52411-0110"
+}

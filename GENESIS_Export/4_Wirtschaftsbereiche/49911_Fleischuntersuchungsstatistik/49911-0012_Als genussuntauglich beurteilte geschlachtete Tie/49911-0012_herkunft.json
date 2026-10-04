@@ -1,0 +1,28 @@
+{
+  "tabelle": "49911-0012",
+  "titel": "Als genussuntauglich beurteilte geschlachtete Tiere: Deutschland, Jahre, Untersuchungsort und Herkunft, Genussuntauglichkeitsgründe, Tierarten",
+  "zeitraum": "2019 - 2025",
+  "statistik": "49911",
+  "alle_statistiken": [
+    "49911"
+  ],
+  "stand_genesis": "28.12.2022 17:23:52h",
+  "abgerufen_am": "2026-09-28T19:42:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "49911-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "49911-0012_flatfile.csv": "590e8f7dbd8a33dfb6857cb1fae4fd3fa2d680e688f4a4dc18ef9abbf2f50275"
+  },
+  "bytes": 567379,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/49911/table/49911-0012"
+}

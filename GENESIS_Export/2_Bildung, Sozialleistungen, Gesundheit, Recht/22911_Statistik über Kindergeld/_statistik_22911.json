@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:18:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22911",
+    "Content": "Statistik über Kindergeld",
+    "Cubes": "2",
+    "Variables": "6",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "In dieser monatlichen Statistik der Bundesagentur für Arbeit\nwerden die Anträge auf Kindergeld sowie die Leistungs-\nempfänger nach Staatsangehörigkeit und Kinderzahl\nnachgewiesen.\n\nBis 1995 wurden die direkten sozialen Transferzahlungen nach\ndem Bundeskindergeldgesetz im Rahmen des 1975 reformierten\nFamilienlastenausgleichs neben der Inanspruchnahme von\nsteuerlichen Freibeträgen für dasselbe Kind gewährt (duales\nSystem). Ab 1.1.1996 ist das Kindergeld im Rahmen des\nFamilienleistungsausgleichs neu geregelt worden. In dem\nneuen System kommt für jedes Kind der Kinderfreibetrag oder\ndas Kindergeld, das als Steuervergünstigung im laufenden\nKalenderjahr gewährt wird, zur Anwendung.\n\n© Statistisches Bundesamt, Wiesbaden 2004",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

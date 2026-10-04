@@ -1,0 +1,83 @@
+{
+  "abgerufen_am": "2026-09-28T18:08:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "31231-0007",
+    "Content": "Wohnungen in Nichtwohngebäuden, Wohnfläche: Deutschland,\nStichtag, Bestandsveränderungen",
+    "Time": {
+      "From": "31.12.2015",
+      "To": "31.12.2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "31231",
+        "Content": "Fortschreibung Wohngebäude- und Wohnungsbestand",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "WOH003",
+          "Content": "Wohnungen in Nichtwohngebäuden",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FLC101",
+          "Content": "Wohnfläche (Nichtwohngebäude)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BSTVE2",
+          "Content": "Bestandsveränderungen",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "16.08.2023 16:39:10h"
+  }
+}

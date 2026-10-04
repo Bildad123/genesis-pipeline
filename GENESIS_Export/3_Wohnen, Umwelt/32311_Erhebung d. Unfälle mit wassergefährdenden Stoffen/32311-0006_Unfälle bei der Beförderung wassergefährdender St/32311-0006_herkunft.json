@@ -1,0 +1,28 @@
+{
+  "tabelle": "32311-0006",
+  "titel": "Unfälle bei der Beförderung wassergefährdender Stoffe, Freigesetzte,beförderte,wiedergewonnene Menge: Flussgebiete, Jahre,Beförderungsmittel,Freigesetzte Stoffart,Wassergefähr.",
+  "zeitraum": "2025 - 2025",
+  "statistik": "32311",
+  "alle_statistiken": [
+    "32311"
+  ],
+  "stand_genesis": "20.08.2026 16:34:09h",
+  "abgerufen_am": "2026-09-28T18:14:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32311-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32311-0006_flatfile.csv": "1bbfcc3dae291c412d89bd12ddfc704a256cc9a3f5fa89d3f0838e3097dc02a9"
+  },
+  "bytes": 9261088,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32311/table/32311-0006"
+}

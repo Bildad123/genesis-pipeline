@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T16:56:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "13111-0003",
+    "Content": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort:\nDeutschland, Stichtag, Geschlecht, Wirtschaftsabschnitte",
+    "Time": {
+      "From": "31.03.2008",
+      "To": "31.12.2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "13111",
+        "Content": "Statistik d. sozialversicherungspfl. Beschäftigten",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "ERW065",
+                "Content": "Sozialvers.pflichtig Beschäftigte am Arbeitsort",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08CA",
+          "Content": "WZ2008 (Abschnitte): Sozialvers.pfl. Beschäftigte",
+          "Type": "Merkmal",
+          "Values": "22",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:14:03h"
+  }
+}

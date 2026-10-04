@@ -1,0 +1,105 @@
+{
+  "abgerufen_am": "2026-09-28T19:12:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "45214-0004",
+    "Content": "Umsatzindex im Kfz-Handel: Deutschland,\nMonate/Quartale/Halbjahre, Preisarten, Wirtschaftszweige",
+    "Time": {
+      "From": "1994",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "45214",
+        "Content": "Monatsstatistik im Kfz-Handel,Instandh.,Reparatur",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "WERTE4",
+          "Content": "Preisarten",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UMS103",
+              "Content": "Umsatzindex",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "UMS103",
+              "Content": "Umsatzindex",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": "CH0005",
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "MONAT",
+              "Content": "Monate",
+              "Type": "Merkmal",
+              "Values": "12",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "WZ08K9",
+        "Content": "WZ2008 (2- bis 4-Steller): Kfz-Handel",
+        "Type": "Merkmal",
+        "Values": "12",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "25.08.2026 12:56:54h"
+  }
+}

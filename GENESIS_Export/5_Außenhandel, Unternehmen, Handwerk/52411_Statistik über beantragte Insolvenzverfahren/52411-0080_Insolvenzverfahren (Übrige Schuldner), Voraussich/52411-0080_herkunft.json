@@ -1,0 +1,28 @@
+{
+  "tabelle": "52411-0080",
+  "titel": "Insolvenzverfahren (Übrige Schuldner), Voraussichtliche Forderungen (Übrige Schuldner): Deutschland, Jahre",
+  "zeitraum": "1999 - 2025",
+  "statistik": "52411",
+  "alle_statistiken": [
+    "52411"
+  ],
+  "stand_genesis": "06.12.2023 18:01:24h",
+  "abgerufen_am": "2026-09-28T20:14:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52411-0080",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52411-0080_flatfile.csv": "4b3668a47fa80070045e6da447bdce511ee7d847a2ab511b830ccb578370f7d9"
+  },
+  "bytes": 13158,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52411/table/52411-0080"
+}

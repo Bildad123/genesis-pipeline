@@ -1,0 +1,28 @@
+{
+  "tabelle": "41244-0012",
+  "titel": "Erntemenge an Weinmost, Durchschnittliches Mostgewicht: Bundesländer, Jahre, Art des Weinmosts, Mostqualität",
+  "zeitraum": "2019 - 2025",
+  "statistik": "41244",
+  "alle_statistiken": [
+    "41244"
+  ],
+  "stand_genesis": "29.12.2022 08:01:59h",
+  "abgerufen_am": "2026-09-28T18:32:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41244-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41244-0012_flatfile.csv": "22b1b8103e29942639ee96df5c3c5c3aaef659c63c033841372464f20cee097a"
+  },
+  "bytes": 87515,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41244/table/41244-0012"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "63111-0023",
+  "titel": "Ausstattung privater Haushalte (LWR): Fr. Bundesgebiet/Neue Länder, Stichtag (bis 01.01.2014), Gebrauchsgüter, Soziale Stellung des Haupteinkommensbeziehers",
+  "zeitraum": "01.01.2000 - 01.01.2014",
+  "statistik": "63111",
+  "alle_statistiken": [
+    "63111"
+  ],
+  "stand_genesis": "04.02.2026 17:15:15h",
+  "abgerufen_am": "2026-09-28T20:45:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63111-0023",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63111-0023_flatfile.csv": "b47344b8487899ec01a028d252fa0e9aa63d6f2fc39dc107cd25b0e5725ed442"
+  },
+  "bytes": 3916380,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63111/table/63111-0023"
+}

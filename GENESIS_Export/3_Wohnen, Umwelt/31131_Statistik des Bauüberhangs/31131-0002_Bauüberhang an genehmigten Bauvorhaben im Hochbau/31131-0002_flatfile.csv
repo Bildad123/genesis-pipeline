@@ -1,0 +1,86 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;17311;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;216532;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;3101;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;29459;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;81089;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;154;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;2895;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;9984;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;13730;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;57823;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;240;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;2101;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;10541;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;17761;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;64778;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;43;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;1125;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;3076;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;5462;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;13560;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;382;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;5162;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;4065;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;5143;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;24533;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;859;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;10431;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;45597;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;54054;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;335283;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;166;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;1486;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;18647;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;17388;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;165214;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;313;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;4980;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;11177;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;9911;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;59940;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;190;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;1726;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;12036;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;12444;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;93026;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;x;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;x;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;x;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;x;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;x;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;x;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;x;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;x;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;x;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;x;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;x;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;x;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;x;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;x;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;x;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;146;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;3314;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;3313;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;2495;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;18574;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;999;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;31450;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;92;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;1059;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;4704;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;23721;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;1712;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;536397;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;97951;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;80612;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;736970;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;67383;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;298881;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;304244;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;9691;1000 qm;FLC002;Nutzfläche
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;760691;Anzahl;WOHN01;Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;69095;1000 qm;FLC014;Wohnfläche der Wohnungen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;835279;1000 cbm;FLC007;Rauminhalt in neuen Gebäuden
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;402195;Anzahl;BAU016;Gebäude/Baumaßnahmen
+31131;Statistik des Bauüberhangs;STAG;Stichtag;2025-12-31;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;90304;1000 qm;FLC002;Nutzfläche

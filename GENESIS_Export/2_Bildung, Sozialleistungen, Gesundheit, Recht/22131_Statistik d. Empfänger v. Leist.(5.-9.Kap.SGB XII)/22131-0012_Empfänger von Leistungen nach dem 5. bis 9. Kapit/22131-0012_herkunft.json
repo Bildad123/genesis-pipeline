@@ -1,0 +1,28 @@
+{
+  "tabelle": "22131-0012",
+  "titel": "Empfänger von Leistungen nach dem 5. bis 9. Kapitel SGB XII: Bundesländer, Jahre, Art der Hilfe, Ort der Leistungserbringung",
+  "zeitraum": "2005 - 2024",
+  "statistik": "22131",
+  "alle_statistiken": [
+    "22131"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:20:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22131-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22131-0012_flatfile.csv": "438f410ef8c5ef9f1e3f96baa26fb9c5bc9a84d487590a3465f2a3655ef166ef"
+  },
+  "bytes": 939689,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22131/table/22131-0012"
+}

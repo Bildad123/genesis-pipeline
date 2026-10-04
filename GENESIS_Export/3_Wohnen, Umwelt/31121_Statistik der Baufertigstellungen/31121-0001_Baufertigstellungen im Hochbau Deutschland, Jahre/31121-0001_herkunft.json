@@ -1,0 +1,28 @@
+{
+  "tabelle": "31121-0001",
+  "titel": "Baufertigstellungen im Hochbau: Deutschland, Jahre, Bautätigkeiten, Gebäudeart",
+  "zeitraum": "2001 - 2025",
+  "statistik": "31121",
+  "alle_statistiken": [
+    "31121"
+  ],
+  "stand_genesis": "25.04.2024 13:16:45h",
+  "abgerufen_am": "2026-09-28T18:05:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31121-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31121-0001_flatfile.csv": "3dbb5510f887d42561f643687de66a26125453a331077e2d252671f51755181c"
+  },
+  "bytes": 1418829,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31121/table/31121-0001"
+}

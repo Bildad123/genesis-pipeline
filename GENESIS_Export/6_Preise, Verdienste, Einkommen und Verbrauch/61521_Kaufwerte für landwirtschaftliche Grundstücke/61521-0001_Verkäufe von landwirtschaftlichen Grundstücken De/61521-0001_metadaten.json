@@ -1,0 +1,134 @@
+{
+  "abgerufen_am": "2026-09-28T20:35:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "61521-0001",
+    "Content": "Verkäufe von landwirtschaftlichen Grundstücken: Deutschland, Jahre, Bodenarten, Größenklassen der veräußerten Fläche",
+    "Time": {
+      "From": "2021",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "61521",
+        "Content": "Kaufwerte für landwirtschaftliche Grundstücke",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "VKF002",
+          "Content": "Veräußerungsfälle",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FLC023",
+          "Content": "Veräußerte Fläche",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "KAU003",
+          "Content": "Kaufsumme",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "KAU004",
+          "Content": "Durchschnittlicher Kaufwert",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FLC008",
+          "Content": "Durchschnittliche Fläche je Veräußerungsfall",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "MZL002",
+          "Content": "Durchschn.Ertragsmesszahl je ha veräußerter Fläche",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BODAT1",
+          "Content": "Bodenarten",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "FLNGK1",
+              "Content": "Größenklassen der veräußerten Fläche",
+              "Type": "Merkmal",
+              "Values": "5",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "30.08.2023 13:17:34h"
+  }
+}

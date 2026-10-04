@@ -1,0 +1,116 @@
+{
+  "abgerufen_am": "2026-09-28T17:11:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21421-0003",
+    "Content": "Aufstiegs-BAföG - Geförderte Personen, finanzieller Aufwand:\nDeutschland, Jahre, Bewilligung/Inanspruch., Voll-/Teilzeit,\nArt des finanziellen Aufwandes, Fortbildungsziele",
+    "Time": {
+      "From": "2003",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "21421",
+        "Content": "Statistik der Aufstiegsfortbildungsförderung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "FOERD1",
+          "Content": "Bewilligung/Inanspruchnahme",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "PER010",
+              "Content": "Geförderte Personen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "FBLFO1",
+                  "Content": "Form der Fortbildungsmaßnahme",
+                  "Type": "Merkmal",
+                  "Values": "2",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            },
+            {
+              "Code": "FIN001",
+              "Content": "Finanzieller Aufwand",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "ADFAW1",
+                  "Content": "Art des finanziellen Aufwandes",
+                  "Type": "Merkmal",
+                  "Values": "2",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "FBLZL1",
+        "Content": "Fortbildungsziele",
+        "Type": "Merkmal",
+        "Values": "6",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 21:36:28h"
+  }
+}

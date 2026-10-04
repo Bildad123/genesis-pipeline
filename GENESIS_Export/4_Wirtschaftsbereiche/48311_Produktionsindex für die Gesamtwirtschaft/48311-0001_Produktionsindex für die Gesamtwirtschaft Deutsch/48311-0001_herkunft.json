@@ -1,0 +1,28 @@
+{
+  "tabelle": "48311-0001",
+  "titel": "Produktionsindex für die Gesamtwirtschaft: Deutschland, Monate, Original- und bereinigte Daten",
+  "zeitraum": "Januar 2015 - Juni 2026",
+  "statistik": "48311",
+  "alle_statistiken": [
+    "48311"
+  ],
+  "stand_genesis": "13.02.2025 13:27:26h",
+  "abgerufen_am": "2026-09-28T19:41:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "48311-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "48311-0001_flatfile.csv": "e2a68ffd84d5c64b29d63b555ba9a51181430bfbed5c0c619f0ee7461055a5c5"
+  },
+  "bytes": 20274,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/48311/table/48311-0001"
+}

@@ -1,0 +1,541 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-STA;Staufer;0;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCH;Schönburger;14;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELR;Roter Elbling;21;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIO;Viognier;25;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOL;Solaris;207;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOM;Domina;338;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-OPT;Optima 113;16;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REI;Reichensteiner;29;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PAL;Palas;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAU;Sauvignon blanc;2002;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NER;Neronet;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CFR;Cabernet Franc;117;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CBL;Cabernet blanc;260;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDO;Cabernet Dorio;26;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SIE;Siegerrebe;63;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOR;Goldriesling;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RON;Rondo;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PER;Perle;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEF;Helfensteiner;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CSV;Cabernet Sauvignon;483;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRZ;Merzling;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCL;Cabernet Carol;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PRI;Prior;19;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLG;Grüner Silvaner;4419;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TEM;Tempranillo;15;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TAU;Tauberschwarz (Blauer Hängling);17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOU;Souvignier gris;766;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DAK;Dakapo;46;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAP;Saphira;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JUW;Juwel;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTW;Sonstige weiße Rebsorten;396;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HOE;Hölder;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BRO;Bronner;7;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FAB;Faberrebe;185;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FIN;Findling;21;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ORT;Ortega;324;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCO;Cabernet Cortis;53;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRO;Roter Muskateller;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTR;Muskat-Trollinger;134;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ZWE;Blauer Zweigelt;117;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-LIM;Blauer Limberger;1888;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHB;Ehrenbreitsteiner;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOT;Muskat Ottonel;17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ZWE;Blauer Zweigelt;118;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRO;Blauer Trollinger;1940;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WIL;Wildmuskat;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-POR;Blauer Portugieser;2196;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HER;Heroldrebe;83;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRO;Blauer Trollinger;1992;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ACO;Acolon;422;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KEL;Kernling;13;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCO;Cabernet Cortis;60;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRE;Freisamer;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-POR;Blauer Portugieser;2295;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WRZ;Würzer;50;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HER;Heroldrebe;81;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ACO;Acolon;429;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIR;Piroso;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOT;Muskat Ottonel;18;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-LIM;Blauer Limberger;1821;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NOB;Nobling;41;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCU;Cabernet Cubin;57;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PAL;Palas;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAU;Sauvignon blanc;2054;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WRZ;Würzer;49;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RON;Rondo;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CBL;Cabernet blanc;306;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOR;Goldriesling;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELW;Weißer Elbling;463;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIN;Pinotin;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RLN;Rieslaner;72;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PER;Perle;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRZ;Merzling;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-STA;Staufer;0;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTR;Sonstige rote Rebsorten;233;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BUR;Weißer Burgunder;6351;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCH;Schönburger;13;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REG;Regner;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SYR;Syrah (Shiraz);153;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TAU;Tauberschwarz (Blauer Hängling);17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOM;Domina;333;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KEL;Kernling;12;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOL;Solaris;201;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLG;Grüner Silvaner;4330;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HOE;Hölder;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-OPT;Optima 113;17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDO;Cabernet Dorio;27;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BRO;Bronner;7;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RSL;Weißer Riesling;23885;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHB;Ehrenbreitsteiner;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CFR;Cabernet Franc;105;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);7698;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIL;Villaris;1;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CBL;Cabernet blanc;227;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCH;Schönburger;13;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WIL;Wildmuskat;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CAB;Cabertin;25;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CSV;Cabernet Sauvignon;471;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRZ;Merzling;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEF;Helfensteiner;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MON;Monarch;12;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCL;Cabernet Carol;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOL;Solaris;221;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLG;Grüner Silvaner;4503;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-STA;Staufer;0;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DUN;Dunkelfelder;158;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAU;Sauvignon blanc;1923;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TAU;Tauberschwarz (Blauer Hängling);17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KER;Kerner;2032;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTR;Sonstige rote Rebsorten;197;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HUX;Huxelrebe;311;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIL;Villaris;0;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CSV;Cabernet Sauvignon;502;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ROT;Rotberger;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIL;Villaris;0;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HUX;Huxelrebe;322;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PHO;Phoenix;42;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEG;Hegel;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PER;Perle;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELW;Weißer Elbling;440;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HUX;Huxelrebe;296;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KER;Kerner;2150;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PAL;Palas;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEG;Hegel;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCR;Scheurebe;1495;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELW;Weißer Elbling;450;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MSC;Muscaris;98;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDO;Cabernet Dorio;25;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CFR;Cabernet Franc;129;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOM;Domina;347;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RNT;Regent;1482;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-OPT;Optima 113;16;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTW;Sonstige weiße Rebsorten;957;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTW;Sonstige weiße Rebsorten;502;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRZ;Merzling;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REG;Regner;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VEL;Grüner Veltliner;50;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BLA;Blauburger;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BUR;Weißer Burgunder;6362;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MGE;Gelber Muskateller;605;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAI;Saint Laurent;561;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRE;Müllerrebe (Schwarzriesling);1598;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCL;Cabernet Carol;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTH;Müller-Thurgau;10511;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PRI;Prior;24;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEG;Hegel;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FAB;Faberrebe;214;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TEM;Tempranillo;17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCR;Scheurebe;1503;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CAB;Cabertin;24;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ACO;Acolon;408;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JUW;Juwel;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ROT;Rotberger;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FIN;Findling;22;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTR;Muskat-Trollinger;146;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCB;Cabernet Carbon;7;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRO;Roter Muskateller;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ZWE;Blauer Zweigelt;116;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JOH;Johanniter;155;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WRZ;Würzer;50;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DUN;Dunkelfelder;168;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DEC;Deckrot;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-OPT;Optima 113;19;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PER;Perle;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCU;Cabernet Cubin;58;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KEL;Kernling;12;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RSL;Weißer Riesling;24233;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PAL;Palas;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SIE;Siegerrebe;58;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MAL;Früher Roter Malvasier;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MER;Merlot;963;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIL;Villaris;1;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WIL;Wildmuskat;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;11253;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GUT;Weißer Gutedel;1065;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HOE;Hölder;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NOB;Nobling;45;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-POR;Blauer Portugieser;2432;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRO;Blauer Trollinger;1888;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HER;Heroldrebe;77;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VEL;Grüner Veltliner;42;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BAC;Bacchus;1515;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOU;Souvignier gris;596;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEF;Helfensteiner;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BRO;Bronner;7;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KEL;Kernling;15;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JUW;Juwel;6;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ACO;Acolon;444;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOT;Muskat Ottonel;18;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAP;Saphira;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ORT;Ortega;351;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTR;Sonstige rote Rebsorten;273;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIO;Viognier;31;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRE;Freisamer;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);8388;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOR;Goldriesling;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;11602;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIR;Piroso;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RON;Rondo;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIN;Pinotin;59;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCL;Cabernet Carol;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELR;Roter Elbling;22;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KAN;Kanzler;22;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NER;Neronet;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REI;Reichensteiner;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RLN;Rieslaner;69;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHF;Ehrenfelser;27;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-AUX;Auxerrois;310;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRB;Blauer Frühburgunder;212;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHF;Ehrenfelser;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DAK;Dakapo;45;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REI;Reichensteiner;33;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRA;Roter Traminer (Gewürztraminer);1093;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CMI;Cabernet Mitos;285;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELR;Roter Elbling;21;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NER;Neronet;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEL;Helios;22;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CHA;Chardonnay;2558;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RLN;Rieslaner;64;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HIB;Hibernal;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HER;Heroldrebe;89;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOM;Goldmuskateller;86;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLB;Blauer Silvaner;36;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUB;Rubinet;15;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-AUX;Auxerrois;293;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELR;Roter Elbling;19;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CHA;Chardonnay;3152;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEL;Helios;33;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CMI;Cabernet Mitos;264;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOR;Dornfelder;6812;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DEC;Deckrot;7;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDR;Cabernet Dorsa;263;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FIN;Findling;19;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HIB;Hibernal;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAI;Saint Laurent;588;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MAL;Früher Roter Malvasier;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MER;Merlot;886;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRA;Roter Traminer (Gewürztraminer);1122;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOR;Morio-Muskat;317;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOM;Goldmuskateller;99;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ALB;Albalonga;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FAB;Faberrebe;161;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCB;Cabernet Carbon;6;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUB;Rubinet;14;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BLA;Blauburger;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLB;Blauer Silvaner;33;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CHA;Chardonnay;2912;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PRI;Prior;28;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CMI;Cabernet Mitos;248;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MGE;Gelber Muskateller;579;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOR;Dornfelder;6507;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ALB;Albalonga;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-AUX;Auxerrois;307;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRA;Roter Traminer (Gewürztraminer);1118;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRB;Blauer Frühburgunder;222;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOR;Morio-Muskat;306;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-LIM;Blauer Limberger;1940;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIR;Piroso;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DUN;Dunkelfelder;181;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRO;Roter Muskateller;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTR;Muskat-Trollinger;146;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHB;Ehrenbreitsteiner;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WIL;Wildmuskat;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JOH;Johanniter;141;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REG;Regner;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RSL;Weißer Riesling;24410;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BAC;Bacchus;1539;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VEL;Grüner Veltliner;48;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRO;Blauer Trollinger;1644;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KER;Kerner;1874;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RLN;Rieslaner;67;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRE;Müllerrebe (Schwarzriesling);1698;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOM;Goldmuskateller;90;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MSC;Muscaris;166;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTH;Müller-Thurgau;10970;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDR;Cabernet Dorsa;258;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEG;Hegel;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUB;Rubinet;15;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTR;Sonstige rote Rebsorten;307;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHF;Ehrenfelser;28;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOT;Muskat Ottonel;18;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRA;Roter Traminer (Gewürztraminer);1115;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NOB;Nobling;46;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HUX;Huxelrebe;356;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PHO;Phoenix;44;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRE;Freisamer;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ROT;Rotberger;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELW;Weißer Elbling;422;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCO;Cabernet Cortis;88;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCR;Scheurebe;1483;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GUT;Weißer Gutedel;1025;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;11437;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DAK;Dakapo;41;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KAN;Kanzler;21;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BRO;Bronner;6;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);8372;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOR;Goldriesling;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTW;Sonstige weiße Rebsorten;653;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GUT;Weißer Gutedel;1048;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;11519;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SIE;Siegerrebe;52;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIO;Viognier;32;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NER;Neronet;6;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HOE;Hölder;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAP;Saphira;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOU;Souvignier gris;131;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIN;Pinotin;53;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TEM;Tempranillo;17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAI;Saint Laurent;541;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOU;Souvignier gris;205;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DAK;Dakapo;39;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ORT;Ortega;373;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIO;Viognier;31;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TEM;Tempranillo;18;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);8404;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BRO;Bronner;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEF;Helfensteiner;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEG;Hegel;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHB;Ehrenbreitsteiner;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WIL;Wildmuskat;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCO;Cabernet Cortis;80;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RSL;Weißer Riesling;24388;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ROT;Rotberger;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRZ;Merzling;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCR;Scheurebe;1499;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BAC;Bacchus;1558;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRE;Freisamer;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIL;Villaris;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIN;Pinotin;43;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MSC;Muscaris;147;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DUN;Dunkelfelder;173;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOM;Domina;313;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PHO;Phoenix;46;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ROT;Rotberger;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RON;Rondo;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KAN;Kanzler;21;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HUX;Huxelrebe;338;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-LIM;Blauer Limberger;1929;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRE;Freisamer;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTW;Sonstige weiße Rebsorten;804;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REG;Regner;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KER;Kerner;1764;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRO;Blauer Trollinger;1791;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WRZ;Würzer;47;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MSC;Muscaris;178;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-POR;Blauer Portugieser;2010;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCU;Cabernet Cubin;62;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RNT;Regent;1618;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MON;Monarch;15;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CSV;Cabernet Sauvignon;516;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELW;Weißer Elbling;434;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SYR;Syrah (Shiraz);123;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PHO;Phoenix;43;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCU;Cabernet Cubin;60;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-WRZ;Würzer;47;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAU;Sauvignon blanc;1803;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CAB;Cabertin;18;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KER;Kerner;1944;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOL;Solaris;234;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MON;Monarch;13;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CBL;Cabernet blanc;356;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RNT;Regent;1565;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCH;Schönburger;14;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BUR;Weißer Burgunder;6062;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SYR;Syrah (Shiraz);110;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDO;Cabernet Dorio;23;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCU;Cabernet Cubin;59;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CFR;Cabernet Franc;144;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BUR;Weißer Burgunder;6181;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CAB;Cabertin;19;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SYR;Syrah (Shiraz);147;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TAU;Tauberschwarz (Blauer Hängling);17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDO;Cabernet Dorio;24;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CBL;Cabernet blanc;335;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RNT;Regent;1525;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MON;Monarch;18;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CAB;Cabertin;23;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CFR;Cabernet Franc;138;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PER;Perle;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BUR;Weißer Burgunder;6318;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SYR;Syrah (Shiraz);139;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DUN;Dunkelfelder;197;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SNSTR;Sonstige rote Rebsorten;173;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MON;Monarch;17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLG;Grüner Silvaner;4115;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CSV;Cabernet Sauvignon;518;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PAL;Palas;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BAC;Bacchus;1590;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIN;Pinotin;36;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TAU;Tauberschwarz (Blauer Hängling);17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MSC;Muscaris;117;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLG;Grüner Silvaner;4228;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-OPT;Optima 113;14;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOM;Goldmuskateller;77;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HER;Heroldrebe;85;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CHA;Chardonnay;2731;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PHO;Phoenix;47;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOL;Solaris;230;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOM;Domina;326;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-STA;Staufer;0;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-POR;Blauer Portugieser;2107;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HIB;Hibernal;6;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REI;Reichensteiner;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRB;Blauer Frühburgunder;205;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHB;Ehrenbreitsteiner;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RNT;Regent;1671;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KAN;Kanzler;20;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RON;Rondo;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ELR;Roter Elbling;22;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CMI;Cabernet Mitos;271;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NER;Neronet;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEL;Helios;20;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BAC;Bacchus;1470;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEF;Helfensteiner;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SOU;Souvignier gris;388;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCL;Cabernet Carol;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ACO;Acolon;436;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOT;Muskat Ottonel;18;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAP;Saphira;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NOB;Nobling;43;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ORT;Ortega;340;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCR;Scheurebe;1469;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VEL;Grüner Veltliner;45;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DAK;Dakapo;43;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHF;Ehrenfelser;32;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HOE;Hölder;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-LIM;Blauer Limberger;1917;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);8094;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCO;Cabernet Cortis;71;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-STA;Staufer;0;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;11512;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SCH;Schönburger;14;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RSL;Weißer Riesling;24318;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REG;Regner;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KAN;Kanzler;22;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GUT;Weißer Gutedel;995;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAU;Sauvignon blanc;2094;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ZWE;Blauer Zweigelt;115;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOR;Goldriesling;29;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RLN;Rieslaner;69;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-KEL;Kernling;15;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FAB;Faberrebe;196;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MER;Merlot;981;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SIE;Siegerrebe;61;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JOH;Johanniter;133;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MAL;Früher Roter Malvasier;4;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FIN;Findling;22;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JUW;Juwel;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GUT;Weißer Gutedel;1085;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-NOB;Nobling;40;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCB;Cabernet Carbon;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAP;Saphira;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRO;Roter Muskateller;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BLA;Blauburger;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MGE;Gelber Muskateller;598;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTH;Müller-Thurgau;10230;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAI;Saint Laurent;553;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VIO;Viognier;30;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRE;Müllerrebe (Schwarzriesling);1500;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIR;Piroso;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDR;Cabernet Dorsa;253;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTR;Muskat-Trollinger;146;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PRI;Prior;21;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DEC;Deckrot;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOR;Dornfelder;7109;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JUW;Juwel;7;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FIN;Findling;20;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SIE;Siegerrebe;55;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JOH;Johanniter;148;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SAI;Saint Laurent;576;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MGE;Gelber Muskateller;611;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MER;Merlot;933;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ALB;Albalonga;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FAB;Faberrebe;174;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ORT;Ortega;308;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MAL;Früher Roter Malvasier;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLB;Blauer Silvaner;36;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCB;Cabernet Carbon;6;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BLA;Blauburger;3;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PIR;Piroso;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTR;Muskat-Trollinger;142;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOR;Morio-Muskat;324;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-VEL;Grüner Veltliner;49;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRO;Roter Muskateller;10;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ZWE;Blauer Zweigelt;116;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TEM;Tempranillo;17;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTH;Müller-Thurgau;10738;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDR;Cabernet Dorsa;260;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRE;Müllerrebe (Schwarzriesling);1664;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOR;Dornfelder;6618;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DEC;Deckrot;8;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ALB;Albalonga;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HIB;Hibernal;9;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-TRA;Roter Traminer (Gewürztraminer);1120;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MAL;Früher Roter Malvasier;5;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-GOM;Goldmuskateller;109;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOR;Morio-Muskat;312;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MER;Merlot;836;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLB;Blauer Silvaner;35;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUB;Rubinet;15;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-REI;Reichensteiner;36;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRB;Blauer Frühburgunder;217;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-AUX;Auxerrois;302;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-JOH;Johanniter;157;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CMI;Cabernet Mitos;257;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MTH;Müller-Thurgau;11230;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MRE;Müllerrebe (Schwarzriesling);1756;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEL;Helios;27;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DEC;Deckrot;7;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-DOR;Dornfelder;6353;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-ALB;Albalonga;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HIB;Hibernal;11;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CDR;Cabernet Dorsa;268;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MOR;Morio-Muskat;298;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-AUX;Auxerrois;310;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-FRB;Blauer Frühburgunder;228;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-RUB;Rubinet;14;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-EHF;Ehrenfelser;25;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-SLB;Blauer Silvaner;32;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CCB;Cabernet Carbon;6;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-BLA;Blauburger;2;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-HEL;Helios;33;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-MGE;Gelber Muskateller;551;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-PRI;Prior;26;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO3;Rebsorte;REBSORTE-CHA;Chardonnay;3050;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINWEISS;Weißwein;70138;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;;Insgesamt;103421;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINROT;Rotwein;33283;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINROT;Rotwein;32639;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;;Insgesamt;101965;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINROT;Rotwein;31872;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;;Insgesamt;103687;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;;Insgesamt;103295;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINROT;Rotwein;31081;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINROT;Rotwein;32310;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINWEISS;Weißwein;71423;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINWEISS;Weißwein;70884;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINWEISS;Weißwein;71378;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;WEINWEISS;Weißwein;70752;ha;FLC050;Mit Keltertrauben bestockte Rebfläche
+41252;Rebflächenerhebung (Weinbaukataster);JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;REBSO2;Rebsorte;;Insgesamt;103391;ha;FLC050;Mit Keltertrauben bestockte Rebfläche

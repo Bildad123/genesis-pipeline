@@ -1,0 +1,28 @@
+{
+  "tabelle": "71329-0001",
+  "titel": "Schulden beim nicht-öffentlichen Bereich: Deutschland, Stichtag, Ebenen des öffentlichen Bereichs, Schuldenarten",
+  "zeitraum": "31.12.2017 - 31.12.2025",
+  "statistik": "71329",
+  "alle_statistiken": [
+    "71329"
+  ],
+  "stand_genesis": "28.12.2022 19:08:33h",
+  "abgerufen_am": "2026-09-28T20:50:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71329-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71329-0001_flatfile.csv": "b826bb4816b1ae64e70f7af08e7a6be9a250611862d7ad3fb59a2d2d7c79d2fe"
+  },
+  "bytes": 13074,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71329/table/71329-0001"
+}

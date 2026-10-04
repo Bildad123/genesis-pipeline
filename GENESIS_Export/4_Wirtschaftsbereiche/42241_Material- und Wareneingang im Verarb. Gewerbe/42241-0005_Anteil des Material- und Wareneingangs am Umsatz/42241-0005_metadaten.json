@@ -1,0 +1,75 @@
+{
+  "abgerufen_am": "2026-09-28T19:00:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "42241-0005",
+    "Content": "Anteil des Material- und Wareneingangs am Umsatz im\nVerarbeitenden Gewerbe: Deutschland, Jahre,\nWirtschaftszweige (2-4-Steller Hierarchie)",
+    "Time": {
+      "From": "2010",
+      "To": "2014"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "42241",
+        "Content": "Material- und Wareneingang im Verarb. Gewerbe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "EIG004",
+                "Content": "Anteil des Material- und Wareneingangs am Umsatz",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08X4",
+          "Content": "WZ2008 (4-Steller): Verarbeitendes Gewerbe",
+          "Type": "Merkmal",
+          "Values": "245",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 21:01:15h"
+  }
+}

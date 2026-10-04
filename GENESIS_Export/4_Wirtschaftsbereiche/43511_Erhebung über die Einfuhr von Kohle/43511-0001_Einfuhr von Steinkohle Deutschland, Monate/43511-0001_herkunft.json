@@ -1,0 +1,28 @@
+{
+  "tabelle": "43511-0001",
+  "titel": "Einfuhr von Steinkohle: Deutschland, Monate",
+  "zeitraum": "Januar 2004 - Juli 2026",
+  "statistik": "43511",
+  "alle_statistiken": [
+    "43511"
+  ],
+  "stand_genesis": "28.12.2022 19:00:09h",
+  "abgerufen_am": "2026-09-28T19:06:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43511-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43511-0001_flatfile.csv": "e9e8fcbd473e32e511dbb82fffd86cd7c3f8f2e0b8d6e819c6ca767592390d7b"
+  },
+  "bytes": 26793,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43511/table/43511-0001"
+}

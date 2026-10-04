@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0127",
+  "titel": "Arbeitskräfte: Bundesländer, Jahre, Geschlecht, Altersgruppen, Rechtsformen, Art der Arbeitskräfte, Beschäftigungsumfang",
+  "zeitraum": "2020 - 2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "29.12.2022 08:02:05h",
+  "abgerufen_am": "2026-09-28T18:25:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0127",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0127_flatfile.csv": "14bd45b66a5a2399c244b19774b63eeea3c8d05a588a95666c400d4402e9de3c"
+  },
+  "bytes": 4601686,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0127"
+}

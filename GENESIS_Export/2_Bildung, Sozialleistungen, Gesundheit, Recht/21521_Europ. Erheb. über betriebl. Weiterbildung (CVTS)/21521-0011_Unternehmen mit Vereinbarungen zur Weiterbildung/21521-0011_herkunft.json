@@ -1,0 +1,28 @@
+{
+  "tabelle": "21521-0011",
+  "titel": "Unternehmen mit Vereinbarungen zur Weiterbildung, Unternehmen mit betrieblicher Erstausbildung: Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "2015 - 2020",
+  "statistik": "21521",
+  "alle_statistiken": [
+    "21521"
+  ],
+  "stand_genesis": "28.12.2022 19:41:18h",
+  "abgerufen_am": "2026-09-28T17:14:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21521-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21521-0011_flatfile.csv": "2924c0aa299cd2323c3d86c91535546de28876c182c1253105d809d1195ffee0"
+  },
+  "bytes": 11860,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21521/table/21521-0011"
+}

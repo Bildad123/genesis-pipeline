@@ -1,0 +1,28 @@
+{
+  "tabelle": "47311-0001",
+  "titel": "Unternehmenskennzahlen zur Versicherungswirtschaft: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2002 - 2020",
+  "statistik": "47311",
+  "alle_statistiken": [
+    "47311"
+  ],
+  "stand_genesis": "28.12.2022 17:11:45h",
+  "abgerufen_am": "2026-09-28T19:33:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47311-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47311-0001_flatfile.csv": "c2970d6b601b08a3af9e6f69f841b73a3d2e6ece0b107ce46113ee7f4c3fbb32"
+  },
+  "bytes": 29882,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47311/table/47311-0001"
+}

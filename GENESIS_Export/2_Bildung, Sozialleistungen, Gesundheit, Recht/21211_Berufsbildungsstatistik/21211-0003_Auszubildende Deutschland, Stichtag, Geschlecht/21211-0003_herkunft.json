@@ -1,0 +1,28 @@
+{
+  "tabelle": "21211-0003",
+  "titel": "Auszubildende: Deutschland, Stichtag, Geschlecht, Schulabschluss",
+  "zeitraum": "31.12.2008 - 31.12.2025",
+  "statistik": "21211",
+  "alle_statistiken": [
+    "21211"
+  ],
+  "stand_genesis": "28.12.2022 19:17:25h",
+  "abgerufen_am": "2026-09-28T17:02:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21211-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21211-0003_flatfile.csv": "de3b9721301830b28ef452e9503a85b2451b7e1581a63112798d4332219cfd9b"
+  },
+  "bytes": 40265,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21211/table/21211-0003"
+}

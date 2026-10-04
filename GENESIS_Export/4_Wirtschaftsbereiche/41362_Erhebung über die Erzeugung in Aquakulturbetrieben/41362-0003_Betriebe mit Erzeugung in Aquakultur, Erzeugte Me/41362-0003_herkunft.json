@@ -1,0 +1,28 @@
+{
+  "tabelle": "41362-0003",
+  "titel": "Betriebe mit Erzeugung in Aquakultur, Erzeugte Menge: Deutschland, Jahre, Fischarten",
+  "zeitraum": "2011 - 2024",
+  "statistik": "41362",
+  "alle_statistiken": [
+    "41362"
+  ],
+  "stand_genesis": "29.12.2022 08:00:13h",
+  "abgerufen_am": "2026-09-28T18:43:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41362-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41362-0003_flatfile.csv": "2dfa24aa7f2a664cabc858d4eda540433f24dac958862e99ee580cdc185492df"
+  },
+  "bytes": 6126,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41362/table/41362-0003"
+}

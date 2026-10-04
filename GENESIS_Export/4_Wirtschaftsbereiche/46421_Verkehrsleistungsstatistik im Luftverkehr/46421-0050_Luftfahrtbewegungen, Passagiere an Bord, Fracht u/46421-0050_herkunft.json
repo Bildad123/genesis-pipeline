@@ -1,0 +1,28 @@
+{
+  "tabelle": "46421-0050",
+  "titel": "Luftfahrtbewegungen, Passagiere an Bord, Fracht und Post an Bord: Deutschland, Jahre, Art des Luftverkehrs",
+  "zeitraum": "2019 - 2025",
+  "statistik": "46421",
+  "alle_statistiken": [
+    "46421"
+  ],
+  "stand_genesis": "28.12.2022 17:57:22h",
+  "abgerufen_am": "2026-09-28T19:33:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46421-0050",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46421-0050_flatfile.csv": "7914b82c6b5b6aab49d9c61faf55743b300814dd175988fc02301d9ac2b1c53e"
+  },
+  "bytes": 45203,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46421/table/46421-0050"
+}

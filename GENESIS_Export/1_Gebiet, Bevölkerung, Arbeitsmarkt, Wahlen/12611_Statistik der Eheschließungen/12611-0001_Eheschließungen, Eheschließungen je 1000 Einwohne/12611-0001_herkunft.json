@@ -1,0 +1,28 @@
+{
+  "tabelle": "12611-0001",
+  "titel": "Eheschließungen, Eheschließungen je 1000 Einwohner: Deutschland, Jahre",
+  "zeitraum": "1950 - 2025",
+  "statistik": "12611",
+  "alle_statistiken": [
+    "12611"
+  ],
+  "stand_genesis": "24.04.2025 12:10:28h",
+  "abgerufen_am": "2026-09-28T16:51:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12611-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12611-0001_flatfile.csv": "f04e5afd4a5192d4ce88181dd558fc7e36d4ed7c2d4c71565184568d9cef273a"
+  },
+  "bytes": 21564,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12611/table/12611-0001"
+}

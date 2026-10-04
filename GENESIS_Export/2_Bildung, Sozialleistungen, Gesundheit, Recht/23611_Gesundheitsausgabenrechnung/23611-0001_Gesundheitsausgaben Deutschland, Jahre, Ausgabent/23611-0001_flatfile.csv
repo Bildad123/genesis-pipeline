@@ -1,0 +1,298 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;51313;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;280447;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;17976;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;165138;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;15022;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3733;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;13170;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;27398;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;30517;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4426;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;5426;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;51663;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;26186;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;115690;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3362;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;20433;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;175348;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;17918;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;6269;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;8519;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;15066;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;98339;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3525;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;265866;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;12713;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;9192;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14372;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;159894;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;16807;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;21428;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;18266;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;7812;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4116;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3875;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;163617;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3629;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;50253;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;139188;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;214181;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;4610;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4761;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;33253;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;9926;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;5274;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;195689;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;37379;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;255163;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;36727;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;10211;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;4015;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;13891;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4011;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;295410;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;265397;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;22860;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;13696;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;4920;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;22395;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;187437;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;46807;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;538207;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3596;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4878;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;37200;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;44810;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;20190;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;17487;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;56890;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;135320;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;6440;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;27886;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;30535;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;289882;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;5798;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3089;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;20266;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;8709;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14605;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;58112;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;16304;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3506;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;6975;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;112036;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4052;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;64656;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;207547;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;18457;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;16912;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;11730;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;135027;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;5035;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;17379;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;167757;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;16284;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;15628;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4120;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;500267;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;17395;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;241114;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;303117;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;39715;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;17521;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;18044;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;10854;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;24259;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;127880;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;24718;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3479;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;7364;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;196612;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;16795;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;18475;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14742;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;5264;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;190746;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;17249;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;14148;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;5239;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14366;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;27801;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3604;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;5799;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;45483;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;53662;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;476246;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;15563;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;43451;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;58289;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;38090;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4526;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;213942;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3856;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14360;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;15750;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;159211;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3755;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;327722;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;26449;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;255685;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;12418;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;300831;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;8543;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;98547;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;11355;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;17463;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14463;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;132394;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;180789;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;25292;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3929;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;29119;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;21841;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;390975;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3637;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;16054;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;35406;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4401;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;19192;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;13842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;131028;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;20234;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;54522;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;23401;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;10887;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;233018;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;29424;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;34632;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3638;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;33418;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;5642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;13665;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4690;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;57704;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3115;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;16518;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3570;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;279082;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;171674;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;21946;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;411538;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;106910;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;241491;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;5025;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;48688;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3210;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;13363;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4440;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3860;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;8096;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;12160;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;42667;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;36411;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;31016;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;20980;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;8349;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;6498;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;15028;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;198907;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;40860;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;13692;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;24739;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;229597;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;123417;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;357642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;10530;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3380;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;374760;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;20171;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;28900;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;27612;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;4779;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;207161;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;16639;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3727;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;19239;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;5056;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;17805;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;44622;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;18248;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;12506;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;26626;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;19384;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;235299;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;29084;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;21790;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;14488;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;19171;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;6006;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14489;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;31664;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;222090;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;42119;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;19925;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14635;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;314195;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;38507;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;41409;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;18381;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;17862;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;13901;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;234746;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;14546;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;26623;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;61629;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;2800;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;4012;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;114728;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;20212;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4255;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;499872;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;21360;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;-;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;6960;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;343385;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4362;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;25827;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;43782;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;39522;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;23688;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;14923;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;32207;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;438874;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;4453;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3245;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;47185;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;120682;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;247449;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;221284;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;15681;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;144757;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;9779;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEOEFF01;Öffentliche Haushalte;13321;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;-;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;6378;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;18293;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;150839;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;9479;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;13355;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;-;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;22965;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;4267;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;42424;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;7549;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSISOZPFLEGE01;Soziale Pflegeversicherung;19069;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;ARBEITGEBER01;Arbeitgeber;7301;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3525;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;;Insgesamt;201567;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;3090;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;64956;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;6245;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIUNFALLGES01;Gesetzliche Unfallversicherung;4271;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIKRANKGES01;Gesetzliche Krankenversicherung;117265;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3897;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;HAUSHALTEPRIV01;Private Haushalte/Priv.Organisat.oh.Erwerbszweck;34573;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;VSIGESETZRENT01;Gesetzliche Rentenversicherung;3666;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU01;Ausgabenträger;KRKPRIVAT01;Private Krankenversicherung;11459;Mill. EUR;GES054;Gesundheitsausgaben

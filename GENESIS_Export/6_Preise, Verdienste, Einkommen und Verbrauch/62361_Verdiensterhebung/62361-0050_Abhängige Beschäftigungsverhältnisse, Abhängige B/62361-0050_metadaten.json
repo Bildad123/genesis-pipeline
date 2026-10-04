@@ -1,0 +1,91 @@
+{
+  "abgerufen_am": "2026-09-28T20:42:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "62361-0050",
+    "Content": "Abhängige Beschäftigungsverhältnisse, Abhängige\nBeschäftigungsverhältnisse mit Niedriglohn: Bundesländer,\nStichmonat, Wirtschaftsabschnitte",
+    "Time": {
+      "From": "04/2022",
+      "To": "04/2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "62361",
+        "Content": "Verdiensterhebung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BES031",
+          "Content": "Abhängige Beschäftigungsverhältnisse",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "BES032",
+          "Content": "Abhäng. Beschäftigungsverhältnisse mit Niedriglohn",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "BES033",
+          "Content": "Anteil abh. Beschäftigungsverhältn.mit Niedriglohn",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08BA",
+          "Content": "WZ2008 (Abschnitte)",
+          "Type": "Merkmal",
+          "Values": "19",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "SMONAT",
+        "Content": "Stichmonat",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "26.01.2023 17:59:55h"
+  }
+}

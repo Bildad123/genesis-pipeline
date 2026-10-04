@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0030",
+  "titel": "Väterbeteiligung: Bundesländer, Jahre",
+  "zeitraum": "2008 - 2023",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:42:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0030",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0030_flatfile.csv": "8c23e1df6beeb90338934e41dc52459e30abac11bcf493f1ba7fa6bf0362087f"
+  },
+  "bytes": 32670,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0030"
+}

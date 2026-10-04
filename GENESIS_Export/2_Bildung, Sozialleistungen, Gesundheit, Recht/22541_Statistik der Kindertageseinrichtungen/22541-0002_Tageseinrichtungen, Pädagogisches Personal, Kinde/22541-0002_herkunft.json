@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0002",
+  "titel": "Tageseinrichtungen, Pädagogisches Personal, Kinder, Genehmigte Plätze: Deutschland, Stichtag, Art des Trägers",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 13:44:55h",
+  "abgerufen_am": "2026-09-28T17:35:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0002_flatfile.csv": "f94982b0c4fe207a6b3990f5edf31219786f0eb23356a93995486ddb98024e70"
+  },
+  "bytes": 17366,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0002"
+}

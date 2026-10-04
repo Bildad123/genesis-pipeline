@@ -1,0 +1,28 @@
+{
+  "tabelle": "41252-0002",
+  "titel": "Mit Keltertrauben bestockte Rebfläche: Deutschland, Jahre, Weinanbaugebiete, Rebsorte",
+  "zeitraum": "1991 - 2025",
+  "statistik": "41252",
+  "alle_statistiken": [
+    "41252"
+  ],
+  "stand_genesis": "29.02.2024 16:10:23h",
+  "abgerufen_am": "2026-09-28T18:33:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41252-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41252-0002_flatfile.csv": "4012b70ac2a655b8971bc1a6533449cb89a701e24c6172babdd3f30edb84466b"
+  },
+  "bytes": 361826,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41252/table/41252-0002"
+}

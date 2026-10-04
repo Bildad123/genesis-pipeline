@@ -1,0 +1,28 @@
+{
+  "tabelle": "22412-0007",
+  "titel": "Personal der stationären Pflegeeinrichtungen: Deutschland, Stichtag, Altersgruppen",
+  "zeitraum": "15.12.2013 - 15.12.2023",
+  "statistik": "22412",
+  "alle_statistiken": [
+    "22412"
+  ],
+  "stand_genesis": "28.12.2022 17:35:38h",
+  "abgerufen_am": "2026-09-28T17:30:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22412-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22412-0007_flatfile.csv": "4ed8ad261528a2bcdd1f7e437027e7e5229191a148ca598ff1c5420398f9cc2b"
+  },
+  "bytes": 10397,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22412/table/22412-0007"
+}

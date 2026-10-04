@@ -1,0 +1,28 @@
+{
+  "tabelle": "21211-0008",
+  "titel": "Bestandene Abschlussprüfung: Deutschland, Jahre, Geschlecht, Altersjahre",
+  "zeitraum": "2008 - 2025",
+  "statistik": "21211",
+  "alle_statistiken": [
+    "21211"
+  ],
+  "stand_genesis": "28.12.2022 19:17:25h",
+  "abgerufen_am": "2026-09-28T17:02:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21211-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21211-0008_flatfile.csv": "f8480ad686aeac1c1e21e48c310fa1f47a9925189f41fedf4a49e2b5e7eb134b"
+  },
+  "bytes": 64385,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21211/table/21211-0008"
+}

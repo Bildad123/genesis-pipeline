@@ -1,0 +1,28 @@
+{
+  "tabelle": "23131-0012",
+  "titel": "Krankenhauspatienten: Bundesländer, Jahre, Geschlecht, Wohnort des Patienten",
+  "zeitraum": "2000 - 2024",
+  "statistik": "23131",
+  "alle_statistiken": [
+    "23131"
+  ],
+  "stand_genesis": "28.12.2022 17:50:39h",
+  "abgerufen_am": "2026-09-28T17:50:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23131-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23131-0012_flatfile.csv": "0392b7dd8f57d0112e3b9c0f016fe23e0572741513949cb49172ce802a700e13"
+  },
+  "bytes": 186695,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23131/table/23131-0012"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "74111-0010",
+  "titel": "Beschäftigte in den Kernhaushalten des Bundes und der Länder im Aufgabenbereich Polizei: Deutschland, Stichtag, Beschäftigungsbereich, Dienstverhältnis, Geschlecht",
+  "zeitraum": "30.06.2012 - 30.06.2024",
+  "statistik": "74111",
+  "alle_statistiken": [
+    "74111"
+  ],
+  "stand_genesis": "21.06.2024 17:51:08h",
+  "abgerufen_am": "2026-09-28T20:59:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "74111-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "74111-0010_flatfile.csv": "26ab04e4173681048a2db41eefc1b8451bf2c07009bcb99037e6a61733cf3a06"
+  },
+  "bytes": 17199,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/74111/table/74111-0010"
+}

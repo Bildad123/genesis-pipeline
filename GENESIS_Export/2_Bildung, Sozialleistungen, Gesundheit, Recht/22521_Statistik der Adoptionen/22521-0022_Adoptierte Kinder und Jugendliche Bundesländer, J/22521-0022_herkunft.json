@@ -1,0 +1,28 @@
+{
+  "tabelle": "22521-0022",
+  "titel": "Adoptierte Kinder und Jugendliche: Bundesländer, Jahre (bis 2017), Nationalität, Art der Unterbringung vor der Adoption",
+  "zeitraum": "2010 - 2017",
+  "statistik": "22521",
+  "alle_statistiken": [
+    "22521"
+  ],
+  "stand_genesis": "14.08.2024 13:15:21h",
+  "abgerufen_am": "2026-09-28T17:33:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22521-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22521-0022_flatfile.csv": "644bb8739a51dcc07c70ad8d2708281e8c816e9ff54f904b324d216c937cdec6"
+  },
+  "bytes": 130418,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22521/table/22521-0022"
+}

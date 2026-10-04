@@ -1,0 +1,28 @@
+{
+  "tabelle": "41215-0005",
+  "titel": "Betriebe mit Gemüseanbau im Freiland (vollständig ökologisch), Anbaufläche, Erntemenge: Deutschland, Jahre, Gemüsearten",
+  "zeitraum": "2023 - 2025",
+  "statistik": "41215",
+  "alle_statistiken": [
+    "41215"
+  ],
+  "stand_genesis": "05.12.2024 15:28:40h",
+  "abgerufen_am": "2026-09-28T18:28:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41215-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41215-0005_flatfile.csv": "d1dcf73d9f04efadfdda90abeebd0a71084817a67f96a666fb8540e5140e6bcf"
+  },
+  "bytes": 26104,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41215/table/41215-0005"
+}

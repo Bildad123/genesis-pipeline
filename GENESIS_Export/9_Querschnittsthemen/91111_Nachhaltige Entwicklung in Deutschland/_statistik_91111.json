@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:24:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "91111",
+    "Content": "Nachhaltige Entwicklung in Deutschland",
+    "Cubes": "2",
+    "Variables": "5",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Nachhaltige Entwicklung in Deutschland\n======================================\n\nNachhaltigkeit rückt immer mehr in den Fokus des politischen\nund gesellschaftlichen Bewusstseins. Nachhaltig zu handeln\nbedeutet, alle verfügbaren Ressourcen so zu nutzen, dass sie\ndie Bedürfnisse der heutigen Generation befriedigen und\ndabei trotzdem die Möglichkeiten zukünftiger Generationen\nnicht einzuschränken. Nachhaltigkeit umfasst nicht nur den\nErhalt der Umwelt, sondern erstreckt sich auch auf soziale\nGerechtigkeit und die ökonomische Entwicklung.\nDas Wachstum der Weltbevölkerung bedarf der Berücksichtigung\nall dieser Aspekte, damit heute und in der Zukunft für jeden\nMenschen ein menschenwürdiges Leben auf unserem Planeten\nmöglich ist.\n\n2015 hat die Staatengemeinschaft mit der Verabschiedung der\nAgenda 2030 für nachhaltige Entwicklung ein eindeutiges\nBekenntnis zur gemeinsamen globalen Verantwortung gegeben,\nweltweit für gute Lebensperspektiven heutiger und künftiger\nGenerationen zu sorgen.\n\nBereits im Jahr 2002 hat die Bundesregierung mit\n\"Perspektiven für Deutschland\" ihre nationale\nNachhaltigkeitsstrategie beschlossen. Mit der im Jahr 2016\numfassend überarbeiteten Nachhaltigkeitsstrategie für\nDeutschland hat die Bundesregierung dargelegt, welche\nHerausforderungen sich für Deutschland aus der\ninternationalen Verpflichtung für eine globale nachhaltige\nEntwicklung ergeben, welche konkreten Ziele sie sich steckt\nund welche Maßnahmen sie ergreift, um diese zu erreichen.\nKern der Nachhaltigkeitsstrategie für Deutschland ist ein\nNachhaltigkeitsmanagementsystem: Es definiert Ziele mit\nZeitrahmen zur Erfüllung, Indikatoren für ein\nkontinuierliches Monitoring sowie Regelungen zur Steuerung\nund Festlegungen zur institutionellen Ausgestaltung.\n\nDas Statistische Bundesamt berichtete bereits seit 2006\nobjektiv über die Entwicklung der Indikatoren der bisherigen\nnationalen Nachhaltigkeitsstrategie. Auch zu der aktuellen\nüberarbeiteten Deutschen Nachhaltigkeitsstrategie ist das\nStatistische Bundesamt von der Bundesregierung damit\nbeauftragt worden, regelmäßig die Indikatoren fachlich\nunabhängig darzustellen und über deren Entwicklung objektiv\nzu berichten.\n\n\n© Statistisches Bundesamt, Wiesbaden 2017",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

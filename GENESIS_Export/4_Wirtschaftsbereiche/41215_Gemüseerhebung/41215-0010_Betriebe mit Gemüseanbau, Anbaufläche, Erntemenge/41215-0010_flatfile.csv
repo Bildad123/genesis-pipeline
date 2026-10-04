@@ -1,0 +1,49 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;1111;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;11342,3;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;309586,9;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;1121;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;17776,2;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;744890,6;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;99;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;3894,1;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;162240,1;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;.;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;.;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;.;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;46;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;573,4;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;23241,5;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;1222;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;28850,7;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;1017442,7;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;282;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;6478,0;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;177142,5;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;283;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;16041,9;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;542762,1;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;.;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;.;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;.;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;178;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;6075,0;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;112665,3;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;325;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;8613,5;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;451037,7;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;65;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;2478,9;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;74482,3;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;54;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;135,0;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;3360,3;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;176;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;2716,9;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;33164,0;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;982;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;26609,8;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;862285,1;t;ERN007;Erntemenge Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;18;Anzahl;BMG001;Betriebe mit Gemüseanbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;113,9;ha;FLC062;Anbaufläche Gemüse
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;2088,3;t;ERN007;Erntemenge Gemüse

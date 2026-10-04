@@ -1,0 +1,28 @@
+{
+  "tabelle": "51000-0036",
+  "titel": "Aus- und Einfuhr (Außenhandel): Bundesländer, Jahre, Länder, Warensystematik",
+  "zeitraum": "2008 - 2025",
+  "statistik": "51000",
+  "alle_statistiken": [
+    "51000"
+  ],
+  "stand_genesis": "28.12.2022 17:13:16h",
+  "abgerufen_am": "2026-09-28T20:01:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "51000-0036",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "51000-0036_flatfile.csv": "fbf9577453d85eb237feebb5bf7c53ee9fdc0a986488614c524b2d929c4b1b45"
+  },
+  "bytes": 10420803,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/51000/table/51000-0036"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "63911-0001",
+  "titel": "Erfasste und hochgerechnete Haushalte (ZVE): Deutschland, Jahre, Haushaltstyp",
+  "zeitraum": "2022 - 2022",
+  "statistik": "63911",
+  "alle_statistiken": [
+    "63911"
+  ],
+  "stand_genesis": "20.02.2025 15:46:14h",
+  "abgerufen_am": "2026-09-28T20:47:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63911-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63911-0001_flatfile.csv": "898cda5de6d9ee02dcf02819b7b25a711dddd28062ada3a5fdd5b20430f974de"
+  },
+  "bytes": 2626,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63911/table/63911-0001"
+}

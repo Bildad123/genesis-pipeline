@@ -1,0 +1,97 @@
+{
+  "abgerufen_am": "2026-09-28T20:50:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "71411-0001",
+    "Content": "Finanzvermögen des öffentlichen Gesamthaushalts:\nDeutschland, Stichtag, Ebenen des öffentlichen\nGesamthaushalts, Haushalte, Art des Finanzvermögens",
+    "Time": {
+      "From": "31.12.2010",
+      "To": "31.12.2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "71411",
+        "Content": "Finanzvermögen des öffentlichen Gesamthaushalts",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "FIN002",
+                "Content": "Finanzvermögen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "KRPGR8",
+          "Content": "Ebenen des öffentlichen Gesamthaushalts",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "HSHAT1",
+              "Content": "Haushalte",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "FINAT1",
+                  "Content": "Art des Finanzvermögens",
+                  "Type": "Merkmal",
+                  "Values": "5",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 22:42:11h"
+  }
+}

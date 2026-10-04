@@ -1,0 +1,94 @@
+{
+  "abgerufen_am": "2026-09-28T19:05:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "43351-0005",
+    "Content": "Brennstoffeinsatz: Deutschland, Jahre, Wirtschaftszweige, Energieträger",
+    "Time": {
+      "From": "2018",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "43351",
+        "Content": "Erh.ü. Elektrizitäts- u.Wärmeerzeug. i.Verarb.Gew.",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BRN001",
+          "Content": "Brennstoffeinsatz",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "BRN005",
+          "Content": "Brennstoffeinsatz (Kraft-Wärme-Kopplung)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08S1",
+          "Content": "WZ2008 (ausgewählte Positionen): Energie",
+          "Type": "Merkmal",
+          "Values": "32",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ENRG06",
+              "Content": "Energieträger",
+              "Type": "Merkmal",
+              "Values": "35",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:05:14h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0100",
+  "titel": "Museen, Ausstellungen, Museumsbesuche: Deutschland, Jahre, Träger",
+  "zeitraum": "2000 - 2023",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:14:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0100_flatfile.csv": "db8a01f5ce5c967f5df694f3f099f6b75693db2c4afdf4fa4b6d7b398388f51e"
+  },
+  "bytes": 104530,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0100"
+}

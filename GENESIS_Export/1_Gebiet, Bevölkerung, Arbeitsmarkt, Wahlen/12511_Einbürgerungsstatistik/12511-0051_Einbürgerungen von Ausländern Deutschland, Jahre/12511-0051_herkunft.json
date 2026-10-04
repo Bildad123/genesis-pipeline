@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0051",
+  "titel": "Einbürgerungen von Ausländern: Deutschland, Jahre (bis 2024), Ländergruppierungen/Staatsangehörigkeit, Altersgruppen/Geschlecht/Familienstand",
+  "zeitraum": "2000 - 2024",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "29.04.2026 13:38:45h",
+  "abgerufen_am": "2026-09-28T16:42:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0051",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0051_flatfile.csv": "6aa2c0944b249563406faa352b1e075e4354956ced6b748620c0d1f792887c76"
+  },
+  "bytes": 28836,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0051"
+}

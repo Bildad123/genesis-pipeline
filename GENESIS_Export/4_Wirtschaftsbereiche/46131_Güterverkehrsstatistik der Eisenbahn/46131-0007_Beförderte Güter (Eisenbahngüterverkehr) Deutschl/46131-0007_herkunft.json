@@ -1,0 +1,28 @@
+{
+  "tabelle": "46131-0007",
+  "titel": "Beförderte Güter (Eisenbahngüterverkehr): Deutschland, Jahre, Güterabteilungen und -gruppen",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46131",
+  "alle_statistiken": [
+    "46131"
+  ],
+  "stand_genesis": "28.12.2022 17:38:40h",
+  "abgerufen_am": "2026-09-28T19:18:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46131-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46131-0007_flatfile.csv": "f27b6ded88f299b749a7e0d9c6ee3603073203cd960936de07514e00f41daf9d"
+  },
+  "bytes": 343450,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46131/table/46131-0007"
+}

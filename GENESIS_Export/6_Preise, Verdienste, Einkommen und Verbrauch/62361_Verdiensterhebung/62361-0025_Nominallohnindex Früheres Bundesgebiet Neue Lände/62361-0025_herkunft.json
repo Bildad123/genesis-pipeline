@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0025",
+  "titel": "Nominallohnindex: Früheres Bundesgebiet / Neue Länder, Jahre",
+  "zeitraum": "2007 - 2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "04.05.2023 11:30:54h",
+  "abgerufen_am": "2026-09-28T20:40:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0025",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0025_flatfile.csv": "e538110b68a409a91a78d824c911ab23eebadcdeb2c4b992c1a6af970ee89af7"
+  },
+  "bytes": 10235,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0025"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "62231-0002",
+  "titel": "Indizes der Tarifverdienste, Wochenarbeitszeit: Früheres Bundesgebiet/Neue Länder, Monate, Wirtschaftszweige",
+  "zeitraum": "Januar 2010 - August 2026",
+  "statistik": "62231",
+  "alle_statistiken": [
+    "62231"
+  ],
+  "stand_genesis": "28.12.2022 18:42:35h",
+  "abgerufen_am": "2026-09-28T20:38:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62231-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62231-0002_flatfile.csv": "7e51fd33363d1396310f84fc001ba051da4b559fd6e05022a7dedb8c481cb42b"
+  },
+  "bytes": 12095238,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62231/table/62231-0002"
+}

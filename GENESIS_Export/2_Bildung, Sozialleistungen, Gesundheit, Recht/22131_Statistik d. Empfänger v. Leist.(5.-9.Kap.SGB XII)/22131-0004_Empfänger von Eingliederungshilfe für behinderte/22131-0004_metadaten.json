@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T17:20:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22131-0004",
+    "Content": "Empfänger von Eingliederungshilfe für behinderte Menschen: Deutschland, Jahre (bis 2019), Art der Eingliederungshilfe für behinderte Menschen, Altersgruppen",
+    "Time": {
+      "From": "2005",
+      "To": "2019"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22131",
+        "Content": "Statistik d. Empfänger v. Leist.(5.-9.Kap.SGB XII)",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "EMP001",
+                "Content": "Empfänger von Hilfeleistungen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ARTDH7",
+          "Content": "Art der Eingliederungshilfe f. behinderte Menschen",
+          "Type": "Merkmal",
+          "Values": "15",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ALT046",
+              "Content": "Altersgruppen (u18-65m)",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 21:36:28h"
+  }
+}

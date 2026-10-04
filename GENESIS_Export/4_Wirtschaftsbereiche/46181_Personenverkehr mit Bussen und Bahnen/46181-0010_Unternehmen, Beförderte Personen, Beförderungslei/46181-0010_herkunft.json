@@ -1,0 +1,28 @@
+{
+  "tabelle": "46181-0010",
+  "titel": "Unternehmen, Beförderte Personen, Beförderungsleistung, Fahrleistung, Beförderungsangebot (Personenverkehr mit Bussen und Bahnen): Bundesländer, Jahre, Verkehrsart",
+  "zeitraum": "2022 - 2024",
+  "statistik": "46181",
+  "alle_statistiken": [
+    "46181"
+  ],
+  "stand_genesis": "12.03.2025 13:42:59h",
+  "abgerufen_am": "2026-09-28T19:21:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46181-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46181-0010_flatfile.csv": "a71fbde826cffec7258ba01269cae5f28fae884cbc84e035fd34e8a53e298e96"
+  },
+  "bytes": 96116,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46181/table/46181-0010"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21354-0004",
+  "titel": "Studierende je Lehrperson (Betreuungsrelation) an Berufsakademien: Bundesländer, Jahre, Geschlecht",
+  "zeitraum": "2017 - 2025",
+  "statistik": "21354",
+  "alle_statistiken": [
+    "21354"
+  ],
+  "stand_genesis": "28.12.2022 17:59:52h",
+  "abgerufen_am": "2026-09-28T17:08:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21354-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21354-0004_flatfile.csv": "1b791fcabc657e099088e779f17cb1feec44b1c11188559b641dbf9ae0491459"
+  },
+  "bytes": 9385,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21354/table/21354-0004"
+}

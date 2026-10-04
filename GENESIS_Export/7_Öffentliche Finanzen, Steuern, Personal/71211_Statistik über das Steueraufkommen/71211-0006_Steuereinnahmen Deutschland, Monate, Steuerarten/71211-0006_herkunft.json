@@ -1,0 +1,28 @@
+{
+  "tabelle": "71211-0006",
+  "titel": "Steuereinnahmen: Deutschland, Monate, Steuerarten nach der Steuerverteilung",
+  "zeitraum": "Januar 1999 - Juli 2026",
+  "statistik": "71211",
+  "alle_statistiken": [
+    "71211"
+  ],
+  "stand_genesis": "28.12.2022 17:58:57h",
+  "abgerufen_am": "2026-09-28T20:49:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71211-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71211-0006_flatfile.csv": "3e8a374180e52fe6a0189b4d7ee92499aa6aa3c8fb19d31b332187a01c60322d"
+  },
+  "bytes": 117980,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71211/table/71211-0006"
+}

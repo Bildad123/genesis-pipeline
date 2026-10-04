@@ -1,0 +1,28 @@
+{
+  "tabelle": "71411-0001",
+  "titel": "Finanzvermögen des öffentlichen Gesamthaushalts: Deutschland, Stichtag, Ebenen des öffentlichen Gesamthaushalts, Haushalte, Art des Finanzvermögens",
+  "zeitraum": "31.12.2010 - 31.12.2025",
+  "statistik": "71411",
+  "alle_statistiken": [
+    "71411"
+  ],
+  "stand_genesis": "28.12.2022 22:42:11h",
+  "abgerufen_am": "2026-09-28T20:51:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71411-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71411-0001_flatfile.csv": "6e5653e0b353789891db859cd0e082d8d73695f1e57761eaa195fe95297f4d34"
+  },
+  "bytes": 495447,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71411/table/71411-0001"
+}

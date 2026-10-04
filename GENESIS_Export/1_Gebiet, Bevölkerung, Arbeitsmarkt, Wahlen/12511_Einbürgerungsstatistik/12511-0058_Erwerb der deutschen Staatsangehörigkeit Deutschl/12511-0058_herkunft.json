@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0058",
+  "titel": "Erwerb der deutschen Staatsangehörigkeit: Deutschland, Jahre (bis 2024), Staatsangehörigkeit, Erwerbsarten, Geschlecht",
+  "zeitraum": "2008 - 2024",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "29.04.2026 13:40:38h",
+  "abgerufen_am": "2026-09-28T16:43:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0058",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0058_flatfile.csv": "718ae27c015a4b7c88dc814186a6dea0036e4617114eeed7db8eb8fb4b466d47"
+  },
+  "bytes": 563199,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0058"
+}

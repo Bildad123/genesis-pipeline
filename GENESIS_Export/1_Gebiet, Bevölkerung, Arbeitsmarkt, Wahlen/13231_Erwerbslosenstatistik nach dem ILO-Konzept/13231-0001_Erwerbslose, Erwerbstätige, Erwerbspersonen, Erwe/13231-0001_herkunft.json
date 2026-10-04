@@ -1,0 +1,28 @@
+{
+  "tabelle": "13231-0001",
+  "titel": "Erwerbslose, Erwerbstätige, Erwerbspersonen, Erwerbslosenquote: Deutschland, Monate, Original- und bereinigte Daten",
+  "zeitraum": "Januar 1991 - Juli 2026",
+  "statistik": "13231",
+  "alle_statistiken": [
+    "13231"
+  ],
+  "stand_genesis": "28.12.2022 18:56:13h",
+  "abgerufen_am": "2026-09-28T16:58:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13231-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13231-0001_flatfile.csv": "8397230d64633b427c317663ff80986c259f56896d9e8884d013af696fd54536"
+  },
+  "bytes": 66543,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13231/table/13231-0001"
+}

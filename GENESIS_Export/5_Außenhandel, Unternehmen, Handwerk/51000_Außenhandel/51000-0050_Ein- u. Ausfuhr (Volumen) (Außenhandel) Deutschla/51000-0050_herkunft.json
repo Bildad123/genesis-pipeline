@@ -1,0 +1,28 @@
+{
+  "tabelle": "51000-0050",
+  "titel": "Ein- u. Ausfuhr (Volumen) (Außenhandel): Deutschland, Jahre, Ländergruppen, Warengruppen (EGW 2002: 3-Steller)",
+  "zeitraum": "2019 - 2025",
+  "statistik": "51000",
+  "alle_statistiken": [
+    "51000"
+  ],
+  "stand_genesis": "28.12.2022 17:13:16h",
+  "abgerufen_am": "2026-09-28T20:02:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "51000-0050",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "51000-0050_flatfile.csv": "039a8fafb30da56002cdbb8b2a33e07b90dc84e232693954621398c7a47ada40"
+  },
+  "bytes": 302121,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/51000/table/51000-0050"
+}

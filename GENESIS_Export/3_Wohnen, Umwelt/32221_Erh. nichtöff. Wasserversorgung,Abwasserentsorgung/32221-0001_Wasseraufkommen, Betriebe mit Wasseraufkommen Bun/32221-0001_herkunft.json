@@ -1,0 +1,28 @@
+{
+  "tabelle": "32221-0001",
+  "titel": "Wasseraufkommen, Betriebe mit Wasseraufkommen: Bundesländer, Jahre (bis 2019), Wassergewinnung und -bezug",
+  "zeitraum": "2007 - 2019",
+  "statistik": "32221",
+  "alle_statistiken": [
+    "32221"
+  ],
+  "stand_genesis": "20.02.2025 16:42:54h",
+  "abgerufen_am": "2026-09-28T18:13:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32221-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32221-0001_flatfile.csv": "ed929e7924a6df7da920991609197715f3182a2debb098de9a480329f3f667c0"
+  },
+  "bytes": 21189,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32221/table/32221-0001"
+}

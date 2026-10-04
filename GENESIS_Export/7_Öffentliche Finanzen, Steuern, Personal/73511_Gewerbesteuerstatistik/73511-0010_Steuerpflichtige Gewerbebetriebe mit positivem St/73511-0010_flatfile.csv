@@ -1,0 +1,52 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;56107;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;117376;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;18837;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;584697;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;2506382;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;275990;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;883864;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;3211074;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;374469;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;117262;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;242427;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;47092;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;31226;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;133595;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;12889;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;;Insgesamt;4662181;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;;Insgesamt;16588259;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;;Insgesamt;1977231;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;922591;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;3320333;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;392110;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;97450;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;258981;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;43346;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;364123;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;1633671;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;148126;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;216476;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;1063603;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;97894;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;131838;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;400765;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;56627;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;165394;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;518589;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;75958;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;257338;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;666876;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;79784;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;221263;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;512342;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;91130;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;138199;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;559829;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;49239;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;384667;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;1240486;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;175480;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;89686;Anzahl;BTR046;Betriebe/Betriebsstätten
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;201930;Tsd. EUR;BTR048;Positiver Steuermessbetrag/Zerlegungsanteil
+73511;Gewerbesteuerstatistik;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;38260;Anzahl;BTR047;Betr.m.pos.Steuermessbetr./Betriebsst.m.pos.Zerl.

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21521-0009",
+  "titel": "Qualifizierungsstrategien in Unternehmen: Deutschland, Jahre, Maßnahmen zur zukünftigen Qualifizierung, Wirtschaftsbereiche",
+  "zeitraum": "2015 - 2020",
+  "statistik": "21521",
+  "alle_statistiken": [
+    "21521"
+  ],
+  "stand_genesis": "28.12.2022 19:41:18h",
+  "abgerufen_am": "2026-09-28T17:14:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21521-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21521-0009_flatfile.csv": "8a6440107f2a19cd95892587f13f6880c580f910e136f4bf274af2759bcdccbc"
+  },
+  "bytes": 32471,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21521/table/21521-0009"
+}

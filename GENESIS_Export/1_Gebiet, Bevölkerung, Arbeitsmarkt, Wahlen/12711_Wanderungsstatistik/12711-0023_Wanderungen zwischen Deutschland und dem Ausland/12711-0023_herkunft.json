@@ -1,0 +1,28 @@
+{
+  "tabelle": "12711-0023",
+  "titel": "Wanderungen zwischen Deutschland und dem Ausland: Bundesländer, Jahre, Nationalität, Geschlecht",
+  "zeitraum": "2000 - 2025",
+  "statistik": "12711",
+  "alle_statistiken": [
+    "12711"
+  ],
+  "stand_genesis": "28.12.2022 17:34:56h",
+  "abgerufen_am": "2026-09-28T16:56:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12711-0023",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12711-0023_flatfile.csv": "774f024f28e68f324f46f4ce967aaf034fe8af02de1de7a7c74f1d1c05b3bb7a"
+  },
+  "bytes": 83203,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12711/table/12711-0023"
+}

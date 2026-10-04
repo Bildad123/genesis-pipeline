@@ -1,0 +1,28 @@
+{
+  "tabelle": "23111-0001",
+  "titel": "Krankenhäuser, Betten, Patienten: Deutschland, Jahre",
+  "zeitraum": "1991 - 2024",
+  "statistik": "23111",
+  "alle_statistiken": [
+    "23111"
+  ],
+  "stand_genesis": "28.12.2022 17:30:45h",
+  "abgerufen_am": "2026-09-28T17:48:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23111-0001_flatfile.csv": "7def20d8aad729750e293e5559839fdcfb2cec3f4d1db32bf183919282007a89"
+  },
+  "bytes": 37342,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23111/table/23111-0001"
+}

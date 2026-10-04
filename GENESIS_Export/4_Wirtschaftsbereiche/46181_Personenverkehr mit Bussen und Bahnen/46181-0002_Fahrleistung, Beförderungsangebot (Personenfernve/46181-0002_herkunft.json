@@ -1,0 +1,28 @@
+{
+  "tabelle": "46181-0002",
+  "titel": "Fahrleistung, Beförderungsangebot (Personenfernverkehr mit Bussen): Deutschland, Jahre, Verkehrsart, Einsatzgebiet",
+  "zeitraum": "2022 - 2024",
+  "statistik": "46181",
+  "alle_statistiken": [
+    "46181"
+  ],
+  "stand_genesis": "12.03.2025 13:40:34h",
+  "abgerufen_am": "2026-09-28T19:21:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46181-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46181-0002_flatfile.csv": "8a2749be6e22d849cda852c17ebb6b556658a261458bff9732babe1e5e53e89a"
+  },
+  "bytes": 4671,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46181/table/46181-0002"
+}

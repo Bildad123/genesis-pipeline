@@ -1,0 +1,28 @@
+{
+  "tabelle": "42111-0025",
+  "titel": "Beschäftigte und Umsatz der fachlichen Betriebsteile im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)",
+  "zeitraum": "2005 - 2025",
+  "statistik": "42111",
+  "alle_statistiken": [
+    "42111"
+  ],
+  "stand_genesis": "28.12.2022 17:02:30h",
+  "abgerufen_am": "2026-09-28T18:46:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42111-0025",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42111-0025_flatfile.csv": "41caed90140490f012e8d35105285a090504b2b0c04b4f38de44249ae4013567"
+  },
+  "bytes": 857415,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42111/table/42111-0025"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0057",
+  "titel": "Durchschnittliche Aufenthaltsdauer der Eingebürgerten: Deutschland, Jahre (bis 2024), Ländergruppierungen/ Staatsangeh., Altersgruppen, Geschlecht, Familienstand",
+  "zeitraum": "2000 - 2024",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "29.04.2026 13:40:20h",
+  "abgerufen_am": "2026-09-28T16:43:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0057",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0057_flatfile.csv": "acc8b4cc1467258e50070a767603d0f77aeed187256474df62a51af4eba6caac"
+  },
+  "bytes": 5638065,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0057"
+}

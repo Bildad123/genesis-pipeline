@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0108",
+  "titel": "Pädagogisches, Leitungs- und Verwaltungspersonal: Bundesländer, Stichtag, Stellung im Beruf",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 14:02:03h",
+  "abgerufen_am": "2026-09-28T17:37:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0108",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0108_flatfile.csv": "5693b2a389381bc64e230493fedc622b8f0c32689293b6fe3632c8dc17f76d1a"
+  },
+  "bytes": 23032,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0108"
+}

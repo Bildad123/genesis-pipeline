@@ -1,0 +1,28 @@
+{
+  "tabelle": "71811-0020",
+  "titel": "Öffentliche Fonds, Einrichtungen und Unternehmen (FEU): Bundesländer, Jahre, Ebenen des öffentlichen Bereichs, Wirtschaftsabschnitte",
+  "zeitraum": "2008 - 2023",
+  "statistik": "71811",
+  "alle_statistiken": [
+    "71811"
+  ],
+  "stand_genesis": "28.12.2022 19:23:30h",
+  "abgerufen_am": "2026-09-28T20:52:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71811-0020",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71811-0020_flatfile.csv": "56d05f352b8fff2f07b9e7b027d1e1788272dd122d6df29b6c4657e9159394a1"
+  },
+  "bytes": 296412,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71811/table/71811-0020"
+}

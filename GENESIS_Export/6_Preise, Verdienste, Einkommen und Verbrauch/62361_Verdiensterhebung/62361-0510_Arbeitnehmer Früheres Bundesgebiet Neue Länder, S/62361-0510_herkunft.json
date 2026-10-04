@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0510",
+  "titel": "Arbeitnehmer: Früheres Bundesgebiet / Neue Länder, Stichmonat, Art der Tarifbindung, Wirtschaftszweige",
+  "zeitraum": "04/2022 - 04/2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "25.05.2023 17:09:10h",
+  "abgerufen_am": "2026-09-28T20:42:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0510",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0510_flatfile.csv": "ca8039aad4fc03f0b3f4dd1315e1cb00ea23f478d18805e125df280a85aae4db"
+  },
+  "bytes": 374449,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0510"
+}

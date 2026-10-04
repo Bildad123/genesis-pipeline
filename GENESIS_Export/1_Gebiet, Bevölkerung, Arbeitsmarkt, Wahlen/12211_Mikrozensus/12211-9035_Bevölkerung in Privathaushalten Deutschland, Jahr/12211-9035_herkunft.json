@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9035",
+  "titel": "Bevölkerung in Privathaushalten: Deutschland, Jahre (bis 2019), Haushaltsgröße, Familienstand",
+  "zeitraum": "04/1972 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:08h",
+  "abgerufen_am": "2026-09-28T16:32:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9035",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9035_flatfile.csv": "27e6df2407321dac79d182a922c806dac18ef5d5ced3b48618d4472ecdae99a3"
+  },
+  "bytes": 189365,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9035"
+}

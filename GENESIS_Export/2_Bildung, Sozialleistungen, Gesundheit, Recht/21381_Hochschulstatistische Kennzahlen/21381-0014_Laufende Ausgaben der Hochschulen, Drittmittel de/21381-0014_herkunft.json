@@ -1,0 +1,28 @@
+{
+  "tabelle": "21381-0014",
+  "titel": "Laufende Ausgaben der Hochschulen, Drittmittel der Hochschulen: Bundesländer, Jahre",
+  "zeitraum": "2011 - 2024",
+  "statistik": "21381",
+  "alle_statistiken": [
+    "21381"
+  ],
+  "stand_genesis": "28.12.2022 17:48:25h",
+  "abgerufen_am": "2026-09-28T17:09:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21381-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21381-0014_flatfile.csv": "6bfcf276d28a662644aa947540278917cd233456d80e94b7fe8289915d8486c3"
+  },
+  "bytes": 178335,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21381/table/21381-0014"
+}

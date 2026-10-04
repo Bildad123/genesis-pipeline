@@ -1,0 +1,28 @@
+{
+  "tabelle": "45213-0014",
+  "titel": "Umsatzindex im Gastgewerbe: Bundesländer, Monate/Quartale/Halbjahre, Preisarten",
+  "zeitraum": "Januar 2021 - Juni 2026",
+  "statistik": "45213",
+  "alle_statistiken": [
+    "45213"
+  ],
+  "stand_genesis": "17.08.2026 17:28:59h",
+  "abgerufen_am": "2026-09-28T19:12:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45213-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45213-0014_flatfile.csv": "c46be94610d7eb346f7cc4c56200e72de58bf5f132cca3c7282469b3bd7dc06e"
+  },
+  "bytes": 143811,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45213/table/45213-0014"
+}

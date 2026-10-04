@@ -1,0 +1,28 @@
+{
+  "tabelle": "21521-0008",
+  "titel": "Wichtigste zukünftige Qualifikationen in Unternehmen: Deutschland, Jahre, Qualifikationsbereiche, Beschäftigtengrößenklassen",
+  "zeitraum": "2015 - 2020",
+  "statistik": "21521",
+  "alle_statistiken": [
+    "21521"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:14:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21521-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21521-0008_flatfile.csv": "eabfe7c9668817c5c645e66562c63ab73dfc9fea588d3eb3c8c2bd428da5a5ed"
+  },
+  "bytes": 27667,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21521/table/21521-0008"
+}

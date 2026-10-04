@@ -1,0 +1,28 @@
+{
+  "tabelle": "22221-0034",
+  "titel": "Empfänger von Asylbewerberleistungen: Deutschland, Stichtag, Geschlecht, Staatsangehörigkeit nach Kontinenten",
+  "zeitraum": "31.12.2020 - 31.12.2025",
+  "statistik": "22221",
+  "alle_statistiken": [
+    "22221"
+  ],
+  "stand_genesis": "28.07.2023 13:49:40h",
+  "abgerufen_am": "2026-09-28T17:26:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22221-0034",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22221-0034_flatfile.csv": "b7be1c0e2a428c0957fd9c644b6c20979bb6e0566669069d9663407ae5638803"
+  },
+  "bytes": 5266,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22221/table/22221-0034"
+}

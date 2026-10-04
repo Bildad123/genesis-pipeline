@@ -1,0 +1,28 @@
+{
+  "tabelle": "73111-0004",
+  "titel": "Lohn- und Einkommensteuerpflichtige mit außergewöhnlichen Belastungen: Deutschland, Jahre, Art der außergew. Belast., Grund-/Splittingtabelle, Größenklassen der Einkünfte",
+  "zeitraum": "2007 - 2022",
+  "statistik": "73111",
+  "alle_statistiken": [
+    "73111"
+  ],
+  "stand_genesis": "28.05.2025 10:33:53h",
+  "abgerufen_am": "2026-09-28T20:53:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73111-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73111-0004_flatfile.csv": "969dcd7017c0d2136c0145d0d922ac91b757dbe0445b5cc8c31da2d06b3f1663"
+  },
+  "bytes": 186926,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73111/table/73111-0004"
+}

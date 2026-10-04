@@ -1,0 +1,28 @@
+{
+  "tabelle": "24261-0010",
+  "titel": "Vor dem Finanzgericht erledigte Klagen: Bundesländer, Jahre, Art der Erledigung",
+  "zeitraum": "2018 - 2025",
+  "statistik": "24261",
+  "alle_statistiken": [
+    "24261"
+  ],
+  "stand_genesis": "08.11.2023 10:44:30h",
+  "abgerufen_am": "2026-09-28T18:00:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24261-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24261-0010_flatfile.csv": "4d93d4473db33a99df339d255ce4038385e587b638e01c67c3612bacb11c04fd"
+  },
+  "bytes": 35177,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24261/table/24261-0010"
+}

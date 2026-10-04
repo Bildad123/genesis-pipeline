@@ -1,0 +1,28 @@
+{
+  "tabelle": "32141-0002",
+  "titel": "Bauschuttaufbereitungsanlagen: Deutschland, Jahre, Abfallarten",
+  "zeitraum": "2006 - 2024",
+  "statistik": "32141",
+  "alle_statistiken": [
+    "32141"
+  ],
+  "stand_genesis": "28.12.2022 17:20:43h",
+  "abgerufen_am": "2026-09-28T18:11:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32141-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32141-0002_flatfile.csv": "a847d887cf77a5dd59b48393efe5c223a21bea7673150d9394f81adbc0cc73bc"
+  },
+  "bytes": 144743,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32141/table/32141-0002"
+}

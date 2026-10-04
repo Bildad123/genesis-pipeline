@@ -1,0 +1,28 @@
+{
+  "tabelle": "44111-0003",
+  "titel": "Geleistete Arbeitsstunden, Baugewerblicher Umsatz im Bauhauptgewerbe (alle Betriebe): Bundesländer, Monate (bis 2016), Bauarten",
+  "zeitraum": "Januar 1995 - Juli 2026",
+  "statistik": "44111",
+  "alle_statistiken": [
+    "44111"
+  ],
+  "stand_genesis": "28.12.2022 17:37:43h",
+  "abgerufen_am": "2026-09-28T19:06:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44111-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44111-0003_flatfile.csv": "dedc0512aa9b65a81ec4f17b901ccb4d4b9c8414cc46f65e2700b024e953f216"
+  },
+  "bytes": 772428,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44111/table/44111-0003"
+}

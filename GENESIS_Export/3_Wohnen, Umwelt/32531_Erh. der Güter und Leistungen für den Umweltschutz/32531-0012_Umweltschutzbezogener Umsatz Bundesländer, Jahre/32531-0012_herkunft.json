@@ -1,0 +1,28 @@
+{
+  "tabelle": "32531-0012",
+  "titel": "Umweltschutzbezogener Umsatz: Bundesländer, Jahre, Umweltbereiche",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32531",
+  "alle_statistiken": [
+    "32531"
+  ],
+  "stand_genesis": "24.06.2024 16:54:43h",
+  "abgerufen_am": "2026-09-28T18:18:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32531-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32531-0012_flatfile.csv": "8b340544041b68e03d1a7bbde6635d59b480098aa7538e6e4c30f1e1bb04d164"
+  },
+  "bytes": 30652,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32531/table/32531-0012"
+}

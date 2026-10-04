@@ -1,0 +1,28 @@
+{
+  "tabelle": "21211-0101",
+  "titel": "Auszubildende: Bundesländer, Stichtag, Nationalität, Geschlecht, Ausbildungsbereich",
+  "zeitraum": "31.12.2008 - 31.12.2025",
+  "statistik": "21211",
+  "alle_statistiken": [
+    "21211"
+  ],
+  "stand_genesis": "28.12.2022 19:17:25h",
+  "abgerufen_am": "2026-09-28T17:02:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21211-0101",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21211-0101_flatfile.csv": "24ac99204283a376d95ad74f48b489d8b839d8a6904db61d0dc7e101513ad397"
+  },
+  "bytes": 232711,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21211/table/21211-0101"
+}

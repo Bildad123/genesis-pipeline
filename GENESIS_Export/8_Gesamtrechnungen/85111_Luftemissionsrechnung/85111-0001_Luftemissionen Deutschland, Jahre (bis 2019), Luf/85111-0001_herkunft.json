@@ -1,0 +1,28 @@
+{
+  "tabelle": "85111-0001",
+  "titel": "Luftemissionen: Deutschland, Jahre (bis 2019), Luftemissionsart, Produktionsbereiche",
+  "zeitraum": "1995 - 2019",
+  "statistik": "85111",
+  "alle_statistiken": [
+    "85111"
+  ],
+  "stand_genesis": "11.08.2023 13:47:00h",
+  "abgerufen_am": "2026-09-28T21:13:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85111-0001_flatfile.csv": "a3e0e8bae64cdd84d91e672d1232c651ccdb6803768d1aa2844947e486d0da10"
+  },
+  "bytes": 3526396,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85111/table/85111-0001"
+}

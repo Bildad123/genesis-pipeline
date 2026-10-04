@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0120",
+  "titel": "Öffentlich geförderte Musikschulen, Lehrer, Schüler: Deutschland, Jahre",
+  "zeitraum": "2000 - 2023",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:15:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0120",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0120_flatfile.csv": "ccf290b56c86a25ad2fe8aaca33f73c2747b2bca979dd6bf08e71f56d76c51fd"
+  },
+  "bytes": 10632,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0120"
+}

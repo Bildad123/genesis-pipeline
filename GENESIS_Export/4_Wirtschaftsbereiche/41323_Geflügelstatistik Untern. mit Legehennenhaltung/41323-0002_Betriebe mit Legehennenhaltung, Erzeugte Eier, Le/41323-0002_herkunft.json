@@ -1,0 +1,28 @@
+{
+  "tabelle": "41323-0002",
+  "titel": "Betriebe mit Legehennenhaltung, Erzeugte Eier, Legeleistung: Deutschland, Monate, Haltungsformen",
+  "zeitraum": "Januar 2015 - Juli 2026",
+  "statistik": "41323",
+  "alle_statistiken": [
+    "41323"
+  ],
+  "stand_genesis": "29.12.2022 04:27:09h",
+  "abgerufen_am": "2026-09-28T18:41:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41323-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41323-0002_flatfile.csv": "b0eb91a7ff43f8ed93576c6f9a548958d7109f262be9283f1b215f33f135c2a4"
+  },
+  "bytes": 235843,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41323/table/41323-0002"
+}

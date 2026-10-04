@@ -1,0 +1,28 @@
+{
+  "tabelle": "71321-0001",
+  "titel": "Schulden der öffentlichen Gesamthaushalte: Deutschland, Stichtag (31.12.1992-31.12.2005), Körperschaftsgruppen, Schuldenarten",
+  "zeitraum": "31.12.1992 - 31.12.2005",
+  "statistik": "71321",
+  "alle_statistiken": [
+    "71321"
+  ],
+  "stand_genesis": "28.12.2022 19:08:33h",
+  "abgerufen_am": "2026-09-28T20:50:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71321-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71321-0001_flatfile.csv": "025c003df1a6e853c9dc0629d3564552a1b717a6e754da8723ab24eb4127029f"
+  },
+  "bytes": 60372,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71321/table/71321-0001"
+}

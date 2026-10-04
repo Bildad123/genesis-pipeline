@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-0007",
+  "titel": "EU-SILC - Personen in Hauptwohnsitzhaushalten: Deutschland, Jahre, Nationalität, Armut oder soziale Ausgrenzung",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "21.05.2025 16:12:28h",
+  "abgerufen_am": "2026-09-28T16:36:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-0007_flatfile.csv": "fb396daffacf91b222da33b0e055d2f54b3b69d609d888068db54536a0c38c05"
+  },
+  "bytes": 4492,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-0007"
+}

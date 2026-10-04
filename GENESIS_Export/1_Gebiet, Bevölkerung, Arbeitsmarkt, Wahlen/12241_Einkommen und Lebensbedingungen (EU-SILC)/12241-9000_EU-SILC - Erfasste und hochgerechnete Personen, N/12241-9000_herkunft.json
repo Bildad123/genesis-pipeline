@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-9000",
+  "titel": "EU-SILC - Erfasste und hochgerechnete Personen, Nettoäquivalenzeinkommen, Armutsgefährdungsquote: Deutschland, Jahre (bis 2019), Geschlecht, Altersgruppen",
+  "zeitraum": "2008 - 2019",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "17.04.2024 13:21:44h",
+  "abgerufen_am": "2026-09-28T16:36:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-9000",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-9000_flatfile.csv": "6930c04a79c7ac8c89e5c8794888a60924f1f8204589edc26c7edf029c6f9f0f"
+  },
+  "bytes": 17425,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-9000"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "44131-0001",
+  "titel": "Betriebe, Tätige Personen, Entgelte, Geleistete Arbeitsstunden, Umsatz im Ausbaugewerbe (Betriebe mit 20u.m. tätigen Personen): Deutschland, Quartale, Wirtschaftszweige",
+  "zeitraum": "1. Quartal 2009 - 2. Quartal 2026",
+  "statistik": "44131",
+  "alle_statistiken": [
+    "44131"
+  ],
+  "stand_genesis": "29.12.2022 04:31:30h",
+  "abgerufen_am": "2026-09-28T19:07:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44131-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44131-0001_flatfile.csv": "95ea06c94957a64f2a0811f0217c4b19abd041992c013961e3ca338fe81e1b42"
+  },
+  "bytes": 484597,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44131/table/44131-0001"
+}

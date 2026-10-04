@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0100",
+  "titel": "Unternehmen: Bundesländer, Jahre (bis 2007), Rechtsform, Wirtschaftsabschnitte, Umsatzgrößenklassen",
+  "zeitraum": "2003 - 2007",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:38:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0100_flatfile.csv": "ad1997eeb225688efad028e8bccf8813fd4e44cf32141ccddd7a3fb7d00b5894"
+  },
+  "bytes": 136863,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0100"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12411-0001",
+  "titel": "Bevölkerung: Deutschland, Stichtag",
+  "zeitraum": "31.12.1950 - 31.12.2025",
+  "statistik": "12411",
+  "alle_statistiken": [
+    "12411"
+  ],
+  "stand_genesis": "22.01.2025 17:41:54h",
+  "abgerufen_am": "2026-09-28T16:38:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12411-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12411-0001_flatfile.csv": "b8bafeea9c602e12e3f4553bbbf6187981c916292c308421ef5d381ce5b7cd20"
+  },
+  "bytes": 12062,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "99911-0004",
+  "titel": "Internationale Indikatoren - Wissenschaft, Forschung, IT: Staaten, Jahre",
+  "zeitraum": "1990 - 2024",
+  "statistik": "99911",
+  "alle_statistiken": [
+    "99911"
+  ],
+  "stand_genesis": "28.12.2022 17:27:42h",
+  "abgerufen_am": "2026-09-28T21:16:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "99911-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "99911-0004_flatfile.csv": "85029960a4e9fdc5a51031470f68d066dba518d975922db7739f550f050e6a02"
+  },
+  "bytes": 1913001,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/99911/table/99911-0004"
+}

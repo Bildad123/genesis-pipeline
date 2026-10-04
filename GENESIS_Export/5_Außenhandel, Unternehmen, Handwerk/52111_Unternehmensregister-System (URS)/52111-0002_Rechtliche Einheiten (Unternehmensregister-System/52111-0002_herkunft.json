@@ -1,0 +1,28 @@
+{
+  "tabelle": "52111-0002",
+  "titel": "Rechtliche Einheiten (Unternehmensregister-System): Deutschland, Jahre, Wirtschaftszweige (Abschnitte), Beschäftigtengrößenklassen",
+  "zeitraum": "2019 - 2024",
+  "statistik": "52111",
+  "alle_statistiken": [
+    "52111"
+  ],
+  "stand_genesis": "17.10.2023 12:02:04h",
+  "abgerufen_am": "2026-09-28T20:04:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52111-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52111-0002_flatfile.csv": "66ef3f935cff2ba25746cb9cac59304272ad66aa49365f0ea465c2eb33e02881"
+  },
+  "bytes": 25738,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52111/table/52111-0002"
+}

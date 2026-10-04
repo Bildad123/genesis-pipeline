@@ -1,0 +1,28 @@
+{
+  "tabelle": "41321-0001",
+  "titel": "Brütereien, eingelegte Bruteier, geschlüpfte Küken: Deutschland, Jahre, Geflügelart",
+  "zeitraum": "1991 - 2025",
+  "statistik": "41321",
+  "alle_statistiken": [
+    "41321"
+  ],
+  "stand_genesis": "29.12.2022 04:30:43h",
+  "abgerufen_am": "2026-09-28T18:39:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41321-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41321-0001_flatfile.csv": "8107391e6212405ec587261a3b4bb13a16aa40b20facf7354cf9011129768673"
+  },
+  "bytes": 14150,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41321/table/41321-0001"
+}

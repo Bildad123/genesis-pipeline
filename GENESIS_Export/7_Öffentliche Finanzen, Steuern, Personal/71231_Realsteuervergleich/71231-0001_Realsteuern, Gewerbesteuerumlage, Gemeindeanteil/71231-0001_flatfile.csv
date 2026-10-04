@@ -1,0 +1,326 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2642108;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;348901;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;9316965;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2374123;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;3094657;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;393227;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119509;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;12531368;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;42293443;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;12313755;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;41090178;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2749389;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119149;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;11321650;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;8263495;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;75111796;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;27024729;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;8914451;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;352093;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;55373305;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2391375;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;392591;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119970;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;11471033;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;40452130;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;40113541;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;11986893;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2794752;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;120172;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;7347492;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;70238498;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;43789122;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;8738165;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;15649506;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;340323;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;10586897;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2589425;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;359955;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;3056872;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;404338;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;118392;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;11040168;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;23487154;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;11606774;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;118631;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2953637;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119446;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;410779;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2703046;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;6231826;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;43037559;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;8516048;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;15059643;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;347375;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;3054053;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;10446563;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2610904;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2320759;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;402552;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119650;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;10899548;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;75283858;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;11305907;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;32449960;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;118422;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;14033412;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2728897;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119700;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;408940;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;6084594;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;24533929;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;14864771;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;354655;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;50103431;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119696;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;332222;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;10359224;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2523712;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;373222;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2983989;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;10760700;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119164;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;10956121;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;28544204;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;13796175;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2887330;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119879;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;8377206;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;415269;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;117726;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;6377112;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;18415784;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;14572370;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;45738206;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;10042628;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;336623;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2550756;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;118691;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;13732647;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;3031012;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;366612;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;10314960;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119652;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;405717;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;24127772;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;13557500;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2920900;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;10596398;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2674375;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;412166;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119409;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;6953733;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;18469947;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;116885;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119816;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;14265458;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;353894;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;55844093;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;9896028;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2447359;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;13889533;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;382010;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119889;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;9155361;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;35737207;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;38357008;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2820045;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;13257611;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;10322466;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;118724;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;17432531;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;117961;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;61114076;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119499;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;354644;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;52869270;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;9590799;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2491749;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;331506;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;13156925;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;377474;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119524;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;32128927;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;12818354;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;2855810;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;9809916;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;119558;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;426833;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;15152742;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;GRUNDBETRAG;Grundbetrag;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;STRAK1;Realsteueraufkommen;ISTAUFKOMMEN;Istaufkommen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;45303845;Tsd. EUR;STR030;Realsteuern
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;36330856;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;70696045;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8007795;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;860,30;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;4834259;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;35125277;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;67298766;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;7341123;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;826,09;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;4698987;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;32960758;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;63692377;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;7000788;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;787,05;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;4047891;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;31036106;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;61219898;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6988644;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;759,69;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3934707;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;28914886;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;58633968;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;7023871;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;729,28;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3894719;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;26724494;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;55434673;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6752855;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;677,95;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3783862;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;24907246;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;51219496;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6000399;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;626,53;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3592607;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;43232903;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;84176377;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8086373;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;1013,33;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8281947;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;41053700;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;80585831;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8996000;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;972,23;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;7455913;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;39217309;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;75878986;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8548609;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;918,92;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6039212;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;20187702;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;41101060;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;5755113;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;498,20;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;2850760;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;20096543;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;42923466;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6254422;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;520,49;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;2907810;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;21969610;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;39270091;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6016800;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;476,15;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;2868703;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;50833642;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;105378267;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6595650;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;1261,85;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8389707;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;21554546;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;38406387;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6927587;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;465,43;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;2845941;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;23044973;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;42996654;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;5449984;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;523,18;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;2928805;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;48212792;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;102857732;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6389452;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;1217,46;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8235618;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;45891655;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;98014011;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6217248;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;1169,43;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;8126939;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;22275477;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;40733255;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;5567262;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;494,73;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;2882896;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;44549562;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;92901480;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;5212067;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;1117,42;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;9103845;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;41137833;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;81051778;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3919554;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;975,08;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;9049461;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;27793265;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;57080296;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6417449;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;695,03;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3514916;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;25724303;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;50851520;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;5112187;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;621,19;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3532863;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;21898229;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;48503578;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;6527515;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;588,84;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3036023;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;24908083;Tsd. EUR;STEU08;Gemeindeanteil an der Einkommensteuer
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;52529431;Tsd. EUR;STEU10;Gemeindliche Steuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;7072580;Tsd. EUR;STEU09;Gewerbesteuerumlage
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;638,57;EUR;STEU11;Gemeindliche Steuerkraft je Einwohner
+71231;Realsteuervergleich;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;;;;;;;;;3234187;Tsd. EUR;STEU12;Gemeindeanteil an der Umsatzsteuer

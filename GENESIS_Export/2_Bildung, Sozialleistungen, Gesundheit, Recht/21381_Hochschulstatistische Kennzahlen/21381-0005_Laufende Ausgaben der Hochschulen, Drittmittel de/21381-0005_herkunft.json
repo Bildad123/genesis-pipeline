@@ -1,0 +1,28 @@
+{
+  "tabelle": "21381-0005",
+  "titel": "Laufende Ausgaben der Hochschulen, Drittmittel der Hochschulen: Deutschland, Jahre, Fächergruppen",
+  "zeitraum": "2011 - 2024",
+  "statistik": "21381",
+  "alle_statistiken": [
+    "21381"
+  ],
+  "stand_genesis": "28.12.2022 17:01:59h",
+  "abgerufen_am": "2026-09-28T17:08:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21381-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21381-0005_flatfile.csv": "3e820c9bf8d70b48ff80eedadf361ee7ac4838b77e63c097002f14468729c3db"
+  },
+  "bytes": 144129,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21381/table/21381-0005"
+}

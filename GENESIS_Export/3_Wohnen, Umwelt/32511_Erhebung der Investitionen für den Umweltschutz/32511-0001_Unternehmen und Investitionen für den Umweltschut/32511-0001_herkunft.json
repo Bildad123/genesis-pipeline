@@ -1,0 +1,28 @@
+{
+  "tabelle": "32511-0001",
+  "titel": "Unternehmen und Investitionen für den Umweltschutz: Deutschland, Jahre (bis 2017), Umsatz-/ Beschäftigtengrößenklassen, Wirtschaftszweige",
+  "zeitraum": "2008 - 2017",
+  "statistik": "32511",
+  "alle_statistiken": [
+    "32511"
+  ],
+  "stand_genesis": "06.05.2024 15:04:14h",
+  "abgerufen_am": "2026-09-28T18:17:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32511-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32511-0001_flatfile.csv": "f72993b016d1d29e7907cc69fef5b0916ff116053f2efc3cd82e16eac708c143"
+  },
+  "bytes": 448111,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32511/table/32511-0001"
+}

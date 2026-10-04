@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T16:48:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12521-0042",
+    "Content": "Ausländer: Kreise, Stichtag, Geschlecht, Aufenthaltstitel,\nLändergruppierungen",
+    "Time": {
+      "From": "31.12.1998",
+      "To": "31.12.2019"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12521",
+        "Content": "Ausländerstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "BEV027",
+            "Content": "Ausländer",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "KREISE",
+                "Content": "Kreise",
+                "Type": "Merkmal",
+                "Values": "477",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "LDRGR1",
+          "Content": "Ländergruppierungen",
+          "Type": "Merkmal",
+          "Values": "40",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "RECGL2",
+          "Content": "Aufenthaltstitel",
+          "Type": "Merkmal",
+          "Values": "195",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "30.07.2026 15:45:26h"
+  }
+}

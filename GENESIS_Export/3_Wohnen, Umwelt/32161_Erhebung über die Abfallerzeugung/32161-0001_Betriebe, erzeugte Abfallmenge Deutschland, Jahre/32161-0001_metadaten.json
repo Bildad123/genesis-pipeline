@@ -1,0 +1,83 @@
+{
+  "abgerufen_am": "2026-09-28T18:11:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32161-0001",
+    "Content": "Betriebe, erzeugte Abfallmenge: Deutschland, Jahre,\nAbfallarten",
+    "Time": {
+      "From": "2010",
+      "To": "2022"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "32161",
+        "Content": "Erhebung über die Abfallerzeugung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BETR01",
+          "Content": "Betriebe",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ABF014",
+          "Content": "Erzeugte Abfallmenge",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "EAVXB6",
+          "Content": "Abfallarten (EAV 6- und 8-Steller)",
+          "Type": "Merkmal",
+          "Values": "892",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "02.09.2024 12:00:24h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "73311-0010",
+  "titel": "Umsatzsteuerpflichtige, Steuerbarer Umsatz, Umsatzsteuer (Voranmeldungen): Bundesländer, Jahre",
+  "zeitraum": "2002 - 2024",
+  "statistik": "73311",
+  "alle_statistiken": [
+    "73311"
+  ],
+  "stand_genesis": "18.09.2023 11:52:44h",
+  "abgerufen_am": "2026-09-28T20:55:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73311-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73311-0010_flatfile.csv": "12bc5e0dea43254808c288cc3335047c05278e6f3f5c14f1f105b2ee8beabc61"
+  },
+  "bytes": 17162,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73311/table/73311-0010"
+}

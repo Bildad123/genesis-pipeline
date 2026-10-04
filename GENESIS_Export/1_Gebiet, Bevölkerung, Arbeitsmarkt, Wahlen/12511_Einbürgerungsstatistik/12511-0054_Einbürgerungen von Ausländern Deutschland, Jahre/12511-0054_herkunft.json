@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0054",
+  "titel": "Einbürgerungen von Ausländern: Deutschland, Jahre (bis 2023), Ländergruppierungen/Staatsangehörigkeit, Geschlecht, Einbürgerungsart, Rechtsgrundlagen",
+  "zeitraum": "2000 - 2023",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "29.04.2026 13:39:32h",
+  "abgerufen_am": "2026-09-28T16:43:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0054",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0054_flatfile.csv": "14fd1e79f3891a92e8a34e4a3165d982c29cd0515b82fe0f99a974f7378de28b"
+  },
+  "bytes": 3143998,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0054"
+}

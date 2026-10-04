@@ -1,0 +1,28 @@
+{
+  "tabelle": "22611-0002",
+  "titel": "Durchschnittlicher monatlicher Rentenzahlbetrag in der gesetzlichen Rentenversicherung: Deutschland, Stichtag, Rentenart, Geschlecht",
+  "zeitraum": "01.07.2005 - 01.07.2023",
+  "statistik": "22611",
+  "alle_statistiken": [
+    "22611"
+  ],
+  "stand_genesis": "28.12.2022 19:05:37h",
+  "abgerufen_am": "2026-09-28T17:40:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22611-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22611-0002_flatfile.csv": "6ccab91d720710fe807b676d28c9fbdcc235d5cdb5e76b54bd96e98240e6a9ad"
+  },
+  "bytes": 23901,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22611/table/22611-0002"
+}

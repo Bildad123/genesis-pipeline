@@ -1,0 +1,28 @@
+{
+  "tabelle": "21521-0005",
+  "titel": "Qualifikationen mit den meisten Lehrstunden in Unternehmen: Deutschland, Jahre, Qualifikationsbereiche, Wirtschaftsbereiche",
+  "zeitraum": "2015 - 2020",
+  "statistik": "21521",
+  "alle_statistiken": [
+    "21521"
+  ],
+  "stand_genesis": "28.12.2022 19:41:18h",
+  "abgerufen_am": "2026-09-28T17:13:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21521-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21521-0005_flatfile.csv": "77862f40012ac7b80c58106a863c133d6d4fab72bde638b8edd0b1a66c3d1817"
+  },
+  "bytes": 88559,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21521/table/21521-0005"
+}

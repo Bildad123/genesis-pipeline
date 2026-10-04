@@ -1,0 +1,28 @@
+{
+  "tabelle": "13111-0004",
+  "titel": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort: Deutschland, Stichtag, Geschlecht, Beschäftigungsumfang, Wirtschaftsabschnitte",
+  "zeitraum": "31.03.2008 - 31.12.2025",
+  "statistik": "13111",
+  "alle_statistiken": [
+    "13111"
+  ],
+  "stand_genesis": "28.12.2022 17:14:03h",
+  "abgerufen_am": "2026-09-28T16:56:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13111-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13111-0004_flatfile.csv": "0c2d7b0009d81ba762dd4cb5ca33763b19ce87b96b1f24c594a9b1d5342080a3"
+  },
+  "bytes": 580455,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13111/table/13111-0004"
+}

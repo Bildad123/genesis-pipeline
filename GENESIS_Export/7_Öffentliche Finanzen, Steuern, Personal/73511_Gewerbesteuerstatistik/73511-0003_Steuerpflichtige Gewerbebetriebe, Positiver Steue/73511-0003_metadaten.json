@@ -1,0 +1,104 @@
+{
+  "abgerufen_am": "2026-09-28T20:59:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "73511-0003",
+    "Content": "Steuerpflichtige Gewerbebetriebe, Positiver\nSteuermessbetrag, Abgerundeter Gewerbeertrag: Deutschland,\nJahre, Rechtsformgruppen, Gewerbeertragsgrößenklassen",
+    "Time": {
+      "From": "2010",
+      "To": "2021"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "73511",
+        "Content": "Gewerbesteuerstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STP022",
+          "Content": "Steuerpflichtige Gewerbebetriebe",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "STEU21",
+          "Content": "Positiver Steuermessbetrag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "STEU22",
+          "Content": "Abgerundeter Gewerbeertrag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "RECFG1",
+          "Content": "Rechtsformgruppen",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GEWGK2",
+              "Content": "Gewerbeertragsgrößenklassen",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "29.12.2022 08:06:41h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22411-0014",
+  "titel": "Personal in ambulanten Pflegeeinrichtungen: Bundesländer, Stichtag, Geschlecht, Überwiegender Tätigkeitsbereich",
+  "zeitraum": "15.12.1999 - 15.12.2023",
+  "statistik": "22411",
+  "alle_statistiken": [
+    "22411"
+  ],
+  "stand_genesis": "28.12.2022 17:35:38h",
+  "abgerufen_am": "2026-09-28T17:29:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22411-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22411-0014_flatfile.csv": "a8c12be12297318f65a9ec8a91592441a165fab8ffc34d8f26453280f09ae213"
+  },
+  "bytes": 87110,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22411/table/22411-0014"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "46131-0003",
+  "titel": "Beförderte Güter, Beförderungsleistung (Eisenbahngüterverkehr): Deutschland, Jahre, Hauptverkehrsbeziehungen",
+  "zeitraum": "2005 - 2025",
+  "statistik": "46131",
+  "alle_statistiken": [
+    "46131"
+  ],
+  "stand_genesis": "28.12.2022 17:38:40h",
+  "abgerufen_am": "2026-09-28T19:17:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46131-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46131-0003_flatfile.csv": "ee282e16f371f0a009fa05852f769cf231029a39c0bdfa4e9cf65a13bfa2e214"
+  },
+  "bytes": 44493,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46131/table/46131-0003"
+}

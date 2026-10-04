@@ -1,0 +1,28 @@
+{
+  "tabelle": "21821-0001",
+  "titel": "Interne Ausgaben und Personal für Forschung und Entwicklung: Deutschland, Jahre, Sektoren",
+  "zeitraum": "1995 - 2024",
+  "statistik": "21821",
+  "alle_statistiken": [
+    "21821"
+  ],
+  "stand_genesis": "13.08.2026 16:24:06h",
+  "abgerufen_am": "2026-09-28T17:17:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21821-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21821-0001_flatfile.csv": "d9529803fc68da89d7abe319ee0ba6b3006879cca0f9b0b8626a290e9c9f2259"
+  },
+  "bytes": 98122,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21821/table/21821-0001"
+}

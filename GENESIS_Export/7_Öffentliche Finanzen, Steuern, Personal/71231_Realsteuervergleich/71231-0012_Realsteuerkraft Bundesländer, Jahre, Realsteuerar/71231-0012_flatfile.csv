@@ -1,0 +1,65 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;713473;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;1437087;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;249686;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;314180;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;1010438;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;9606;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;1836107;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;62;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;774406;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;12987;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;547749;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;122209;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;225658;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;92947;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;8833177;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;43628;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;2034977;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;33097;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;1440454;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;12215;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;10350;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;9235345;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;29828;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;3751240;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;64830;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;538075;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;880;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;194516;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;983229;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;8325;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;1137169;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;8470;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;347919;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;649448;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;7282;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;1540051;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;218843;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;115941;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;72939;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;START8;Realsteuerart;STEUERARTK20;Grundsteuer B;144728;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;7205067;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;24431;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;4515867;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;START8;Realsteuerart;STEUERARTK21;Grundsteuer C;-;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;559;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;10473;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;507561;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;START8;Realsteuerart;STEUERARTK10;Grundsteuer A;138;Tsd. EUR;STR031;Realsteuerkraft
+71231;Realsteuervergleich;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;START8;Realsteuerart;STEUERARTK302;Gewerbesteuer;1682922;Tsd. EUR;STR031;Realsteuerkraft

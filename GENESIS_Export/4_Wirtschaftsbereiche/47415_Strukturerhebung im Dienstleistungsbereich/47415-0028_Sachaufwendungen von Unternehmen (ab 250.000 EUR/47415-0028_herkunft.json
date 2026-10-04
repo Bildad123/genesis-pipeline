@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0028",
+  "titel": "Sachaufwendungen von Unternehmen (ab 250.000 EUR Umsatz): Deutschland, Jahre, Art der Sachaufwendungen, Wirtschafts- abschnitte, Größenklassen (Umsatz / tätige Personen)",
+  "zeitraum": "2008 - 2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:37:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0028",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0028_flatfile.csv": "7e31da041c4f9e9ccaa7341f40ede0769314868843f4fd6336e3b9f76b324711"
+  },
+  "bytes": 21437,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0028"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0007",
+  "titel": "Index der durchschnittlichen Bruttoverdienste: Deutschland, Monate, Wirtschaftszweige",
+  "zeitraum": "Januar 2022 - Juli 2026",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "25.05.2023 12:14:35h",
+  "abgerufen_am": "2026-09-28T20:39:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0007_flatfile.csv": "317e0112c035764060168ab629aab774a9ccd4be12ed3e82d2c7ae7162ea67d4"
+  },
+  "bytes": 731712,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0007"
+}

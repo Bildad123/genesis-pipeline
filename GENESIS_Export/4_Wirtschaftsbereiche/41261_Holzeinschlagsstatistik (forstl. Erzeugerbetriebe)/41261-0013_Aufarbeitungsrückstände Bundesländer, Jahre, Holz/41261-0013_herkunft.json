@@ -1,0 +1,28 @@
+{
+  "tabelle": "41261-0013",
+  "titel": "Aufarbeitungsrückstände: Bundesländer, Jahre, Holzartengruppen",
+  "zeitraum": "2014 - 2025",
+  "statistik": "41261",
+  "alle_statistiken": [
+    "41261"
+  ],
+  "stand_genesis": "29.12.2022 08:02:03h",
+  "abgerufen_am": "2026-09-28T18:36:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41261-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41261-0013_flatfile.csv": "c12fde7f3a152663fdd489fd601f6138ffe2ca955366f0091ae9bb10ac6eff6c"
+  },
+  "bytes": 17353,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41261/table/41261-0013"
+}

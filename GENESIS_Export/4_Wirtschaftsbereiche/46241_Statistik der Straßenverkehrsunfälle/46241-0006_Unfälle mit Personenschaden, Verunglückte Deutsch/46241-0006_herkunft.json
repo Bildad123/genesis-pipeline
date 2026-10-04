@@ -1,0 +1,28 @@
+{
+  "tabelle": "46241-0006",
+  "titel": "Unfälle mit Personenschaden, Verunglückte: Deutschland, Monate, Unfalltyp/Unfallart, Ortslage, Schwere der Verletzung",
+  "zeitraum": "Januar 2011 - Juni 2026",
+  "statistik": "46241",
+  "alle_statistiken": [
+    "46241"
+  ],
+  "stand_genesis": "28.12.2022 17:06:48h",
+  "abgerufen_am": "2026-09-28T19:22:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46241-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46241-0006_flatfile.csv": "0595706513238afa051924ca6534d65f0e526c73925a6ce515b8c597cb5ff829"
+  },
+  "bytes": 1873260,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46241/table/46241-0006"
+}

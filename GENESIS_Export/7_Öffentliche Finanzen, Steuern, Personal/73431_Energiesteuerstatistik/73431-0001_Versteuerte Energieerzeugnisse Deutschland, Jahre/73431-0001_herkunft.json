@@ -1,0 +1,28 @@
+{
+  "tabelle": "73431-0001",
+  "titel": "Versteuerte Energieerzeugnisse: Deutschland, Jahre",
+  "zeitraum": "2007 - 2025",
+  "statistik": "73431",
+  "alle_statistiken": [
+    "73431"
+  ],
+  "stand_genesis": "28.03.2023 13:26:50h",
+  "abgerufen_am": "2026-09-28T20:58:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73431-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73431-0001_flatfile.csv": "9b3cc65130e7ef96e1a3f94259a3d237048edbc16d02fd18fb0717fa033aa02d"
+  },
+  "bytes": 16702,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73431/table/73431-0001"
+}

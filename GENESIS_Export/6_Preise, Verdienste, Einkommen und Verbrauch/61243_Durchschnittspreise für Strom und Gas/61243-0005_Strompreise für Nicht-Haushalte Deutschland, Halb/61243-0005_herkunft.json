@@ -1,0 +1,28 @@
+{
+  "tabelle": "61243-0005",
+  "titel": "Strompreise für Nicht-Haushalte: Deutschland, Halbjahre, Jahresverbrauchsklassen, Preisarten",
+  "zeitraum": "2. Halbjahr 2019 - 2. Halbjahr 2025",
+  "statistik": "61243",
+  "alle_statistiken": [
+    "61243"
+  ],
+  "stand_genesis": "28.12.2022 17:20:59h",
+  "abgerufen_am": "2026-09-28T20:23:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61243-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61243-0005_flatfile.csv": "c5dc9111b60db27882f00d0ac82143d4e8a885e1d9000867083ec38c5aafe205"
+  },
+  "bytes": 17778,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61243/table/61243-0005"
+}

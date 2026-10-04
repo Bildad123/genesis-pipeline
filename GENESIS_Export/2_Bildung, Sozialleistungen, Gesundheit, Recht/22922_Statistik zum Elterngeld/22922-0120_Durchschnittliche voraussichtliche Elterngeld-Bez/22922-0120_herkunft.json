@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0120",
+  "titel": "Durchschnittliche voraussichtliche Elterngeld-Bezugsdauer: Bundesländer, Quartale, Geschlecht, Art der Inanspruchnahme",
+  "zeitraum": "1. Quartal 2017 - 2. Quartal 2026",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:45:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0120",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0120_flatfile.csv": "17482993d300960d8ffd616325f575ac80c08839922564599702557ced7d9efb"
+  },
+  "bytes": 1542954,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0120"
+}

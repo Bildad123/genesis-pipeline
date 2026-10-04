@@ -1,0 +1,28 @@
+{
+  "tabelle": "21352-0005",
+  "titel": "Durchschnittsalter der Promovierenden: Deutschland, Stichtag, Geschlecht, Fächergruppen",
+  "zeitraum": "01.12.2025 - 01.12.2025",
+  "statistik": "21352",
+  "alle_statistiken": [
+    "21352"
+  ],
+  "stand_genesis": "21.08.2026 16:30:05h",
+  "abgerufen_am": "2026-09-28T17:07:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21352-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21352-0005_flatfile.csv": "1f6190129a733be6569e836300ee8fa2cc321778ed05eb5084bf1782c4c182c2"
+  },
+  "bytes": 8708,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21352/table/21352-0005"
+}

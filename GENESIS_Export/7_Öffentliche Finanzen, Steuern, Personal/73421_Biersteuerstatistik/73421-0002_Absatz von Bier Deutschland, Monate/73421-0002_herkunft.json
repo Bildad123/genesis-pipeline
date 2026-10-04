@@ -1,0 +1,28 @@
+{
+  "tabelle": "73421-0002",
+  "titel": "Absatz von Bier: Deutschland, Monate",
+  "zeitraum": "Januar 1993 - Juli 2026",
+  "statistik": "73421",
+  "alle_statistiken": [
+    "73421"
+  ],
+  "stand_genesis": "29.12.2022 08:06:37h",
+  "abgerufen_am": "2026-09-28T20:58:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73421-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73421-0002_flatfile.csv": "20c50e4ec80ea4638696d0add9a72e0e99703313fe3a1b74245e97edcb417c6a"
+  },
+  "bytes": 26819,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73421/table/73421-0002"
+}

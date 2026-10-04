@@ -1,0 +1,28 @@
+{
+  "tabelle": "21111-0005",
+  "titel": "Wiederholer: Deutschland, Schuljahr, Geschlecht, Schulart, Jahrgangsstufen",
+  "zeitraum": "1998/99 - 2024/25",
+  "statistik": "21111",
+  "alle_statistiken": [
+    "21111"
+  ],
+  "stand_genesis": "24.11.2023 14:52:58h",
+  "abgerufen_am": "2026-09-28T17:00:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21111-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21111-0005_flatfile.csv": "51db319cefdbad01d1edf7c7bf61dcff5f4b570ef10646d9264af4a26df87bd8"
+  },
+  "bytes": 291954,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21111/table/21111-0005"
+}

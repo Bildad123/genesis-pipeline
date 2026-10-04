@@ -1,0 +1,28 @@
+{
+  "tabelle": "21111-0006",
+  "titel": "Schüler mit Fremdsprachen-Unterricht: Deutschland, Schuljahr, Fremdsprachen, Schulart, Jahrgangsstufen",
+  "zeitraum": "1998/99 - 2024/25",
+  "statistik": "21111",
+  "alle_statistiken": [
+    "21111"
+  ],
+  "stand_genesis": "24.11.2023 14:55:11h",
+  "abgerufen_am": "2026-09-28T17:00:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21111-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21111-0006_flatfile.csv": "0c32b5b64c1a14a13716c03076b0a234bea6d2e434e714ffaa035cf39196ea27"
+  },
+  "bytes": 554013,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21111/table/21111-0006"
+}

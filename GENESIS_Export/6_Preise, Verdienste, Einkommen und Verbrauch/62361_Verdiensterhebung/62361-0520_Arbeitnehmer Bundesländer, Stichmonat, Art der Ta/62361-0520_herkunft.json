@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0520",
+  "titel": "Arbeitnehmer: Bundesländer, Stichmonat, Art der Tarifbindung, Wirtschaftszweige",
+  "zeitraum": "04/2022 - 04/2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "25.05.2023 17:09:25h",
+  "abgerufen_am": "2026-09-28T20:43:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0520",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0520_flatfile.csv": "e5fddf6b2ff8ea50769f1185c148c7033ce60326cff471948b9aeaac42124ee0"
+  },
+  "bytes": 2683412,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0520"
+}

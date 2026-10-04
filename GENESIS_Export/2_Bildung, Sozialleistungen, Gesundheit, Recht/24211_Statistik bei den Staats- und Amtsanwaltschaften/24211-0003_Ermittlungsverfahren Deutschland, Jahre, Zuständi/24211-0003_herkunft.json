@@ -1,0 +1,28 @@
+{
+  "tabelle": "24211-0003",
+  "titel": "Ermittlungsverfahren: Deutschland, Jahre, Zuständigkeit, Stand der Erledigung",
+  "zeitraum": "2018 - 2024",
+  "statistik": "24211",
+  "alle_statistiken": [
+    "24211"
+  ],
+  "stand_genesis": "23.03.2023 12:09:31h",
+  "abgerufen_am": "2026-09-28T17:58:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24211-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24211-0003_flatfile.csv": "2f120e5716ce8cfb5aaab371f5df2ea1372626fe56552e21da10e1b0299bd8e5"
+  },
+  "bytes": 20468,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24211/table/24211-0003"
+}

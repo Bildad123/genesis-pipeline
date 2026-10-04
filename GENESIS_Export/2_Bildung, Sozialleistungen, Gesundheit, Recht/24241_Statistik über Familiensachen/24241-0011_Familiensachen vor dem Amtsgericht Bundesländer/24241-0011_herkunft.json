@@ -1,0 +1,28 @@
+{
+  "tabelle": "24241-0011",
+  "titel": "Familiensachen vor dem Amtsgericht: Bundesländer, Jahre, Stand der Erledigung",
+  "zeitraum": "2014 - 2024",
+  "statistik": "24241",
+  "alle_statistiken": [
+    "24241"
+  ],
+  "stand_genesis": "24.10.2023 13:30:09h",
+  "abgerufen_am": "2026-09-28T17:59:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24241-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24241-0011_flatfile.csv": "4c3809228b27996e827af4d9f33d330d3098862f911ce77ac54ee543c09f4c93"
+  },
+  "bytes": 17990,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24241/table/24241-0011"
+}

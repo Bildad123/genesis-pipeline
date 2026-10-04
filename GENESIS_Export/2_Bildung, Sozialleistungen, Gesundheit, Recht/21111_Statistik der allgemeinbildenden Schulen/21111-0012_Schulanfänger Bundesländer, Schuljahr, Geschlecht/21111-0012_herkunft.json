@@ -1,0 +1,28 @@
+{
+  "tabelle": "21111-0012",
+  "titel": "Schulanfänger: Bundesländer, Schuljahr, Geschlecht, Schulart, Einschulungsart",
+  "zeitraum": "1999/00 - 2024/25",
+  "statistik": "21111",
+  "alle_statistiken": [
+    "21111"
+  ],
+  "stand_genesis": "28.12.2022 17:08:11h",
+  "abgerufen_am": "2026-09-28T17:00:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21111-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21111-0012_flatfile.csv": "2221dde07f2ed4423aab5a0302fe2e38d3eb0fd412f26881dae6d6464b19634d"
+  },
+  "bytes": 808201,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21111/table/21111-0012"
+}

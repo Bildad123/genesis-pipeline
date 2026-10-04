@@ -1,0 +1,28 @@
+{
+  "tabelle": "22517-0001",
+  "titel": "Erzieherische Hilfen/Beratungen: Deutschland, Jahre, Geschlecht, Altersjahre, Art der Hilfe",
+  "zeitraum": "2008 - 2017",
+  "statistik": "22517",
+  "alle_statistiken": [
+    "22517"
+  ],
+  "stand_genesis": "28.12.2022 19:22:07h",
+  "abgerufen_am": "2026-09-28T17:31:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22517-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22517-0001_flatfile.csv": "217d3ee9ed69f2f4a975ffedb6990706bdc56c3f039f9229656bea001968e030"
+  },
+  "bytes": 511035,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22517/table/22517-0001"
+}

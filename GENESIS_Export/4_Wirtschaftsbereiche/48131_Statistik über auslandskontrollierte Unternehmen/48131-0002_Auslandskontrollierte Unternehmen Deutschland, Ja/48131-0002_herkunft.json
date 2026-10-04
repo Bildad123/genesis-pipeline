@@ -1,0 +1,28 @@
+{
+  "tabelle": "48131-0002",
+  "titel": "Auslandskontrollierte Unternehmen: Deutschland, Jahre, Wirtschaftszweige (WZ2008 1-2-Steller)",
+  "zeitraum": "2009 - 2024",
+  "statistik": "48131",
+  "alle_statistiken": [
+    "48131"
+  ],
+  "stand_genesis": "03.01.2024 17:31:33h",
+  "abgerufen_am": "2026-09-28T19:41:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "48131-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "48131-0002_flatfile.csv": "1b49662fe1e3faae6c093312170f8f3b98eb727612074fc1bb3653ba101b6dfe"
+  },
+  "bytes": 145130,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/48131/table/48131-0002"
+}

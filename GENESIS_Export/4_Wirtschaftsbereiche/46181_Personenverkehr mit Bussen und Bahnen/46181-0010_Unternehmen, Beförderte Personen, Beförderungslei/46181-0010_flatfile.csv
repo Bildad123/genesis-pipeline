@@ -1,0 +1,481 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;2237067;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;15059672;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;32;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;710247056;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;251554755;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;14621826;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;10791148;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;1270000000;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;418251054;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;2788787;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;23233877;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;167;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1117862456;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;689275632;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;601456946;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;277904612;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;109;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;37988332775;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;7394063845;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;170000;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;750000;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;45000000;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;2760000;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;10865000;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1658413;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;413100000;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;78879673;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;294178964;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;230218875;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;91;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;20352102181;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;3892068780;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;262022188;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;28629416;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;7;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;6053000164;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1046003466;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;78507273;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;72196578;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;18;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;4536666565;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;1134871291;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;27431;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;70224;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1749826;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1490323;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;469600747;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;104259298;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;14;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;8822548936;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;1662348616;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1484268;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;18055176;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;126;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;857486364;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;586732001;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;90339879;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;47771915;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;10;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;18688857512;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;3549477503;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;175657817;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;61314642;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;9;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;19153932989;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;5836654257;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;31118944;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;15007515;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;5;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;4609583495;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;649872520;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;459569628;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;165075593;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;44;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;16862616618;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;2956846571;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;593243853;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;356704192;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;195;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;32180717603;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;4581482907;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;347765;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;3837281;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;18;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;191191851;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;122682504;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;259363811;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;12831108;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;8845447881;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1394550491;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;59644219;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;17331422;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;1707095521;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;280443651;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;274377464;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;21747376;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;4;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;6674666397;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1169265249;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;73182243;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;35115283;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;15;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;3107425761;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;628859934;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;21720;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1002180;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;4;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;53570930;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;34077070;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;11888325;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;98795746;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;719;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;4816920745;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;3227064408;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1382824;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;10172698;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;70;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;478261697;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;288945011;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;27599621;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;19599131;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;4;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;2750740016;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;1106062312;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;8489069;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;83288860;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;423;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;3621993401;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1940019958;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;839920509;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;220379103;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;12;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;29434321212;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;5644739306;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;461742224;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;38240030;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;11398431980;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;4580775809;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;2010218522;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;572425109;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;117;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;141892918938;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;39700013385;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;780293000;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;42535398;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;16850776966;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;3216467000;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;10963362;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;84380908;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;6305418901;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;3391849322;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;95249803;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;72678771;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;36;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;4917210315;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;675139180;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;94244982;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;10956350;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;5;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1460718406;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;487030565;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;107055;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;2655858;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;185910060;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;6262494;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;114877593;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;92492141;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;38;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;6779589820;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;1870152898;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;168506191;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;46998766;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;9;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;16350295402;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;2768918614;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;791085;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;7202927;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;51;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;347457822;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;251971771;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;164585076;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;89578837;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;18;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;12952986943;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;2912987103;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;77670;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;575721;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;3;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;22189503;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;9969569;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;737059535;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;420680261;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;671;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;32173712762;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;5285196578;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;177351635;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;16130056;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;4955462000;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;673792408;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1339491;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;3350208;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;12;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;158484287;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;56904681;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;1469477922;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;572928687;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;188;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;48276297995;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;9482587753;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;12169208;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;2308212;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;375938362;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;62837754;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;87374344;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;59102908;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;27;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;5101162607;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;871664793;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;5434490;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;55012699;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;355;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;2652505027;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1866805133;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;1414608859;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;504040868;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;681;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;68391583321;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;11834527581;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;9949075;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;5210093;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;7;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;726434438;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;228846966;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;25605;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;338984;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;8;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;20156285;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;14126644;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;3200;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;384500;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;32345270;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;8054118;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;118493287;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;74110423;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;31;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;9710746102;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;1521537313;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;47184637;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;6263427;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;6;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;961366612;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;159069614;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;2240729171;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;701816766;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;197;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;85850649201;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;18499860796;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;61271226;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;7871911;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;5;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1415305534;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;219319060;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;88161400;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;65499344;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;16;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;5218808769;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;827207602;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;804082;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;7096795;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;111;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;333299376;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;210931125;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;27676896;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;12180177;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;4;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;4133043543;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;892954250;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1583423;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;14025337;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;88;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;666131248;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;411158373;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;102182389;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;39430667;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;8;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;15136229431;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;3838710690;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;154566159;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;99505568;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;41;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;7785956432;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;2031982512;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;163135346;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;91341830;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;39;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;7602515849;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;1312709294;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;61938977;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;7633947;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1769444000;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;309783416;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;9875;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;179580;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;8979000;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;718320;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;327995731;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;167432625;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;108;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;11925998316;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;2109086369;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;380562276;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;38217693;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;7;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;9894318830;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;1514227828;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;436955400;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;193834847;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;11;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;14999276331;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;2311531815;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;64528485;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;33456870;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;15;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;2694325761;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;549980261;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;4237969;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;35113224;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;153;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1641460708;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;928338269;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;1111389906;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;441920651;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;204;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;58425331835;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;8864629349;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;2772694;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;27627195;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;108;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;1372709608;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;539367759;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;41358897;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;19217990;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;6918118573;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;1918538132;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;10568;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;222397;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;11564644;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;2990744;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;121583195;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;24965369;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;3476539521;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;590227067;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;42821041;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;4861503;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;2;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;816059601;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;167241369;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;216767302;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;131236084;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;37;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;10083182016;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;1681996139;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;1421507881;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;383245108;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;7;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;123292254225;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;36421661767;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;946075;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;10788851;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;44;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;504395180;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;250286488;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;218068000;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;13713148;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;1;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;5589597000;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;VERAR3;Verkehrsart;VERLINNAHEISB;Liniennahverkehr mit Eisenbahnen;1938657000;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;911574;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;8459206;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;86;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;391632980;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINGVOBUS;Gelegenheitsverkehr mit Omnibussen;273613196;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;1581825971;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;185034726;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;16;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;37071757882;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;9459591425;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;187551150;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;102752059;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;23;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;8748124987;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;VERAR3;Verkehrsart;VERLINNAHINSG;Liniennahverkehr;2727964168;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;671307600;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;67573437;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;11;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;18420418217;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;3180618786;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;0;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;254332861;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;215730486;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;87;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;15843120276;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;2936276776;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;796601092;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;35588692;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;4;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;17529013047;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINNAHSTB;Liniennahverkehr mit Straßenbahnen;2999853500;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;602369;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;5189164;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;15;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;289639141;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;VERAR3;Verkehrsart;VERLINFERNOBUS;Linienfernverkehr mit Omnibussen;85554080;Person-km;GUT004;Beförderungsleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;369835975;Anzahl;VER013;Beförderte Personen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;222343889;Fahrzg-km;FLST01;Fahrleistung
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;103;Anzahl;UNT003;Unternehmen
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;17896641344;Platz-km;GUT007;Beförderungsangebot
+46181;Personenverkehr mit Bussen und Bahnen;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;VERAR3;Verkehrsart;VERLINNAHOBUS;Liniennahverkehr mit Omnibussen;2881560747;Person-km;GUT004;Beförderungsleistung

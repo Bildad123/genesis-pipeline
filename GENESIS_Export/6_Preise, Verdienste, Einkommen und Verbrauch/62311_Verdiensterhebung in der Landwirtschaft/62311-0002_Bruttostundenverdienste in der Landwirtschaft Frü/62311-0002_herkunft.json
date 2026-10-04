@@ -1,0 +1,28 @@
+{
+  "tabelle": "62311-0002",
+  "titel": "Bruttostundenverdienste in der Landwirtschaft: Früheres Bundesgebiet/Neue Länder, Stichmonat (bis 09/2010), Ausgew. Bereiche der Landwirtschaft, Arbeitergruppen, Geschlecht",
+  "zeitraum": "09/2010 - 09/2010",
+  "statistik": "62311",
+  "alle_statistiken": [
+    "62311"
+  ],
+  "stand_genesis": "29.12.2022 09:01:04h",
+  "abgerufen_am": "2026-09-28T20:38:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62311-0002_flatfile.csv": "abc8b8af28db66021bb3b15c6fb6b0b172291238d2b907a818d0ec8e0ce34ace"
+  },
+  "bytes": 25646,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62311/table/62311-0002"
+}

@@ -1,0 +1,631 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3149;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;94440;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;9,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;11,0;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;823835;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;30159;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;55727;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;844796;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2418133;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;425571;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;14561;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;382068;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2026545;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;119671;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6528;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;456294;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4100499;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;118647;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3055;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;149443;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;6,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;581455;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;26183;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;11224;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;622196;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;4,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1723059;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;116850;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;35440;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;362835;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;-;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2602203;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;1761232;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;11174;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;457090;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2020503;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;103367;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;8189;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;321306;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3611921;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;198580;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2808;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;324762;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;-;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1596457;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;141547;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;14156;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;774345;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2266720;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;145276;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5092;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;260272;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2427083;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;125192;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;52676;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;140987;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,9;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;607357;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;331174;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;14328;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;568743;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2794664;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;129625;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3041;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;45418;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;18,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;20,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1623614;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;34876;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;20264;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;466288;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,9;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2976488;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;157886;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;42587;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;685667;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1850626;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;336668;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2139;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;61022;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;15,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;16,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1285058;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;16414;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;10363;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;224418;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2753181;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;160496;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6194;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;328307;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2475528;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;51902;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;32632;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;38072;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;-;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;10,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1005745;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1991;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1619685;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3097;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;61034;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;13,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;14,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1184838;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1995;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;73388;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2120;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;74875;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;17,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;18,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1495779;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;28978;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10052;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;389045;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;8,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3258954;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;101540;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;12320;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;58929;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;12,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;13,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1011492;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;90003;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;20914;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;760608;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2608672;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;240846;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11726;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;206850;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4381281;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;150593;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;4432;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;84968;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;10,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;11,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;869995;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;45827;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7812;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;421606;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;12,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4280630;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;115205;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;250099;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;705605;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2613489;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;1851802;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3017;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;138812;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;8,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;638543;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;24414;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;11356;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;526276;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1978672;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;100480;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;12245;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;389420;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1999918;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;130334;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11929;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;284753;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3698057;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;372288;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;44032;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;239212;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2314215;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;992601;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;13884;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;796427;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,2;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2340082;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;117659;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7888;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;226828;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,0;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2426276;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;271964;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;62573;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;129615;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;8,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;620441;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;463718;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;13195;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;490310;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2898388;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;133604;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;4409;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;381504;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2604720;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1999;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;89669;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;4060;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;122938;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;8,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;678071;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;45144;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;49121;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;359348;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;8,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3238965;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;502694;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3923;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;56077;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;17,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;19,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1562953;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;44645;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;3428;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;403021;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2380987;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;59318;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1471;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;54380;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;17,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;19,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1480146;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;12890;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8990;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;175721;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2782759;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;121610;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7541;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;315726;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2138778;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;80168;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;16478;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;619615;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1999881;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;196738;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;9914;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;41531;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;-;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;14,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1279297;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;376579;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3598;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;61586;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;15,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;16,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1318622;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;74683;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;8334;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;423432;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3760586;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;68317;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;13404;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;269836;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4376795;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2003;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;195371;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;318735;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;613445;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2695444;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2938786;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3962;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;83678;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;10,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;11,9;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;897209;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;40194;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3175;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;127279;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;8,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;9,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;712303;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;27331;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;10950;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;589533;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1894294;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;89138;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;19285;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;279452;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;8,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3419141;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;948363;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;14118;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;369017;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2080342;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;145018;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9956;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;337110;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;12,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4384456;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;182853;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;13967;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;730551;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2532837;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;113552;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;12912;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;235975;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;-;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,0;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2149465;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;756827;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;18550;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;456975;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2950338;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;190845;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2088;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;47042;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;17,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;18,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1508707;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;26734;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6978;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;277701;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;10,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2870021;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;130687;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5218;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;336384;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,2;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;10,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2751535;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;78788;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;256162;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;482428;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2075003;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2020;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2475068;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3985;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;131646;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,5;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;8,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;644302;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;46876;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2175;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;51763;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;17,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;18,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1532064;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;29009;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2549;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;37101;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;18,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;20,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1614154;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;24696;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;11905;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;49283;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;13,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;14,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1100777;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;151807;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;4874;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;382275;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7,2;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,0;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2320500;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;93933;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;16746;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;561124;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2142810;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;251194;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8449;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;218657;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;11,0;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;3246755;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;100809;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;6374;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;43477;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;-;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;15,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1269676;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1993;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;191536;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2979;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;59409;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;17,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;19,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1514435;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1997;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;52166;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6577;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;354287;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;12,0;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4487305;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;66981;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;12395;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;374963;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4061345;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;206767;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;21613;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;631814;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2948092;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;297318;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;3154;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;109636;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;9,2;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;10,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;774162;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;26257;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;36802;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;291224;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2227473;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;412692;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;5516;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;450063;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3889695;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2000;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;86052;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2932;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;150060;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;6,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;543661;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;28426;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;15484;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;356237;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;8,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2978570;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;653016;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;10829;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;645019;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;4,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1758627;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;91477;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11310;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;327278;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3965064;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;277294;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;10045;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;393608;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2074553;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;103444;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;14531;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;655490;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2690975;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;127811;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5570;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;314706;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;-;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1699273;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1992;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;276437;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;13140;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;157618;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;6,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;567507;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2022;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;88903;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;16207;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;477528;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2897126;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;170529;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7712;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;265692;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,9;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2646442;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1996;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;202611;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2736;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;31129;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;18,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;20,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1598522;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2004;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;28984;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;197423;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;563162;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,9;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2006132;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2021;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;1520628;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;4436;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;139812;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,2;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;7,8;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;608791;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2023;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;44108;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2511;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;53927;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;13,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;14,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1120175;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;21373;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8472;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;318886;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;7,6;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;8,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2498392;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2002;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;162123;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5106;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;267396;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;9,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;10,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;3007158;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;54090;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;17553;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;508015;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;5,9;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;6,4;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;2270022;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2025;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;252174;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;4042;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;57925;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;14,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;15,7;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1271781;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1994;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;100324;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;55937;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;300641;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;8,1;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,1;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3414992;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;1144407;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;2594;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;85222;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;17,8;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;19,2;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;1529095;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;1998;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;36416;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10998;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;255758;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;11,7;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;13,0;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;4860909;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;125505;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;5703;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;74940;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;11,3;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;12,6;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;949943;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;38215;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;20731;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;693676;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,0;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;6,5;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;2787112;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2024;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;298069;Anzahl;ERW064;Kurzarbeiter
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;7049;Anzahl;BTR017;Kurzarbeitende Betriebe
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;434037;Anzahl;ERW007;Gemeldete Arbeitsstellen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;9,4;Prozent;ERW112;Arbeitslosenquote aller zivilen Erwerbspersonen
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;10,3;Prozent;ERW116;Arbeitslosenquote d. abhängigen ziv. Erwerbspers.
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;3852564;Anzahl;ERW006;Arbeitslose
+13211;Arbeitsmarktstatistik der Bundesagentur für Arbeit;JAHR;Jahr;2001;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;122942;Anzahl;ERW064;Kurzarbeiter

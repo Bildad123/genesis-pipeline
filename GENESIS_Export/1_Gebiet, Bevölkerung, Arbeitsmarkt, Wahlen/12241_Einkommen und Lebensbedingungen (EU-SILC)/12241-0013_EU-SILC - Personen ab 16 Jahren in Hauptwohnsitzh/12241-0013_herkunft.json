@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-0013",
+  "titel": "EU-SILC - Personen ab 16 Jahren in Hauptwohnsitzhaushalten, Nettoäquivalenzeinkommen: Deutschland, Jahre, Bildungsstatus",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "12.02.2025 10:14:09h",
+  "abgerufen_am": "2026-09-28T16:36:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-0013_flatfile.csv": "5eaf541bc44a43aaaccff5c984f65abf7bb454d21dbb02a615bc22867fe48c63"
+  },
+  "bytes": 2110,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-0013"
+}

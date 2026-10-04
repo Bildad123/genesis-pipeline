@@ -1,0 +1,104 @@
+{
+  "abgerufen_am": "2026-09-28T18:12:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32171-0004",
+    "Content": "Abfallverwertungsquote, Stoffliche Abfallverwertungsquote,\nAbfallrecyclingquote: Deutschland, Jahre, Abfallarten,\nGefährlichkeit der Abfälle",
+    "Time": {
+      "From": "2021",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "32171",
+        "Content": "Abfallbilanz",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ABF017",
+          "Content": "Abfallverwertungsquote",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ABF019",
+          "Content": "Stoffliche Abfallverwertungsquote",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ABF018",
+          "Content": "Abfallrecyclingquote",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ABFAT3",
+          "Content": "Abfallarten",
+          "Type": "Merkmal",
+          "Values": "9",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ABFAT4",
+              "Content": "Gefährlichkeit der Abfälle",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "23.06.2026 16:32:00h"
+  }
+}

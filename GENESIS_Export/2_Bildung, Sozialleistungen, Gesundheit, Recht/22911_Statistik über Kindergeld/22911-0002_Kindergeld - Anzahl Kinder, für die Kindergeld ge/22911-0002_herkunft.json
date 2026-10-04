@@ -1,0 +1,28 @@
+{
+  "tabelle": "22911-0002",
+  "titel": "Kindergeld - Anzahl Kinder, für die Kindergeld gezahlt wurde sowie ausgezahlte Beträge: Deutschland, Jahre",
+  "zeitraum": "1965 - 2024",
+  "statistik": "22911",
+  "alle_statistiken": [
+    "22911"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:40:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22911-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22911-0002_flatfile.csv": "c38a0b53a4307b8d45e7607ab2c9449ca6def8740f082a8b52ea1ca80e23e79f"
+  },
+  "bytes": 17325,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22911/table/22911-0002"
+}

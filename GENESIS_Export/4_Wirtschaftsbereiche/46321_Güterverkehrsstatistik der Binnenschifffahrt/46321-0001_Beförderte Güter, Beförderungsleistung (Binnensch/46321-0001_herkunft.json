@@ -1,0 +1,28 @@
+{
+  "tabelle": "46321-0001",
+  "titel": "Beförderte Güter, Beförderungsleistung (Binnenschifffahrt): Deutschland, Jahre, Hauptverkehrsbeziehungen",
+  "zeitraum": "1991 - 2025",
+  "statistik": "46321",
+  "alle_statistiken": [
+    "46321"
+  ],
+  "stand_genesis": "28.12.2022 20:02:04h",
+  "abgerufen_am": "2026-09-28T19:25:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46321-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46321-0001_flatfile.csv": "45f3de16932820fbc9a6c7d07fcab98d173f8c0a4aaa6f1cbbd6efc5da8c958e"
+  },
+  "bytes": 63081,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46321/table/46321-0001"
+}

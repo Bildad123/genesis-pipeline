@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0012",
+  "titel": "Neugründungen von Gewerben: Deutschland, Monate, Art der Neugründung, Rechtsform",
+  "zeitraum": "Januar 2003 - Juli 2026",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "30.07.2024 12:47:01h",
+  "abgerufen_am": "2026-09-28T20:06:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0012_flatfile.csv": "24846ad6e55eb95b3ab5b5db6fe4012d6f8fee19f99581afe21f6a5b1e3ecb5a"
+  },
+  "bytes": 193595,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0012"
+}

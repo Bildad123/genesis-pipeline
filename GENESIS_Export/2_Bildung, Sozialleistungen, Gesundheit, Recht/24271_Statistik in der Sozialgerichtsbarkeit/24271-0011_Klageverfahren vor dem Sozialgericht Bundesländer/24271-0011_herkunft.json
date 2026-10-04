@@ -1,0 +1,28 @@
+{
+  "tabelle": "24271-0011",
+  "titel": "Klageverfahren vor dem Sozialgericht: Bundesländer, Jahre, Stand der Erledigung",
+  "zeitraum": "2017 - 2024",
+  "statistik": "24271",
+  "alle_statistiken": [
+    "24271"
+  ],
+  "stand_genesis": "10.11.2023 12:41:52h",
+  "abgerufen_am": "2026-09-28T18:00:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24271-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24271-0011_flatfile.csv": "c9da7f83f7df036d1269d036c3cc0aafe88827e10ddc8b86747dc30d6727f2b6"
+  },
+  "bytes": 18780,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24271/table/24271-0011"
+}

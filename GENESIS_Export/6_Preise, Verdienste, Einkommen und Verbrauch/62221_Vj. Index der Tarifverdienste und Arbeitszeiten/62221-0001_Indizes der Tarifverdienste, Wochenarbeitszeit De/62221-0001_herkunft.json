@@ -1,0 +1,28 @@
+{
+  "tabelle": "62221-0001",
+  "titel": "Indizes der Tarifverdienste, Wochenarbeitszeit: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "1995 - 2025",
+  "statistik": "62221",
+  "alle_statistiken": [
+    "62221"
+  ],
+  "stand_genesis": "28.12.2022 17:59:58h",
+  "abgerufen_am": "2026-09-28T20:37:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62221-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62221-0001_flatfile.csv": "9fd8dab89f402dcc0526ab3ab7fe217a731bb5068c77ddf8cd9e61de0ab47af0"
+  },
+  "bytes": 2109632,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62221/table/62221-0001"
+}

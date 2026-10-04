@@ -1,0 +1,28 @@
+{
+  "tabelle": "24221-0010",
+  "titel": "Vor dem Amtsgericht erledigte Strafverfahren: Bundesländer, Jahre, Sachgebiete",
+  "zeitraum": "2017 - 2024",
+  "statistik": "24221",
+  "alle_statistiken": [
+    "24221"
+  ],
+  "stand_genesis": "19.09.2023 14:10:07h",
+  "abgerufen_am": "2026-09-28T17:58:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24221-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24221-0010_flatfile.csv": "ad18e7d238aa3ed81fddad6197fe8660d1cef58ac60330c120082fdab10d65e5"
+  },
+  "bytes": 118278,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24221/table/24221-0010"
+}

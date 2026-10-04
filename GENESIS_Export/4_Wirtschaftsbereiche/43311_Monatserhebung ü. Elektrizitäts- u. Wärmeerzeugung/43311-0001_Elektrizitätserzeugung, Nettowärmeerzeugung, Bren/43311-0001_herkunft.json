@@ -1,0 +1,28 @@
+{
+  "tabelle": "43311-0001",
+  "titel": "Elektrizitätserzeugung, Nettowärmeerzeugung, Brennstoffeinsatz: Deutschland, Jahre, Energieträger",
+  "zeitraum": "2002 - 2025",
+  "statistik": "43311",
+  "alle_statistiken": [
+    "43311"
+  ],
+  "stand_genesis": "28.12.2022 17:05:14h",
+  "abgerufen_am": "2026-09-28T19:04:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43311-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43311-0001_flatfile.csv": "4b22d680cad4588c76cad068ef410447da4a5f3bcb845b0106e71df2237e36b7"
+  },
+  "bytes": 43623,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43311/table/43311-0001"
+}

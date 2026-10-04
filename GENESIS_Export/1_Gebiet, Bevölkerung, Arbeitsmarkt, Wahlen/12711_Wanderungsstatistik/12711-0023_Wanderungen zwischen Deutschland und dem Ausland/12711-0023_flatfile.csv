@@ -1,0 +1,460 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;6371;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;4664;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;11035;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;2519;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-525;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;1994;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;9758;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;2341;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;12099;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;5468;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-1156;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;4312;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;21815;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;5361;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;27176;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;19592;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-7633;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;11959;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;24028;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;18551;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;42579;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;13244;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-4394;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;8850;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;30506;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;6776;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;37282;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1375;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-401;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;974;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;47132;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;15188;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;62320;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;13196;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;4995;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;18191;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;53446;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;16508;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;69954;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;22952;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;7579;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;30531;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;83969;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;32721;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;116690;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;98876;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;18018;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;116894;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;91674;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;15809;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;107483;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;64263;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;8931;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;73194;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;30521;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;16215;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;46736;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;5917;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-1705;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;4212;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;18507;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;5406;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;23913;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;43006;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-16300;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;26706;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;16626;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;8412;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;25038;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;2523;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-736;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;1787;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;9091;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;6146;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;15237;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;18830;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-8577;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;10253;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;190533;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;21657;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;212190;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;5519;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;2664;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;8183;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;18854;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;9672;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;28526;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;3965;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-1460;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;2505;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;12483;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;5008;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;17491;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;59291;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;39815;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;99106;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;26377;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-10736;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;15641;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;35262;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;21266;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;56528;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;4174;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-923;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;3251;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;6375;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;3465;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;9840;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;26160;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;6839;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;32999;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;7495;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;1338;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;8833;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;9726;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-2090;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;7636;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;26131;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-10308;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;15823;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;3810;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-879;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;2931;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;15277;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;5005;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;20282;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;956363;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;331692;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;1288055;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;5803;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;4178;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;9981;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;41103;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-13920;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;27183;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;51019;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;13322;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;64341;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1485;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-351;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1134;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;78953;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;28579;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;107532;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;13895;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;6906;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;20801;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;3478;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-829;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;2649;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;3570;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;2806;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;6376;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;21799;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;13245;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;35044;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;8863;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;3900;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;12763;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;85596;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;15995;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;101591;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;39088;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;4382;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;43470;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;1562;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-438;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;1124;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;67503;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;14815;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;82318;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;14327;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-4366;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;9961;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;2608;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;3106;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;5714;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;22930;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-2700;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;20230;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;55853;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;22148;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;78001;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;5170;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;1866;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;7036;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;263882;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;27261;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;291143;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;232180;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;22599;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;254779;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;3013;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-799;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;2214;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;3259;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-1322;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1937;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;8177;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;3520;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;11697;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;19917;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;8095;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;28012;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;34292;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;9431;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;43723;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;8778;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-3211;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;5567;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;30317;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;16091;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;46408;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;7904;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;3072;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;10976;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;350759;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;175204;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;525963;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;4144;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;3065;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;7209;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;3599;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-736;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;2863;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;11601;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-4172;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;7429;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;46864;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;17092;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;63956;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;3894;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-926;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;2968;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;40043;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;14001;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;54044;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;187219;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;41484;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;228703;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;24952;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-8709;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;16243;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;114945;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-42691;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;72254;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;16082;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;4272;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;20354;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;7991;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-3461;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;4530;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;196402;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;51917;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;248319;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;39394;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;15208;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;54602;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;605604;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;156487;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;762091;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;123904;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;23162;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;147066;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1869;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-418;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1451;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;24410;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;12597;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;37007;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;22371;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;6438;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;28809;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;173638;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-54001;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;119637;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1244944;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;235000;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;1479944;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;15178;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;6142;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;21320;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;12671;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;3022;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;15693;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;73908;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;14556;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;88464;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;116626;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;7100;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;123726;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;779241;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;102486;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;881727;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;14057;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-1693;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;12364;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;5521;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;3340;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;8861;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;72498;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;28755;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;101253;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;22024;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-7607;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;14417;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;66766;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;24572;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;91338;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;5745;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-1974;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;3771;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;7871;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-2822;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;5049;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;29667;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;10426;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;40093;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;9232;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;6454;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;15686;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;100977;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;20970;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;121947;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;32020;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;15089;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;47109;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;8871;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-1005;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;7866;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;7239;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;2866;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;10105;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;8238;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;4248;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;12486;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;11382;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;5932;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;17314;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;288579;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-96689;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;191890;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;10401;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;7995;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;18396;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;6246;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-1259;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;4987;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;2325;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-528;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;1797;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;14775;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;4059;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;18834;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;4541;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-1191;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;3350;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;6548;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-1583;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;4965;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;24322;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;8516;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;32838;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;3692;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;2034;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;5726;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;8582;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-2392;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;6190;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;147523;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;37961;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;185484;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;465704;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;132513;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;;Insgesamt;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;598217;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;13911;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;2287;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;16198;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;11161;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;5019;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;16180;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;6568;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;6882;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;13450;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;3960;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;3777;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;7737;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;2374;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-660;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1714;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;36712;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;12042;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;48754;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;78883;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;32181;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;111064;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1526;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-390;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;1136;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;146584;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;6604;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;153188;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;120451;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;16916;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;137367;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;165007;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;9244;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;174251;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;44961;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-18885;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;26076;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;7902;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;6341;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;14243;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;4612;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;-1502;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESM;männlich;3110;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;21095;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;4437;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESM;männlich;25532;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;67480;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-24654;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;42826;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;27934;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;15253;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESW;weiblich;43187;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;18056;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-7593;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;10463;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;9882;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;-3164;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;;Insgesamt;6718;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;106897;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;30023;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;136920;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;5179;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;1681;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;6860;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;61459;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;10823;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;NAT;Nationalität;;Insgesamt;GES;Geschlecht;;Insgesamt;72282;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;17274;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;6552;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;23826;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;13881;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;7164;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;NAT;Nationalität;;Insgesamt;GES;Geschlecht;GESW;weiblich;21045;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;10897;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;3089;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;13986;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;962;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;-299;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;NAT;Nationalität;NATD;Deutsche;GES;Geschlecht;GESW;weiblich;663;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;16404;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;9162;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;;Insgesamt;25566;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;10601;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;4984;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;NAT;Nationalität;NATA;Ausländer;GES;Geschlecht;GESM;männlich;15585;Anzahl;BEV029;Zuzüge aus dem Ausland

@@ -1,0 +1,28 @@
+{
+  "tabelle": "46251-0005",
+  "titel": "Neuzulassungen und Besitzumschreibungen von Kfz und Kfz-Anhängern: Deutschland, Monate, Kraftfahrzeugarten",
+  "zeitraum": "Januar 1963 - Dezember 2025",
+  "statistik": "46251",
+  "alle_statistiken": [
+    "46251"
+  ],
+  "stand_genesis": "28.12.2022 20:01:26h",
+  "abgerufen_am": "2026-09-28T19:24:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46251-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46251-0005_flatfile.csv": "cda2b80000c7eaf8d978b645b6e57134ed229868daae288fd344e364591d8256"
+  },
+  "bytes": 103208,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46251/table/46251-0005"
+}

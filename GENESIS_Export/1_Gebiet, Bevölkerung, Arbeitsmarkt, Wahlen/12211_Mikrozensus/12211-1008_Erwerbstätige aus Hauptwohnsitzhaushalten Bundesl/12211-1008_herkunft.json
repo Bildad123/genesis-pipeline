@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-1008",
+  "titel": "Erwerbstätige aus Hauptwohnsitzhaushalten: Bundesländer, Jahre, Geschlecht, Stellung im Beruf, Größenklassen des persönlichen monatlichen Nettoeinkommens",
+  "zeitraum": "2024 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "15.05.2025 13:18:52h",
+  "abgerufen_am": "2026-09-28T16:29:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-1008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-1008_flatfile.csv": "8d0cb9a01b232beb8a01a7318eb2f904cc80f50b33e3dc91e238cc0063ec7e76"
+  },
+  "bytes": 1332150,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-1008"
+}

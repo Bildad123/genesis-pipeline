@@ -1,0 +1,28 @@
+{
+  "tabelle": "22551-0003",
+  "titel": "Ausgaben (Auszahlungen) der Kinder- und Jugendhilfe: Bundesländer, Jahre, Ausgabenbereiche, Art der Hilfe, Art der Ausgaben",
+  "zeitraum": "2009 - 2024",
+  "statistik": "22551",
+  "alle_statistiken": [
+    "22551"
+  ],
+  "stand_genesis": "28.12.2022 19:10:16h",
+  "abgerufen_am": "2026-09-28T17:39:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22551-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22551-0003_flatfile.csv": "f4efb14718dcdccb89732afb51d5aab24baf0b837fefc174afb74c55d3c3b96b"
+  },
+  "bytes": 488670,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22551/table/22551-0003"
+}

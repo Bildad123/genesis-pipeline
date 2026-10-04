@@ -1,0 +1,28 @@
+{
+  "tabelle": "22311-0013",
+  "titel": "Haushalte mit Wohngeld: Bundesländer, Stichtag, Wohngeldart, Haushaltsgröße",
+  "zeitraum": "31.12.2005 - 31.12.2025",
+  "statistik": "22311",
+  "alle_statistiken": [
+    "22311"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:28:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22311-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22311-0013_flatfile.csv": "b34163d1abd4de50f9f56fde8ce09a67d84f53ea066a825a69c4e87a9d78668b"
+  },
+  "bytes": 976830,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22311/table/22311-0013"
+}

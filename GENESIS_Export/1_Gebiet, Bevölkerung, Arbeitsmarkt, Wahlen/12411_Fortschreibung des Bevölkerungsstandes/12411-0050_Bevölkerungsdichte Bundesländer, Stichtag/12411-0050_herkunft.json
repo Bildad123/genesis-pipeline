@@ -1,0 +1,28 @@
+{
+  "tabelle": "12411-0050",
+  "titel": "Bevölkerungsdichte: Bundesländer, Stichtag",
+  "zeitraum": "31.12.1995 - 31.12.2023",
+  "statistik": "12411",
+  "alle_statistiken": [
+    "12411"
+  ],
+  "stand_genesis": "16.06.2025 14:29:14h",
+  "abgerufen_am": "2026-09-28T16:40:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12411-0050",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12411-0050_flatfile.csv": "455b186debaf80dc6beee5bf02f49be21d95bcf195cdbb0439cc8742f1140800"
+  },
+  "bytes": 68733,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0050"
+}

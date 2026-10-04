@@ -1,0 +1,28 @@
+{
+  "tabelle": "46241-0010",
+  "titel": "Unfallbeteiligte: Deutschland, Monate, Art der Verkehrsbeteiligung, Fehlverhalten der Fahrzeugführer und Fußgänger bei Unfällen mit Personenschaden",
+  "zeitraum": "Januar 2011 - Juni 2026",
+  "statistik": "46241",
+  "alle_statistiken": [
+    "46241"
+  ],
+  "stand_genesis": "03.01.2024 15:40:14h",
+  "abgerufen_am": "2026-09-28T19:23:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46241-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46241-0010_flatfile.csv": "db593544810b8efc888152c45faa6434101e1a44f9c8ce390b8b837169863fb6"
+  },
+  "bytes": 2198840,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46241/table/46241-0010"
+}

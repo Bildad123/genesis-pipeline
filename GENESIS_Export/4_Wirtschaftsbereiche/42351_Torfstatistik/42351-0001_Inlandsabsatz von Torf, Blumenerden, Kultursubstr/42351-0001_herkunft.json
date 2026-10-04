@@ -1,0 +1,28 @@
+{
+  "tabelle": "42351-0001",
+  "titel": "Inlandsabsatz von Torf, Blumenerden, Kultursubstraten: Deutschland, Jahre, Produktart",
+  "zeitraum": "2023 - 2025",
+  "statistik": "42351",
+  "alle_statistiken": [
+    "42351"
+  ],
+  "stand_genesis": "21.11.2025 11:23:05h",
+  "abgerufen_am": "2026-09-28T19:03:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42351-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42351-0001_flatfile.csv": "3889cf1f980c841472e1207078bf28567d7e1dd66ee229c28aa4aca6767ebf0d"
+  },
+  "bytes": 5409,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42351/table/42351-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12411-0010",
+  "titel": "Bevölkerung: Bundesländer, Stichtag",
+  "zeitraum": "31.12.1958 - 31.12.2025",
+  "statistik": "12411",
+  "alle_statistiken": [
+    "12411"
+  ],
+  "stand_genesis": "22.01.2025 17:47:34h",
+  "abgerufen_am": "2026-09-28T16:39:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12411-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12411-0010_flatfile.csv": "c78d3828f7bbedc36788c99a4d6db52f4211c89ba98dad0ba7a78a3851337d6b"
+  },
+  "bytes": 23840,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0010"
+}

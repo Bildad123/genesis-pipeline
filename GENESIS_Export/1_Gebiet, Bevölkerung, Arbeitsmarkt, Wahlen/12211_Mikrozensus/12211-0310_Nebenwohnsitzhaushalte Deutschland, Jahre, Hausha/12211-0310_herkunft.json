@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0310",
+  "titel": "Nebenwohnsitzhaushalte: Deutschland, Jahre, Haushaltsgröße, Gemeindegrößenklassen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:04h",
+  "abgerufen_am": "2026-09-28T16:26:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0310",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0310_flatfile.csv": "ccd094ad59b3808fb68f16d6244d5700faa8667fec32ba7370b2323b6955d6a2"
+  },
+  "bytes": 5377,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0310"
+}

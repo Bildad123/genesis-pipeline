@@ -1,0 +1,28 @@
+{
+  "tabelle": "41215-0008",
+  "titel": "Betriebe mit Erdbeeranbau (vollständig ökologisch), Anbaufläche, Erntemenge: Deutschland, Jahre, Anbauform",
+  "zeitraum": "2012 - 2025",
+  "statistik": "41215",
+  "alle_statistiken": [
+    "41215"
+  ],
+  "stand_genesis": "05.12.2024 14:23:22h",
+  "abgerufen_am": "2026-09-28T18:29:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41215-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41215-0008_flatfile.csv": "941bec4baed41f5de5367e781ec7876d4fbe769959486c5d85d23d2b9ee9c46b"
+  },
+  "bytes": 9640,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41215/table/41215-0008"
+}

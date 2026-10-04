@@ -1,0 +1,28 @@
+{
+  "tabelle": "24311-0001",
+  "titel": "Verurteilte: Deutschland, Jahre, Art der Straftat",
+  "zeitraum": "1976 - 2024",
+  "statistik": "24311",
+  "alle_statistiken": [
+    "24311"
+  ],
+  "stand_genesis": "28.12.2022 17:41:42h",
+  "abgerufen_am": "2026-09-28T18:01:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24311-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24311-0001_flatfile.csv": "e5572895c0fd9c2a17fd87a84ab620f2e4de108ee326c0cf5893866bb6879a21"
+  },
+  "bytes": 241270,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24311/table/24311-0001"
+}

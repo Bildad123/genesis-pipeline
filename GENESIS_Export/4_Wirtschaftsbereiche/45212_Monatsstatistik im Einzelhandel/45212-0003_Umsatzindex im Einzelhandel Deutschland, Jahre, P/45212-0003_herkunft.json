@@ -1,0 +1,28 @@
+{
+  "tabelle": "45212-0003",
+  "titel": "Umsatzindex im Einzelhandel: Deutschland, Jahre, Preisarten, Wirtschaftszweige",
+  "zeitraum": "1994 - 2025",
+  "statistik": "45212",
+  "alle_statistiken": [
+    "45212"
+  ],
+  "stand_genesis": "26.06.2026 17:44:54h",
+  "abgerufen_am": "2026-09-28T19:10:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45212-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45212-0003_flatfile.csv": "812b8887b5328e800dfe65d717b908e740b9b175079a4e4355ebc94f8875ede3"
+  },
+  "bytes": 2340767,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45212/table/45212-0003"
+}

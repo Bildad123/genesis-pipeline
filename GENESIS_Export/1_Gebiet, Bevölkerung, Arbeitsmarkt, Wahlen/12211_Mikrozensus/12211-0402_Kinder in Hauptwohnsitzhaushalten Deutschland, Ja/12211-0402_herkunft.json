@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0402",
+  "titel": "Kinder in Hauptwohnsitzhaushalten: Deutschland, Jahre, Geschlecht, Geschwisterzahl, Familienformen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:04h",
+  "abgerufen_am": "2026-09-28T16:27:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0402",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0402_flatfile.csv": "05ce10032d1070da3952837f9da436b376b9d938b703e9498d29f365247dfe12"
+  },
+  "bytes": 16868,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0402"
+}

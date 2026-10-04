@@ -1,0 +1,28 @@
+{
+  "tabelle": "12521-0002",
+  "titel": "Ausländer: Deutschland, Stichtag, Geschlecht/Altersjahre/ Familienstand, Ländergruppierungen/Staatsangehörigkeit",
+  "zeitraum": "30.09.1967 - 31.12.2025",
+  "statistik": "12521",
+  "alle_statistiken": [
+    "12521"
+  ],
+  "stand_genesis": "28.12.2022 18:48:29h",
+  "abgerufen_am": "2026-09-28T16:44:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12521-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12521-0002_flatfile.csv": "ca2c2a497db224f33aa524a1480ab8261bf0408dd02776bf0e4d3e9e23f75298"
+  },
+  "bytes": 27189,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12521/table/12521-0002"
+}

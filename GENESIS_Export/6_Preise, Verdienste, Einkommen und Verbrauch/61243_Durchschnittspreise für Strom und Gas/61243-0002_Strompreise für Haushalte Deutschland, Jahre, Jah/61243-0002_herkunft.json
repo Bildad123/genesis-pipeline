@@ -1,0 +1,28 @@
+{
+  "tabelle": "61243-0002",
+  "titel": "Strompreise für Haushalte: Deutschland, Jahre, Jahresverbrauchsklassen, Preisbestandteile",
+  "zeitraum": "2019 - 2025",
+  "statistik": "61243",
+  "alle_statistiken": [
+    "61243"
+  ],
+  "stand_genesis": "28.12.2022 18:21:46h",
+  "abgerufen_am": "2026-09-28T20:23:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61243-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61243-0002_flatfile.csv": "ac1acd702693ae463670c053336303a58a28ea0699d2612701772611d404cb36"
+  },
+  "bytes": 36078,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61243/table/61243-0002"
+}

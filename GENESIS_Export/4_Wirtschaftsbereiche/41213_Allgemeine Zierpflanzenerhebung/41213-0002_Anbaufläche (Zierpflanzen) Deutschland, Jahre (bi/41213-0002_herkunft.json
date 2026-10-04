@@ -1,0 +1,28 @@
+{
+  "tabelle": "41213-0002",
+  "titel": "Anbaufläche (Zierpflanzen): Deutschland, Jahre (bis 2004), Anbauform, Pflanzenarten",
+  "zeitraum": "1969 - 2004",
+  "statistik": "41213",
+  "alle_statistiken": [
+    "41213"
+  ],
+  "stand_genesis": "28.12.2022 17:39:46h",
+  "abgerufen_am": "2026-09-28T18:27:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41213-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41213-0002_flatfile.csv": "f7ea27d3c6de1f004cb099e954ec71506e8dad23ffd196dcd5246387fd62b666"
+  },
+  "bytes": 69457,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41213/table/41213-0002"
+}

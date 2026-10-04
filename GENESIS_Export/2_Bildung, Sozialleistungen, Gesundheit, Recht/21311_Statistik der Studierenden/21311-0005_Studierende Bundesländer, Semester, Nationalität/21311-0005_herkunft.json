@@ -1,0 +1,28 @@
+{
+  "tabelle": "21311-0005",
+  "titel": "Studierende: Bundesländer, Semester, Nationalität, Geschlecht",
+  "zeitraum": "WS 1998/99 - WS 2025/26",
+  "statistik": "21311",
+  "alle_statistiken": [
+    "21311"
+  ],
+  "stand_genesis": "24.04.2026 16:52:24h",
+  "abgerufen_am": "2026-09-28T17:05:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21311-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21311-0005_flatfile.csv": "59c086cd662a635d98dc22e2abebc571c84269c6d1f82338114f268204aadb31"
+  },
+  "bytes": 756814,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21311/table/21311-0005"
+}

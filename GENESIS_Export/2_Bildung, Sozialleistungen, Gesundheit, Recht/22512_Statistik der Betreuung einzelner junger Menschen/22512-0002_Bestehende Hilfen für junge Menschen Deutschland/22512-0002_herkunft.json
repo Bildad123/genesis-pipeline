@@ -1,0 +1,28 @@
+{
+  "tabelle": "22512-0002",
+  "titel": "Bestehende Hilfen für junge Menschen: Deutschland, Stichtag (bis 31.12.2006), Geschlecht, Altersgruppen, Art der Hilfe, Anlass der Hilfe",
+  "zeitraum": "31.12.1992 - 31.12.2006",
+  "statistik": "22512",
+  "alle_statistiken": [
+    "22512"
+  ],
+  "stand_genesis": "28.12.2022 19:07:55h",
+  "abgerufen_am": "2026-09-28T17:31:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22512-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22512-0002_flatfile.csv": "f12ffd6ae5712af64f87e09e360d2166e1e36016b916e1fd7240920ae18c97f6"
+  },
+  "bytes": 217569,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22512/table/22512-0002"
+}

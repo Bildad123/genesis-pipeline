@@ -1,0 +1,28 @@
+{
+  "tabelle": "21431-0021",
+  "titel": "Stipendiaten: Bundesländer, Jahre, Geschlecht, Hochschulart",
+  "zeitraum": "2011 - 2025",
+  "statistik": "21431",
+  "alle_statistiken": [
+    "21431"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:13:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21431-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21431-0021_flatfile.csv": "2bcd8fac658ce910df8117c2fab3d624458aa47df6b3ce6c94c4b7e1040b851c"
+  },
+  "bytes": 61708,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21431/table/21431-0021"
+}

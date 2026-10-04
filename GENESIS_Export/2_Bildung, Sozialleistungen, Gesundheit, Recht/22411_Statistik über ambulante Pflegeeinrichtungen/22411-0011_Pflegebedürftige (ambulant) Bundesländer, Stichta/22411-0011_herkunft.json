@@ -1,0 +1,28 @@
+{
+  "tabelle": "22411-0011",
+  "titel": "Pflegebedürftige (ambulant): Bundesländer, Stichtag, Pflegestufe/Pflegegrad",
+  "zeitraum": "15.12.2017 - 15.12.2023",
+  "statistik": "22411",
+  "alle_statistiken": [
+    "22411"
+  ],
+  "stand_genesis": "19.03.2025 18:00:50h",
+  "abgerufen_am": "2026-09-28T17:29:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22411-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22411-0011_flatfile.csv": "4e167b7c2e0836f00faad3f201dcafd018202d1b9b4fa6cebc632d2b51c6fcf7"
+  },
+  "bytes": 19396,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22411/table/22411-0011"
+}

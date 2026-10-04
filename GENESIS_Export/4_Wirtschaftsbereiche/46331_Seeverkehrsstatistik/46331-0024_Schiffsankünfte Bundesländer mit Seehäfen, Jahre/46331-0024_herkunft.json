@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0024",
+  "titel": "Schiffsankünfte: Bundesländer mit Seehäfen, Jahre, Schiffsart, Bruttoraumzahlklasse",
+  "zeitraum": "2001 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.06.2023 11:42:02h",
+  "abgerufen_am": "2026-09-28T19:29:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0024",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0024_flatfile.csv": "a46affe3fa29c07cad49353706d2fc4b70ca5c2f4811a7a2c5d5b864ee7ce2a1"
+  },
+  "bytes": 3753167,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0024"
+}

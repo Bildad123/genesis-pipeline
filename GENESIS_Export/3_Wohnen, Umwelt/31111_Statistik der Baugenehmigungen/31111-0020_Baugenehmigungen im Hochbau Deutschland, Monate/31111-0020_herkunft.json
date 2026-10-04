@@ -1,0 +1,28 @@
+{
+  "tabelle": "31111-0020",
+  "titel": "Baugenehmigungen im Hochbau: Deutschland, Monate, Bautätigkeiten, Gebäudeart",
+  "zeitraum": "Januar 2003 - Juli 2026",
+  "statistik": "31111",
+  "alle_statistiken": [
+    "31111"
+  ],
+  "stand_genesis": "25.04.2024 13:58:41h",
+  "abgerufen_am": "2026-09-28T18:03:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31111-0020",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31111-0020_flatfile.csv": "ec300e0a8d2f817dd30388618e3bbcfbe1771f075baf5b4314f25d50fc73c9b3"
+  },
+  "bytes": 3679700,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31111/table/31111-0020"
+}

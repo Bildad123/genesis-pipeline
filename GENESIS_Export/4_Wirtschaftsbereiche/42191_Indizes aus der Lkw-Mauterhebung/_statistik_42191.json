@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:20:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "42191",
+    "Content": "Indizes aus der Lkw-Mauterhebung",
+    "Cubes": "4",
+    "Variables": "8",
+    "Frequency": [
+      {
+        "From": "01.01.2018",
+        "To": null,
+        "Type": "Monatlich"
+      }
+    ],
+    "Information": null,
+    "Updated": "08.09.2026 08:08:09h"
+  }
+}

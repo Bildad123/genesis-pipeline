@@ -1,0 +1,28 @@
+{
+  "tabelle": "24311-0003",
+  "titel": "Entziehung der Fahrerlaubnis, Fahrverbote: Deutschland, Jahre, Personengruppe",
+  "zeitraum": "1995 - 2024",
+  "statistik": "24311",
+  "alle_statistiken": [
+    "24311"
+  ],
+  "stand_genesis": "28.12.2022 18:48:25h",
+  "abgerufen_am": "2026-09-28T18:01:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24311-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24311-0003_flatfile.csv": "a066415a675764b492d2fd731ed13303891ed3bc1112bf887dc9ad57aea962d9"
+  },
+  "bytes": 41522,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24311/table/24311-0003"
+}

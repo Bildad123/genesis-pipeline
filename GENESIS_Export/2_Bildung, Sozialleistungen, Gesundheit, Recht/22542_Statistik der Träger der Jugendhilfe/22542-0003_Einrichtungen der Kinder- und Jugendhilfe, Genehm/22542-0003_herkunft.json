@@ -1,0 +1,28 @@
+{
+  "tabelle": "22542-0003",
+  "titel": "Einrichtungen der Kinder- und Jugendhilfe, Genehmigte Plätze, Tätige Personen, Pädagogisches und Verwaltungspersonal: Bundesländer, Stichtag (bis 31.12.2020)",
+  "zeitraum": "31.12.2010 - 31.12.2020",
+  "statistik": "22542",
+  "alle_statistiken": [
+    "22542"
+  ],
+  "stand_genesis": "13.03.2024 13:38:25h",
+  "abgerufen_am": "2026-09-28T17:37:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22542-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22542-0003_flatfile.csv": "0d6bf7e2197bbbdc04e94b78fef66ca9e17ec1d54fb08a9d6f60e3aaa8b6431f"
+  },
+  "bytes": 10016,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22542/table/22542-0003"
+}

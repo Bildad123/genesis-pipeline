@@ -1,0 +1,83 @@
+{
+  "abgerufen_am": "2026-09-28T21:12:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "81511-0011",
+    "Content": "Erwerbstätige, Arbeitnehmer (im Inland) (Revision 2024): Deutschland, Jahre, Produktionsbereiche",
+    "Time": {
+      "From": "2021",
+      "To": "2022"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "81511",
+        "Content": "Input-Output-Rechnung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ERW063",
+          "Content": "Erwerbstätige (Inlandskonzept)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ERW061",
+          "Content": "Arbeitnehmer (Inlandskonzept)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "CP08I2",
+          "Content": "CPA 2008: Produktionsbereiche",
+          "Type": "Merkmal",
+          "Values": "72",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "08.01.2025 16:46:10h"
+  }
+}

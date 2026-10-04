@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T17:31:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22517-0001",
+    "Content": "Erzieherische Hilfen/Beratungen: Deutschland, Jahre,\nGeschlecht, Altersjahre, Art der Hilfe",
+    "Time": {
+      "From": "2008",
+      "To": "2017"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22517",
+        "Content": "Statistik der erzieherischen Hilfen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "HBE004",
+                "Content": "Begonnene erzieherische Hilfen/Beratungen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ALT001",
+              "Content": "Altersjahre (u1-u27)",
+              "Type": "Merkmal",
+              "Values": "22",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ARTDH5",
+          "Content": "Art der Hilfe",
+          "Type": "Merkmal",
+          "Values": "23",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 19:22:07h"
+  }
+}

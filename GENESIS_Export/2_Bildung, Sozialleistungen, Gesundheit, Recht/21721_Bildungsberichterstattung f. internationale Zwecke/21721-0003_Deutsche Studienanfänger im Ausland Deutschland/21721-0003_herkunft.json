@@ -1,0 +1,28 @@
+{
+  "tabelle": "21721-0003",
+  "titel": "Deutsche Studienanfänger im Ausland: Deutschland, Jahre, Studienland",
+  "zeitraum": "2009 - 2024",
+  "statistik": "21721",
+  "alle_statistiken": [
+    "21721"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:16:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21721-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21721-0003_flatfile.csv": "efad7be5a07ed48408062c11e9d52f0c8d148d8f8e98b67102998fe93815da7e"
+  },
+  "bytes": 154015,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21721/table/21721-0003"
+}

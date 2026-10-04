@@ -1,0 +1,28 @@
+{
+  "tabelle": "22711-0002",
+  "titel": "Schwerbehinderte: Deutschland, Stichtag, Altersgruppen",
+  "zeitraum": "31.12.1985 - 31.12.2025",
+  "statistik": "22711",
+  "alle_statistiken": [
+    "22711"
+  ],
+  "stand_genesis": "28.12.2022 18:13:50h",
+  "abgerufen_am": "2026-09-28T17:40:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22711-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22711-0002_flatfile.csv": "ed96087069fba40d29418844c57633f6e713a1d451fb56a507d0efff98728ce9"
+  },
+  "bytes": 58167,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22711/table/22711-0002"
+}

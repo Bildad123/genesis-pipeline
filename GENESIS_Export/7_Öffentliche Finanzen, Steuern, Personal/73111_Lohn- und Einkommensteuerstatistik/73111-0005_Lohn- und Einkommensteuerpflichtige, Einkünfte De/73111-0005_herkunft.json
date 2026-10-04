@@ -1,0 +1,28 @@
+{
+  "tabelle": "73111-0005",
+  "titel": "Lohn- und Einkommensteuerpflichtige, Einkünfte: Deutschland, Jahre, Einkunftsarten, Grund-/Splittingtabelle, Größenklassen der Einkünfte",
+  "zeitraum": "2021 - 2022",
+  "statistik": "73111",
+  "alle_statistiken": [
+    "73111"
+  ],
+  "stand_genesis": "04.06.2025 15:12:44h",
+  "abgerufen_am": "2026-09-28T20:53:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73111-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73111-0005_flatfile.csv": "16498dbf72c68378b0b66932b82159ba6befa1a777eaa6b4ca5b36c5f9fc9f94"
+  },
+  "bytes": 177879,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73111/table/73111-0005"
+}

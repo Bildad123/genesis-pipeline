@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0005",
+  "titel": "Tageseinrichtungen: Deutschland, Stichtag, Öffnungszeiten der Tageseinrichtung",
+  "zeitraum": "01.03.2019 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 13:48:14h",
+  "abgerufen_am": "2026-09-28T17:35:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0005_flatfile.csv": "672fa63ffeae34ec48ff546aa360731d837856284cbe664ddcb34fb8005dfe49"
+  },
+  "bytes": 10043,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0005"
+}

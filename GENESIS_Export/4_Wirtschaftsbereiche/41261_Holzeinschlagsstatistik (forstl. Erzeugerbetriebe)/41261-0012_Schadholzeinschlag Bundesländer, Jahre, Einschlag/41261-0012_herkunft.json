@@ -1,0 +1,28 @@
+{
+  "tabelle": "41261-0012",
+  "titel": "Schadholzeinschlag: Bundesländer, Jahre, Einschlagsursache, Holzartengruppen, Waldeigentumsarten",
+  "zeitraum": "2006 - 2025",
+  "statistik": "41261",
+  "alle_statistiken": [
+    "41261"
+  ],
+  "stand_genesis": "29.12.2022 08:02:03h",
+  "abgerufen_am": "2026-09-28T18:36:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41261-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41261-0012_flatfile.csv": "da871bebb528f2cc0ccb4437925744ad2ccae561933483efbb70ad10d8a7e557"
+  },
+  "bytes": 582399,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41261/table/41261-0012"
+}

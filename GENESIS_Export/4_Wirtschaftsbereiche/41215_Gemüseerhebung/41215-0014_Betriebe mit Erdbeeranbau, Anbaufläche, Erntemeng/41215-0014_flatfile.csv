@@ -1,0 +1,193 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;13829,7;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;556,1;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;173;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;;Insgesamt;30696,6;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;;Insgesamt;2381,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;;Insgesamt;324;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);76,9;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);26;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;3;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;;Insgesamt;1631,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;;Insgesamt;333,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;;Insgesamt;70;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);2664,5;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);268,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);70;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);300,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);71;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);5333,6;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);335,1;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);21;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;3015,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;32,1;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;10;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;3082,3;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;186,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;44;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);159,7;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);58;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;105,6;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;6,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;9;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);4;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);758,0;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);95,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);18;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;6850,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;250,3;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;74;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;;Insgesamt;9416,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;;Insgesamt;728,6;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;;Insgesamt;21;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);12600,1;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1248,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);343;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);16866,9;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1431,7;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);289;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;;Insgesamt;11316,7;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;;Insgesamt;1570,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;;Insgesamt;250;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;;Insgesamt;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;;Insgesamt;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;;Insgesamt;2;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);675,9;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);103,6;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);29;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);222,9;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);49;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;4083,2;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;164,0;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;3;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;;Insgesamt;28904,6;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;;Insgesamt;2554,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;;Insgesamt;199;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;;Insgesamt;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;;Insgesamt;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;;Insgesamt;19;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);346,4;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);108;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);.;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);87,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);31;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;;Insgesamt;7768,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;;Insgesamt;960,4;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;;Insgesamt;143;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;301,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;19,1;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;9;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;1344,9;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;62,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;31;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);657,0;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);122,6;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);57;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;;Insgesamt;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;;Insgesamt;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;;Insgesamt;4;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);229,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);7;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;/;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;148,6;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;/;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);22053,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);2004,0;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);185;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);.;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);52,7;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);21;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;;Insgesamt;958,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;;Insgesamt;218,6;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;ANBA03;Anbauform;;Insgesamt;66;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);4686,4;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);613,9;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);138;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;;Insgesamt;4720,1;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;;Insgesamt;412,4;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;;Insgesamt;80;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);3;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);60,7;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);9;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;;Insgesamt;6438,1;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;;Insgesamt;802,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;;Insgesamt;69;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;2055,7;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;91,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;33;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;2;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);1;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);394,0;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);116;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);605,3;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);230;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;;Insgesamt;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;;Insgesamt;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;;Insgesamt;.;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;-;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;-;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;-;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);41,0;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);15;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);5093,2;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);517,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);59;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;;Insgesamt;21634,0;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;;Insgesamt;2387,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;;Insgesamt;393;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;9033,8;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;533,4;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;174;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;;Insgesamt;3691,7;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;;Insgesamt;176,7;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;ANBA03;Anbauform;;Insgesamt;33;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;;Insgesamt;.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;;Insgesamt;.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;ANBA03;Anbauform;;Insgesamt;.;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);7448,7;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1075,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);224;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1526,2;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);239,4;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);64;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);.;Anzahl;BTR050;Betriebe mit Erdbeeranbau

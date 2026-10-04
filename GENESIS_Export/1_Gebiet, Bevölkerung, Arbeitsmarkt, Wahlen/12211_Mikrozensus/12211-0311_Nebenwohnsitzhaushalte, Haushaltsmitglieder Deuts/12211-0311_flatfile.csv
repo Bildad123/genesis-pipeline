@@ -1,0 +1,16 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;;Insgesamt;621;1000;HSH023;Nebenwohnsitzhaushalte
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;;Insgesamt;819;1000;HSH024;Haushaltsmitglieder in Nebenwohnsitzhaushalten
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;;Insgesamt;1,32;Anzahl;HSH025;Haushaltsmitglieder je Nebenwohnsitzhaushalt
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK100B500;100 000 bis unter 500 000 Einwohner;107;1000;HSH023;Nebenwohnsitzhaushalte
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK100B500;100 000 bis unter 500 000 Einwohner;133;1000;HSH024;Haushaltsmitglieder in Nebenwohnsitzhaushalten
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK100B500;100 000 bis unter 500 000 Einwohner;1,24;Anzahl;HSH025;Haushaltsmitglieder je Nebenwohnsitzhaushalt
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK020B100;20 000 bis unter 100 000 Einwohner;145;1000;HSH023;Nebenwohnsitzhaushalte
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK020B100;20 000 bis unter 100 000 Einwohner;187;1000;HSH024;Haushaltsmitglieder in Nebenwohnsitzhaushalten
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK020B100;20 000 bis unter 100 000 Einwohner;1,30;Anzahl;HSH025;Haushaltsmitglieder je Nebenwohnsitzhaushalt
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK000B020;unter 20 000 Einwohner;251;1000;HSH023;Nebenwohnsitzhaushalte
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK000B020;unter 20 000 Einwohner;351;1000;HSH024;Haushaltsmitglieder in Nebenwohnsitzhaushalten
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK000B020;unter 20 000 Einwohner;1,40;Anzahl;HSH025;Haushaltsmitglieder je Nebenwohnsitzhaushalt
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK500UM;500 000 und mehr Einwohner;118;1000;HSH023;Nebenwohnsitzhaushalte
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK500UM;500 000 und mehr Einwohner;148;1000;HSH024;Haushaltsmitglieder in Nebenwohnsitzhaushalten
+12211;Mikrozensus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMGK2;Gemeindegrößenklassen;GEMGK500UM;500 000 und mehr Einwohner;1,25;Anzahl;HSH025;Haushaltsmitglieder je Nebenwohnsitzhaushalt

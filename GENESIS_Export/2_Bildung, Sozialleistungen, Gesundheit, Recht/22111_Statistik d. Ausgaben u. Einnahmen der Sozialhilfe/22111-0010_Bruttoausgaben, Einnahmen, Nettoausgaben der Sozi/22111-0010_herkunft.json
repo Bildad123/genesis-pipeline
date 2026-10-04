@@ -1,0 +1,28 @@
+{
+  "tabelle": "22111-0010",
+  "titel": "Bruttoausgaben, Einnahmen, Nettoausgaben der Sozialhilfe: Früheres Bundesgebiet / Neue Länder, Jahre",
+  "zeitraum": "1994 - 2025",
+  "statistik": "22111",
+  "alle_statistiken": [
+    "22111"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:18:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22111-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22111-0010_flatfile.csv": "8c1f27bc23b09245f5a2d38da1a57beb99a558bd14a2ca7cfedf3f5400c6d603"
+  },
+  "bytes": 56905,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22111/table/22111-0010"
+}

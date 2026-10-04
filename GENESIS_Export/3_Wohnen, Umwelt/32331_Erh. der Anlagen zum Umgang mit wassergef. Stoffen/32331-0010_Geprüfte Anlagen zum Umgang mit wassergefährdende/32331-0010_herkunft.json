@@ -1,0 +1,28 @@
+{
+  "tabelle": "32331-0010",
+  "titel": "Geprüfte Anlagen zum Umgang mit wassergefährdenden Stoffen: Deutschland, Jahre, Anlagenart, Maßgebende Wassergefährdungsklasse",
+  "zeitraum": "2018 - 2023",
+  "statistik": "32331",
+  "alle_statistiken": [
+    "32331"
+  ],
+  "stand_genesis": "28.12.2022 19:41:18h",
+  "abgerufen_am": "2026-09-28T18:15:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32331-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32331-0010_flatfile.csv": "a6f5948fa5b87a7eb5991ed67a87d0ad6ec0e26c67e7ebf4f5309b5e9151711e"
+  },
+  "bytes": 113009,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32331/table/32331-0010"
+}

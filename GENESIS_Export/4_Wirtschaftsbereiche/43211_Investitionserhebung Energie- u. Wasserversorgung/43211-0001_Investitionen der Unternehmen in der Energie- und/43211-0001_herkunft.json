@@ -1,0 +1,28 @@
+{
+  "tabelle": "43211-0001",
+  "titel": "Investitionen der Unternehmen in der Energie- und Wasserversorgung: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "1975 - 2024",
+  "statistik": "43211",
+  "alle_statistiken": [
+    "43211"
+  ],
+  "stand_genesis": "28.12.2022 18:42:26h",
+  "abgerufen_am": "2026-09-28T19:04:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43211-0001_flatfile.csv": "8473d9f1f76f58b5cabf0b3a0da4d4c086975c046bdb4a26890520d5e7a808dc"
+  },
+  "bytes": 541644,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43211/table/43211-0001"
+}

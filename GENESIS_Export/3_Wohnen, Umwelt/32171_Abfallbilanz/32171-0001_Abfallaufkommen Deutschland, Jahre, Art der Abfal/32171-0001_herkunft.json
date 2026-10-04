@@ -1,0 +1,28 @@
+{
+  "tabelle": "32171-0001",
+  "titel": "Abfallaufkommen: Deutschland, Jahre, Art der Abfallentsorgung, Abfallarten",
+  "zeitraum": "2021 - 2024",
+  "statistik": "32171",
+  "alle_statistiken": [
+    "32171"
+  ],
+  "stand_genesis": "11.09.2025 13:50:35h",
+  "abgerufen_am": "2026-09-28T18:12:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32171-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32171-0001_flatfile.csv": "20bb72015b82712c35882024360f2ce0e4f4b90d9f77e637a043e8e8ad8136dd"
+  },
+  "bytes": 45253,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32171/table/32171-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "24251-0012",
+  "titel": "Eilverfahren vor dem Verwaltungsgericht: Bundesländer, Jahre, Stand der Erledigung",
+  "zeitraum": "2018 - 2024",
+  "statistik": "24251",
+  "alle_statistiken": [
+    "24251"
+  ],
+  "stand_genesis": "01.11.2023 13:17:29h",
+  "abgerufen_am": "2026-09-28T17:59:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24251-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24251-0012_flatfile.csv": "588e538b784e21611a6ef18bf6f14492167258bb2c87eb2627a0ec8e9dedc098"
+  },
+  "bytes": 19333,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24251/table/24251-0012"
+}

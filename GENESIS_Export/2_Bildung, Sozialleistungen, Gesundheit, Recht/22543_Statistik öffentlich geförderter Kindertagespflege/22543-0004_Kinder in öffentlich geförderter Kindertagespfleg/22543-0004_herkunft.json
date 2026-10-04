@@ -1,0 +1,28 @@
+{
+  "tabelle": "22543-0004",
+  "titel": "Kinder in öffentlich geförderter Kindertagespflege: Deutschland, Stichtag, Geschlecht, In der Familie vorrangig gesprochene Sprache",
+  "zeitraum": "01.03.2012 - 01.03.2025",
+  "statistik": "22543",
+  "alle_statistiken": [
+    "22543"
+  ],
+  "stand_genesis": "21.10.2025 13:33:43h",
+  "abgerufen_am": "2026-09-28T17:38:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22543-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22543-0004_flatfile.csv": "ecfb59fa74195e8bc880f0443bbd7480759150e54408d66ac9d2c994bcd70579"
+  },
+  "bytes": 37849,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22543/table/22543-0004"
+}

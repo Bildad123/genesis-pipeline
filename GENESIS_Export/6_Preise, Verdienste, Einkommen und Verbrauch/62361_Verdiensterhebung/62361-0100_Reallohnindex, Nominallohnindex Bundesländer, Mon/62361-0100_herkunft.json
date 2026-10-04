@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0100",
+  "titel": "Reallohnindex, Nominallohnindex: Bundesländer, Monate",
+  "zeitraum": "Januar 2022 - Juni 2026",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "19.04.2024 17:04:31h",
+  "abgerufen_am": "2026-09-28T20:42:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0100_flatfile.csv": "a96d54d70465005963660dd76ecc92b26e696e31db7aeca4486d5e561c2797af"
+  },
+  "bytes": 198141,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0100"
+}

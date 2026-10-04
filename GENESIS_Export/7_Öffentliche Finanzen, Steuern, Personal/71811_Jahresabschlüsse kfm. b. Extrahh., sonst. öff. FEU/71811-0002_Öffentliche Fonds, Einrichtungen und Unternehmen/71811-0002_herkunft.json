@@ -1,0 +1,28 @@
+{
+  "tabelle": "71811-0002",
+  "titel": "Öffentliche Fonds, Einrichtungen und Unternehmen (FEU): Deutschland, Jahre, Ebenen des öffentlichen Bereichs, Aufgabenbereiche",
+  "zeitraum": "2014 - 2023",
+  "statistik": "71811",
+  "alle_statistiken": [
+    "71811"
+  ],
+  "stand_genesis": "28.12.2022 22:42:11h",
+  "abgerufen_am": "2026-09-28T20:51:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71811-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71811-0002_flatfile.csv": "9ac9e5572314f02f9c6a84807769ed3e1664b051f8082dd853e82e8dcea0920c"
+  },
+  "bytes": 23688,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71811/table/71811-0002"
+}

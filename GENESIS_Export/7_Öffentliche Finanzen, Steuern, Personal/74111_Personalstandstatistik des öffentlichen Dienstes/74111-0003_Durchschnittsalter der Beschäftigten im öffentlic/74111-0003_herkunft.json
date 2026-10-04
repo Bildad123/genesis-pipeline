@@ -1,0 +1,28 @@
+{
+  "tabelle": "74111-0003",
+  "titel": "Durchschnittsalter der Beschäftigten im öffentlichen Dienst: Deutschland, Stichtag, Beschäftigungsbereich, Dienstverhältnis, Geschlecht",
+  "zeitraum": "30.06.2000 - 30.06.2024",
+  "statistik": "74111",
+  "alle_statistiken": [
+    "74111"
+  ],
+  "stand_genesis": "12.08.2025 15:26:54h",
+  "abgerufen_am": "2026-09-28T20:59:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "74111-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "74111-0003_flatfile.csv": "683f4e2a9612d74b9238120513cdae8d2b31635ce3bdd9b0a5d1d49e66271ab1"
+  },
+  "bytes": 150554,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/74111/table/74111-0003"
+}

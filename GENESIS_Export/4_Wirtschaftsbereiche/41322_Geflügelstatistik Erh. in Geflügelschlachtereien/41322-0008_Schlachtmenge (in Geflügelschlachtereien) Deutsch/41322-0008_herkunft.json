@@ -1,0 +1,28 @@
+{
+  "tabelle": "41322-0008",
+  "titel": "Schlachtmenge (in Geflügelschlachtereien): Deutschland, Monate (bis 2009), Geflügelart",
+  "zeitraum": "Januar 1991 - Dezember 2009",
+  "statistik": "41322",
+  "alle_statistiken": [
+    "41322"
+  ],
+  "stand_genesis": "29.12.2022 04:30:49h",
+  "abgerufen_am": "2026-09-28T18:41:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41322-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41322-0008_flatfile.csv": "65ca5ccf9620dce2758b9ca7cf9b64c832e537a01fe80f38f7d204727521d300"
+  },
+  "bytes": 26030,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41322/table/41322-0008"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12621-0004",
+  "titel": "Durchschnittliche Lebenserwartung bei Geburt (Periodensterbetafel): Bundesländer, Jahre, Geschlecht",
+  "zeitraum": "2002/04 - 2023/25",
+  "statistik": "12621",
+  "alle_statistiken": [
+    "12621"
+  ],
+  "stand_genesis": "14.10.2025 16:53:52h",
+  "abgerufen_am": "2026-09-28T16:54:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12621-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12621-0004_flatfile.csv": "a4b8855194e576df798df069edf1e71d950948e265a6a39f484f801def8746dd"
+  },
+  "bytes": 127804,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12621/table/12621-0004"
+}

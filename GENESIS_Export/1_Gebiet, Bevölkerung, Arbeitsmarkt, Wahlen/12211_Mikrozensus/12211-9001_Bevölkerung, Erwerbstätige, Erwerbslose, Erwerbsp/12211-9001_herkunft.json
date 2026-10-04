@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9001",
+  "titel": "Bevölkerung, Erwerbstätige, Erwerbslose, Erwerbspersonen, Nichterwerbspersonen: Deutschland, Jahre (bis 2019), Altersgruppen",
+  "zeitraum": "04/1991 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:04h",
+  "abgerufen_am": "2026-09-28T16:30:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9001_flatfile.csv": "ffda2812d53428e3c3521fcefdf00e793c4abc8b912777ac98b4c6f832907481"
+  },
+  "bytes": 307796,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9001"
+}

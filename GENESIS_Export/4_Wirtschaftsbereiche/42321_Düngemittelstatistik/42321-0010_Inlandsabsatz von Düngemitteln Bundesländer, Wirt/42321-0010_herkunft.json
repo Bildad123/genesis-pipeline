@@ -1,0 +1,28 @@
+{
+  "tabelle": "42321-0010",
+  "titel": "Inlandsabsatz von Düngemitteln: Bundesländer, Wirtschaftsjahr, Düngemittelsorten",
+  "zeitraum": "2016/17 - 2024/25",
+  "statistik": "42321",
+  "alle_statistiken": [
+    "42321"
+  ],
+  "stand_genesis": "09.02.2022 14:06:08h",
+  "abgerufen_am": "2026-09-28T19:03:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42321-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42321-0010_flatfile.csv": "540e38fda37db205aa371ca0d0562e45803b70ca98fd82b558d7e291a16313a6"
+  },
+  "bytes": 75942,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42321/table/42321-0010"
+}

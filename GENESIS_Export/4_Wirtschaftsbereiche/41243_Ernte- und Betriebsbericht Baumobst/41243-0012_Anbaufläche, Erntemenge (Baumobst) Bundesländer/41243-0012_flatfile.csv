@@ -1,0 +1,641 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;/;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;172;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;65527;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;127;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-GALA;Gala;84336;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-GALA;Gala;239;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;/;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;8;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;78354;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;235;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-WELL;Wellant;17081;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-WELL;Wellant;89;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;80971;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;277;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-WELL;Wellant;9284;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-WELL;Wellant;35;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;13368;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;49;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;741595;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;2612;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;117449;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;371;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;38770;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;147;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;93917;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;291;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;13481;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;39;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;247539;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;825;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;52626;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;265;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;8949;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;27;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;/;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;13;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-ELST;Elstar;132415;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-ELST;Elstar;457;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;271038;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;936;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;5714;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;15;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;117274;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;476;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-WELL;Wellant;58386;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-WELL;Wellant;133;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;29522;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;90;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;5372;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;17;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;7988;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;29;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;3020;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;17;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-ELST;Elstar;11206;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-ELST;Elstar;93;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;3817;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;16;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;110845;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;247;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;166877;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;518;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;21841;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;55;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-PINO;Pinova;/;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-PINO;Pinova;1;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;44123;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;132;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;/;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;106;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;13772;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;49;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;497343;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;1151;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;23165;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;107;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-ELST;Elstar;438494;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-ELST;Elstar;1865;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;/;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;136;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;155127;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;435;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;19895;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;90;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;283470;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;844;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-PINO;Pinova;/;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-PINO;Pinova;1;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-GALA;Gala;374099;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-GALA;Gala;1207;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;51927;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;171;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;38908;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-PINO;Pinova;151;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;52010;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;123;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-GALA;Gala;48050;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-GALA;Gala;171;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-GALA;Gala;10082;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-GALA;Gala;27;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;2656;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;8;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;7373;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;38;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;3427;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;16;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;30617;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;58;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-GALA;Gala;91677;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-GALA;Gala;400;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-GALA;Gala;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-PINO;Pinova;126692;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-PINO;Pinova;402;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;15;Sachsen-Anhalt;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;82957;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-BRAE;Braeburn;209;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-KANZ;Kanzi;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;16;Thüringen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-GALA;Gala;2524;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-GALA;Gala;10;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;16201;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-TOPA;Topaz;63;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-JOPR;Jonaprince;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;17883;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-JOGO;Jonagold;51;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;03;Niedersachsen;APFSO1;Apfelsorten;APFEL-RUBI;Rubinette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;09;Bayern;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;12;Brandenburg;APFSO1;Apfelsorten;APFEL-PINO;Pinova;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;14;Sachsen;APFSO1;Apfelsorten;APFEL-COXO;Cox Orangenrenette;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-IDAR;Idared;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;158854;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;05;Nordrhein-Westfalen;APFSO1;Apfelsorten;APFEL-ELST;Elstar;568;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;01;Schleswig-Holstein;APFSO1;Apfelsorten;APFEL-DELB;Delbarestivale;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-SHPI;Shampion;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;15117;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;02;Hamburg;APFSO1;Apfelsorten;APFEL-COXH;Holsteiner Cox;41;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;54258;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;08;Baden-Württemberg;APFSO1;Apfelsorten;APFEL-BOSK;Boskoop;271;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;10;Saarland;APFSO1;Apfelsorten;APFEL-GDEL;Golden Delicious;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;06;Hessen;APFSO1;Apfelsorten;APFEL-JOGR;Jonagored;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;07;Rheinland-Pfalz;APFSO1;Apfelsorten;APFEL-WELL;Wellant;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;04;Bremen;APFSO1;Apfelsorten;APFEL-FUJI;Fuji;-;ha;FLC016;Anbaufläche
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;dt;ERN001;Erntemenge
+41243;Ernte- und Betriebsbericht: Baumobst;JAHR;Jahr;2026;DLAND;Bundesländer;11;Berlin;APFSO1;Apfelsorten;APFEL-BERL;Berlepsch;-;ha;FLC016;Anbaufläche

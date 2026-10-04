@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0024",
+  "titel": "Einzelunternehmer aus Gewerbeabmeldungen: Deutschland, Monate, Grund der Gewerbeabmeldung, Geschlecht",
+  "zeitraum": "Januar 2003 - Juli 2026",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "30.07.2024 12:51:24h",
+  "abgerufen_am": "2026-09-28T20:07:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0024",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0024_flatfile.csv": "f2ab30123024e2b462fa476a1105db7ad44e8fce9701ba5e23f4de0ecae197cf"
+  },
+  "bytes": 45166,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0024"
+}

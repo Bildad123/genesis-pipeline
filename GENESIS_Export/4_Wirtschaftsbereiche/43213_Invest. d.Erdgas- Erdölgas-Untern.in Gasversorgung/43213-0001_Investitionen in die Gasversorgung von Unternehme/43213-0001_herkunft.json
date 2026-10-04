@@ -1,0 +1,28 @@
+{
+  "tabelle": "43213-0001",
+  "titel": "Investitionen in die Gasversorgung von Unternehmen der Erdgas- bzw. Erdölgas-Gewinnung und die Erdgas- bzw. Erdöl- gasleitungen erstellen oder betreiben: Deutschland, Jahre",
+  "zeitraum": "2006 - 2024",
+  "statistik": "43213",
+  "alle_statistiken": [
+    "43213"
+  ],
+  "stand_genesis": "03.01.2023 17:13:18h",
+  "abgerufen_am": "2026-09-28T19:04:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43213-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43213-0001_flatfile.csv": "9e0e82b624338043948831732c51ffd464a9cd9760e40c76d4dc8a59234b86a2"
+  },
+  "bytes": 3516,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43213/table/43213-0001"
+}

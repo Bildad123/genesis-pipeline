@@ -1,0 +1,28 @@
+{
+  "tabelle": "23141-0001",
+  "titel": "Nebendiagnosen der vollstationären Patienten: Deutschland, Jahre, Nebendiagnosen ICD-10 (1-3-Steller Hierarchie)",
+  "zeitraum": "2005 - 2024",
+  "statistik": "23141",
+  "alle_statistiken": [
+    "23141"
+  ],
+  "stand_genesis": "28.12.2022 17:15:56h",
+  "abgerufen_am": "2026-09-28T17:52:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23141-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23141-0001_flatfile.csv": "93dc910b4cf7e9093bcc1effb30fc154fb41b46ee24ad8c580d27182faab0e72"
+  },
+  "bytes": 5460852,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23141/table/23141-0001"
+}

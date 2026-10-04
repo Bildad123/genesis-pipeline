@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0111",
+  "titel": "Öffentlich geförderte Theaterunternehmen, Spielstätten, Veranstaltungen am Ort, Theaterbesuche: Bundesländer, Jahre",
+  "zeitraum": "2000 - 2024",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:15:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0111",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0111_flatfile.csv": "1ed2809759b9826057c0c7832dd3c9cb75e5c2a1846a8761b0d024147f88c860"
+  },
+  "bytes": 181870,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0111"
+}

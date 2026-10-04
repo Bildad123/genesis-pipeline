@@ -1,0 +1,28 @@
+{
+  "tabelle": "47414-0002",
+  "titel": "Beschäftigtenindex im Dienstleistungsbereich: Deutschland, Monate/Quartale/Halbjahre, Wirtschaftszweige",
+  "zeitraum": "Januar 2000 - Juni 2026",
+  "statistik": "47414",
+  "alle_statistiken": [
+    "47414"
+  ],
+  "stand_genesis": "28.12.2022 17:31:31h",
+  "abgerufen_am": "2026-09-28T19:34:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47414-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47414-0002_flatfile.csv": "8a2965fe93408c62365caa101c6998060f9ab49c15e48f9a38444c4dc8f51d58"
+  },
+  "bytes": 1104687,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47414/table/47414-0002"
+}

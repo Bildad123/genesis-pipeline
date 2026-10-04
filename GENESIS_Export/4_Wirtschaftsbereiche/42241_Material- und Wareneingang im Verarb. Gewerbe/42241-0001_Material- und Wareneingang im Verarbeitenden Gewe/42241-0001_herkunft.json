@@ -1,0 +1,28 @@
+{
+  "tabelle": "42241-0001",
+  "titel": "Material- und Wareneingang im Verarbeitenden Gewerbe: Deutschland, Jahre, Material- und Warenarten, Wirtschaftszweige (2-/3-/4-Steller)",
+  "zeitraum": "2010 - 2014",
+  "statistik": "42241",
+  "alle_statistiken": [
+    "42241"
+  ],
+  "stand_genesis": "28.12.2022 21:01:15h",
+  "abgerufen_am": "2026-09-28T18:59:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42241-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42241-0001_flatfile.csv": "0adb55bbc4886ad167c271f3dfeaf4ca91aefc93b0c891b7e5dc71e16b703c00"
+  },
+  "bytes": 49168,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42241/table/42241-0001"
+}

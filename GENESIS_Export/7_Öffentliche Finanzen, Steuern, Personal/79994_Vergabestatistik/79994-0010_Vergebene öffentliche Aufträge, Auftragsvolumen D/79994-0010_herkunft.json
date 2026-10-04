@@ -1,0 +1,28 @@
+{
+  "tabelle": "79994-0010",
+  "titel": "Vergebene öffentliche Aufträge, Auftragsvolumen: Deutschland, Quartale, Auftraggeberebene, Unterschwelle, Auftragsart, Verfahrensart",
+  "zeitraum": "1. Quartal 2021 - 4. Quartal 2024",
+  "statistik": "79994",
+  "alle_statistiken": [
+    "79994"
+  ],
+  "stand_genesis": "28.12.2022 19:36:00h",
+  "abgerufen_am": "2026-09-28T21:02:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "79994-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "79994-0010_flatfile.csv": "b40d9f32bdb20026980fa416c341019ab5cd82f85b52f678e5f89dcac7a54dcc"
+  },
+  "bytes": 354590,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/79994/table/79994-0010"
+}

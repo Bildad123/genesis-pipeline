@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:19:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "24111",
+    "Content": "Statistik der Zahl der Gerichte",
+    "Cubes": "1",
+    "Variables": "4",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Zur Statistik der Zahl der Gerichte wird jährlich die Anzahl\nder Gerichte in der ordentlichen sowie in der\nFachgerichtsbarkeit nach Instanzen erhoben. Bei den\nordentlichen Gerichten wird darüber hinaus für die einzelnen\nGerichtsbezirke die Zahl der Gemeinden, der Wohnbevölkerung\nund der Spruchkörper (Land- und Oberlandesgerichte) erfasst.\n\nRechtsgrundlage:\n§ 3 Abs. 3 BStatG vom 22. Januar 1987, Rechtsverordnungen\nder Landesministerien.\n\n\n© Statistisches Bundesamt, Wiesbaden 2007",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

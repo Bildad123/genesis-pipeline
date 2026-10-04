@@ -1,0 +1,28 @@
+{
+  "tabelle": "46411-0004",
+  "titel": "Luftfahrzeuge (Luftverkehr): Deutschland, Jahre, Luftfahrzeugart",
+  "zeitraum": "1980 - 2024",
+  "statistik": "46411",
+  "alle_statistiken": [
+    "46411"
+  ],
+  "stand_genesis": "29.12.2022 08:14:54h",
+  "abgerufen_am": "2026-09-28T19:31:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46411-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46411-0004_flatfile.csv": "b6f5ad285edff9d51e2a4383bbd5d85f9342eed825c3a67b7ec6904d30fb3985"
+  },
+  "bytes": 24545,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46411/table/46411-0004"
+}

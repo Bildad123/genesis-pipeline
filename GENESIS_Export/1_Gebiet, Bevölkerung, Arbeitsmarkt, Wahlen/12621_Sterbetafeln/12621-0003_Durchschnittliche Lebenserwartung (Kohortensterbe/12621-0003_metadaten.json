@@ -1,0 +1,93 @@
+{
+  "abgerufen_am": "2026-09-28T16:54:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12621-0003",
+    "Content": "Durchschnittliche Lebenserwartung (Kohortensterbetafel):\nDeutschland, Geburtsjahr, Geschlecht, Vollendetes Alter,\nTrendvarianten",
+    "Time": {
+      "From": "1871",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12621",
+        "Content": "Sterbetafeln",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "LEB007",
+                "Content": "Durchschnittliche Lebenserwartung [e(x)]",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GBJAHR",
+          "Content": "Geburtsjahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ALT577",
+          "Content": "Vollendetes Alter",
+          "Type": "Merkmal",
+          "Values": "101",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "KOHVA1",
+        "Content": "Trendvarianten der Kohortensterbetafel",
+        "Type": "Merkmal",
+        "Values": "3",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "GES",
+        "Content": "Geschlecht",
+        "Type": "Merkmal",
+        "Values": "2",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 18:09:56h"
+  }
+}

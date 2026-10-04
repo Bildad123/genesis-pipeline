@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0002",
+  "titel": "Bevölkerung, Erwerbstätige, Erwerbslose, Erwerbspersonen, Nichterwerbspersonen aus Hauptwohnsitzhaushalten: Deutschland, Jahre, Überwiegender Lebensunterhalt, Altersgruppen",
+  "zeitraum": "2023 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "11.04.2024 16:37:58h",
+  "abgerufen_am": "2026-09-28T16:24:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0002_flatfile.csv": "8f1ad12f02e5abeeeb6a7705c8db1a59e3fee945e5f2b22a7ffb891f43f9c002"
+  },
+  "bytes": 70971,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0002"
+}

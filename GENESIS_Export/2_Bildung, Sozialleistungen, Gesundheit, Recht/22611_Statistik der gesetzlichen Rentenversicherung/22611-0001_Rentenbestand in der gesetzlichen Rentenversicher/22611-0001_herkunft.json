@@ -1,0 +1,28 @@
+{
+  "tabelle": "22611-0001",
+  "titel": "Rentenbestand in der gesetzlichen Rentenversicherung: Deutschland, Stichtag, Versicherungszweig, Rentenart",
+  "zeitraum": "01.07.2005 - 01.07.2023",
+  "statistik": "22611",
+  "alle_statistiken": [
+    "22611"
+  ],
+  "stand_genesis": "28.12.2022 19:05:37h",
+  "abgerufen_am": "2026-09-28T17:40:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22611-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22611-0001_flatfile.csv": "8cc5d55a6ce816a9231bb94aa247b6a4238a78ce8c37475fa0ff78966965bef0"
+  },
+  "bytes": 27613,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22611/table/22611-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "44253-0001",
+  "titel": "Brutto- und Nettoproduktionswert, Brutto- und Nettowertschöpfung zu Faktorkosten im Baugewerbe: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2008 - 2024",
+  "statistik": "44253",
+  "alle_statistiken": [
+    "44253"
+  ],
+  "stand_genesis": "28.12.2022 19:44:02h",
+  "abgerufen_am": "2026-09-28T19:09:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44253-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44253-0001_flatfile.csv": "977a51251bcd730ea42d8d1ca19ee7e47b5e0194b68f83ee3685590a72ef2ad7"
+  },
+  "bytes": 410582,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44253/table/44253-0001"
+}

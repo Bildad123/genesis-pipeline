@@ -1,0 +1,28 @@
+{
+  "tabelle": "41145-0011",
+  "titel": "Betriebe, Nutzfläche (Gartenbau): Bundesländer, Jahre, Betriebsarten, Größenklassen der gärtnerischen Nutzfläche",
+  "zeitraum": "2005 - 2005",
+  "statistik": "41145",
+  "alle_statistiken": [
+    "41145"
+  ],
+  "stand_genesis": "29.12.2022 08:02:34h",
+  "abgerufen_am": "2026-09-28T18:26:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41145-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41145-0011_flatfile.csv": "01d9f195d14dc2d506b250eb5e0614184eace0f3476fe48fbcd6d4a0590ccc53"
+  },
+  "bytes": 220847,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41145/table/41145-0011"
+}

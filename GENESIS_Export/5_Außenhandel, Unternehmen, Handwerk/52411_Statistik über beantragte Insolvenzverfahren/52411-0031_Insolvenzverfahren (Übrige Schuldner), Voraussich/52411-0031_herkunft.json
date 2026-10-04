@@ -1,0 +1,28 @@
+{
+  "tabelle": "52411-0031",
+  "titel": "Insolvenzverfahren (Übrige Schuldner), Voraussichtliche Forderungen (Übrige Schuldner): Deutschland, Monate, Schuldnerarten",
+  "zeitraum": "Januar 2003 - Juni 2026",
+  "statistik": "52411",
+  "alle_statistiken": [
+    "52411"
+  ],
+  "stand_genesis": "09.08.2023 14:48:13h",
+  "abgerufen_am": "2026-09-28T20:12:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52411-0031",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52411-0031_flatfile.csv": "b0274d5137b5c5052bfe1e5688489e5742f58570e6365219c1a80e95983ae6db"
+  },
+  "bytes": 44859,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52411/table/52411-0031"
+}

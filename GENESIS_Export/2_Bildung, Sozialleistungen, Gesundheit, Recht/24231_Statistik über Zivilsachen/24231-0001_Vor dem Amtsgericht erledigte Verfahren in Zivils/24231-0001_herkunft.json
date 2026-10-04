@@ -1,0 +1,28 @@
+{
+  "tabelle": "24231-0001",
+  "titel": "Vor dem Amtsgericht erledigte Verfahren in Zivilsachen: Deutschland, Jahre, Art der Erledigung, Sachgebiete",
+  "zeitraum": "2017 - 2024",
+  "statistik": "24231",
+  "alle_statistiken": [
+    "24231"
+  ],
+  "stand_genesis": "28.12.2022 17:11:45h",
+  "abgerufen_am": "2026-09-28T17:59:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24231-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24231-0001_flatfile.csv": "270fcd688174c432c39aafa7772522345a66c41f1ed9e28458851fa10ab954d5"
+  },
+  "bytes": 113396,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24231/table/24231-0001"
+}

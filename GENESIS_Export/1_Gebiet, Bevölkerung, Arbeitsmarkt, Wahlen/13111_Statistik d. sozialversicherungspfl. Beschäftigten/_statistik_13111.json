@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:16:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "13111",
+    "Content": "Statistik d. sozialversicherungspfl. Beschäftigten",
+    "Cubes": "13",
+    "Variables": "10",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Vierteljährlich"
+      }
+    ],
+    "Information": "Statistik der sozialversicherungspflichtig Beschäftigten\n\nFür Informationen über Methoden, Definitionen und\nDatenqualität zu den einzelnen Fachstatistiken der\nBundesagentur für Arbeit siehe:\nstatistik.arbeitsagentur.de > Grundlagen",
+    "Updated": "21.01.2026 08:21:23h"
+  }
+}

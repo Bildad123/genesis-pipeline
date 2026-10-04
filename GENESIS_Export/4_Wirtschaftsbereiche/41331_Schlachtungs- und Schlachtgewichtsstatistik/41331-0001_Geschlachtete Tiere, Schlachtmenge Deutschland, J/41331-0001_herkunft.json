@@ -1,0 +1,28 @@
+{
+  "tabelle": "41331-0001",
+  "titel": "Geschlachtete Tiere, Schlachtmenge: Deutschland, Jahre, Tierarten, Schlachtungsart",
+  "zeitraum": "1993 - 2025",
+  "statistik": "41331",
+  "alle_statistiken": [
+    "41331"
+  ],
+  "stand_genesis": "05.02.2025 11:40:36h",
+  "abgerufen_am": "2026-09-28T18:42:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41331-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41331-0001_flatfile.csv": "270e5b9e2524f80d0a1e6c4f8269e6d4e6c77650f4fdc72db2e310fbd02ba29b"
+  },
+  "bytes": 591048,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41331/table/41331-0001"
+}

@@ -1,0 +1,104 @@
+{
+  "abgerufen_am": "2026-09-28T19:04:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "43312-0001",
+    "Content": "Stromeinspeisende Anlagen, Nettonennleistung,\nStromeinspeisung: Deutschland, Monate, Energieträger",
+    "Time": {
+      "From": "2018",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "43312",
+        "Content": "Erh. ü.Stromein- u.-ausspeisung bei Netzbetreibern",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "MONAT",
+          "Content": "Monate",
+          "Type": "Merkmal",
+          "Values": "12",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ANL014",
+              "Content": "Stromeinspeisende Anlagen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "LST013",
+              "Content": "Nettonennleistung",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "SPE001",
+              "Content": "Stromeinspeisung",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ENRG07",
+          "Content": "Energieträger",
+          "Type": "Merkmal",
+          "Values": "45",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:05:14h"
+  }
+}

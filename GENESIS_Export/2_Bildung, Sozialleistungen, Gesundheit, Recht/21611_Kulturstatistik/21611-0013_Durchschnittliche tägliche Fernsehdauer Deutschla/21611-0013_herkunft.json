@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0013",
+  "titel": "Durchschnittliche tägliche Fernsehdauer: Deutschland, Jahre, Altersgruppen der Zuschauer",
+  "zeitraum": "2000 - 2025",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:14:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0013_flatfile.csv": "8647bb3942e1ce16a9a87f06b2805d56110ff7ead380459ddfe41e34fb58a9a2"
+  },
+  "bytes": 25945,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0013"
+}

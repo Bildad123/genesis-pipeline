@@ -1,0 +1,28 @@
+{
+  "tabelle": "31141-0006",
+  "titel": "Abgang von Gebäuden/Gebäudeteilen im Hochbau: Bundesländer, Jahre, Gebäudeart, Eigentümer",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31141",
+  "alle_statistiken": [
+    "31141"
+  ],
+  "stand_genesis": "24.04.2024 15:59:06h",
+  "abgerufen_am": "2026-09-28T18:07:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31141-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31141-0006_flatfile.csv": "857a1a78c938e743a140f31554db209747f8ac380cbe1fbf17bee8d1501cb3ed"
+  },
+  "bytes": 242466,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31141/table/31141-0006"
+}

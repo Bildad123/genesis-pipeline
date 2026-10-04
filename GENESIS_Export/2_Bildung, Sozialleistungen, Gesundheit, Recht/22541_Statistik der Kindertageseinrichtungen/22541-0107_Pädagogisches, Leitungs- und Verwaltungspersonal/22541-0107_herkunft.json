@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0107",
+  "titel": "Pädagogisches, Leitungs- und Verwaltungspersonal: Bundesländer, Stichtag, Höchster Berufsausbildungsabschluss",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 14:01:29h",
+  "abgerufen_am": "2026-09-28T17:37:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0107",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0107_flatfile.csv": "d57a16b851c54134286bd3fc852e8833678f61230bcd00ff878298dcb18a2ac4"
+  },
+  "bytes": 67349,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0107"
+}

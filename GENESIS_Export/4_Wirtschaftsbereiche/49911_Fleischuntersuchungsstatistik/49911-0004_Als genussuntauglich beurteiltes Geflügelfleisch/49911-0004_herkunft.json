@@ -1,0 +1,28 @@
+{
+  "tabelle": "49911-0004",
+  "titel": "Als genussuntauglich beurteiltes Geflügelfleisch: Deutschland, Jahre (bis 2018), Geflügelart, Untersuchungsort und Herkunft, Genussuntauglichkeitsgründe",
+  "zeitraum": "2012 - 2018",
+  "statistik": "49911",
+  "alle_statistiken": [
+    "49911"
+  ],
+  "stand_genesis": "29.12.2022 08:40:29h",
+  "abgerufen_am": "2026-09-28T19:41:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "49911-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "49911-0004_flatfile.csv": "eaa0355b3a77b58e806e5257b21e2d2eca55abebf098056f7300637d7f6ff4ee"
+  },
+  "bytes": 77385,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/49911/table/49911-0004"
+}

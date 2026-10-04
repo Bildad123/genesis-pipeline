@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0041",
+  "titel": "VGR des Bundes - Hauptaggregate der Sektoren: Deutschland, Quartale, Wirtschafts-Sektoren, Hauptaggregatarten",
+  "zeitraum": "1. Quartal 1999 - 2. Quartal 2026",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "04.12.2025 13:53:08h",
+  "abgerufen_am": "2026-09-28T21:08:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0041",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0041_flatfile.csv": "da2eaadd1bebe6e0ef9e9c6dd6ceb9b92bdcce08ec574320e6d8aa055c9f1647"
+  },
+  "bytes": 869084,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0041"
+}

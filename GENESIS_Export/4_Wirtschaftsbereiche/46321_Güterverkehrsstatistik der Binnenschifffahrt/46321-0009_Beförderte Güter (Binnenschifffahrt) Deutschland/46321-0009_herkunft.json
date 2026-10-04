@@ -1,0 +1,28 @@
+{
+  "tabelle": "46321-0009",
+  "titel": "Beförderte Güter (Binnenschifffahrt): Deutschland, Jahre, Hauptverkehrsbeziehungen, Flagge des Schiffes, Güterverzeichnis (Abteilungen)",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46321",
+  "alle_statistiken": [
+    "46321"
+  ],
+  "stand_genesis": "03.02.2023 16:21:34h",
+  "abgerufen_am": "2026-09-28T19:26:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46321-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46321-0009_flatfile.csv": "041c81e46853809094a11bd394b7a2687340bb9071a670c90cae2027707448e0"
+  },
+  "bytes": 1650007,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46321/table/46321-0009"
+}

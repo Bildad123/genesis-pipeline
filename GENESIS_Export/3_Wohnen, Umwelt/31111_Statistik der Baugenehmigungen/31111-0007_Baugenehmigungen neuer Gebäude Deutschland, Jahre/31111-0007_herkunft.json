@@ -1,0 +1,28 @@
+{
+  "tabelle": "31111-0007",
+  "titel": "Baugenehmigungen neuer Gebäude: Deutschland, Jahre, Gebäudeart, Art der Beheizung",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31111",
+  "alle_statistiken": [
+    "31111"
+  ],
+  "stand_genesis": "02.05.2024 17:14:32h",
+  "abgerufen_am": "2026-09-28T18:02:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31111-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31111-0007_flatfile.csv": "4fbe279266b66770ad7852c36aa47ddebfe85e6f71e128b7ecd3fe1d58ece72e"
+  },
+  "bytes": 70996,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31111/table/31111-0007"
+}

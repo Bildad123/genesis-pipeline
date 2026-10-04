@@ -1,0 +1,28 @@
+{
+  "tabelle": "12611-0004",
+  "titel": "Eheschließungen: Deutschland, Jahre, Staatsangehörigkeit des Mannes",
+  "zeitraum": "1960 - 2025",
+  "statistik": "12611",
+  "alle_statistiken": [
+    "12611"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T16:51:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12611-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12611-0004_flatfile.csv": "79f3cc630baddf04c55585efa8de1e044774cea6d5204899569daff7b6b45e0e"
+  },
+  "bytes": 302729,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12611/table/12611-0004"
+}

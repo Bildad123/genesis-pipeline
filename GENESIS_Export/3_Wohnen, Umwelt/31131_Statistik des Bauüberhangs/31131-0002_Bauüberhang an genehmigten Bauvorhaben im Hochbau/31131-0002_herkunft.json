@@ -1,0 +1,28 @@
+{
+  "tabelle": "31131-0002",
+  "titel": "Bauüberhang an genehmigten Bauvorhaben im Hochbau: Deutschland, Stichtag, Gebäudeart",
+  "zeitraum": "31.12.2015 - 31.12.2025",
+  "statistik": "31131",
+  "alle_statistiken": [
+    "31131"
+  ],
+  "stand_genesis": "24.04.2024 15:06:55h",
+  "abgerufen_am": "2026-09-28T18:07:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31131-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31131-0002_flatfile.csv": "8f8b1974d527b17bf4080aa5125425556a8b1d5ba69d73a24a2fd08b5783792d"
+  },
+  "bytes": 16942,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31131/table/31131-0002"
+}

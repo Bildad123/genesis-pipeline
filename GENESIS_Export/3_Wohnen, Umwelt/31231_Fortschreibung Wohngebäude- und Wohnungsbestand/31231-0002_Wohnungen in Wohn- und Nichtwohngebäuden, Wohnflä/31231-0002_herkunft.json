@@ -1,0 +1,28 @@
+{
+  "tabelle": "31231-0002",
+  "titel": "Wohnungen in Wohn- und Nichtwohngebäuden, Wohnfläche, Räume: Deutschland, Stichtag, Bestandsveränderungen",
+  "zeitraum": "31.12.2015 - 31.12.2025",
+  "statistik": "31231",
+  "alle_statistiken": [
+    "31231"
+  ],
+  "stand_genesis": "16.08.2023 16:38:46h",
+  "abgerufen_am": "2026-09-28T18:08:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31231-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31231-0002_flatfile.csv": "cb00ca4439b97fb733dda861ad762e77c27f4e1b6984c6789f1bb538fa488c7e"
+  },
+  "bytes": 9905,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31231/table/31231-0002"
+}

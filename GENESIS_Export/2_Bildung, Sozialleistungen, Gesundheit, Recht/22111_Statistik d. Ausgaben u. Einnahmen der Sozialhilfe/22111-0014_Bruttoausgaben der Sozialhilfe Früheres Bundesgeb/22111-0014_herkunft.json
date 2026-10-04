@@ -1,0 +1,28 @@
+{
+  "tabelle": "22111-0014",
+  "titel": "Bruttoausgaben der Sozialhilfe: Früheres Bundesgebiet / Neue Länder, Jahre, Sozialhilfearten, Sozialhilfeträger, Ort der Leistungserbringung",
+  "zeitraum": "2005 - 2025",
+  "statistik": "22111",
+  "alle_statistiken": [
+    "22111"
+  ],
+  "stand_genesis": "28.12.2022 17:49:32h",
+  "abgerufen_am": "2026-09-28T17:18:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22111-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22111-0014_flatfile.csv": "5cc0699e238d9cac879fc355e298fe995004a7f70146903b72e9d0813e8830c3"
+  },
+  "bytes": 175547,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22111/table/22111-0014"
+}

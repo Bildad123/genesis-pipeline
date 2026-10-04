@@ -1,0 +1,28 @@
+{
+  "tabelle": "12651-0001",
+  "titel": "Begründungen von Lebenspartnerschaften: Deutschland, Jahre (bis 2017), Geschlecht",
+  "zeitraum": "2014 - 2017",
+  "statistik": "12651",
+  "alle_statistiken": [
+    "12651"
+  ],
+  "stand_genesis": "28.12.2022 20:58:03h",
+  "abgerufen_am": "2026-09-28T16:55:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12651-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12651-0001_flatfile.csv": "840e98b5c279b95ab372768538cda18b1d8e6b606bc8d166960aa279d1eb3ca7"
+  },
+  "bytes": 2564,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12651/table/12651-0001"
+}

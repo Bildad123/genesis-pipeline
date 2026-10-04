@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0011",
+  "titel": "Pädagogisches, Leitungs- und Verwaltungspersonal: Deutschland, Stichtag, Art des Trägers, Stellung im Beruf",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 13:51:37h",
+  "abgerufen_am": "2026-09-28T17:36:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0011_flatfile.csv": "cb60eb6c7fd63d82b23550dddeae5fe73e681874f6e7ccf6d7f56321a21cd86d"
+  },
+  "bytes": 62869,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0011"
+}

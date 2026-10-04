@@ -1,0 +1,28 @@
+{
+  "tabelle": "13311-0002",
+  "titel": "Erwerbstätige, Arbeitnehmer, Selbständige und mithelfende Familienangehörige (im Inland): Bundesländer, Jahre, Wirtschaftszweige",
+  "zeitraum": "1991 - 2025",
+  "statistik": "13311",
+  "alle_statistiken": [
+    "13311"
+  ],
+  "stand_genesis": "25.03.2026 13:02:46h",
+  "abgerufen_am": "2026-09-28T16:58:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13311-0002_flatfile.csv": "e829cd0e307c44a842e8692b2bbe94e10c75420cf4ce26695a804ce68fd7ad4a"
+  },
+  "bytes": 1833857,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13311/table/13311-0002"
+}

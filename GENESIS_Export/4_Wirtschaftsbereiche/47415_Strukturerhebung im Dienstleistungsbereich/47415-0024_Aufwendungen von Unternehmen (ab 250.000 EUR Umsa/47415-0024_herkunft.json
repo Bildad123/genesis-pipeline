@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0024",
+  "titel": "Aufwendungen von Unternehmen (ab 250.000 EUR Umsatz): Deutschland, Jahre, Art der Aufwendungen, Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)",
+  "zeitraum": "2008 - 2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 17:01:59h",
+  "abgerufen_am": "2026-09-28T19:36:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0024",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0024_flatfile.csv": "d93e54b78bb78b835e2c7ff7d71c6758339bad3735cf324a7073d8eba00e46d1"
+  },
+  "bytes": 133308,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0024"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "61111-0004",
+  "titel": "Verbraucherpreisindex: Deutschland, Monate, Klassifikation der Verwendungszwecke des Individualkonsums (COICOP 2-5-Steller Hierarchie)",
+  "zeitraum": "Januar 1991 - August 2026",
+  "statistik": "61111",
+  "alle_statistiken": [
+    "61111"
+  ],
+  "stand_genesis": "10.01.2025 15:14:24h",
+  "abgerufen_am": "2026-09-28T20:20:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61111-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61111-0004_flatfile.csv": "080ed25d731e98cce3e77cc9809267f5d48dfd92543240941173c36c32d0cfe0"
+  },
+  "bytes": 2926425,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61111/table/61111-0004"
+}

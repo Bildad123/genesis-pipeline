@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0020",
+  "titel": "Sendezeit (Hörfunk): Deutschland, Jahre, Öffentlich-rechtliche Rundfunkanstalten, Art der Hörfunksendung",
+  "zeitraum": "2000 - 2023",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:14:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0020",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0020_flatfile.csv": "b51a89e0d62f40518b59d8c3d3705bb4a944aa183f3a518ecb3b06c3f2c8a39a"
+  },
+  "bytes": 298741,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0020"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "32212-0001",
+  "titel": "An öffentliche Kanalisation angeschlossene Einwohner, Schmutzwasser: Bundesländer, Jahre, Art der Abwasserentsorgung",
+  "zeitraum": "2013 - 2019",
+  "statistik": "32212",
+  "alle_statistiken": [
+    "32212"
+  ],
+  "stand_genesis": "28.12.2022 20:24:39h",
+  "abgerufen_am": "2026-09-28T18:12:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32212-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32212-0001_flatfile.csv": "b04a963644609fa069b4f638da78ee136a2c8df271a6d404b94f2a439e4e392a"
+  },
+  "bytes": 32503,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32212/table/32212-0001"
+}

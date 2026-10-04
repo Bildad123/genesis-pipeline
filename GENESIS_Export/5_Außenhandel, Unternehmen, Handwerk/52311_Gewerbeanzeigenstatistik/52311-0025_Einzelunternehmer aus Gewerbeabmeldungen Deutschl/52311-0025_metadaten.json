@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T20:07:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "52311-0025",
+    "Content": "Einzelunternehmer aus Gewerbeabmeldungen: Deutschland,\nMonate, Grund der Gewerbeabmeldung, Staatsangehörigkeit",
+    "Time": {
+      "From": "2013",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "52311",
+        "Content": "Gewerbeanzeigenstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "GEW013",
+                "Content": "Einzelunternehmer aus Gewerbeabmeldungen",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GEWAB1",
+          "Content": "Grund der Gewerbeabmeldung",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "STAAG4",
+          "Content": "Staatsangehörigkeit",
+          "Type": "Merkmal",
+          "Values": "9",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "MONAT",
+            "Content": "Monate",
+            "Type": "Merkmal",
+            "Values": "12",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "30.07.2024 12:51:42h"
+  }
+}

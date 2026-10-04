@@ -1,0 +1,28 @@
+{
+  "tabelle": "71141-0004",
+  "titel": "Rechnungsergebnisse des öffentlichen Gesamthaushalts (Nettoausgaben, Personalausgaben, Baumaßnahmen): Deutschland, Jahre, Körperschaftsgruppen, Aufgabenbereiche",
+  "zeitraum": "1992 - 2011",
+  "statistik": "71141",
+  "alle_statistiken": [
+    "71141"
+  ],
+  "stand_genesis": "28.12.2022 17:40:39h",
+  "abgerufen_am": "2026-09-28T20:48:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71141-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71141-0004_flatfile.csv": "8f87105c60c1ddfe3c68148f79065f30da80c827962d7f17e365f67b2f423509"
+  },
+  "bytes": 2793661,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71141/table/71141-0004"
+}

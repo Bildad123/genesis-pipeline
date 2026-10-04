@@ -1,0 +1,28 @@
+{
+  "tabelle": "61311-0003",
+  "titel": "Erzeugerpreisindex für Dienstleistungen: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2003 - 2025",
+  "statistik": "61311",
+  "alle_statistiken": [
+    "61311"
+  ],
+  "stand_genesis": "13.06.2024 12:36:23h",
+  "abgerufen_am": "2026-09-28T20:27:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61311-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61311-0003_flatfile.csv": "1f03f44d9f8ef6917188084df7e12e5a9a6bf3b1fb3d322ac97c22785b7b17f2"
+  },
+  "bytes": 343352,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61311/table/61311-0003"
+}

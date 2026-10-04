@@ -1,0 +1,28 @@
+{
+  "tabelle": "12711-0021",
+  "titel": "Wanderungen zwischen den Bundesländern: Bundesländer, Jahre, Nationalität, Geschlecht",
+  "zeitraum": "2000 - 2025",
+  "statistik": "12711",
+  "alle_statistiken": [
+    "12711"
+  ],
+  "stand_genesis": "04.09.2023 17:48:31h",
+  "abgerufen_am": "2026-09-28T16:56:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12711-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12711-0021_flatfile.csv": "bf6f9116ff47c20e31f2d04430752e53f2b57ab5b5b07369d932f1af3dc4e67e"
+  },
+  "bytes": 87705,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12711/table/12711-0021"
+}

@@ -1,0 +1,134 @@
+{
+  "abgerufen_am": "2026-09-28T19:56:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "51000-0021",
+    "Content": "Aus- und Einfuhr (kalender- und saisonbereinigt)\n(Außenhandel): Deutschland, Monate, Länder und Ländergruppen",
+    "Time": {
+      "From": "2008",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "51000",
+        "Content": "Außenhandel",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "MONAT",
+          "Content": "Monate",
+          "Type": "Merkmal",
+          "Values": "12",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "WERTAX",
+              "Content": "Ausfuhr: Wert (kalender- und saisonbereinigt)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WERTAX",
+              "Content": "Ausfuhr: Wert (kalender- und saisonbereinigt)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": "CH0006",
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WERTAX",
+              "Content": "Ausfuhr: Wert (kalender- und saisonbereinigt)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": "CH0007",
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WERTEX",
+              "Content": "Einfuhr: Wert (kalender- und saisonbereinigt)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WERTEX",
+              "Content": "Einfuhr: Wert (kalender- und saisonbereinigt)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": "CH0009",
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "WERTEX",
+              "Content": "Einfuhr: Wert (kalender- und saisonbereinigt)",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": "CH0010",
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ISOA2A",
+          "Content": "Länder und Ländergruppen",
+          "Type": "Merkmal",
+          "Values": "44",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "06.12.2023 12:28:22h"
+  }
+}

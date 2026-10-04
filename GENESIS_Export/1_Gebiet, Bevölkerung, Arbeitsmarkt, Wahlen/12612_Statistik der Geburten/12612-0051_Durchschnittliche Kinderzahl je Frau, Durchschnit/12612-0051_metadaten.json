@@ -1,0 +1,74 @@
+{
+  "abgerufen_am": "2026-09-28T16:53:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "12612-0051",
+    "Content": "Durchschnittliche Kinderzahl je Frau, Durchschnittliche\nKinderzahl je Mutter: Deutschland, Geburtsjahr der Frau",
+    "Time": {
+      "From": "1947",
+      "To": "1992"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "12612",
+        "Content": "Statistik der Geburten",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BEV083",
+          "Content": "Durchschnittliche Kinderzahl je Frau",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "BEV084",
+          "Content": "Durchschnittliche Kinderzahl je Mutter",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GBJAHR",
+          "Content": "Geburtsjahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "09.06.2023 17:13:39h"
+  }
+}

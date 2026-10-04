@@ -1,0 +1,28 @@
+{
+  "tabelle": "41232-0013",
+  "titel": "Betriebe mit ökologischem Strauchbeerenanbau, Ökologische Anbaufläche, Ökologisch erzeugte Erntemenge: Bundesländer, Jahre",
+  "zeitraum": "2012 - 2025",
+  "statistik": "41232",
+  "alle_statistiken": [
+    "41232"
+  ],
+  "stand_genesis": "28.12.2022 21:04:33h",
+  "abgerufen_am": "2026-09-28T18:31:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41232-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41232-0013_flatfile.csv": "f911ea74618156f00fe2eb683914c4f6652f24cd0ccd467a4051ed2442caafd3"
+  },
+  "bytes": 6711,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41232/table/41232-0013"
+}

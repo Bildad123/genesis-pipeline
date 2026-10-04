@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0303",
+  "titel": "VGR des Bundes - Sozialbeiträge: Deutschland, Jahre, Sozialbeitragsarten",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 13:58:45h",
+  "abgerufen_am": "2026-09-28T21:11:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0303",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0303_flatfile.csv": "c1f8b23c287d3eea8e0311a480f663b4c3619bc6d1e865330368b45640fea6a7"
+  },
+  "bytes": 68547,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0303"
+}

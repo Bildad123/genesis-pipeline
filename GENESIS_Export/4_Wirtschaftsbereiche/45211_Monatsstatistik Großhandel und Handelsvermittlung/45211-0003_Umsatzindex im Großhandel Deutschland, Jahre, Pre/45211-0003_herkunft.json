@@ -1,0 +1,28 @@
+{
+  "tabelle": "45211-0003",
+  "titel": "Umsatzindex im Großhandel: Deutschland, Jahre, Preisarten, Wirtschaftszweige",
+  "zeitraum": "1994 - 2025",
+  "statistik": "45211",
+  "alle_statistiken": [
+    "45211"
+  ],
+  "stand_genesis": "22.07.2026 14:00:32h",
+  "abgerufen_am": "2026-09-28T19:10:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45211-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45211-0003_flatfile.csv": "73a43887c2e5c98705fd4cb541399247b402a49796e160f4f234300971f0b4ac"
+  },
+  "bytes": 2157455,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45211/table/45211-0003"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "61261-0007",
+  "titel": "Baupreisindizes: Deutschland, Jahre, Messzahlen mit/ohne Umsatzsteuer, Außenanlagen",
+  "zeitraum": "1968 - 2025",
+  "statistik": "61261",
+  "alle_statistiken": [
+    "61261"
+  ],
+  "stand_genesis": "28.12.2022 17:32:38h",
+  "abgerufen_am": "2026-09-28T20:25:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61261-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61261-0007_flatfile.csv": "d78aab30a520237c5a38842b4a8e6a2d3a693cece6af10e18f70352141ef3604"
+  },
+  "bytes": 44898,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61261/table/61261-0007"
+}

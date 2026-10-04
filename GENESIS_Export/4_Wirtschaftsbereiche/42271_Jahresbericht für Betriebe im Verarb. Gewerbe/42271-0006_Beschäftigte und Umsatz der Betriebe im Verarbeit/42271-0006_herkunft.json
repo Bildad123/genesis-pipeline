@@ -1,0 +1,28 @@
+{
+  "tabelle": "42271-0006",
+  "titel": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Deutschland, Jahre, Beschäftigtengrößenklassen, Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)",
+  "zeitraum": "2008 - 2025",
+  "statistik": "42271",
+  "alle_statistiken": [
+    "42271"
+  ],
+  "stand_genesis": "28.12.2022 17:23:06h",
+  "abgerufen_am": "2026-09-28T19:02:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42271-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42271-0006_flatfile.csv": "3160335d5f53820e06e974f8600b6103cd8f62c83561c54e580dabb17f746e11"
+  },
+  "bytes": 2469536,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42271/table/42271-0006"
+}

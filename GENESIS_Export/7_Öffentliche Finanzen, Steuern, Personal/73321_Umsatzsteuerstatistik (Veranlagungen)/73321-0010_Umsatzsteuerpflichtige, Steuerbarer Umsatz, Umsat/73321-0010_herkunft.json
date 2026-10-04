@@ -1,0 +1,28 @@
+{
+  "tabelle": "73321-0010",
+  "titel": "Umsatzsteuerpflichtige, Steuerbarer Umsatz, Umsatzsteuer (Veranlagungen): Bundesländer, Jahre",
+  "zeitraum": "2006 - 2021",
+  "statistik": "73321",
+  "alle_statistiken": [
+    "73321"
+  ],
+  "stand_genesis": "18.09.2023 11:55:24h",
+  "abgerufen_am": "2026-09-28T20:57:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73321-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73321-0010_flatfile.csv": "22417550be520bfa8b2f5f698704de58315f8b3593cba9be9ddf32ed484a8b4c"
+  },
+  "bytes": 20003,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73321/table/73321-0010"
+}

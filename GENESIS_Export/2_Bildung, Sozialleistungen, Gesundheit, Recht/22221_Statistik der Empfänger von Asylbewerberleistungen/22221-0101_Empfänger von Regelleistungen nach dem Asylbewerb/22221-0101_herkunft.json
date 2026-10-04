@@ -1,0 +1,28 @@
+{
+  "tabelle": "22221-0101",
+  "titel": "Empfänger von Regelleistungen nach dem Asylbewerberleistungsgesetz: Bundesländer, Stichtag (bis 31.12.2019), Art der Unterbringung",
+  "zeitraum": "31.12.1994 - 31.12.2019",
+  "statistik": "22221",
+  "alle_statistiken": [
+    "22221"
+  ],
+  "stand_genesis": "27.07.2023 17:13:26h",
+  "abgerufen_am": "2026-09-28T17:26:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22221-0101",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22221-0101_flatfile.csv": "0a0d4ef0d06c757a7effecfadd8ec767a6ab15cfa8916df55ddc75f96428a3f6"
+  },
+  "bytes": 14378,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22221/table/22221-0101"
+}

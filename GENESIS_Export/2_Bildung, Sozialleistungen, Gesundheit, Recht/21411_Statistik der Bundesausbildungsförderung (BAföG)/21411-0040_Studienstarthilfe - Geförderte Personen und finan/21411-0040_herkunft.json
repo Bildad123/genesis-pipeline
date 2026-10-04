@@ -1,0 +1,28 @@
+{
+  "tabelle": "21411-0040",
+  "titel": "Studienstarthilfe - Geförderte Personen und finanzieller Aufwand: Bundesländer, Jahre",
+  "zeitraum": "2024 - 2025",
+  "statistik": "21411",
+  "alle_statistiken": [
+    "21411"
+  ],
+  "stand_genesis": "10.07.2026 15:23:16h",
+  "abgerufen_am": "2026-09-28T17:10:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21411-0040",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21411-0040_flatfile.csv": "74156c62c97482b46c247e3fe53f31110af7c02fc385470305d8688346c432a0"
+  },
+  "bytes": 5562,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21411/table/21411-0040"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "73411-0004",
+  "titel": "Versteuerung von Tabakwaren (Zigaretten, Zigarren/Zigarillos): Deutschland, Quartale, Steuerzeichen",
+  "zeitraum": "1. Quartal 1991 - 2. Quartal 2026",
+  "statistik": "73411",
+  "alle_statistiken": [
+    "73411"
+  ],
+  "stand_genesis": "23.01.2024 14:51:59h",
+  "abgerufen_am": "2026-09-28T20:58:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73411-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73411-0004_flatfile.csv": "f3684bc6a0e221442055cc8446a2c89bb7c4701b3b71186a00d43699df08be9b"
+  },
+  "bytes": 70058,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73411/table/73411-0004"
+}

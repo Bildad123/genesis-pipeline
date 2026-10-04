@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0301",
+  "titel": "Hauptwohnsitzhaushalte, Haushaltsmitglieder: Deutschland, Jahre, Haushaltsnettoeinkommensklassen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:04h",
+  "abgerufen_am": "2026-09-28T16:26:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0301",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0301_flatfile.csv": "788a6b3cc175727df8e73cbc83497b43ce557b7eac6e49c073c4c8b2f5036ecb"
+  },
+  "bytes": 8261,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0301"
+}

@@ -1,0 +1,433 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6963;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1206;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5757;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7166;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1213;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5953;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2093;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;607;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1485;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2449;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;660;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1789;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1465;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;406;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1059;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11533;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2698;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8834;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8032;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1644;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6388;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9481;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2084;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7397;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8114;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1622;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6491;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2082;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;578;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1504;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11575;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2701;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8874;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1407;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;369;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1038;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12115;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2669;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9447;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1406;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;374;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1032;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8410;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1584;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6826;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1504;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;387;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1117;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8123;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1575;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6547;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9496;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2106;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7390;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9666;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2007;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7659;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10048;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1926;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8122;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8189;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1524;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6665;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1660;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;399;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1261;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12576;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2572;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10004;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2191;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;618;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1573;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2078;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;617;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1461;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2056;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;570;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1486;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11557;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2606;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8950;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2527;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;646;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1882;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9583;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2037;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7547;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11614;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2686;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8928;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9356;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2095;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7261;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11913;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2635;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9278;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8061;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1639;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6422;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11408;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2740;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8668;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1576;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;387;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1188;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8901;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1563;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7338;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8225;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1560;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6665;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1568;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;390;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1178;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9473;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2026;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7447;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9363;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2133;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7230;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1542;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;378;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1164;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8049;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1490;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6559;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1488;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;408;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1080;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1503;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;418;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1085;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1561;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;401;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1160;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2247;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;628;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1620;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1509;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;415;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1094;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9948;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1995;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7953;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6818;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1186;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2009;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5632;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12397;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2655;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9742;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11436;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2580;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8856;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2084;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;580;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1504;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2133;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;601;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1531;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7068;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1183;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5885;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1441;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;381;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1060;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11774;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2655;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9119;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9377;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2072;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7305;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8064;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1615;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6449;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2045;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;606;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1438;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11434;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2712;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8723;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9380;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2010;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7369;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1447;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;378;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1069;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8204;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1549;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6655;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2326;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;638;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1688;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1595;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;405;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1190;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7241;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1164;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2005;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6077;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9902;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1979;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7923;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8761;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1617;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2006;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7143;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6635;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1159;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5477;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6507;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1112;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2018;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5395;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6613;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1136;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2019;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5477;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6638;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1220;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5418;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2381;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;649;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1731;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6577;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1207;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5369;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2103;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;615;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1488;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6639;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1237;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5402;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6716;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1206;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2010;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5509;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11470;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2679;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2013;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8791;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6672;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1241;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2011;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5431;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9429;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2083;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7346;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;11575;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2619;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8956;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8104;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1643;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2012;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6461;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2079;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;595;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1484;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12283;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2628;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9655;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8199;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1622;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2016;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6577;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9493;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2040;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2017;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7453;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9789;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2031;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2008;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;7759;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6557;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1221;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2014;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5336;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8572;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1570;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2007;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7002;1000;BEV052;Paare
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6523;1000;BEV005;Familien
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1229;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;JAHR;Jahr;2015;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;5294;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6309;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;947;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7257;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2402;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;597;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2999;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8007;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1352;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9359;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6164;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1120;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7285;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10831;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2240;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;13070;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10584;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2300;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12885;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1451;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;408;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1859;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2281;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;603;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2884;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8125;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1304;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9429;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8474;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1651;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10124;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1993;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;635;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2628;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7667;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1490;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9157;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1774;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;395;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;2168;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2064;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;623;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2686;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8358;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1687;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10046;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1832;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;393;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;2225;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10317;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2355;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12672;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7412;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1573;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8985;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6097;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1152;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7248;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6265;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;991;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7256;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7543;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1536;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9079;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6216;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1083;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7298;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8413;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1636;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10050;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1555;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;406;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1961;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7897;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1395;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9293;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8320;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1700;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10020;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10482;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2311;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12793;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8083;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1849;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9932;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8154;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1815;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9969;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2161;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;612;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2773;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10694;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2240;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12934;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;8092;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1342;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9434;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2357;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;589;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2946;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10021;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2502;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12524;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1316;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;421;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1737;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7823;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1418;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9241;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6205;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1054;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7258;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8517;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1639;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10156;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2226;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;613;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2839;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2094;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;625;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2719;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1488;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;416;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1905;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10919;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2236;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;13155;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6319;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;947;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1997-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7266;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10268;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2403;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12671;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;10147;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2450;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;12597;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1938;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;653;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2004-03P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;2591;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1379;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;416;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2003-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1795;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7693;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1470;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;;Insgesamt;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;9163;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1632;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;405;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1999-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;2036;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8223;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1730;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2001-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9953;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1698;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;404;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1998-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DN;Neue Länder;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;2102;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6293;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;910;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;1996-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7203;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;8205;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;1780;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2002-04P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02;Mit Kindern;9985;1000;BEV005;Familien
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;6268;1000;BEV052;Paare
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;1012;1000;BEV019;Alleinerziehende
+12211;Mikrozensus;SMONAT;Stichmonat;2000-05P1M;DINSGF;Früheres Bundesgebiet / Neue Länder;DF;Früheres Bundesgebiet;KINVS2;Vorhandensein von Kindern;KIND-02-U18;Mit Kindern unter 18 Jahren;7280;1000;BEV005;Familien

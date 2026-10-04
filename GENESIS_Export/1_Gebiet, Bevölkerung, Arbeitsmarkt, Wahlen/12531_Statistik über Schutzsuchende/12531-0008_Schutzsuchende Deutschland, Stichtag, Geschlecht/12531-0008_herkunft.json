@@ -1,0 +1,28 @@
+{
+  "tabelle": "12531-0008",
+  "titel": "Schutzsuchende: Deutschland, Stichtag, Geschlecht, Schutzstatus/Schutzstatuskategorie, Ländergruppierungen/ Staatsangehörigkeit",
+  "zeitraum": "31.12.2007 - 31.12.2025",
+  "statistik": "12531",
+  "alle_statistiken": [
+    "12531"
+  ],
+  "stand_genesis": "28.12.2022 17:16:03h",
+  "abgerufen_am": "2026-09-28T16:49:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12531-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12531-0008_flatfile.csv": "2486b99979441eb3b08eb9ca9ff3b5eda18c04431a76c092f63f0282b0fd70d1"
+  },
+  "bytes": 244503,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12531/table/12531-0008"
+}

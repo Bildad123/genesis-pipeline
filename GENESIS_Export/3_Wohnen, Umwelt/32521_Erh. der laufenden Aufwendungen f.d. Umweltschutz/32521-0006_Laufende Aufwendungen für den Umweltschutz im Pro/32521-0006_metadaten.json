@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T18:17:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32521-0006",
+    "Content": "Laufende Aufwendungen für den Umweltschutz im Produzierenden\nGewerbe (ohne Baugewerbe): Deutschland, Jahre (bis 2019),\nBeschäftigtengrößenklassen, Wirtschaftszweige",
+    "Time": {
+      "From": "2013",
+      "To": "2019"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "32521",
+        "Content": "Erh. der laufenden Aufwendungen f.d. Umweltschutz",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "AUFW07",
+                "Content": "Lfd. Aufwendungen f. d. Umweltschutz im Prod. Gew.",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BESGR3",
+          "Content": "Beschäftigtengrößenklassen",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08U7",
+          "Content": "WZ2008 (Abschnitte): Aufwend. für den Umweltschutz",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "20.06.2024 16:20:14h"
+  }
+}

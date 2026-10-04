@@ -1,0 +1,28 @@
+{
+  "tabelle": "43321-0001",
+  "titel": "Gewinnung, Netzeinspeisung, Eigenverbrauch, Speicherstand von Gas: Deutschland, Monate",
+  "zeitraum": "Januar 2018 - Juli 2026",
+  "statistik": "43321",
+  "alle_statistiken": [
+    "43321"
+  ],
+  "stand_genesis": "28.12.2022 17:21:47h",
+  "abgerufen_am": "2026-09-28T19:05:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43321-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43321-0001_flatfile.csv": "c8ed461f654bedfc065edcae78edd329bcb732eddc316b864a698c87a9be0526"
+  },
+  "bytes": 45808,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43321/table/43321-0001"
+}

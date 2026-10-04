@@ -1,0 +1,28 @@
+{
+  "tabelle": "46321-0005",
+  "titel": "Beförderte Güter, Beförderungsleistung (Binnenschifffahrt): Deutschland, Jahre, Güterverzeichnis (Abteilungen und Gruppen)",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46321",
+  "alle_statistiken": [
+    "46321"
+  ],
+  "stand_genesis": "28.12.2022 20:02:04h",
+  "abgerufen_am": "2026-09-28T19:25:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46321-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46321-0005_flatfile.csv": "2fd07c07707c27ce1e5cb6c45d7a123e9068d48a6c59d57e39e4ec00a9b62d5c"
+  },
+  "bytes": 48093,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46321/table/46321-0005"
+}

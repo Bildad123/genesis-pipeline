@@ -1,0 +1,28 @@
+{
+  "tabelle": "63221-0011",
+  "titel": "Konsumausgaben privater Haushalte (EVS): Früheres Bundesgebiet / Neue Länder, Jahre, Verwendungszwecke, Haushaltsgröße",
+  "zeitraum": "2023 - 2023",
+  "statistik": "63221",
+  "alle_statistiken": [
+    "63221"
+  ],
+  "stand_genesis": "19.12.2025 16:14:28h",
+  "abgerufen_am": "2026-09-28T20:46:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63221-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63221-0011_flatfile.csv": "d440e7fdec8b0dae3d5a6d76c1b11738478adbf568903e49dfcd000f9aeb1dc6"
+  },
+  "bytes": 49129,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63221/table/63221-0011"
+}

@@ -1,0 +1,81 @@
+{
+  "abgerufen_am": "2026-09-28T18:38:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "41312-0010",
+    "Content": "Haltungen mit Rindern: Bundesländer, Stichmonat, Rinderkategorien",
+    "Time": {
+      "From": "05/2010",
+      "To": "05/2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "41312",
+        "Content": "Viehbestandserhebung Rinder",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "HLT001",
+          "Content": "Haltungen mit Rindern",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "RIN001",
+          "Content": "Rinder",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "RINK01",
+          "Content": "Rinderkategorien",
+          "Type": "Merkmal",
+          "Values": "21",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "SMONAT",
+        "Content": "Stichmonat",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "06.02.2023 15:46:58h"
+  }
+}

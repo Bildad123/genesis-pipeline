@@ -1,0 +1,28 @@
+{
+  "tabelle": "22211-0014",
+  "titel": "Bruttoausgaben nach dem Asylbewerberleistungsgesetz: Bundesländer, Jahre, Hilfearten",
+  "zeitraum": "1994 - 2025",
+  "statistik": "22211",
+  "alle_statistiken": [
+    "22211"
+  ],
+  "stand_genesis": "28.12.2022 19:34:20h",
+  "abgerufen_am": "2026-09-28T17:24:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22211-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22211-0014_flatfile.csv": "86f32466ee4c3210aa0ad3123e747786cb5b34cb0f4fa3842d25427e7ee325de"
+  },
+  "bytes": 160572,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22211/table/22211-0014"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "61511-0100",
+  "titel": "Kauffälle, Veräußerte Fläche, Durchschnittlicher Kaufwert für Bauland: Deutschland, Quartale (bis 2020), Baulandarten, Gemeindegrößenklassen",
+  "zeitraum": "1. Quartal 2000 - 4. Quartal 2020",
+  "statistik": "61511",
+  "alle_statistiken": [
+    "61511"
+  ],
+  "stand_genesis": "28.12.2022 17:04:05h",
+  "abgerufen_am": "2026-09-28T20:34:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61511-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61511-0100_flatfile.csv": "08c4875b7b8493e66987fd88a9e16f17bf86eb425cbafe0979c5c7698c64fadd"
+  },
+  "bytes": 138552,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61511/table/61511-0100"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "63511-0009",
+  "titel": "Beratene Personen (Anteilswerte), Durchschnittliche Schulden: Deutschland, Jahre, Monatliches Nettoeinkommen der beratenen Person, Sozioökonomische Merkmale",
+  "zeitraum": "2015 - 2025",
+  "statistik": "63511",
+  "alle_statistiken": [
+    "63511"
+  ],
+  "stand_genesis": "28.12.2022 17:08:06h",
+  "abgerufen_am": "2026-09-28T20:47:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63511-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63511-0009_flatfile.csv": "861b3d3b3fa9f7e0f424b6fd4350bce8b3b5b00160b038001693e2777faf8221"
+  },
+  "bytes": 59720,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63511/table/63511-0009"
+}

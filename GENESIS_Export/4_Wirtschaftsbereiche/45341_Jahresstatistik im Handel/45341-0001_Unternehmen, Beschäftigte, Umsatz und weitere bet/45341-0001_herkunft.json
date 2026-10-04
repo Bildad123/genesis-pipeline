@@ -1,0 +1,28 @@
+{
+  "tabelle": "45341-0001",
+  "titel": "Unternehmen, Beschäftigte, Umsatz und weitere betriebs- und volkswirtschaftliche Kennzahlen im Handel: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2005 - 2020",
+  "statistik": "45341",
+  "alle_statistiken": [
+    "45341"
+  ],
+  "stand_genesis": "31.07.2024 14:02:28h",
+  "abgerufen_am": "2026-09-28T19:13:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45341-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45341-0001_flatfile.csv": "efc8406001b0536f3d1218202f0a90559a8037ff84bb7dd7724a95f7b776da8c"
+  },
+  "bytes": 1674473,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45341/table/45341-0001"
+}

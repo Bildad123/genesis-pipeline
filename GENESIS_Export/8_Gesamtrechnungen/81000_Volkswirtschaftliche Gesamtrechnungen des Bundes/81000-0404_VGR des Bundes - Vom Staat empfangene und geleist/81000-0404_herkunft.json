@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0404",
+  "titel": "VGR des Bundes - Vom Staat empfangene und geleistete Transfers: Deutschland, Jahre, Transferarten",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 14:24:13h",
+  "abgerufen_am": "2026-09-28T21:11:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0404",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0404_flatfile.csv": "ecd26b83847bc16b8612eb1c5bfcd7b9822ea734911057872e850971767a5e29"
+  },
+  "bytes": 57365,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0404"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "46321-0018",
+  "titel": "Beförderte Güter, Beförderungsleistung, Ladeeinheiten, Container u.Wechselbehälter(Binnensch.):Deutschland, Monate, Hauptverkehrsbeziehungen, Art der Ladeeinheit, Ladezustand",
+  "zeitraum": "Januar 2009 - Juni 2026",
+  "statistik": "46321",
+  "alle_statistiken": [
+    "46321"
+  ],
+  "stand_genesis": "03.02.2023 16:19:48h",
+  "abgerufen_am": "2026-09-28T19:27:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46321-0018",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46321-0018_flatfile.csv": "c4e7e12677b21903f6d3f7f64fea6046763ef4163afde3341cd6acd2d8556c49"
+  },
+  "bytes": 579924,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46321/table/46321-0018"
+}

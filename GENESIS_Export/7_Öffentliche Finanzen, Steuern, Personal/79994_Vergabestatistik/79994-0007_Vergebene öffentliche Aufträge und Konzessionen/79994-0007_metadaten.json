@@ -1,0 +1,138 @@
+{
+  "abgerufen_am": "2026-09-28T21:01:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "79994-0007",
+    "Content": "Vergebene öffentliche Aufträge und Konzessionen,\nAuftragsvolumen: Deutschland, Quartale, Auftraggeberebene,\nOberschwelle, Auftragsart, Nachhaltigkeitskrit., Vorgaben",
+    "Time": {
+      "From": "2021",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "79994",
+        "Content": "Vergabestatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "KRITN1",
+          "Content": "Nachhaltigkeitskriterien",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "KRITV1",
+              "Content": "Vorgaben",
+              "Type": "Merkmal",
+              "Values": "5",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "VGB001",
+                  "Content": "Vergebene öffentliche Aufträge und Konzessionen",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "VGB002",
+                  "Content": "Auftragsvolumen öffentl. Aufträge und Konzessionen",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "AGEBN1",
+          "Content": "Auftraggeberebene",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "SCHWW1",
+              "Content": "Schwellenwert",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "AFTAT2",
+                  "Content": "Auftragsart",
+                  "Type": "Merkmal",
+                  "Values": "3",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "QUARTG",
+            "Content": "Quartale",
+            "Type": "Merkmal",
+            "Values": "4",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 19:36:00h"
+  }
+}

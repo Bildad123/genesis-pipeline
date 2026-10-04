@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0009",
+  "titel": "Nominallohnindex für Vollzeitbeschäftigte: Deutschland, Monate, Quintile",
+  "zeitraum": "Januar 2022 - Juli 2026",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "12.07.2023 15:10:14h",
+  "abgerufen_am": "2026-09-28T20:39:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0009_flatfile.csv": "8f234d38eca375fa19cdaa98020c970cfe601e4f18972fbc54d2fd06a5db6cc7"
+  },
+  "bytes": 30569,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0009"
+}

@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:24:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "85141",
+    "Content": "Wassergesamtrechnung",
+    "Cubes": "2",
+    "Variables": "7",
+    "Frequency": [
+      {
+        "From": "01.01.1990",
+        "To": null,
+        "Type": "Vierjährlich"
+      }
+    ],
+    "Information": null,
+    "Updated": "25.09.2026 15:19:55h"
+  }
+}

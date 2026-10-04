@@ -1,0 +1,28 @@
+{
+  "tabelle": "74211-0008",
+  "titel": "Durchschnittsalter bei Eintritt in den Ruhestand: Deutschland, Jahre, Körperschaftsebenen",
+  "zeitraum": "2011 - 2024",
+  "statistik": "74211",
+  "alle_statistiken": [
+    "74211"
+  ],
+  "stand_genesis": "28.12.2022 19:05:43h",
+  "abgerufen_am": "2026-09-28T21:00:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "74211-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "74211-0008_flatfile.csv": "d43248e8307737e4cd4734e75d5753cedf11a18d09f953970e42d1e6bf46d516"
+  },
+  "bytes": 41466,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/74211/table/74211-0008"
+}

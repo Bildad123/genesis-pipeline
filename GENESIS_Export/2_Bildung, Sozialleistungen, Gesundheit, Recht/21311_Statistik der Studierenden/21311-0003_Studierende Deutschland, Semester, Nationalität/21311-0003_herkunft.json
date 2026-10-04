@@ -1,0 +1,28 @@
+{
+  "tabelle": "21311-0003",
+  "titel": "Studierende: Deutschland, Semester, Nationalität, Geschlecht, Studienfach",
+  "zeitraum": "WS 1998/99 - WS 2025/26",
+  "statistik": "21311",
+  "alle_statistiken": [
+    "21311"
+  ],
+  "stand_genesis": "24.04.2026 16:51:33h",
+  "abgerufen_am": "2026-09-28T17:04:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21311-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21311-0003_flatfile.csv": "28d6b727ad5e7592ce2c880566d7b6b39b652608999a446a6b3d06adf8e21033"
+  },
+  "bytes": 652394,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21311/table/21311-0003"
+}

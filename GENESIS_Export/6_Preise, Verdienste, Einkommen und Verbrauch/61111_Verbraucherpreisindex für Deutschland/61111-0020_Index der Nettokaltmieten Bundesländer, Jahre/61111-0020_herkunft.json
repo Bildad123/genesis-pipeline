@@ -1,0 +1,28 @@
+{
+  "tabelle": "61111-0020",
+  "titel": "Index der Nettokaltmieten: Bundesländer, Jahre",
+  "zeitraum": "2005 - 2025",
+  "statistik": "61111",
+  "alle_statistiken": [
+    "61111"
+  ],
+  "stand_genesis": "28.12.2022 11:39:13h",
+  "abgerufen_am": "2026-09-28T20:20:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61111-0020",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61111-0020_flatfile.csv": "c07c1a2b2320e97bb13304ce6b427f38c8044afe549e8f7b5ef63470f64a7eae"
+  },
+  "bytes": 48164,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61111/table/61111-0020"
+}

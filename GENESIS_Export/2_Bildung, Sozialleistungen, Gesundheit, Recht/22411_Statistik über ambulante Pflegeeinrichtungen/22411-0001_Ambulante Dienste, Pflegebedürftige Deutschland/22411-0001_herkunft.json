@@ -1,0 +1,28 @@
+{
+  "tabelle": "22411-0001",
+  "titel": "Ambulante Dienste, Pflegebedürftige: Deutschland, Stichtag, Träger",
+  "zeitraum": "15.12.1999 - 15.12.2023",
+  "statistik": "22411",
+  "alle_statistiken": [
+    "22411"
+  ],
+  "stand_genesis": "28.12.2022 17:35:38h",
+  "abgerufen_am": "2026-09-28T17:29:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22411-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22411-0001_flatfile.csv": "9105ca1c2637387e77eaee1dd6e103f45e4bb1f90e683c8640c136533b3c6364"
+  },
+  "bytes": 20219,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22411/table/22411-0001"
+}

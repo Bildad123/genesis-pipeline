@@ -1,0 +1,28 @@
+{
+  "tabelle": "41255-0006",
+  "titel": "Bestand an Traubenmost: Deutschland, Jahre, Bestandsort, Rebsorte",
+  "zeitraum": "2021 - 2025",
+  "statistik": "41255",
+  "alle_statistiken": [
+    "41255"
+  ],
+  "stand_genesis": "30.10.2024 11:45:35h",
+  "abgerufen_am": "2026-09-28T18:34:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41255-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41255-0006_flatfile.csv": "8984faae47e5aca31ce162d81d1420747112546325eeb29a5ad6c035bd04b8e7"
+  },
+  "bytes": 2216,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41255/table/41255-0006"
+}

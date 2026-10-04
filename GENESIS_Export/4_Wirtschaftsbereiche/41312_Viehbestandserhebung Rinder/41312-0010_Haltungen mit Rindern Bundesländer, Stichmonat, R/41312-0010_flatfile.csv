@@ -1,0 +1,705 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;10245;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;171078;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;21831;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;4956;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;22163;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;812;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;8929;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;1776;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;18746;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;38;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;2715;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;36222;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;3075;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;50234;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;130520;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;1097;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;21871;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;882;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;16085;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;1757;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;74110;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;;Insgesamt;3801;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;;Insgesamt;260120;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-41;Milchkühe;128;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-41;Milchkühe;11308;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;10259;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;98945;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;1556;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;22627;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;3040;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;116081;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;15529;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);2078;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);22721;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);444;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);2939;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-41;Milchkühe;21350;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-41;Milchkühe;1027763;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;12;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;60;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);32354;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);630728;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;1149;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;2685;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;1217;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;24584;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;7016;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;68954;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;10103;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;144086;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;1175;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;16504;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;3630;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;125504;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;2;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;2195;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;5174;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;566;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;45836;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;4173;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;29279;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;1428;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;17041;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;73;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;1933;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);62;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);1553;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);5232;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);193466;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;4987;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;4382;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;110593;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;1115;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;5806;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;49318;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;274290;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;12;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;49;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;1600;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;3165;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;8894;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;76047;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;1896;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;34540;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-41;Milchkühe;512;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-41;Milchkühe;118712;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;12712;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;;Insgesamt;6022;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;;Insgesamt;412910;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;1811;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;67779;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;3104;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);2263;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);15363;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;4856;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;54865;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-41;Milchkühe;1216;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-41;Milchkühe;89282;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;45;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;491;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;2308;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;53286;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;1347;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;2436;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;202590;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;7661;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;68715;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;11209;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;1691;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;25973;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;503;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;16783;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;2898;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;23275;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;23;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;399;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);28556;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);190655;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;;Insgesamt;6258;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;;Insgesamt;867094;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;7;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;17;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;677;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;12588;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;3571;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-41;Milchkühe;4327;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-41;Milchkühe;366591;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);3263;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);21822;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;100;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;3473;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;4421;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;55081;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;3029;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;1188;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;16982;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);64;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);796;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;11031;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;247605;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;5075;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;73003;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);63;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);495;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;;Insgesamt;2609;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;;Insgesamt;258589;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;83;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);5096;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);65563;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;7888;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;212468;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-41;Milchkühe;1003;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-41;Milchkühe;160057;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;1835;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;25562;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;8213;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;20317;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;3991;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;59247;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;1398;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;43005;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;11;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;50;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;5548;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;21754;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;2529;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;73340;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);2515;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);52763;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;297;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;1926;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;48642;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);1670;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);11991;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;2028;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;58653;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;2990;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;59744;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;12901;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;538194;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;2177;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;132682;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;315;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;12364;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);2322;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);78199;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;4088;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;25494;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;3840;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;50110;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;60;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;1462;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);16;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);99;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;8513;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;124386;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;38574;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;1901;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;56767;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;4183;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;71650;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;4923;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);5545;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);77471;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);3251;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);53858;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;480;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;45;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;40;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;513;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);14196;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);508512;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;358;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;2498;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;;Insgesamt;17618;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;;Insgesamt;2209421;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;10971;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;290589;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);60;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);1294;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;1952;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;42145;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;4430;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;11987;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;296044;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;328;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;786;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;3924;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;38239;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;137234;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;;Insgesamt;566;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;;Insgesamt;37371;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;55;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;1306;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;869;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;8471;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;28391;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;1483;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;11230;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;1250;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;22446;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;4904;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;143232;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;621;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;213;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;1014;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;569;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;4297;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;56;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;666;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);1655;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);51476;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;2750;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;75913;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;9497;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;113243;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;753;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;11589;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;217261;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);2058;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);89650;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;1119;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;31;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;2109;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;4439;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;390;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;5475;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;157974;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;2761;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;34203;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;4283;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;114387;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;2563;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;119238;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);15;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);77;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;2057;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;21540;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);431;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);7706;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;455;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;9943;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;46;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;490;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;8655;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;154360;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;1093;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;9306;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;31653;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;768115;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;11369;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;247125;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;3431;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;73765;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;1838;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;31096;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;22;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;310;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;1412;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;10618;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;4658;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;169840;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;5707;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;102282;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;36627;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;1842;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;6115;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;64589;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;53;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;889;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;5159;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;241490;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;5647;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;12080;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;419460;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;1499;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;5680;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;62;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;1402;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;61;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;1796;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;14579;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;755455;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;;Insgesamt;3595;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;;Insgesamt;412175;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;;Insgesamt;14914;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;;Insgesamt;1234083;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;13612;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;7381;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;61521;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;1254;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;1568;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;4133;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;26110;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;323058;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;4275;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;27508;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;;Insgesamt;4156;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;;Insgesamt;274949;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;4084;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;44664;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;16833;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;1285;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;16984;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;35;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;628;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;2643;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;17200;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;5692;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;104018;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;10477;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;9460;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;140714;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;385;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;5493;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;29461;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;458137;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);3892;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);81947;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;2320;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;13841;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;52;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;12044;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;865;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;16;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-1;Rinder bis unter 1 Jahr;114;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);11360;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);201615;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;3943;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-41;Milchkühe;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-41;Milchkühe;89;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-41;Milchkühe;4769;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-41;Milchkühe;299246;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;;Insgesamt;6981;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;;Insgesamt;368810;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;3477;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;19944;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;2592;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;22362;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;404119;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;5807;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;158306;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;10;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;3274;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;7320;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;1536;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;16571;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;12983;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;829224;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);11739;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-2;Rinder 1 bis unter 2 Jahre (ohne Kühe);308050;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;55568;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;29030;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;521912;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;8718;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;2020;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;12435;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;9112;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;107908;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;3306;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;1090;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;20382;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;55;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;659;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;4869;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;79193;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;15787;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;555;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;4681;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;10401;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;22712;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;198854;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;1946;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;61215;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;2901;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;40570;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;145;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;13;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;53;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-41;Milchkühe;1980;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-41;Milchkühe;113642;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;359;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;4505;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;4;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-41;Milchkühe;577;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-41;Milchkühe;143937;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;2032;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;121012;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;;Insgesamt;36898;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;;Insgesamt;2685976;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;10353;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;278746;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;277;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;2213;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);3459;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);18280;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;7626;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;50553;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;12976;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);2429;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);22686;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;27;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;91;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;1481;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;53728;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;2885;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;192052;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;6285;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;58453;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;38679;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;2735;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;37166;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;1215;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;2067;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;9335;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;3088;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;51403;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);5267;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);30751;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;54018;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);9994;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);63502;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);12264;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);116230;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;;Insgesamt;13637;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;;Insgesamt;869941;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;2229;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;16121;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;47;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;346;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);9742;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-3;Rinder 2 Jahre und älter (ohne Kühe);71028;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;3181;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;69512;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;26393;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;246203;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;9685;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-22;Rinder 1 bis unter 2 Jahre, Färsen;150846;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;329;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;2153;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;8203;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;63170;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;4938;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;51782;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;39840;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;1686;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;57766;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;8324;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;53101;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;10;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;28;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;54;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;1018;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;5303;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;366575;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;;Insgesamt;83;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;;Insgesamt;5124;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;8;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;33;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;1920;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;13288;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;2008;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;2927;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;44448;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;5656;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;3178;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;22606;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;;Insgesamt;26;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;;Insgesamt;689;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;49;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;398;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;63;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;1011;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;49149;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;115;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;4691;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;198296;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;3705;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;83019;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-41;Milchkühe;453;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-41;Milchkühe;95039;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-41;Milchkühe;37;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-41;Milchkühe;3001;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;;Insgesamt;3038;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;;Insgesamt;447643;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-41;Milchkühe;393;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-41;Milchkühe;78915;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;23427;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;156469;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;6477;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;157204;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;15356;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;5;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;10665;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;357699;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;2882;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;10482;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;55;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;2205;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;87863;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;28212;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;1096478;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;1251;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;36746;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;1902;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;95510;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;62;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;3461;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;1324;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;6241;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-41;Milchkühe;6908;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-41;Milchkühe;758148;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;10519;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-4;Kühe, abgekalbt;435545;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;36;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;254;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;47;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;149;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;350;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;2940;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;25668;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;170338;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;13;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;86;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;3299;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;1600;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;37744;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;7898;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;48865;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;4497;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-112;Kälber bis 8 Monate, weiblich;45495;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;46;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-111;Kälber bis 8 Monate, männlich;288;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;127253;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-41;Milchkühe;2564;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;RINK01;Rinderkategorien;RIN-41;Milchkühe;322127;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-222;Rinder 1 b.u.2 Jahre, Färsen als Zucht-u.Nutztiere;62123;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;5886;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;17285;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-41;Milchkühe;10;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-41;Milchkühe;922;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;5716;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;2344;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;31368;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-221;Rinder 1 bis unter 2 Jahre, Färsen zum Schlachten;8;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;26;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;460;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;;Insgesamt;69;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;;Insgesamt;7606;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;13645;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;172591;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;6728;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;8862;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;89734;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;6397;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-21;Rinder 1 bis unter 2 Jahre, Bullen und Ochsen;57529;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-123;Rinder bis 1 Jahr zum Schlachten;4998;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;819;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;6123;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;2501;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;16648;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;45;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-122;Jungrinder über 8 Monate bis 1 Jahr, weiblich;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;1540;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;31375;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;3783;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;1421;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;RINK01;Rinderkategorien;RIN-12;Jungrinder über 8 Monate bis 1 Jahr;37172;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;4096;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;RINK01;Rinderkategorien;RIN-32;Rinder 2 Jahre und älter, Färsen;23431;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;20;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;RINK01;Rinderkategorien;RIN-121;Jungrinder über 8 Monate bis 1 Jahr, männlich;259;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;6601;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-42;Mutter-, Ammen- und Mastkühe;71076;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;RINK01;Rinderkategorien;RIN-322;Rinder 2 Jahre u.ä., Färsen als Zucht- u.Nutztiere;93958;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;402;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;RINK01;Rinderkategorien;RIN-11;Kälber bis 8 Monate;7003;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;.;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;RINK01;Rinderkategorien;RIN-321;Rinder 2 Jahre und älter, Färsen zum Schlachten;588;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;30;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;RINK01;Rinderkategorien;RIN-31;Rinder 2 Jahre und älter, Bullen und Ochsen;137;Anzahl;RIN001;Rinder

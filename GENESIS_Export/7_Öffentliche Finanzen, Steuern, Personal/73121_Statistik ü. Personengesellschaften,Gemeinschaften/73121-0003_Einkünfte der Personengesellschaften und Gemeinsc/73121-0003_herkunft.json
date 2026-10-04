@@ -1,0 +1,28 @@
+{
+  "tabelle": "73121-0003",
+  "titel": "Einkünfte der Personengesellschaften und Gemeinschaften: Bundesländer, Jahre, Gewinn- und Verlustfälle",
+  "zeitraum": "2008 - 2021",
+  "statistik": "73121",
+  "alle_statistiken": [
+    "73121"
+  ],
+  "stand_genesis": "16.04.2014 12:30:34h",
+  "abgerufen_am": "2026-09-28T20:53:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73121-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73121-0003_flatfile.csv": "3eabbc62b6f80ba937952d0375b711a38e84894df325f45d13f265d551a86165"
+  },
+  "bytes": 287337,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73121/table/73121-0003"
+}

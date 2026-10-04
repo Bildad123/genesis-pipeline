@@ -1,0 +1,28 @@
+{
+  "tabelle": "12613-0003",
+  "titel": "Gestorbene: Deutschland, Jahre, Geschlecht, Altersjahre",
+  "zeitraum": "1956 - 2025",
+  "statistik": "12613",
+  "alle_statistiken": [
+    "12613"
+  ],
+  "stand_genesis": "27.02.2024 11:36:43h",
+  "abgerufen_am": "2026-09-28T16:53:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12613-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12613-0003_flatfile.csv": "ea549cea07f49d3485f37a3d9b5912da605be38f0dd8c19d8024e24476d2411b"
+  },
+  "bytes": 642845,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12613/table/12613-0003"
+}

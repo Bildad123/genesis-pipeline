@@ -1,0 +1,28 @@
+{
+  "tabelle": "71811-0030",
+  "titel": "Erhaltene öff. Zuweis.u.Zuschüsse(FEU): Bundesländer, Jahre, Ebenen des öff. Bereichs, Geber der Zuweis. u. Zuschüsse, Art der Zuweis. u. Zuschüsse, Wirtschaftsabschnitte",
+  "zeitraum": "2017 - 2023",
+  "statistik": "71811",
+  "alle_statistiken": [
+    "71811"
+  ],
+  "stand_genesis": "28.12.2022 19:23:30h",
+  "abgerufen_am": "2026-09-28T20:52:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71811-0030",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71811-0030_flatfile.csv": "071e6ffa969dcf4e0090b74aaf719183d0e5c6360c7dc0dbb7b1d24bab4ff667"
+  },
+  "bytes": 3399048,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71811/table/71811-0030"
+}

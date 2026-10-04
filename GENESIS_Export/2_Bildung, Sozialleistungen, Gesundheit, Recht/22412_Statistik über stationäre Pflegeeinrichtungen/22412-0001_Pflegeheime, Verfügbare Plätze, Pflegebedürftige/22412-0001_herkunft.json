@@ -1,0 +1,28 @@
+{
+  "tabelle": "22412-0001",
+  "titel": "Pflegeheime, Verfügbare Plätze, Pflegebedürftige: Deutschland, Stichtag, Art der Pflegeleistung",
+  "zeitraum": "15.12.1999 - 15.12.2023",
+  "statistik": "22412",
+  "alle_statistiken": [
+    "22412"
+  ],
+  "stand_genesis": "28.12.2022 17:35:38h",
+  "abgerufen_am": "2026-09-28T17:29:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22412-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22412-0001_flatfile.csv": "96cc6e3f9e5227505bdd45f9aea7adba6215ea3650e0ae153f61d6d22c55ae9c"
+  },
+  "bytes": 35603,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22412/table/22412-0001"
+}

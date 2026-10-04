@@ -1,0 +1,28 @@
+{
+  "tabelle": "24251-0010",
+  "titel": "Vor dem Verwaltungsgericht erledigte Hauptverfahren: Bundesländer, Jahre, Art der Erledigung",
+  "zeitraum": "2018 - 2024",
+  "statistik": "24251",
+  "alle_statistiken": [
+    "24251"
+  ],
+  "stand_genesis": "01.11.2023 12:47:40h",
+  "abgerufen_am": "2026-09-28T17:59:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24251-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24251-0010_flatfile.csv": "55cc929984fd733a1a4197f1821b3a97bff23bb82111c82bedfc9cd40d27270b"
+  },
+  "bytes": 37696,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24251/table/24251-0010"
+}

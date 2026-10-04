@@ -1,0 +1,28 @@
+{
+  "tabelle": "21381-0010",
+  "titel": "Absolventenquote: Bundesländer, Jahre, Geschlecht",
+  "zeitraum": "2000 - 2024",
+  "statistik": "21381",
+  "alle_statistiken": [
+    "21381"
+  ],
+  "stand_genesis": "28.12.2022 17:48:25h",
+  "abgerufen_am": "2026-09-28T17:09:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21381-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21381-0010_flatfile.csv": "76c0cb445b31936cd51b455b3abdb5bf04b262b6e01ac78cc3bc5e20f6defe37"
+  },
+  "bytes": 186232,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21381/table/21381-0010"
+}

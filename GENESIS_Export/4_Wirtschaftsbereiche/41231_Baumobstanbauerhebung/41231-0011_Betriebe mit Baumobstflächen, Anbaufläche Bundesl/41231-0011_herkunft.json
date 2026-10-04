@@ -1,0 +1,28 @@
+{
+  "tabelle": "41231-0011",
+  "titel": "Betriebe mit Baumobstflächen, Anbaufläche: Bundesländer, Jahre, Tafel-Kernobstarten, Pflanzdichteklassen",
+  "zeitraum": "2022 - 2022",
+  "statistik": "41231",
+  "alle_statistiken": [
+    "41231"
+  ],
+  "stand_genesis": "28.12.2022 17:54:09h",
+  "abgerufen_am": "2026-09-28T18:30:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41231-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41231-0011_flatfile.csv": "0851ad2f73e5375ccacc1d89d38a8bb85179fbf8a36b8d4be5c697fc9926e282"
+  },
+  "bytes": 72455,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41231/table/41231-0011"
+}

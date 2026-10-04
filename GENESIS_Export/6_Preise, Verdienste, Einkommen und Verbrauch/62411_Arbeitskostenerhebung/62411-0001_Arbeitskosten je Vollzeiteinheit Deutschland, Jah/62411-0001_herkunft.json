@@ -1,0 +1,28 @@
+{
+  "tabelle": "62411-0001",
+  "titel": "Arbeitskosten je Vollzeiteinheit: Deutschland, Jahre, Unternehmensgrößenklassen, Wirtschaftszweige, Arbeitskostenarten",
+  "zeitraum": "2008 - 2020",
+  "statistik": "62411",
+  "alle_statistiken": [
+    "62411"
+  ],
+  "stand_genesis": "28.12.2022 19:23:30h",
+  "abgerufen_am": "2026-09-28T20:43:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62411-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62411-0001_flatfile.csv": "8f03f3ed80d005a326abefdb4fded6adf35f22d16d187f47f63ea7cccb12435b"
+  },
+  "bytes": 12948288,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62411/table/62411-0001"
+}

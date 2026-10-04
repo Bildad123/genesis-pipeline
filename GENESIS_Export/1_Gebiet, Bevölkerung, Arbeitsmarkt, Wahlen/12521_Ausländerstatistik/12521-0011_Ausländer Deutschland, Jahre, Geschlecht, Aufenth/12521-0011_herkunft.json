@@ -1,0 +1,28 @@
+{
+  "tabelle": "12521-0011",
+  "titel": "Ausländer: Deutschland, Jahre, Geschlecht, Aufenthaltsdauer, Registerabgänge (Bund), Ländergruppierungen/ Staatsangehörigkeit",
+  "zeitraum": "2013 - 2025",
+  "statistik": "12521",
+  "alle_statistiken": [
+    "12521"
+  ],
+  "stand_genesis": "28.12.2022 18:48:29h",
+  "abgerufen_am": "2026-09-28T16:46:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12521-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12521-0011_flatfile.csv": "896f6617d679462ede57954179c377674a61d8251901923717a1dda81b276825"
+  },
+  "bytes": 2396194,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12521/table/12521-0011"
+}

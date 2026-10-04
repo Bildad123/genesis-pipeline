@@ -1,0 +1,28 @@
+{
+  "tabelle": "45341-0006",
+  "titel": "Aufwendungen im Handel: Deutschland, Jahre, Aufwendungsarten, Wirtschaftszweige",
+  "zeitraum": "2005 - 2020",
+  "statistik": "45341",
+  "alle_statistiken": [
+    "45341"
+  ],
+  "stand_genesis": "28.12.2022 19:04:53h",
+  "abgerufen_am": "2026-09-28T19:13:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45341-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45341-0006_flatfile.csv": "39841016af3545b5f68135793c435e0200f2427ca8a86c39ba883ab07c5f9e8b"
+  },
+  "bytes": 414089,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45341/table/45341-0006"
+}

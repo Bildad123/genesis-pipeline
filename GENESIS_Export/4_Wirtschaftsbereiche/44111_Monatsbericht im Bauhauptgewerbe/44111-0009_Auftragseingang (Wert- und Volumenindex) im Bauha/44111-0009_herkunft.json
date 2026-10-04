@@ -1,0 +1,28 @@
+{
+  "tabelle": "44111-0009",
+  "titel": "Auftragseingang (Wert- und Volumenindex) im Bauhauptgewerbe (Betriebe mit 20 u.m. tätigen Personen): Deutschland, Monate, Bauarten, Original- und bereinigte Daten",
+  "zeitraum": "Januar 1991 - Juli 2026",
+  "statistik": "44111",
+  "alle_statistiken": [
+    "44111"
+  ],
+  "stand_genesis": "28.12.2022 17:37:43h",
+  "abgerufen_am": "2026-09-28T19:07:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44111-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44111-0009_flatfile.csv": "bc9d2d51c7e7e134fd33db5a716620ac73776f18a6852dab34004a7411c0d78f"
+  },
+  "bytes": 484177,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44111/table/44111-0009"
+}

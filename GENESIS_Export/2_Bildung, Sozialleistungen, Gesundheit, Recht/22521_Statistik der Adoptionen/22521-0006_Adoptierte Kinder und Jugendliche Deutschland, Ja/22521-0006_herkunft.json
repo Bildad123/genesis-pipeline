@@ -1,0 +1,28 @@
+{
+  "tabelle": "22521-0006",
+  "titel": "Adoptierte Kinder und Jugendliche: Deutschland, Jahre (bis 2017), Nationalität, Altersgruppen, Merkmale der Eltern",
+  "zeitraum": "2010 - 2017",
+  "statistik": "22521",
+  "alle_statistiken": [
+    "22521"
+  ],
+  "stand_genesis": "14.08.2024 13:25:01h",
+  "abgerufen_am": "2026-09-28T17:33:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22521-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22521-0006_flatfile.csv": "07546b48e6613818992da904167f2aa5372d52dc3a19d0cd3e3716a8000344d2"
+  },
+  "bytes": 29874,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22521/table/22521-0006"
+}

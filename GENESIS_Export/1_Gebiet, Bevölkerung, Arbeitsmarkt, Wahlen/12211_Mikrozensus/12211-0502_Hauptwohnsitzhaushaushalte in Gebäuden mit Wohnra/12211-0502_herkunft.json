@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0502",
+  "titel": "Hauptwohnsitzhaushaushalte in Gebäuden mit Wohnraum: Deutschland, Jahre, Art der Nutzung der Wohnung, Barrierereduktion des Gebäudes",
+  "zeitraum": "2022 - 2022",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "18.05.2026 13:13:06h",
+  "abgerufen_am": "2026-09-28T16:27:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0502",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0502_flatfile.csv": "37a2703836586c517387377add28001ef6744c086d6d2035630eb1ed8c3931e8"
+  },
+  "bytes": 5442,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0502"
+}

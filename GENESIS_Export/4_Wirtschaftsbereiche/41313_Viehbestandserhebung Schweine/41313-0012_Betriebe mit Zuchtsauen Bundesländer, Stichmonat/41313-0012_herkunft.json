@@ -1,0 +1,28 @@
+{
+  "tabelle": "41313-0012",
+  "titel": "Betriebe mit Zuchtsauen: Bundesländer, Stichmonat, Bestandsgrößenklassen",
+  "zeitraum": "11/2025 - 05/2026",
+  "statistik": "41313",
+  "alle_statistiken": [
+    "41313"
+  ],
+  "stand_genesis": "24.02.2026 10:06:19h",
+  "abgerufen_am": "2026-09-28T18:39:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41313-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41313-0012_flatfile.csv": "9f724d3f8b3434c48f908d325047fee26257b80a1becc9dca3bacfa0e44938ad"
+  },
+  "bytes": 43731,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41313/table/41313-0012"
+}

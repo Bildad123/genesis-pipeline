@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-0005",
+  "titel": "EU-SILC - Personen in Hauptwohnsitzhaushalten, Nettoäquivalenzeinkommen, Relative Armutsgefährdungslücke: Deutschland, Jahre, Geschlecht, Altersgruppen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "12.02.2025 10:12:54h",
+  "abgerufen_am": "2026-09-28T16:36:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-0005_flatfile.csv": "8677941aea44e480c471fcd8785127443189de80b91567d72f4bb75852a21363"
+  },
+  "bytes": 14112,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-0005"
+}

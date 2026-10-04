@@ -1,0 +1,28 @@
+{
+  "tabelle": "44231-0004",
+  "titel": "Tätige Personen (Bauhauptgewerbe): Deutschland, Stichmonat, Stellung im Betrieb, Beschäftigtengrößenklassen",
+  "zeitraum": "06/2009 - 06/2025",
+  "statistik": "44231",
+  "alle_statistiken": [
+    "44231"
+  ],
+  "stand_genesis": "14.02.2024 14:18:01h",
+  "abgerufen_am": "2026-09-28T19:08:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44231-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44231-0004_flatfile.csv": "c07d50e7163cca0856123c6ee48b99229ba424078785df3e5f899ce9713da48d"
+  },
+  "bytes": 17542,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44231/table/44231-0004"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "52411-0060",
+  "titel": "Insolvenzverfahren (Unternehmen), Voraussichtliche Forderungen (Unternehmen), Arbeitnehmer: Deutschland, Jahre",
+  "zeitraum": "1999 - 2025",
+  "statistik": "52411",
+  "alle_statistiken": [
+    "52411"
+  ],
+  "stand_genesis": "06.12.2023 17:59:06h",
+  "abgerufen_am": "2026-09-28T20:13:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52411-0060",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52411-0060_flatfile.csv": "c23cd0442a234d7e445a5f04e448f1b7366190d113ef3bc0247f5704b3be5d8f"
+  },
+  "bytes": 17627,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52411/table/52411-0060"
+}

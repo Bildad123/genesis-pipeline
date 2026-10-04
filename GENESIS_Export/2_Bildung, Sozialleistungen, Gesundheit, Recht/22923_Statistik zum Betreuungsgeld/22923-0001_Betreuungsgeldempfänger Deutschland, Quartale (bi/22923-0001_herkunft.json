@@ -1,0 +1,28 @@
+{
+  "tabelle": "22923-0001",
+  "titel": "Betreuungsgeldempfänger: Deutschland, Quartale (bis 4.Q. 2017), Nationalität",
+  "zeitraum": "1. Quartal 2014 - 4. Quartal 2017",
+  "statistik": "22923",
+  "alle_statistiken": [
+    "22923"
+  ],
+  "stand_genesis": "10.08.2023 14:43:39h",
+  "abgerufen_am": "2026-09-28T17:45:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22923-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22923-0001_flatfile.csv": "07f449d58f0168cdc579be4bf033bfdf2802286c0ec95f7dd1d9dd94d47b2341"
+  },
+  "bytes": 10169,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22923/table/22923-0001"
+}

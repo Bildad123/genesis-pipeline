@@ -1,0 +1,28 @@
+{
+  "tabelle": "85211-0001",
+  "titel": "Siedlungsfläche: Deutschland, Jahre, Produktionsbereiche und private Haushalte, Nutzungsarten",
+  "zeitraum": "1992 - 2008",
+  "statistik": "85211",
+  "alle_statistiken": [
+    "85211"
+  ],
+  "stand_genesis": "26.10.2015 14:31:28h",
+  "abgerufen_am": "2026-09-28T21:14:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85211-0001_flatfile.csv": "bee09bc200db2a46d5db5d1f36873b214795848cc37f065912c031d80679c80c"
+  },
+  "bytes": 19454,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85211/table/85211-0001"
+}

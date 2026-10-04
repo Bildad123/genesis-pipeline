@@ -1,0 +1,28 @@
+{
+  "tabelle": "52551-0006",
+  "titel": "Aufwendungen (sonstige DL-Bereiche): Deutschland, Jahre (bis 2006), Art der Aufwendungen, Wirtschaftszweige, Umsatz-/Beschäftigtengrößenklassen",
+  "zeitraum": "2002 - 2006",
+  "statistik": "52551",
+  "alle_statistiken": [
+    "52551"
+  ],
+  "stand_genesis": "28.12.2022 17:27:39h",
+  "abgerufen_am": "2026-09-28T20:16:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52551-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52551-0006_flatfile.csv": "8c6f1d68bf061ea8bd131140f31295db827490adb33664a79c6de92909f53c7a"
+  },
+  "bytes": 112297,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52551/table/52551-0006"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0102",
+  "titel": "Elterngeldempfänger: Deutschland, Quartale, Geschlecht, Erwerbstätigkeit",
+  "zeitraum": "1. Quartal 2017 - 2. Quartal 2026",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:43:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0102",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0102_flatfile.csv": "cfa3fae7de71cec9154d6c0eba92b82305e39fc2f2e56a10f8716e1b34a24897"
+  },
+  "bytes": 91563,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0102"
+}

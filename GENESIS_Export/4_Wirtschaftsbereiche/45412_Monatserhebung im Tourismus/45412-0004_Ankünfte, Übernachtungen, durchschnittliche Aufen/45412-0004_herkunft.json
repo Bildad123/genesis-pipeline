@@ -1,0 +1,28 @@
+{
+  "tabelle": "45412-0004",
+  "titel": "Ankünfte, Übernachtungen, durchschnittliche Aufenthaltsdauer in Beherbergungsbetrieben: Deutschland, Jahre, Wohnsitz der Gäste, Gemeindegrößenklassen",
+  "zeitraum": "2008 - 2025",
+  "statistik": "45412",
+  "alle_statistiken": [
+    "45412"
+  ],
+  "stand_genesis": "05.06.2024 14:21:08h",
+  "abgerufen_am": "2026-09-28T19:15:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45412-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45412-0004_flatfile.csv": "205cd06e12b109b4e26a67a48100f8129e20cda61d71187d98583707886c2966"
+  },
+  "bytes": 292735,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45412/table/45412-0004"
+}

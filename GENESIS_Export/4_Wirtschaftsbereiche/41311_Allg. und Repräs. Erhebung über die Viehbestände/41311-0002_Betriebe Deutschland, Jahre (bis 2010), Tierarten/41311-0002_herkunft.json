@@ -1,0 +1,28 @@
+{
+  "tabelle": "41311-0002",
+  "titel": "Betriebe: Deutschland, Jahre (bis 2010), Tierarten",
+  "zeitraum": "1950 - 2010",
+  "statistik": "41311",
+  "alle_statistiken": [
+    "41311"
+  ],
+  "stand_genesis": "06.02.2023 16:34:04h",
+  "abgerufen_am": "2026-09-28T18:37:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41311-0002_flatfile.csv": "d2a28b100ae0408877d3697fa2cd358971bd76ea1da745c5d1c219668b746607"
+  },
+  "bytes": 16555,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41311/table/41311-0002"
+}

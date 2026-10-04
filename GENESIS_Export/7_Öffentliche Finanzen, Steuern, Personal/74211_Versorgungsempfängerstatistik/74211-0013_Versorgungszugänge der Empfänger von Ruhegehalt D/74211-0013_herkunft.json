@@ -1,0 +1,28 @@
+{
+  "tabelle": "74211-0013",
+  "titel": "Versorgungszugänge der Empfänger von Ruhegehalt: Deutschland, Jahre (bis 2007), Beschäftigungsbereich, Laufbahngruppe, Grund für den Versorgungsfall",
+  "zeitraum": "1997 - 2007",
+  "statistik": "74211",
+  "alle_statistiken": [
+    "74211"
+  ],
+  "stand_genesis": "28.12.2022 19:05:43h",
+  "abgerufen_am": "2026-09-28T21:00:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "74211-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "74211-0013_flatfile.csv": "8b5cef742d8b25359edf4fdd00f1460ab96f31e6ba1cca42c94256f4d0871188"
+  },
+  "bytes": 134589,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/74211/table/74211-0013"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "24211-0010",
+  "titel": "Von der Staats- und Amtsanwaltschaft erledigte Ermittlungsverfahren: Bundesländer, Jahre, Sachgebiete",
+  "zeitraum": "2018 - 2024",
+  "statistik": "24211",
+  "alle_statistiken": [
+    "24211"
+  ],
+  "stand_genesis": "16.03.2023 16:13:39h",
+  "abgerufen_am": "2026-09-28T17:58:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24211-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24211-0010_flatfile.csv": "cfcb8638a5b09e404df6e73d703f37a7c5b42f17b85a455f1c71ab2e1dd65d51"
+  },
+  "bytes": 127223,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24211/table/24211-0010"
+}

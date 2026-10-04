@@ -1,0 +1,28 @@
+{
+  "tabelle": "12531-0028",
+  "titel": "Durchschnittliche Aufenthaltsdauer der Schutzsuchenden: Bundesländer, Stichtag, Geschlecht, Ländergruppierungen/ Staatsangehörigkeit",
+  "zeitraum": "31.12.2007 - 31.12.2025",
+  "statistik": "12531",
+  "alle_statistiken": [
+    "12531"
+  ],
+  "stand_genesis": "28.12.2022 17:16:03h",
+  "abgerufen_am": "2026-09-28T16:50:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12531-0028",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12531-0028_flatfile.csv": "ae0631dd56a222c8aec0d652bff3c6ce2726b1914e0a7595af6aa866a89709bc"
+  },
+  "bytes": 339189,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12531/table/12531-0028"
+}

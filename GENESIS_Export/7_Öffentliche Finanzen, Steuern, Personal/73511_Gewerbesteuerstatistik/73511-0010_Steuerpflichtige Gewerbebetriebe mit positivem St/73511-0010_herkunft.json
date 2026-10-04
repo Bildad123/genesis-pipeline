@@ -1,0 +1,28 @@
+{
+  "tabelle": "73511-0010",
+  "titel": "Steuerpflichtige Gewerbebetriebe mit positivem Steuermessbetrag / Betriebsstätten mit positivem Zerlegungsanteil: Bundesländer, Jahre",
+  "zeitraum": "2010 - 2021",
+  "statistik": "73511",
+  "alle_statistiken": [
+    "73511"
+  ],
+  "stand_genesis": "29.12.2022 08:06:41h",
+  "abgerufen_am": "2026-09-28T20:59:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73511-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73511-0010_flatfile.csv": "e34741f083bdead0cc1ef5b368a5b15507883ba3873b5248097b7ffa6b2a30f8"
+  },
+  "bytes": 7393,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73511/table/73511-0010"
+}

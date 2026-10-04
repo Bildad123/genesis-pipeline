@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-0009",
+  "titel": "EU-SILC - Personen in Hauptwohnsitzhaushalten: Deutschland, Jahre, Haushaltstyp, Monatliche Wohnkostenbelastung",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "12.02.2025 10:13:32h",
+  "abgerufen_am": "2026-09-28T16:36:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-0009_flatfile.csv": "727eda37b4aca7f9ab9e0e9bfeb8d6c1f097990c8bf3b4746c6a419c36271b4c"
+  },
+  "bytes": 19066,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-0009"
+}

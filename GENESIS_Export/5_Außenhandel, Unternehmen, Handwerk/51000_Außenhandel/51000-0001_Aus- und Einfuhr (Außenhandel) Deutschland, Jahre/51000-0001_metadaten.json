@@ -1,0 +1,114 @@
+{
+  "abgerufen_am": "2026-09-28T19:44:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "51000-0001",
+    "Content": "Aus- und Einfuhr (Außenhandel): Deutschland, Jahre",
+    "Time": {
+      "From": "1950",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "51000",
+        "Content": "Außenhandel",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GEWA",
+          "Content": "Ausfuhr: Gewicht",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "ID0003 ,CH0003",
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "WERTA",
+          "Content": "Ausfuhr: Wert",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "ID0004 ,CH0004",
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "WERTAS",
+          "Content": "Ausfuhr: Wert (US-Dollar)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "ID0005 ,CH0005",
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "GEWE",
+          "Content": "Einfuhr: Gewicht",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "ID0006 ,CH0006",
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "WERTE",
+          "Content": "Einfuhr: Wert",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "ID0007 ,CH0007",
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "WERTES",
+          "Content": "Einfuhr: Wert (US-Dollar)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "ID0008 ,CH0008",
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "06.12.2023 12:28:37h"
+  }
+}

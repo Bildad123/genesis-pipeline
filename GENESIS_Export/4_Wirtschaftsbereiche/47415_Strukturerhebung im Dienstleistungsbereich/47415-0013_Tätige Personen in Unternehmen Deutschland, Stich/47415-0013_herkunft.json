@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0013",
+  "titel": "Tätige Personen in Unternehmen: Deutschland, Stichtag, Stellung im Beruf, Wirtschaftsabschnitte, Größenklassen (Umsatz / tätige Personen)",
+  "zeitraum": "30.09.2014 - 30.09.2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:36:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0013_flatfile.csv": "cc6f5498c1a6b055b24998a1cd593ba9af400ce016d9dbcde41873be4706bc6d"
+  },
+  "bytes": 11675,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0013"
+}

@@ -1,0 +1,155 @@
+{
+  "abgerufen_am": "2026-09-28T20:16:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "52571-0001",
+    "Content": "Arztpraxen, Praxisinhaber, Reinerträge: Deutschland,\nJahre, Praxisform, Art der ausgeübten Tätigkeit,\nEinnahmegrößenklassen",
+    "Time": {
+      "From": "2003",
+      "To": "2007"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "52571",
+        "Content": "Kostenstrukturstatistik im medizinischen Bereich",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "PRXF01",
+          "Content": "Praxisform",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "PRX001",
+              "Content": "Erfasste Arztpraxen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRX002",
+              "Content": "Erfasste Praxisinhaber",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRX014",
+              "Content": "Hochgerechnete Arztpraxen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRX015",
+              "Content": "Hochgerechnete Praxisinhaber",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRX008",
+              "Content": "Reinertrag je Praxis",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRX009",
+              "Content": "Reinertrag je Praxisinhaber",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "PRX010",
+              "Content": "Reinertrag je Praxis anteilig an den Einnahmen",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GESTK1",
+          "Content": "Art der ausgeübten Tätigkeit",
+          "Type": "Merkmal",
+          "Values": "20",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ENGK01",
+              "Content": "Einnahmengrößenklassen",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:20:11h"
+  }
+}

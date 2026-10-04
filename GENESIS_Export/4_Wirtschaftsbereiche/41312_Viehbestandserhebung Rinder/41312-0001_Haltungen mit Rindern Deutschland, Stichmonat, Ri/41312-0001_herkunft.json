@@ -1,0 +1,28 @@
+{
+  "tabelle": "41312-0001",
+  "titel": "Haltungen mit Rindern: Deutschland, Stichmonat, Rinderkategorien",
+  "zeitraum": "05/2010 - 05/2026",
+  "statistik": "41312",
+  "alle_statistiken": [
+    "41312"
+  ],
+  "stand_genesis": "06.02.2023 15:45:51h",
+  "abgerufen_am": "2026-09-28T18:37:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41312-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41312-0001_flatfile.csv": "1a812a802bab1c53368754d45792093356afc9b0d732aa18047e4b61f77ea3f1"
+  },
+  "bytes": 9424,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41312/table/41312-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "32111-0002",
+  "titel": "Abfallentsorgung: Deutschland, Jahre, Abfallarten",
+  "zeitraum": "2017 - 2024",
+  "statistik": "32111",
+  "alle_statistiken": [
+    "32111"
+  ],
+  "stand_genesis": "28.12.2022 17:41:20h",
+  "abgerufen_am": "2026-09-28T18:09:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32111-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32111-0002_flatfile.csv": "8c747a7e5fbbeffb342e89aa53fb07ccfc2e0d7aa6870b43739c748d7d43e2f2"
+  },
+  "bytes": 1081935,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32111/table/32111-0002"
+}

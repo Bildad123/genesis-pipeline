@@ -1,0 +1,28 @@
+{
+  "tabelle": "85111-0003",
+  "titel": "Luftemissionen: Deutschland, Jahre, Entstehungsart der Emissionen, Luftemissionsarten, Wirtschaftszweige",
+  "zeitraum": "2000 - 2024",
+  "statistik": "85111",
+  "alle_statistiken": [
+    "85111"
+  ],
+  "stand_genesis": "14.09.2023 17:14:48h",
+  "abgerufen_am": "2026-09-28T21:13:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85111-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85111-0003_flatfile.csv": "56143bf0f90b3c91e5c0d6a875f0dcb57d4fc70a008486516c66b837bf67de2d"
+  },
+  "bytes": 746590,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85111/table/85111-0003"
+}

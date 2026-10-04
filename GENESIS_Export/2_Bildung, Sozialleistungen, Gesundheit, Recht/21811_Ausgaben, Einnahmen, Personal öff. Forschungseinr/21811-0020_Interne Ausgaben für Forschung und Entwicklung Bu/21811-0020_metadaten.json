@@ -1,0 +1,75 @@
+{
+  "abgerufen_am": "2026-09-28T17:17:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21811-0020",
+    "Content": "Interne Ausgaben für Forschung und Entwicklung: Bundesländer\nund Ausland, Jahre, Einrichtungsgruppe",
+    "Time": {
+      "From": "1995",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "21811",
+        "Content": "Ausgaben, Einnahmen, Personal öff. Forschungseinr.",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "ASG023",
+            "Content": "Interne Ausgaben für Forschung und Entwicklung",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "DLANDU",
+          "Content": "Bundesländer und Ausland",
+          "Type": "Merkmal",
+          "Values": "17",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "EINGR1",
+              "Content": "Einrichtungsgruppe",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 21:36:28h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-0002",
+  "titel": "EU-SILC - Armutsgefährdungsschwelle (60%-Median): Deutschland, Jahre, Haushaltstyp",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "07.02.2025 11:00:36h",
+  "abgerufen_am": "2026-09-28T16:35:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-0002_flatfile.csv": "fe7fb8c8c156aade43420e414653f8b58cc8b3f8bc376e4f63c0e7c4469e5e1c"
+  },
+  "bytes": 2394,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-0002"
+}

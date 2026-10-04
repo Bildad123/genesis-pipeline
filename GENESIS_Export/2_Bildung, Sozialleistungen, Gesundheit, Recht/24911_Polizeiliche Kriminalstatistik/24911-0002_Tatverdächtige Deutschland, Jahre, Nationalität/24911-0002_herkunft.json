@@ -1,0 +1,28 @@
+{
+  "tabelle": "24911-0002",
+  "titel": "Tatverdächtige: Deutschland, Jahre, Nationalität, Geschlecht",
+  "zeitraum": "1993 - 2025",
+  "statistik": "24911",
+  "alle_statistiken": [
+    "24911"
+  ],
+  "stand_genesis": "28.12.2022 18:35:51h",
+  "abgerufen_am": "2026-09-28T18:01:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24911-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24911-0002_flatfile.csv": "978322fd2ecbbc41888c289f107f135bec4084e5e05fd6e5e0be9028784255dd"
+  },
+  "bytes": 27923,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24911/table/24911-0002"
+}

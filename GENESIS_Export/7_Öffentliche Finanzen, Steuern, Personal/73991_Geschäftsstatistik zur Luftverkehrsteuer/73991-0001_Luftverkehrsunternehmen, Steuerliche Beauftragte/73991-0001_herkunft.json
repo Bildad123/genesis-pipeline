@@ -1,0 +1,28 @@
+{
+  "tabelle": "73991-0001",
+  "titel": "Luftverkehrsunternehmen, Steuerliche Beauftragte, Beförderte Fluggäste, Luftverkehrsteuer: Deutschland, Jahre",
+  "zeitraum": "2011 - 2025",
+  "statistik": "73991",
+  "alle_statistiken": [
+    "73991"
+  ],
+  "stand_genesis": "24.03.2023 15:22:40h",
+  "abgerufen_am": "2026-09-28T20:59:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73991-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73991-0001_flatfile.csv": "bce1f884390e61c575b0f6dc7f2327b6953069acdf1853345f642a9017c6d1b1"
+  },
+  "bytes": 11871,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73991/table/73991-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "52551-0004",
+  "titel": "Tätige Personen (sonstige DL-Bereiche): Deutschland, Stichtag (bis 30.09.2006), Beschäftigungsumfang, Geschlecht, Wirtschaftszweige, Umsatz-/Beschäftigtengrößenklassen",
+  "zeitraum": "30.09.2002 - 30.09.2006",
+  "statistik": "52551",
+  "alle_statistiken": [
+    "52551"
+  ],
+  "stand_genesis": "28.12.2022 17:27:39h",
+  "abgerufen_am": "2026-09-28T20:16:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52551-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52551-0004_flatfile.csv": "f3c54aebf01c6e9f13a885f8b2bd89aff02db9d1bce2fbd899ea00783bb8ebca"
+  },
+  "bytes": 243823,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52551/table/52551-0004"
+}

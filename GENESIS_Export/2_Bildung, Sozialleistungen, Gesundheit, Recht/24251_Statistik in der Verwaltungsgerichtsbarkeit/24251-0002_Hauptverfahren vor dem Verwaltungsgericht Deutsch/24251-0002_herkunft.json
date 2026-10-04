@@ -1,0 +1,28 @@
+{
+  "tabelle": "24251-0002",
+  "titel": "Hauptverfahren vor dem Verwaltungsgericht: Deutschland, Jahre, Stand der Erledigung",
+  "zeitraum": "2018 - 2024",
+  "statistik": "24251",
+  "alle_statistiken": [
+    "24251"
+  ],
+  "stand_genesis": "01.11.2023 13:16:35h",
+  "abgerufen_am": "2026-09-28T17:59:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24251-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24251-0002_flatfile.csv": "4fa0978814f50b61c6a9c4195bfd1d6afa33527aa497deb8faca8a5cf790061a"
+  },
+  "bytes": 9036,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24251/table/24251-0002"
+}

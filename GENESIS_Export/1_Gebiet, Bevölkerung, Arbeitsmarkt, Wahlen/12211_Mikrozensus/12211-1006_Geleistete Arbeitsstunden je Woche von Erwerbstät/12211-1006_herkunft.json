@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-1006",
+  "titel": "Geleistete Arbeitsstunden je Woche von Erwerbstätigen aus Hauptwohnsitzhaushalten: Bundesländer, Jahre, Geschlecht, Stellung im Beruf, Art der geleisteten Arbeitsstunden",
+  "zeitraum": "2024 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "15.05.2025 13:18:03h",
+  "abgerufen_am": "2026-09-28T16:29:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-1006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-1006_flatfile.csv": "789c43ab47d1691bf3722787c72ad78f67dcce835546e2dfe1d899f469069e15"
+  },
+  "bytes": 399731,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-1006"
+}

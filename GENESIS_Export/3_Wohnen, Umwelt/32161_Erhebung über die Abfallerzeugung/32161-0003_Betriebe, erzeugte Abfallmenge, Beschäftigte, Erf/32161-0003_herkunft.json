@@ -1,0 +1,28 @@
+{
+  "tabelle": "32161-0003",
+  "titel": "Betriebe, erzeugte Abfallmenge, Beschäftigte, Erfassungsgrad der Betriebe, Erfassungsgrad der Beschäftigten: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2010 - 2022",
+  "statistik": "32161",
+  "alle_statistiken": [
+    "32161"
+  ],
+  "stand_genesis": "28.12.2022 17:46:57h",
+  "abgerufen_am": "2026-09-28T18:11:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32161-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32161-0003_flatfile.csv": "f0e99270d0e1a8e2a5dd25f2c92001ffa6855856da58f2f5c9b971fa4e7ed694"
+  },
+  "bytes": 16681,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32161/table/32161-0003"
+}

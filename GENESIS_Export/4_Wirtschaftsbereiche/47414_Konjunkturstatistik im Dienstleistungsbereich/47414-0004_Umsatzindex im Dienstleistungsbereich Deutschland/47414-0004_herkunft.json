@@ -1,0 +1,28 @@
+{
+  "tabelle": "47414-0004",
+  "titel": "Umsatzindex im Dienstleistungsbereich: Deutschland, Monate/Quartale/Halbjahre, Preisarten, Wirtschaftszweige",
+  "zeitraum": "Januar 2015 - Juni 2026",
+  "statistik": "47414",
+  "alle_statistiken": [
+    "47414"
+  ],
+  "stand_genesis": "28.12.2022 17:31:31h",
+  "abgerufen_am": "2026-09-28T19:34:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47414-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47414-0004_flatfile.csv": "f65c163af554f76be6c36f1a04755f507b95f5083381cf9ef791e01ce20593b6"
+  },
+  "bytes": 2592562,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47414/table/47414-0004"
+}

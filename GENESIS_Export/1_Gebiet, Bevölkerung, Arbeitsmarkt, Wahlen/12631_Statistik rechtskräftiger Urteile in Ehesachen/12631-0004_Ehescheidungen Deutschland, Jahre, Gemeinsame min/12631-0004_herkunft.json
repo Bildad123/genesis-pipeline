@@ -1,0 +1,28 @@
+{
+  "tabelle": "12631-0004",
+  "titel": "Ehescheidungen: Deutschland, Jahre, Gemeinsame minderjährige Kinder, Ehedauer",
+  "zeitraum": "1997 - 2025",
+  "statistik": "12631",
+  "alle_statistiken": [
+    "12631"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T16:54:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12631-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12631-0004_flatfile.csv": "481bf9f8b82c2f0555652e78286158377f97bad30b5ccac54b5edcc370d4a934"
+  },
+  "bytes": 29631,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12631/table/12631-0004"
+}

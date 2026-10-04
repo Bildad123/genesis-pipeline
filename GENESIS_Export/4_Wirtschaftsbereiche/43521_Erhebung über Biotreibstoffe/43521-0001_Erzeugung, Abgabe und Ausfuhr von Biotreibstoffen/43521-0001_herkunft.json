@@ -1,0 +1,28 @@
+{
+  "tabelle": "43521-0001",
+  "titel": "Erzeugung, Abgabe und Ausfuhr von Biotreibstoffen: Deutschland, Jahre, Biotreibstoffe",
+  "zeitraum": "2003 - 2024",
+  "statistik": "43521",
+  "alle_statistiken": [
+    "43521"
+  ],
+  "stand_genesis": "28.12.2022 18:18:30h",
+  "abgerufen_am": "2026-09-28T19:06:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43521-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43521-0001_flatfile.csv": "92e362fff8a0481b2701deb4e440b8cfbdbbe56dfc92e24db3e2cbc31ad7c117"
+  },
+  "bytes": 26110,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43521/table/43521-0001"
+}

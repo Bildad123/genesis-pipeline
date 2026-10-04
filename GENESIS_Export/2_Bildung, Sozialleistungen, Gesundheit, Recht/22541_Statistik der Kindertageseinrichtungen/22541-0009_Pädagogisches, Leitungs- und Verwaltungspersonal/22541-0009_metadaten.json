@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T17:36:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22541-0009",
+    "Content": "Pädagogisches, Leitungs- und Verwaltungspersonal:\nDeutschland, Stichtag, Geschlecht, Altersgruppen",
+    "Time": {
+      "From": "01.03.2014",
+      "To": "01.03.2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "22541",
+        "Content": "Statistik der Kindertageseinrichtungen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "PER060",
+                "Content": "Pädagogisches, Leitungs- und Verwaltungspersonal",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GES",
+          "Content": "Geschlecht",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ALTX07",
+              "Content": "Altersgruppen (u20-65m)",
+              "Type": "Merkmal",
+              "Values": "11",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "21.10.2025 13:50:26h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0103",
+  "titel": "Landwirtschaftliche Betriebe mit Ackerland, Fläche: Bundesländer, Jahre, Ackerkulturen, Größenklassen des Ackerlandes",
+  "zeitraum": "2010 - 2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "29.12.2022 08:02:05h",
+  "abgerufen_am": "2026-09-28T18:23:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0103",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0103_flatfile.csv": "0ea597ac7222d088c8141dc0ce0c07b6a0eeb37d1fe5beca5e244dc415b8f5c1"
+  },
+  "bytes": 571941,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0103"
+}

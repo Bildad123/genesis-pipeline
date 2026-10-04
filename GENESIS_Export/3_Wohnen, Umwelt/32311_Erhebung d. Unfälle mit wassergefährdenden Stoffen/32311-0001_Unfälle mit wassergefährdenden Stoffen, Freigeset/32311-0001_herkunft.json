@@ -1,0 +1,28 @@
+{
+  "tabelle": "32311-0001",
+  "titel": "Unfälle mit wassergefährdenden Stoffen, Freigesetzte Menge, Wiedergewonnene Menge: Deutschland, Jahre",
+  "zeitraum": "2010 - 2025",
+  "statistik": "32311",
+  "alle_statistiken": [
+    "32311"
+  ],
+  "stand_genesis": "29.12.2022 04:33:29h",
+  "abgerufen_am": "2026-09-28T18:13:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32311-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32311-0001_flatfile.csv": "d7ad611f559f16880eade2984aaf50513092cd9ebbc0fbc5693cde3d9ca6866e"
+  },
+  "bytes": 7516,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32311/table/32311-0001"
+}

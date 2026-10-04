@@ -1,0 +1,310 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS1;Ökosystemabschnitte;OEKSYS-A;Terrestrischer Bereich;35145319;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS1;Ökosystemabschnitte;OEKSYS-A;Terrestrischer Bereich;35142753;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS1;Ökosystemabschnitte;OEKSYS-B;Gewässer;2999904;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS1;Ökosystemabschnitte;OEKSYS-B;Gewässer;2996498;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS1;Ökosystemabschnitte;OEKSYS-A;Terrestrischer Bereich;35148887;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS1;Ökosystemabschnitte;OEKSYS-B;Gewässer;2993760;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A015;Freizeit- und urbane Grünflächen;463831;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A034;Wald-Strauch-Übergangsflächen;718997;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A013;Verkehrsinfrastruktur;352281;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A032;Nadelwälder;5225057;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A011;Siedlungsflächen mit hoher Baudichte;77885;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B022;Küstennahe Meeresgewässer;744900;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A042;Feuchtgebiete;182537;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A032;Nadelwälder;5505615;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A011;Siedlungsflächen mit hoher Baudichte;67263;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B011;Fließgewässer;176322;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A014;Abbauflächen, Deponien und Baustellen;96454;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A012;Siedlungsflächen mit niedriger Baudichte;3050391;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A033;Mischwälder;1614581;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A031;Laubwälder;3738123;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A015;Freizeit- und urbane Grünflächen;471793;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B011;Fließgewässer;174849;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A034;Wald-Strauch-Übergangsflächen;978616;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A013;Verkehrsinfrastruktur;356526;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B021;Watt;301876;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B023;Offene Meere;1338723;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A023;Grünland;6311638;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A043;Vegetationsarme Flächen;79193;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A022;Dauerkulturen;395202;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A041;Natürliche und extensiv genutzte Grünflächen;265763;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A042;Feuchtgebiete;183834;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A021;Ackerland;12222162;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B023;Offene Meere;1338723;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B021;Watt;301619;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A023;Grünland;6345221;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A021;Ackerland;12225207;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A024;Feldhecken;73095;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B011;Fließgewässer;173396;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A014;Abbauflächen, Deponien und Baustellen;100316;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A012;Siedlungsflächen mit niedriger Baudichte;3063586;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A033;Mischwälder;1632043;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B021;Watt;301580;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A031;Laubwälder;3729093;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B023;Offene Meere;1338723;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A041;Natürliche und extensiv genutzte Grünflächen;265903;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A043;Vegetationsarme Flächen;77425;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A033;Mischwälder;1614352;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A031;Laubwälder;3731353;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A015;Freizeit- und urbane Grünflächen;451284;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B012;Standgewässer;438313;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A013;Verkehrsinfrastruktur;350508;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A011;Siedlungsflächen mit hoher Baudichte;57275;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A034;Wald-Strauch-Übergangsflächen;705509;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A032;Nadelwälder;5521210;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A014;Abbauflächen, Deponien und Baustellen;108379;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B012;Standgewässer;436445;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A012;Siedlungsflächen mit niedriger Baudichte;3090860;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B022;Küstennahe Meeresgewässer;744884;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A024;Feldhecken;73685;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A021;Ackerland;12210152;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A042;Feuchtgebiete;185531;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A041;Natürliche und extensiv genutzte Grünflächen;265680;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A043;Vegetationsarme Flächen;76880;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A022;Dauerkulturen;393847;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B022;Küstennahe Meeresgewässer;744928;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A024;Feldhecken;72660;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A022;Dauerkulturen;394602;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-B012;Standgewässer;434882;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS3;Ökosystemgruppen (3-Steller);OEKSYS-A023;Grünland;6263566;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0112;Erheblich veränderte große Fließgewässer;78110;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0412;Almen und Bergwiesen;61863;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0437;Montane und subalpine Heiden und Rasen;19595;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0313;Auenwälder;116071;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0230;Wiesen und Weiden;6345221;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0331;Montane und subalpine Mischwälder;248369;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0435;Natürlicher Fels;10435;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0122;Erheblich veränderte große Standgewässer;26471;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0233;Sandbänke im offenen Meer;87574;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0349;Sonstige Flächen mit Büschen und Sträuchern;297134;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0411;Heideland;73387;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0132;Schiene;48277;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0223;Küstennahe Sandbänke;30711;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0119;Sonstige kleine Fließgewässer;7422;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0434;Erosionsflächen und Schutthalden im Gebirge;3196;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0341;Aufforstung;411583;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0134;Flughafen;11099;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0111;Wohngebiet mit hoher Baudichte;14889;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0419;Sonst. natürliches od. extensiv genutztes Grünland;130510;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0425;Salzwiesen;25690;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0232;Riffe im offenen Meer;81721;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0219;Sonstiges Ackerland;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0112;Industrieflächen mit hoher Baudichte;52065;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0424;Natürliche oder renaturierte An- und Niedermoore;26888;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0111;Natürliche große Fließgewässer;72231;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0211;Watt mit Makrophytenbeständen;24781;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0222;Küstennahe Riffe;98012;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0123;Künstliche große Standgewässer;37245;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0143;Baustellen;12666;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0423;Natürliche od.renaturierte Zwischen- und Hochmoore;42647;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0229;Küstennaher sonstiger Meeresgrund;598852;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0123;Gewerbefl. u.öff. Einricht. m. niedriger Baudichte;259765;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0436;Gletscher und Dauerschneegebiete;108;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0222;Obst- und Beerenobstbestände;90106;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0221;Küstennahe marine Makrophytenbestände;17308;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0411;Heideland;74067;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0229;Sonstige Dauerkulturen;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0113;Künstliche große Fließgewässer;16531;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0312;Moorwälder mit Laubbäumen;28954;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0219;Sonstige Wattflächen;273713;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0419;Sonst. natürliches od. extensiv genutztes Grünland;129750;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0434;Erosionsflächen und Schutthalden im Gebirge;3198;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0123;Gewerbefl. u.öff. Einricht. m. niedriger Baudichte;261642;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0222;Küstennahe Riffe;98014;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0112;Erheblich veränderte große Fließgewässer;76697;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0211;Watt mit Makrophytenbeständen;20793;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0230;Wiesen und Weiden;6311638;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0433;Sand, Erd- und Gesteinsflächen im Binnenland;4885;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0131;Straße;283620;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0219;Sonstige Wattflächen;277943;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0112;Industrieflächen mit hoher Baudichte;44423;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0233;Sandbänke im offenen Meer;87574;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0240;Feldhecken;72660;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0134;Flughafen;11280;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0423;Natürliche od.renaturierte Zwischen- und Hochmoore;42899;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0342;Lichtungen und Naturverjüngungsflächen;247498;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0111;Wohngebiet mit hoher Baudichte;16937;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0422;Torfmoore mit aktivem Stich;16930;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0339;Sonstige Mischwälder;1373567;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0223;Küstennahe Sandbänke;30711;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0142;Deponien und Abraumhalden;10341;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0233;Sandbänke im offenen Meer;87494;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0313;Auenwälder;115380;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0221;Weinbauflächen;118988;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0222;Küstennahe Riffe;98012;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0439;Sonstige vegetationsarme Flächen;21383;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0311;Montane und subalpine Laubwälder;194919;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0112;Erheblich veränderte große Fließgewässer;82124;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0433;Sand, Erd- und Gesteinsflächen im Binnenland;4706;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0141;Abbauflächen;84312;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0319;Sonstige Laubwälder;3398180;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0113;Künstliche große Fließgewässer;17046;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0212;Watt mit Muschelbeständen;2845;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0432;Küstendünen;15059;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0219;Sonstige Wattflächen;274253;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0159;Sonstige urbane Grünflächen;106298;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0113;Gewerbefl. u.öff. Einrichtungen m. hoher Baudichte;7951;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0211;Watt mit Makrophytenbeständen;25095;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0151;Ausgewiesene urbane Grünflächen;78987;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0322;Moorwälder mit Nadelbäumen;7175;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0422;Torfmoore mit aktivem Stich;16953;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0152;Freizeit- und Sport-Freiflächen;286484;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0141;Abbauflächen;73447;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0319;Sonstige Laubwälder;3397343;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0240;Feldhecken;73685;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0421;Sumpf;70416;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0224;Baumschulen;40351;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0312;Moorwälder mit Laubbäumen;29151;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0429;Sonstige Feuchtgebiete;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0223;Küstennahe Sandbänke;30711;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0113;Künstliche große Fließgewässer;17294;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0432;Küstendünen;14217;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0332;Moorwälder mit Laub- und Nadelbäumen;10108;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0329;Sonstige Nadelwälder;4378598;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0439;Sonstige vegetationsarme Flächen;20008;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0152;Freizeit- und Sport-Freiflächen;263126;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0321;Montane und subalpine Nadelwälder;874421;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0224;Baumschulen;40509;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0212;Watt mit Muschelbeständen;2528;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0211;Nicht bewässertes Ackerland;12210152;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0152;Freizeit- und Sport-Freiflächen;278546;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0429;Sonstige Feuchtgebiete;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0159;Sonstige urbane Grünflächen;106411;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0322;Moorwälder mit Nadelbäumen;7226;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0321;Montane und subalpine Nadelwälder;839283;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0431;(Künstl.) Sand-, Kiesstrand, inhomogene Küsten;4384;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0421;Sumpf;71403;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0113;Gewerbefl. u.öff. Einrichtungen m. hoher Baudichte;8883;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0151;Ausgewiesene urbane Grünflächen;78898;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0319;Sonstige Laubwälder;3392549;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0212;Watt mit Muschelbeständen;3126;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0431;(Künstl.) Sand-, Kiesstrand, inhomogene Küsten;3580;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0311;Montane und subalpine Laubwälder;194274;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0223;Streuobstwiesen;145757;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0143;Baustellen;13329;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0141;Abbauflächen;79139;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0439;Sonstige vegetationsarme Flächen;20295;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0211;Nicht bewässertes Ackerland;12225207;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0224;Baumschulen;39555;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0431;(Künstl.) Sand-, Kiesstrand, inhomogene Küsten;4497;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0239;Sonstiger Meeresgrund im offenen Meer;1169428;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0312;Moorwälder mit Laubbäumen;30440;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0151;Ausgewiesene urbane Grünflächen;78830;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0223;Streuobstwiesen;145929;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0322;Moorwälder mit Nadelbäumen;7145;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0421;Sumpf;72248;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0329;Sonstige Nadelwälder;4639562;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0429;Sonstige Feuchtgebiete;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0222;Obst- und Beerenobstbestände;89411;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0122;Erheblich veränderte große Standgewässer;25522;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0113;Gewerbefl. u.öff. Einrichtungen m. hoher Baudichte;7400;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0159;Sonstige urbane Grünflächen;109328;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0131;Straße;289086;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0332;Moorwälder mit Laub- und Nadelbäumen;9997;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0432;Küstendünen;14215;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0219;Sonstiges Ackerland;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0119;Sonstige kleine Fließgewässer;5619;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0339;Sonstige Mischwälder;1357493;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0142;Deponien und Abraumhalden;10671;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0419;Sonst. natürliches od. extensiv genutztes Grünland;129843;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0111;Natürliche große Fließgewässer;71285;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0311;Montane und subalpine Laubwälder;193560;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0223;Streuobstwiesen;145871;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0142;Deponien und Abraumhalden;10738;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0329;Sonstige Nadelwälder;4625671;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0437;Montane und subalpine Heiden und Rasen;19482;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0112;Industrieflächen mit hoher Baudichte;36493;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0321;Montane und subalpine Nadelwälder;872800;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0342;Lichtungen und Naturverjüngungsflächen;3588;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0422;Torfmoore mit aktivem Stich;16979;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0131;Straße;285402;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0219;Sonstiges Ackerland;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0121;Natürliche große Standgewässer;178664;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0221;Weinbauflächen;118753;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0123;Künstliche große Standgewässer;39971;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0211;Nicht bewässertes Ackerland;12222162;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0129;Sonstige kleine Standgewässer;194944;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0240;Feldhecken;73095;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0123;Gewerbefl. u.öff. Einricht. m. niedriger Baudichte;258844;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0332;Moorwälder mit Laub- und Nadelbäumen;10052;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0331;Montane und subalpine Mischwälder;247090;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0143;Baustellen;10507;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0433;Sand, Erd- und Gesteinsflächen im Binnenland;6161;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0437;Montane und subalpine Heiden und Rasen;19424;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0222;Obst- und Beerenobstbestände;89574;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0122;Industrieflächen mit niedriger Baudichte;511009;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0221;Küstennahe marine Makrophytenbestände;17145;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0436;Gletscher und Dauerschneegebiete;108;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0231;Marine Makrophytenbestände im offenen Meer;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0134;Flughafen;11110;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0111;Wohngebiet mit hoher Baudichte;13381;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0349;Sonstige Flächen mit Büschen und Sträuchern;334663;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0341;Aufforstung;406451;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0239;Sonstiger Meeresgrund im offenen Meer;1169428;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0423;Natürliche od.renaturierte Zwischen- und Hochmoore;43200;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0132;Schiene;48242;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0229;Sonstige Dauerkulturen;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0133;Hafen;7718;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0122;Erheblich veränderte große Standgewässer;25570;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0341;Aufforstung;396455;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0229;Küstennaher sonstiger Meeresgrund;599058;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0425;Salzwiesen;25720;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0339;Sonstige Mischwälder;1357302;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0122;Industrieflächen mit niedriger Baudichte;498683;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0232;Riffe im offenen Meer;81801;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0129;Sonstige kleine Standgewässer;192778;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0331;Montane und subalpine Mischwälder;246998;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0411;Heideland;73772;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0121;Wohngebiet mit niedriger Baudichte;2306034;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0434;Erosionsflächen und Schutthalden im Gebirge;3180;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0111;Natürliche große Fließgewässer;74282;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0229;Sonstige Dauerkulturen;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0119;Sonstige kleine Fließgewässer;5925;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0221;Weinbauflächen;118847;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0313;Auenwälder;107751;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0436;Gletscher und Dauerschneegebiete;108;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0121;Natürliche große Standgewässer;178388;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0121;Wohngebiet mit niedriger Baudichte;2318209;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0232;Riffe im offenen Meer;81721;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0230;Wiesen und Weiden;6263566;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0133;Hafen;7501;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0435;Natürlicher Fels;10302;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0412;Almen und Bergwiesen;62005;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0239;Sonstiger Meeresgrund im offenen Meer;1169428;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0342;Lichtungen und Naturverjüngungsflächen;10280;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0129;Sonstige kleine Standgewässer;194185;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0133;Hafen;7537;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0424;Natürliche oder renaturierte An- und Niedermoore;27414;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0132;Schiene;48443;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0231;Marine Makrophytenbestände im offenen Meer;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0121;Natürliche große Standgewässer;178634;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0123;Künstliche große Standgewässer;37267;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0349;Sonstige Flächen mit Büschen und Sträuchern;295470;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0425;Salzwiesen;25690;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0221;Küstennahe marine Makrophytenbestände;17099;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0231;Marine Makrophytenbestände im offenen Meer;0;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0424;Natürliche oder renaturierte An- und Niedermoore;26823;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0121;Wohngebiet mit niedriger Baudichte;2292863;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-B0229;Küstennaher sonstiger Meeresgrund;599078;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0412;Almen und Bergwiesen;62148;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0435;Natürlicher Fels;10971;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS4;Ökosystemklassen (4-Steller);OEKSYS-A0122;Industrieflächen mit niedriger Baudichte;497787;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A02;Agrarland;19001331;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A01;Siedlungsflächen und Verkehrsinfrastruktur;4105445;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-B01;Binnengewässer;608277;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A03;Wälder und Gehölz;11570318;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A04;Semi-natürliches Offenland;526393;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-B02;Meeresgewässer;2385483;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A04;Semi-natürliches Offenland;530487;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A03;Wälder und Gehölz;11564808;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A01;Siedlungsflächen und Verkehrsinfrastruktur;4047277;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A02;Agrarland;18942014;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A04;Semi-natürliches Offenland;525864;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A03;Wälder und Gehölz;11579422;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A02;Agrarland;19037690;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-A01;Siedlungsflächen und Verkehrsinfrastruktur;4005911;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-B02;Meeresgewässer;2385270;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-B01;Binnengewässer;614635;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-B01;Binnengewässer;611294;ha;FLC004;Fläche
+85311;Ausmaß der Ökosysteme;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;OEKOS2;Ökosystemabteilungen (2-Steller);OEKSYS-B02;Meeresgewässer;2385203;ha;FLC004;Fläche

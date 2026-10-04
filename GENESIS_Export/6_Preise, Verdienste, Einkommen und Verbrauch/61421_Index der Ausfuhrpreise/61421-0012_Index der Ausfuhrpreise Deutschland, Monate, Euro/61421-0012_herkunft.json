@@ -1,0 +1,28 @@
+{
+  "tabelle": "61421-0012",
+  "titel": "Index der Ausfuhrpreise: Deutschland, Monate, Euro-Länder und Nicht-Euro-Länder, Güterverzeichnis (GP2019 Sonderpositionen)",
+  "zeitraum": "Januar 2000 - Juli 2026",
+  "statistik": "61421",
+  "alle_statistiken": [
+    "61421"
+  ],
+  "stand_genesis": "20.03.2024 11:15:51h",
+  "abgerufen_am": "2026-09-28T20:31:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61421-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61421-0012_flatfile.csv": "11ee7d26995dc88d1c523a68cc1a0314e3b99ebec17a5770edb7722a47ab42fa"
+  },
+  "bytes": 12797026,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61421/table/61421-0012"
+}

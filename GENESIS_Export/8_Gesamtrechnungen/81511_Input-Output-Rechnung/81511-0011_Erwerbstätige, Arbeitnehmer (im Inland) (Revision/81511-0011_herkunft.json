@@ -1,0 +1,28 @@
+{
+  "tabelle": "81511-0011",
+  "titel": "Erwerbstätige, Arbeitnehmer (im Inland) (Revision 2024): Deutschland, Jahre, Produktionsbereiche",
+  "zeitraum": "2021 - 2022",
+  "statistik": "81511",
+  "alle_statistiken": [
+    "81511"
+  ],
+  "stand_genesis": "08.01.2025 16:46:10h",
+  "abgerufen_am": "2026-09-28T21:12:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81511-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81511-0011_flatfile.csv": "c830ce7d3b5de54dbc9ad647d47b25de4dc0c9acc1bc9ad3caab83d933e1138f"
+  },
+  "bytes": 32394,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81511/table/81511-0011"
+}

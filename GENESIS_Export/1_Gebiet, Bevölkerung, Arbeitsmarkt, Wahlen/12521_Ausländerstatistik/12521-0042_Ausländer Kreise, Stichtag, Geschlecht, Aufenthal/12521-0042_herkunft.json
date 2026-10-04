@@ -1,0 +1,28 @@
+{
+  "tabelle": "12521-0042",
+  "titel": "Ausländer: Kreise, Stichtag, Geschlecht, Aufenthaltstitel, Ländergruppierungen",
+  "zeitraum": "31.12.1998 - 31.12.2019",
+  "statistik": "12521",
+  "alle_statistiken": [
+    "12521"
+  ],
+  "stand_genesis": "30.07.2026 15:45:26h",
+  "abgerufen_am": "2026-09-28T16:48:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12521-0042",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12521-0042_flatfile.csv": "47367a16da454fab021ce548624a46799f830e81c4d6cbaf8c204dea0776f605"
+  },
+  "bytes": 4740593,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12521/table/12521-0042"
+}

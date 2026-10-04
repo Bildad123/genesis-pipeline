@@ -1,0 +1,28 @@
+{
+  "tabelle": "41213-0010",
+  "titel": "Betriebe mit Erzeugung von Beet- und Balkonpflanzen und Stauden: Bundesländer, Jahre, Verwendungszweck, Pflanzenarten",
+  "zeitraum": "2008 - 2025",
+  "statistik": "41213",
+  "alle_statistiken": [
+    "41213"
+  ],
+  "stand_genesis": "28.12.2022 17:39:46h",
+  "abgerufen_am": "2026-09-28T18:28:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41213-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41213-0010_flatfile.csv": "5d23ce599e72b926bb7d6eeb6c227c32deb668f957cfabf8418bb5a1c61f24e6"
+  },
+  "bytes": 2419550,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41213/table/41213-0010"
+}

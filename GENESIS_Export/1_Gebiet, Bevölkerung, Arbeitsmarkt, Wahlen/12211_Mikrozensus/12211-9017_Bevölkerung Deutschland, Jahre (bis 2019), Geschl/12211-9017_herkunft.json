@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9017",
+  "titel": "Bevölkerung: Deutschland, Jahre (bis 2019), Geschlecht, Krankenkassen",
+  "zeitraum": "2007 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "26.02.2025 17:19:23h",
+  "abgerufen_am": "2026-09-28T16:31:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9017",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9017_flatfile.csv": "7c3f951ac43d93502a0d1109cbd0788d5f12bd48df7c7a142330fc5383fcea1f"
+  },
+  "bytes": 16455,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9017"
+}

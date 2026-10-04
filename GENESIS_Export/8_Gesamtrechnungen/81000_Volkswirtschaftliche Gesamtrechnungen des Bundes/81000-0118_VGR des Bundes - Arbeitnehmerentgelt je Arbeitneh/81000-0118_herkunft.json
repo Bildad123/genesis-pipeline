@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0118",
+  "titel": "VGR des Bundes - Arbeitnehmerentgelt je Arbeitnehmer: Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 15:03:02h",
+  "abgerufen_am": "2026-09-28T21:09:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0118",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0118_flatfile.csv": "25474f4e4fe7137a10a362e106913040669df16626355014a67281d42c8aa04d"
+  },
+  "bytes": 119236,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0118"
+}

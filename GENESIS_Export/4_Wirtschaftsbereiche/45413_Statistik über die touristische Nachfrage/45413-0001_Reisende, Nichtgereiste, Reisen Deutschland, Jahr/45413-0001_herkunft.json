@@ -1,0 +1,28 @@
+{
+  "tabelle": "45413-0001",
+  "titel": "Reisende, Nichtgereiste, Reisen: Deutschland, Jahre",
+  "zeitraum": "2012 - 2025",
+  "statistik": "45413",
+  "alle_statistiken": [
+    "45413"
+  ],
+  "stand_genesis": "28.12.2022 21:20:39h",
+  "abgerufen_am": "2026-09-28T19:16:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45413-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45413-0001_flatfile.csv": "fa5d8ffaec81a253e1f2f26a027b4961e8efee8cc5ed3feadf0d0765dbfe4ed9"
+  },
+  "bytes": 6100,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45413/table/45413-0001"
+}

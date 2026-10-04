@@ -1,0 +1,28 @@
+{
+  "tabelle": "63111-0014",
+  "titel": "Einkommen und Einnahmen sowie Ausgaben privater Haushalte (LWR): Deutschland, Jahre (bis 2022), Soziale Stellung des Haupteinkommensbeziehers",
+  "zeitraum": "2014 - 2022",
+  "statistik": "63111",
+  "alle_statistiken": [
+    "63111"
+  ],
+  "stand_genesis": "26.08.2026 12:24:16h",
+  "abgerufen_am": "2026-09-28T20:44:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63111-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63111-0014_flatfile.csv": "a5c5e79ce4fc4c895cfdb679e635d264f90b9958563cbc7ff660fde001d0142c"
+  },
+  "bytes": 49168,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63111/table/63111-0014"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "51912-0003",
+  "titel": "Aus- und Einfuhr (Extrahandel): Deutschland, Jahre, Rechnungswährungen",
+  "zeitraum": "2025 - 2025",
+  "statistik": "51912",
+  "alle_statistiken": [
+    "51912"
+  ],
+  "stand_genesis": "12.05.2026 14:22:07h",
+  "abgerufen_am": "2026-09-28T20:04:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "51912-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "51912-0003_flatfile.csv": "c1a06d6d834e5723855631e2d3140c0d35bdd87f97b23042300d6572139a3351"
+  },
+  "bytes": 64454,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/51912/table/51912-0003"
+}

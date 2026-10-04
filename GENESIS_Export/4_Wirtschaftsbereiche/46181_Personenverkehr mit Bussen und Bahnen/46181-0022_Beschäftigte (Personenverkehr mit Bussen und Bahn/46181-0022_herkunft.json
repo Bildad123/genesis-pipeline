@@ -1,0 +1,28 @@
+{
+  "tabelle": "46181-0022",
+  "titel": "Beschäftigte (Personenverkehr mit Bussen und Bahnen): Bundesländer, Stichtag, Einsatzart",
+  "zeitraum": "31.12.2004 - 31.12.2024",
+  "statistik": "46181",
+  "alle_statistiken": [
+    "46181"
+  ],
+  "stand_genesis": "28.12.2022 17:13:08h",
+  "abgerufen_am": "2026-09-28T19:21:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46181-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46181-0022_flatfile.csv": "7aa7ea084e28a934924a480d99997c511395ac2ee611950be38461ee8d5243e0"
+  },
+  "bytes": 9241,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46181/table/46181-0022"
+}

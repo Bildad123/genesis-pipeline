@@ -1,0 +1,65 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;81;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;39;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;51;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;4671;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;87;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;-;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;369;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;2460;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;06;Hessen;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;1701;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;2277;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;813;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;660;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;183;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;08;Baden-Württemberg;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;15;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;141;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;525;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;456;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;2019;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;840;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;507;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;873;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;702;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;1755;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;36;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;66;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;147;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;1500;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;432;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;702;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;4179;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;66;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;3648;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;210;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;9435;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;07;Rheinland-Pfalz;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;1206;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;2223;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;01;Schleswig-Holstein;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;1080;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;03;Niedersachsen;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;1908;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;05;Nordrhein-Westfalen;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;6162;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;09;Bayern;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;02;Hamburg;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;51;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;04;Bremen;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;9;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;1023;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;14;Sachsen;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;BILGR1;Prüfungsergebnis;PRUEF-NB;Prüfung endgültig nicht bestanden;84;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;12;Brandenburg;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;1074;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;16;Thüringen;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;11;Berlin;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;1329;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILGR1;Prüfungsergebnis;PRUEF-B;Prüfung bestanden;651;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;15;Sachsen-Anhalt;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;261;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;10;Saarland;BILGR1;Prüfungsergebnis;;Insgesamt;x;Anzahl;BIL045;Beendete Ausbildungen
+21241;Pflegeausbildungsstatistik;STAG;Stichtag;2025-12-31;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BILGR1;Prüfungsergebnis;PRUEF-OH;Beendigung der Ausbildung ohne Prüfung;438;Anzahl;BIL045;Beendete Ausbildungen

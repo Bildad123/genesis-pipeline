@@ -1,0 +1,28 @@
+{
+  "tabelle": "41255-0013",
+  "titel": "Bestand an Schaumwein: Bundesländer, Jahre, Bestandsort, Herkunft des Weins",
+  "zeitraum": "2024 - 2025",
+  "statistik": "41255",
+  "alle_statistiken": [
+    "41255"
+  ],
+  "stand_genesis": "29.10.2025 13:21:21h",
+  "abgerufen_am": "2026-09-28T18:35:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41255-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41255-0013_flatfile.csv": "2aa86c3396d28669b6be3029cb98d64bdd57be9c036ebb84f99317cf5291d5ef"
+  },
+  "bytes": 40677,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41255/table/41255-0013"
+}

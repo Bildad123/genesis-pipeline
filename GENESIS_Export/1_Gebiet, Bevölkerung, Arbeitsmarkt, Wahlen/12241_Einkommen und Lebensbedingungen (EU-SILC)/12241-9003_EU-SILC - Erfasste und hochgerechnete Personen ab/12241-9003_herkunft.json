@@ -1,0 +1,28 @@
+{
+  "tabelle": "12241-9003",
+  "titel": "EU-SILC - Erfasste und hochgerechnete Personen ab 16 Jahren, Nettoäquivalenzeinkommen, Armutsgefährdungsquote: Deutschland, Jahre (bis 2019), Bildungsstatus",
+  "zeitraum": "2008 - 2019",
+  "statistik": "12241",
+  "alle_statistiken": [
+    "12241"
+  ],
+  "stand_genesis": "17.04.2024 12:52:57h",
+  "abgerufen_am": "2026-09-28T16:37:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12241-9003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12241-9003_flatfile.csv": "33a6e3de5e70e171c4181124e54ddf35804aa1b7695f58a57679ef0eedc17b73"
+  },
+  "bytes": 3797,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12241/table/12241-9003"
+}

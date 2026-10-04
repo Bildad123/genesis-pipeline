@@ -1,0 +1,28 @@
+{
+  "tabelle": "32137-0011",
+  "titel": "Ausgesonderte Mehrwegverpackungen: Bundesländer, Jahre",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32137",
+  "alle_statistiken": [
+    "32137"
+  ],
+  "stand_genesis": "26.02.2025 11:25:13h",
+  "abgerufen_am": "2026-09-28T18:10:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32137-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32137-0011_flatfile.csv": "d6e2593a3b72e86c95799646881fc6ceb9592e6f2b121a64eeee13f5d7258ba0"
+  },
+  "bytes": 7466,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32137/table/32137-0011"
+}

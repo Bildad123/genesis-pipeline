@@ -1,0 +1,649 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;14806;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1986;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;3622;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;14813;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;558;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;675;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;16162;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;362;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;433;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;102966;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4823;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;8973;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12266;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;210;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;155;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10549;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;684;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;939;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19941;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;488;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1789;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;99560;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4716;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9348;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;16224;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;555;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;627;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11553;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;703;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;890;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15643;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2117;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4389;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7546;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;213;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;332;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7183;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;243;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;386;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;18876;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;360;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;511;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;14810;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;557;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;717;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13662;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;237;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;248;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10626;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;678;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;988;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;8354;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;228;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;408;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;7780;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;341;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;292;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13460;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;239;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;225;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;38756;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;3268;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4704;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7198;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;212;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;332;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6597;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;97;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;346;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;17826;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;592;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;705;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;18539;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;593;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;708;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;12022;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1665;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2250;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7655;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;225;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;366;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;20816;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;374;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;492;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;7190;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;95;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;391;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11768;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;716;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;925;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;111662;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4865;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;8750;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;18738;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2170;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4582;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;14658;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2069;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;3847;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;21736;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;399;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;531;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12755;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;224;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;213;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;6884;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;212;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;323;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;14850;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;572;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;658;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;14302;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;319;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;347;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13211;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;222;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;208;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;16185;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2180;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4458;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19088;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;494;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1662;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;18633;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;508;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1764;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;4384;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;171;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;182;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;9754;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;668;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;981;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;14008;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;300;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;396;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19672;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;540;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1902;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;111634;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4543;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;8255;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;14930;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;570;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;654;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;21306;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;401;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;529;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10230;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;711;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;958;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6734;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;105;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;382;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;18053;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;348;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;484;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;41520;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;3584;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4643;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6127;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;94;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;369;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10433;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;660;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;838;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10375;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;707;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;960;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;2223;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;72;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;198;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;5069;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1276;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1770;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;12581;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;466;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;439;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;114423;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4932;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9025;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;7256;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;568;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;629;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19173;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;541;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1911;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;17251;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;508;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1812;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;21724;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;395;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;508;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;101407;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4847;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9364;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;18604;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;537;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1845;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;8018;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;225;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;360;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;2148;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;76;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;210;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;16444;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;343;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;472;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13139;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;231;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;241;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;14184;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;229;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;241;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6723;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;104;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;342;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;14949;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;334;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;454;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;3754;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;158;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;174;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7338;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;211;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;327;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;8599;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;430;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1166;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;14662;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;543;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;601;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15408;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2123;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4158;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;5937;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;95;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;386;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;16389;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;462;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;342;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;15305;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;336;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;531;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;9414;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;535;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;537;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;18334;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;517;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1768;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12289;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;231;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;224;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;17126;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2201;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4399;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13772;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;234;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;245;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;15122;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;476;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1698;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;81372;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4021;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;6233;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;98362;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4929;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9222;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6211;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;92;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;332;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;104852;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4776;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9145;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;114376;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4831;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;8765;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;5512;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;79;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;218;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;21476;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;391;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;505;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;16006;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2119;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4262;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;14776;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;465;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1496;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;7456;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;105;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;330;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;14498;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2065;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4101;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11369;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;694;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;983;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7198;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;239;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;355;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13411;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;235;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;213;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;14608;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;575;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;679;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;21410;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;480;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1698;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6801;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;98;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;378;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10052;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;717;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;978;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;18153;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2201;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4465;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;14964;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;318;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;375;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;4080;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;172;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;118;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;16790;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;572;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;768;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12482;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;233;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;220;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;16804;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;591;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;671;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;109196;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4823;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9172;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10913;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;720;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;866;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;8745;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;210;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;309;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;18800;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;526;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1883;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13580;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;232;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;236;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;7062;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;105;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;330;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;18109;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;361;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;505;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;6912;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;233;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;395;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;14588;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;564;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;701;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;18375;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;342;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;375;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;18422;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;460;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1135;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10498;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;710;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;971;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6862;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;93;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;401;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;18677;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;565;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;692;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15209;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2110;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;3999;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7676;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;214;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;346;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11260;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;708;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;891;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;19743;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;370;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;492;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;15318;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;556;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;724;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13957;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;244;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;244;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;15642;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;552;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;762;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12638;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;243;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;236;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7949;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;235;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;358;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6977;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;101;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;378;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19231;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;489;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1724;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15828;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2155;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4349;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11041;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;685;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;986;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;6916;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;227;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;345;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;109582;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4835;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9180;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;7089;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;314;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;344;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;18214;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;503;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1872;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6626;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;103;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;371;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;18071;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;575;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;728;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10940;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;687;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;920;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12710;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;224;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;227;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;112808;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4848;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;8940;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11195;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;709;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;969;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;9691;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1693;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2563;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6689;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;93;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;371;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;6324;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;445;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;366;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;17859;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;566;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;735;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;14577;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2045;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;3804;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11279;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;699;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;959;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7927;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;248;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;351;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;17041;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;503;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1737;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15318;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2131;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4126;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15576;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2117;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4359;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;110425;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4735;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;8942;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;11267;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;690;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;998;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7128;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;248;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;389;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;8116;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;226;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;393;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;102645;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4747;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9198;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6898;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;107;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;367;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;8541;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;176;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;183;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15130;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2127;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4035;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7902;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;214;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;375;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;17392;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;564;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;772;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;16291;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;330;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;468;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;5907;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;382;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;339;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6061;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;89;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;345;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;2998;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;468;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;495;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12645;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;217;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;193;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;17004;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2208;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4453;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;3358;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;514;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;480;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;6900;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;240;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;438;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;20604;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;537;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1916;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;107304;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4712;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9235;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;5225;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1442;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1867;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;16251;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;497;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1699;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15096;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;1889;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;3564;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;111984;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4846;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9058;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13512;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;229;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;250;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;7247;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;189;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;249;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19663;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;519;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1792;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;103235;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4878;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9042;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;15684;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;341;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;450;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12924;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;231;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;219;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;4714;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;81;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;261;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;15414;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2126;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4080;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;3628;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;169;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;92;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;21490;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;379;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;534;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;7711;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;422;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1254;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;7222;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;100;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;327;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10079;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;687;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;874;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;18169;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;560;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;770;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;14125;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;331;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;404;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;5701;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;98;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;417;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19689;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;498;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1667;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;10934;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;679;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KULT;Kulturgeschichtliche Spezialmuseen;880;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13659;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;237;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;237;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;18181;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;2204;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-REGIO;Museen der Orts- u. Regionalgeschichte/Eur. Ethn.;4413;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;15307;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;551;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATW;Naturwissenschaftliche und technische Museen;638;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6526;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;93;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;392;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;13661;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;218;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;238;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;6715;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;101;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SONST;Sonstige museale Einrichtungen;414;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19989;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;520;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1869;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;106820;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4790;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9272;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;101220;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4892;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;9273;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;19271;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;520;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-KUNST;Kunstmuseen;1786;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;12746;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;230;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;214;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;8945;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;197;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-SCHLOSS;Schloss- und Burgmuseen;163;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;6957;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;257;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-NATK;Naturkundliche Museen;349;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;111877;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;4699;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;8546;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;22392;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;402;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;MUS-HIST;Historische und archäologische Museen;541;Anzahl;KULT02;Ausstellungen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;100941;1000;KULT03;Museumsbesuche
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;3929;Anzahl;KULT01;Museen
+21611;Kulturstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;MUSA01;Museumsarten;;Insgesamt;5195;Anzahl;KULT02;Ausstellungen

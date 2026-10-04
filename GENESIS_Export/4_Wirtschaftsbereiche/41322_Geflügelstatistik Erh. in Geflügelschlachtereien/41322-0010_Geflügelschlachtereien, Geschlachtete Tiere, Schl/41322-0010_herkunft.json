@@ -1,0 +1,28 @@
+{
+  "tabelle": "41322-0010",
+  "titel": "Geflügelschlachtereien, Geschlachtete Tiere, Schlachtmenge: Bundesländer, Monate",
+  "zeitraum": "Januar 2010 - Dezember 2025",
+  "statistik": "41322",
+  "alle_statistiken": [
+    "41322"
+  ],
+  "stand_genesis": "28.12.2022 17:23:52h",
+  "abgerufen_am": "2026-09-28T18:41:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41322-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41322-0010_flatfile.csv": "ba4b18b74542d9a89239e2d5776e074fa748a5fe0a3679b5f2f4266b34b5af6f"
+  },
+  "bytes": 210697,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41322/table/41322-0010"
+}

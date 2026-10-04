@@ -1,0 +1,28 @@
+{
+  "tabelle": "44141-0003",
+  "titel": "Auftragsbestand im Bauhauptgewerbe: Deutschland, Quartale, Bauarten",
+  "zeitraum": "1. Quartal 1995 - 2. Quartal 2026",
+  "statistik": "44141",
+  "alle_statistiken": [
+    "44141"
+  ],
+  "stand_genesis": "08.08.2024 12:41:04h",
+  "abgerufen_am": "2026-09-28T19:07:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44141-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44141-0003_flatfile.csv": "d2389e91e9434c05ac9b0dc49778976d574690bf6f26ca9f7a0c457707acf10b"
+  },
+  "bytes": 69814,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44141/table/44141-0003"
+}

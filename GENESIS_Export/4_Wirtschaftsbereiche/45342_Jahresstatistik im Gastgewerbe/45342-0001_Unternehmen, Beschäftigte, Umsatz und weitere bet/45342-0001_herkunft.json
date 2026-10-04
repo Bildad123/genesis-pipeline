@@ -1,0 +1,28 @@
+{
+  "tabelle": "45342-0001",
+  "titel": "Unternehmen, Beschäftigte, Umsatz und weitere betriebs- und volkswirtschaftliche Kennzahlen im Gastgewerbe: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2005 - 2020",
+  "statistik": "45342",
+  "alle_statistiken": [
+    "45342"
+  ],
+  "stand_genesis": "28.12.2022 19:04:43h",
+  "abgerufen_am": "2026-09-28T19:14:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45342-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45342-0001_flatfile.csv": "7ca5b840412432abed73f418aedef5daeeef4eb880dee8cbf6fc36767fb7075e"
+  },
+  "bytes": 231655,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45342/table/45342-0001"
+}

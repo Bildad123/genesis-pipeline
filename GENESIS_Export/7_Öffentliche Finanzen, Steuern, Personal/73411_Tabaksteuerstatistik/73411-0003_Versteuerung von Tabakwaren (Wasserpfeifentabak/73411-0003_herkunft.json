@@ -1,0 +1,28 @@
+{
+  "tabelle": "73411-0003",
+  "titel": "Versteuerung von Tabakwaren (Wasserpfeifentabak, Erhitzter Tabak, Substitute): Deutschland, Jahre, Steuerzeichen",
+  "zeitraum": "1991 - 2025",
+  "statistik": "73411",
+  "alle_statistiken": [
+    "73411"
+  ],
+  "stand_genesis": "23.01.2024 15:15:49h",
+  "abgerufen_am": "2026-09-28T20:58:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73411-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73411-0003_flatfile.csv": "ef93d048f765bab925d51e931cdbf738e3e83ba93be93cc6cb3c8fd20ebfa284"
+  },
+  "bytes": 46309,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73411/table/73411-0003"
+}

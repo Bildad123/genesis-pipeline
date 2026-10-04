@@ -1,0 +1,28 @@
+{
+  "tabelle": "48112-0003",
+  "titel": "Unternehmen (EU), Waren- und Dienstleistungskäufe, Bruttoinvestitionen u.w. betriebsw. Kennzahlen: Deutschland, Jahre, Wirtschaftszweige (WZ2008 1-/2-/3-/4-Steller)",
+  "zeitraum": "2018 - 2024",
+  "statistik": "48112",
+  "alle_statistiken": [
+    "48112"
+  ],
+  "stand_genesis": "18.10.2024 13:08:06h",
+  "abgerufen_am": "2026-09-28T19:39:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "48112-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "48112-0003_flatfile.csv": "8df73669c6df0cff5d6da87a9bf475a4dd56fd646d35f3126890e30170b5d4d7"
+  },
+  "bytes": 78265,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/48112/table/48112-0003"
+}

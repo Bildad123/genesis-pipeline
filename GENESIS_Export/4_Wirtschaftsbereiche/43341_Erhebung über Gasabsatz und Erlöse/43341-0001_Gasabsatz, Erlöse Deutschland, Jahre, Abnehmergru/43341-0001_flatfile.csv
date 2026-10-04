@@ -1,0 +1,409 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;921033;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;17781;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,93;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;117507;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2391;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,03;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;780313;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;14687;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,88;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;99076;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2163;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,18;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;930687;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;39581;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;4,25;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;271733;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;7124;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,62;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;137665;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5323;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,87;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;497695;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;16934;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;3,40;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;903915;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;30936;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,42;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;219894;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;6301;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,87;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;280154;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;21435;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;7,65;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;484799;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;11866;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,45;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;322362;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;12215;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;3,79;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;275150;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;14306;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,20;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;116115;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5296;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,56;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;293003;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;7789;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,66;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;512628;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;19077;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;3,72;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;756607;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;56146;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;7,42;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;116182;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3663;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,15;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;981390;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;31318;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,19;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;313042;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;15394;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;4,92;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;519218;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;10145;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,95;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;520518;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;6918;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,33;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;124868;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5985;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,79;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;884619;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;36990;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;4,18;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;243669;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;13695;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,62;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;535927;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;15585;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,91;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;460110;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;5841;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,27;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;287713;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;14079;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;4,89;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;918018;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;29867;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,25;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;109859;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2707;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,46;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;128223;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;11905;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;9,28;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;953401;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;27251;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;2,86;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;102418;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2098;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,05;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;950515;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;17097;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,80;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;104836;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2359;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,25;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;754892;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;14475;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,92;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;297889;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;8066;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,71;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;134905;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;6184;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,58;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;809601;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;32948;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;4,07;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;520353;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;15267;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,93;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;139975;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5214;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,72;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;929995;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;32333;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,48;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;435234;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;13462;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;3,09;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;242655;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;6639;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,74;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;107433;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2231;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,08;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;292814;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;8796;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;3,00;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;253447;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;31501;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;12,43;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;502222;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;13209;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,63;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;313222;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;12171;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;3,89;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;955114;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;35701;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,74;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;289611;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;16487;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,69;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;941229;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;24801;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;2,63;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;121361;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;9869;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;8,13;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;413122;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;31271;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;7,57;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;114390;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4122;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,60;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;517722;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;7210;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,39;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;975040;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;37089;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,80;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;529202;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;11407;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,16;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;113069;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5534;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,89;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;260216;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;13511;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,19;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;434355;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;5750;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,32;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;548251;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;15174;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,77;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;265128;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;14553;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,49;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;979725;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;41691;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;4,26;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;134817;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4826;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,58;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;116504;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3768;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,23;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;289406;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;14617;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,05;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;109072;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2344;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,15;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;861737;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;15399;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,79;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;94688;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2036;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,15;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;778874;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;15260;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,96;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;294654;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;8138;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,76;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;130698;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5791;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,43;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;516466;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;16130;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;3,12;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;844779;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;33424;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,96;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;246131;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;6796;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,76;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;140060;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5044;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,60;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;280595;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;14493;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,17;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;442089;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;13026;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,95;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;927662;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;16715;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,80;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;315547;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;12302;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;3,90;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;931262;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;32042;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,44;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;253448;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;26280;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;10,37;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;503360;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;12140;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,41;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;303306;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;13329;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;4,39;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;121719;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5040;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,14;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;285865;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;16144;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,65;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;887357;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;34435;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,88;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;113335;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3471;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,06;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;968795;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;27350;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;2,82;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;379450;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;25555;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;6,73;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;521484;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;8819;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,69;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;143623;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;6204;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,32;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;939827;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;34499;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,67;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;285289;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;15415;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,40;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;534089;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;11319;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,12;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;512902;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;6617;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,29;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;285484;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;14813;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,19;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;575379;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;19356;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;3,36;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;432570;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;5877;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,36;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;143316;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5641;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,94;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;825734;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;61206;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;7,41;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;108657;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2432;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,24;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;927479;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;17328;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,87;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;99827;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2141;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;2,14;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;797452;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;14517;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;1,82;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;320106;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;8088;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,53;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;137562;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5845;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,25;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;898225;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;31707;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;3,53;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;504291;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;16990;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;3,37;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;323781;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;16973;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,24;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;138496;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5284;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,82;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;475076;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;11571;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,44;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;223246;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;6435;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;2,88;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;308675;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;11185;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;3,62;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;295490;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;15300;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,18;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;110676;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4794;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,33;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;905695;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;37700;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;4,16;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;502606;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;10548;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,10;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;117232;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3728;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;3,18;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;527226;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;6695;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,27;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;963493;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;27152;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;2,82;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;521350;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;11180;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,14;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;381798;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;19997;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;5,24;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;116425;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;5020;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;4,31;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;487586;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;6177;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,27;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;989858;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;41828;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;4,23;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;563693;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;13867;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;2,46;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;298086;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;16464;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;5,52;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;454144;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;6600;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;1991;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;1,45;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;485685;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;15312;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;WZ08-B-05;Produzierendes Gewerbe;3,15;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;279141;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;13856;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;HSHKDN-01;Haushaltskunden;4,96;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;761120;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;68961;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;9,06;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;924157;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;20322;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;;Insgesamt;2,20;Cent/kWh;ERL004;Durchschnittserlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;132457;GWh;ABS010;Gasabsatz
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;8499;Mill. EUR;ERL001;Erlöse
+43341;Erhebung über Gasabsatz und Erlöse;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ABNGR2;Abnehmergruppen;ENDABN-SONST;Übrige Endabnehmer;6,42;Cent/kWh;ERL004;Durchschnittserlöse

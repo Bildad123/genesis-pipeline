@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0016",
+  "titel": "Mehrlingsgeburten: Deutschland, Jahre, Art der Mehrlingsgeburt",
+  "zeitraum": "1950 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "16.07.2024 17:54:53h",
+  "abgerufen_am": "2026-09-28T16:52:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0016",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0016_flatfile.csv": "6a1906cf565ee515afb6627afd5189339dba301a8a82509a6e3505bb18735b8c"
+  },
+  "bytes": 42152,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0016"
+}

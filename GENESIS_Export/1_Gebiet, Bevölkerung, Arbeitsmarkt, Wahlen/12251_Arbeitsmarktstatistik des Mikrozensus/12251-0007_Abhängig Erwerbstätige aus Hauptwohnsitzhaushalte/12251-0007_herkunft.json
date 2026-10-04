@@ -1,0 +1,28 @@
+{
+  "tabelle": "12251-0007",
+  "titel": "Abhängig Erwerbstätige aus Hauptwohnsitzhaushalten: Deutschland, Jahre, Geschlecht, Altersgruppen, Art des Arbeitsvertrages",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12251",
+  "alle_statistiken": [
+    "12251"
+  ],
+  "stand_genesis": "16.07.2024 17:03:05h",
+  "abgerufen_am": "2026-09-28T16:37:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12251-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12251-0007_flatfile.csv": "321e680b305ac7c4d77c528f4a79175f66f48abe1ac799cd0845a023669a5c8a"
+  },
+  "bytes": 81676,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12251/table/12251-0007"
+}

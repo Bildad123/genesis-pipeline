@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9040",
+  "titel": "Bevölkerung in Familien/Lebensformen: Früheres Bundesgebiet/ Neue Länder, Jahre (bis 2019), Lebensformen",
+  "zeitraum": "04/1996 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:10h",
+  "abgerufen_am": "2026-09-28T16:32:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9040",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9040_flatfile.csv": "df9319f0e37037078d362e4d9a22da1769a431c30075b1b36e7fc6fe4d7c29e6"
+  },
+  "bytes": 193480,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9040"
+}

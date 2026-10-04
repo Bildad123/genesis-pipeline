@@ -1,0 +1,28 @@
+{
+  "tabelle": "22151-0022",
+  "titel": "Quote der Empfänger von Grundsicherung: Früheres Bundesgebiet / Neue Länder, Berichtsmonat im Quartal, Nationalität, Geschlecht, Altersgruppen",
+  "zeitraum": "Dezember 2015 - Dezember 2025",
+  "statistik": "22151",
+  "alle_statistiken": [
+    "22151"
+  ],
+  "stand_genesis": "15.04.2025 12:32:49h",
+  "abgerufen_am": "2026-09-28T17:22:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22151-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22151-0022_flatfile.csv": "d333a80a39b5ca5545ae902784cbb28f7fa798ae74de3f50b43d358f71d8167f"
+  },
+  "bytes": 96880,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22151/table/22151-0022"
+}

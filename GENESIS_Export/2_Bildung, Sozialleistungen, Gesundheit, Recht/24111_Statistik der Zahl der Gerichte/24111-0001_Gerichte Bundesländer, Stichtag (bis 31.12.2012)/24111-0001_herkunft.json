@@ -1,0 +1,28 @@
+{
+  "tabelle": "24111-0001",
+  "titel": "Gerichte: Bundesländer, Stichtag (bis 31.12.2012), Gerichtsart",
+  "zeitraum": "31.12.2000 - 31.12.2012",
+  "statistik": "24111",
+  "alle_statistiken": [
+    "24111"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:58:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24111-0001_flatfile.csv": "c6d78e38ab9175e0d8a5d2f01f41083e7afd85024757a1016d819f0e1a14ced4"
+  },
+  "bytes": 20427,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24111/table/24111-0001"
+}

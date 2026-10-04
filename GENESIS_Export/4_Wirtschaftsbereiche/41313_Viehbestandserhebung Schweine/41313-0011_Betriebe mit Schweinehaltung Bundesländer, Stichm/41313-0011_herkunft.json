@@ -1,0 +1,28 @@
+{
+  "tabelle": "41313-0011",
+  "titel": "Betriebe mit Schweinehaltung: Bundesländer, Stichmonat, Bestandsgrößenklassen",
+  "zeitraum": "05/2010 - 05/2026",
+  "statistik": "41313",
+  "alle_statistiken": [
+    "41313"
+  ],
+  "stand_genesis": "06.02.2023 13:35:44h",
+  "abgerufen_am": "2026-09-28T18:39:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41313-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41313-0011_flatfile.csv": "16e0e7649e8a4d3d3909e5c789a24c2cd5f6e7e7e4f29f699f55731a61303b2f"
+  },
+  "bytes": 50667,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41313/table/41313-0011"
+}

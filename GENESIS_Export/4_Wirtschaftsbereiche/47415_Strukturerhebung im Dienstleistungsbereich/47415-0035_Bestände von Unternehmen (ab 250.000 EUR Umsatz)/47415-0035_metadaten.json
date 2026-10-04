@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T19:37:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "47415-0035",
+    "Content": "Bestände von Unternehmen (ab 250.000 EUR Umsatz):\nDeutschland, Jahre (bis 2007), Art der Bestände, Zeitpunkt\nder Bestände, Wirtschaftszweige (WZ2003 2-4-Steller Hier.)",
+    "Time": {
+      "From": "2003",
+      "To": "2007"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "47415",
+        "Content": "Strukturerhebung im Dienstleistungsbereich",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BST020",
+          "Content": "Bestände (Unternehmen ab 250.000 EUR Umsatz)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ADBES1",
+              "Content": "Art der Bestände",
+              "Type": "Merkmal",
+              "Values": "4",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "ZPDBE1",
+                  "Content": "Zeitpunkt der Bestände",
+                  "Type": "Merkmal",
+                  "Values": "2",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ03N4",
+          "Content": "WZ2003 (4-Steller): Dienstleistungen",
+          "Type": "Merkmal",
+          "Values": "60",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 23:53:28h"
+  }
+}

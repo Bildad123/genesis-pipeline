@@ -1,0 +1,75 @@
+{
+  "abgerufen_am": "2026-09-28T18:19:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "33111-0007",
+    "Content": "Bodenfläche: Deutschland, Stichtag, Nutzungsarten\n(tatsächliche Nutzung) (AdV-TN 2023)",
+    "Time": {
+      "From": "31.12.2023",
+      "To": "31.12.2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "33111",
+        "Content": "Flächenerhebung nach Art der tatsächlichen Nutzung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "FLC005",
+                "Content": "Bodenfläche",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "STAG",
+          "Content": "Stichtag",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ADVTN1",
+          "Content": "Nutzungsarten (tatsächliche Nutzung) (AdV-TN 2023)",
+          "Type": "Merkmal",
+          "Values": "58",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "06.01.2025 16:17:15h"
+  }
+}

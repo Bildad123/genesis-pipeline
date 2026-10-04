@@ -1,0 +1,257 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;1031755;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;7391;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;6156;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;440;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;55967;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;1755;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;6274;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;89;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;9559;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;681;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;9603;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1949;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;59829;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;854;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;31653;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;2270;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;36900;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;253;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;140417;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;148;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;4269;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;129;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;671;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;21372;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;29;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;64163;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;195;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;687;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;163;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;2968;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;11;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;;Insgesamt;869941;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;;Insgesamt;13637;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;27951;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;2006;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;6330;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1354;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;108695;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;378;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;53320;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;737;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;1111;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;78;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;;Insgesamt;37371;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;;Insgesamt;566;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;14558;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;451;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;17494;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;3563;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;11493;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;164;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;4798;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1355;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;47076;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;71;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;141807;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;144;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;140459;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;1976;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;;Insgesamt;274949;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;;Insgesamt;4156;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;451;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;14;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;70748;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;502;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;82416;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;255;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;;Insgesamt;689;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;;Insgesamt;26;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;12305;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;40;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;235671;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;328;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;20212;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;667;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;227189;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;218;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;68080;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;104;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;;Insgesamt;368810;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;;Insgesamt;6981;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;266414;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;8025;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;288144;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;2028;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;12581;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;389;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;8590;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;274;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;94445;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;2951;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;408785;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;2785;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;;Insgesamt;412175;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;;Insgesamt;3595;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;389989;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;1258;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;62;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;;Insgesamt;1234083;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;;Insgesamt;14914;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;20;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;289249;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;248;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;27652;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;861;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;2036;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;7;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;64567;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;4571;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;42842;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;605;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;142395;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;975;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;521608;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;700;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;35804;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;249;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;81086;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;260;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;;Insgesamt;7606;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;;Insgesamt;69;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;5502;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1153;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;991252;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;3285;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;298;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;;Insgesamt;447643;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;;Insgesamt;3038;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;256407;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;1814;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;12060;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;386;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;232009;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;228;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;3;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;11373;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;162;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;201;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;8;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;31690;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;6406;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;576899;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;8012;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;;Insgesamt;2209421;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;;Insgesamt;17618;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;1;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;97681;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;304;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;93390;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;2898;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;472905;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;1601;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;8891;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;2235;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;86214;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;613;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;1014;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;15;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;10;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;-;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;-;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;36225;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;261;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;;Insgesamt;412910;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;;Insgesamt;6022;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;12970;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;3444;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;282407;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;992;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;;Insgesamt;260120;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;;Insgesamt;3801;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;.;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;5;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;184458;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;249;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;18359;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;4048;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;7328;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;540;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;28734;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;2062;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;23456;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;164;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;84941;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;2629;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;642;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;9;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;;Insgesamt;867094;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;;Insgesamt;6258;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;145;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;28;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;5120;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1308;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;97342;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;332;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;57;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;4;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;563;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;18;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;156525;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;2165;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;4282;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;313;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;23979;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;345;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;22441;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0100B0199;100 bis 199 Tiere;156;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;19821;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;271;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;17967;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;3994;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;9491;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;674;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;;Insgesamt;258589;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB02;Bestandsgrößenklassen;;Insgesamt;2609;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;6146;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1652;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;28805;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0500UM;500 und mehr Tiere;41;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;57610;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;174;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;29830;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB02;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;925;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;11249;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;827;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;49;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;10;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;16529;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;237;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;41;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB02;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;10;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;;Insgesamt;2685976;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;;Insgesamt;36898;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;646571;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB02;Bestandsgrößenklassen;TIE0200B0499;200 bis 499 Tiere;2389;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;4848;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;348;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;;Insgesamt;5124;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB02;Bestandsgrößenklassen;;Insgesamt;83;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;19697;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB02;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;1391;Anzahl;HLT001;Haltungen mit Rindern
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;148485;Anzahl;RIN001;Rinder
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB02;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;2082;Anzahl;HLT001;Haltungen mit Rindern

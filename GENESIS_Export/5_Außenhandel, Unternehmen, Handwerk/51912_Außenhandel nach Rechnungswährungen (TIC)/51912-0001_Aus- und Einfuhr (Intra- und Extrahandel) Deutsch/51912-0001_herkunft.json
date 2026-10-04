@@ -1,0 +1,28 @@
+{
+  "tabelle": "51912-0001",
+  "titel": "Aus- und Einfuhr (Intra- und Extrahandel): Deutschland, Jahre",
+  "zeitraum": "2025 - 2025",
+  "statistik": "51912",
+  "alle_statistiken": [
+    "51912"
+  ],
+  "stand_genesis": "12.05.2026 14:21:49h",
+  "abgerufen_am": "2026-09-28T20:04:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "51912-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "51912-0001_flatfile.csv": "31e7c94a92b69b0270f1e12528058241f8fa78101991ea98677df996207baf58"
+  },
+  "bytes": 846,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/51912/table/51912-0001"
+}

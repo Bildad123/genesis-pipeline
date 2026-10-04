@@ -1,0 +1,28 @@
+{
+  "tabelle": "71211-0007",
+  "titel": "Kalender- und saisonbereinigte Steuereinnahmen: Deutschland, Monate, Ausgewählte Steuerarten vor der Steuerverteilung",
+  "zeitraum": "Januar 1999 - Juli 2026",
+  "statistik": "71211",
+  "alle_statistiken": [
+    "71211"
+  ],
+  "stand_genesis": "15.02.2024 17:28:58h",
+  "abgerufen_am": "2026-09-28T20:49:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71211-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71211-0007_flatfile.csv": "d87c3696bccda4aa7d92fde6cbdb98ced2e9fa9d4006ab5cd3aeeec9f574503e"
+  },
+  "bytes": 61862,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71211/table/71211-0007"
+}

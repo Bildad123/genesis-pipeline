@@ -1,0 +1,28 @@
+{
+  "tabelle": "21431-0011",
+  "titel": "An die Stipendiaten weitergegebene Mittel (ohne Bundesmittel): Deutschland, Jahre, Mittelart, Hochschulart, Rechtsform",
+  "zeitraum": "2020 - 2025",
+  "statistik": "21431",
+  "alle_statistiken": [
+    "21431"
+  ],
+  "stand_genesis": "28.12.2022 20:55:56h",
+  "abgerufen_am": "2026-09-28T17:13:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21431-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21431-0011_flatfile.csv": "e23f5c614c3d72e2c9876bfd010cad9ad3823f3f95c50bdcf81209e4663b2d58"
+  },
+  "bytes": 34758,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21431/table/21431-0011"
+}

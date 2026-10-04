@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0085",
+  "titel": "Gewerbetreibende aus vollständigen Aufgaben: Deutschland, Jahre, Geschlecht, Rechtsform",
+  "zeitraum": "2003 - 2025",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "29.01.2025 15:06:48h",
+  "abgerufen_am": "2026-09-28T20:09:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0085",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0085_flatfile.csv": "3ff63b9c0338868c2505a0dd1f4812e8f6a57cce4cf85ccd11dfe81711212cd9"
+  },
+  "bytes": 9924,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0085"
+}

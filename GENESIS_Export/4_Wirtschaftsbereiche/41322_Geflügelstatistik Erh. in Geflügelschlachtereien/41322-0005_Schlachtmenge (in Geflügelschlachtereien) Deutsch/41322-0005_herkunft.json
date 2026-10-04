@@ -1,0 +1,28 @@
+{
+  "tabelle": "41322-0005",
+  "titel": "Schlachtmenge (in Geflügelschlachtereien): Deutschland, Jahre, Geflügelart, Herrichtungsform und Angebotszustand",
+  "zeitraum": "2010 - 2025",
+  "statistik": "41322",
+  "alle_statistiken": [
+    "41322"
+  ],
+  "stand_genesis": "29.12.2022 04:30:49h",
+  "abgerufen_am": "2026-09-28T18:40:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41322-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41322-0005_flatfile.csv": "9c12525fe9803ebf7b5936861923f5a377d062d7098efd041206dd733ff5442c"
+  },
+  "bytes": 13549,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41322/table/41322-0005"
+}

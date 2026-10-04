@@ -1,0 +1,28 @@
+{
+  "tabelle": "44231-0002",
+  "titel": "Betriebe, Tätige Personen, Geleistete Arbeitsstunden, Entgelte, Baugew. Umsatz (Bauhauptgewerbe): Deutschland, Stichmonat, Beschäftigtengrößenklassen, Wirtschaftszweige",
+  "zeitraum": "06/2009 - 06/2025",
+  "statistik": "44231",
+  "alle_statistiken": [
+    "44231"
+  ],
+  "stand_genesis": "14.02.2024 14:17:38h",
+  "abgerufen_am": "2026-09-28T19:08:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44231-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44231-0002_flatfile.csv": "9d5596967da66883f43e0fd69ef59f92de86ba8d683c31c847385ff886c4f116"
+  },
+  "bytes": 345367,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44231/table/44231-0002"
+}

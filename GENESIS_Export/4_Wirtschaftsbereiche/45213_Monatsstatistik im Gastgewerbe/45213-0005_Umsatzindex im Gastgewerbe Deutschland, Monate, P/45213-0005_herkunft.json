@@ -1,0 +1,28 @@
+{
+  "tabelle": "45213-0005",
+  "titel": "Umsatzindex im Gastgewerbe: Deutschland, Monate, Preisarten, Original- und bereinigte Daten, Wirtschaftszweige",
+  "zeitraum": "Januar 1994 - Juli 2026",
+  "statistik": "45213",
+  "alle_statistiken": [
+    "45213"
+  ],
+  "stand_genesis": "25.08.2026 12:49:01h",
+  "abgerufen_am": "2026-09-28T19:12:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45213-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45213-0005_flatfile.csv": "e965b30b9e943764fe53d0db7148d85caa1e4c9844a15d373d0889a0570e74c1"
+  },
+  "bytes": 341348,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45213/table/45213-0005"
+}

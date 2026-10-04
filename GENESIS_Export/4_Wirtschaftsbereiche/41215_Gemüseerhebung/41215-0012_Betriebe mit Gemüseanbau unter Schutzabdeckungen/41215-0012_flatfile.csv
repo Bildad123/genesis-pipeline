@@ -1,0 +1,529 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;29,24;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;12956,80;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;16;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;1,23;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;29,42;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;29;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;63,65;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;1125,13;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;219;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;;Insgesamt;19,16;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;;Insgesamt;1443,07;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;;Insgesamt;76;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;;Insgesamt;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;;Insgesamt;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;;Insgesamt;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;1,11;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;24,81;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;26;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;0,39;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;12,93;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;6;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;19,51;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;/;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;160;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;;Insgesamt;255,37;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;;Insgesamt;36278,20;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;;Insgesamt;215;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;-;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;-;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;-;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE41;Tomaten;7,10;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE41;Tomaten;/;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE41;Tomaten;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE42;Paprika;12,30;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE42;Paprika;1880,21;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE42;Paprika;90;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE31;Radies;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE31;Radies;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE31;Radies;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE31;Radies;0,74;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE31;Radies;13,27;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE31;Radies;26;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;0,55;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;4,28;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;9;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;0,25;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;6,71;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;7;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;0,81;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;16,78;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;35;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE41;Tomaten;24,64;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE41;Tomaten;10364,01;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE41;Tomaten;19;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE41;Tomaten;16,81;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE41;Tomaten;3656,73;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE41;Tomaten;67;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;67,34;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;11012,62;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;348;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;3,87;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;235,00;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;18;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;;Insgesamt;124,59;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;;Insgesamt;37469,71;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;;Insgesamt;173;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;18,04;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;1944,75;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE42;Paprika;1,76;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE42;Paprika;48,74;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE42;Paprika;38;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;0,59;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;4,34;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;31,23;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;9980,98;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;139;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;;Insgesamt;14,98;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;;Insgesamt;2809,25;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;;Insgesamt;27;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;4,38;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;15;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE31;Radies;3,33;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE31;Radies;77,45;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE31;Radies;31;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;0,07;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;1,59;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;4;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE31;Radies;0,68;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE31;Radies;17,17;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE31;Radies;9;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;5;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE42;Paprika;0,98;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE42;Paprika;42,69;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE42;Paprika;48;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;;Insgesamt;33,98;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;;Insgesamt;1845,13;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;;Insgesamt;65;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;-;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;-;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;-;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;0,06;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;3;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE42;Paprika;0,36;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE42;Paprika;4,23;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE42;Paprika;9;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE31;Radies;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE31;Radies;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE31;Radies;2;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;-;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;-;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;-;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;3,62;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;109,84;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;51;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;;Insgesamt;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;;Insgesamt;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;;Insgesamt;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE31;Radies;0,63;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE31;Radies;8,39;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE31;Radies;31;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;35,81;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;227,69;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;93;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;19,03;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;829,40;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;173;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;22;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;4;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;2;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE41;Tomaten;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE41;Tomaten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE41;Tomaten;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;68,37;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;18601,97;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;157;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;4,37;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;36;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;5,48;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;1390,02;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;52;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;;Insgesamt;36,96;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;;Insgesamt;11149,18;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;;Insgesamt;69;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;2,95;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;555,10;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;48;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE42;Paprika;12;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;0,84;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;67,25;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;11;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;8;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;7,54;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;38,30;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;36;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;/;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;32,21;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;3523,33;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;12,32;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;890,26;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;55;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;18,25;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;1392,86;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;90;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;2,81;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;331,79;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;59;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE41;Tomaten;0,87;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE41;Tomaten;16,61;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE41;Tomaten;5;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;0,73;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;4,98;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;20;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE42;Paprika;0,46;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE42;Paprika;8,79;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE42;Paprika;11;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE31;Radies;0,41;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE31;Radies;5,09;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE31;Radies;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE42;Paprika;24,89;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE42;Paprika;5213,82;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE42;Paprika;154;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;15,19;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;20;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;;Insgesamt;280,72;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;;Insgesamt;61722,33;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;;Insgesamt;284;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE31;Radies;18,57;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE31;Radies;269,42;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE31;Radies;150;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;5,71;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;45,24;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;64;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;5,36;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;384,67;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;0,79;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;5,00;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;23;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;0,05;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;1,18;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;5;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;0,81;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;95,48;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;22;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;8,90;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;212,64;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;0,23;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;2,72;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;40,46;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;8032,41;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;143;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE31;Radies;-;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE31;Radies;-;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE31;Radies;-;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE41;Tomaten;8,72;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE41;Tomaten;2515,68;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE41;Tomaten;26;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;1,55;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;57,51;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;31;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;;Insgesamt;0,98;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;;Insgesamt;23,40;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;;Insgesamt;5;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE31;Radies;0,09;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE31;Radies;1,49;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE31;Radies;6;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;2,69;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;238,96;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;24;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE31;Radies;0,50;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE31;Radies;8,18;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE31;Radies;7;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE42;Paprika;8,91;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE42;Paprika;1461,06;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE42;Paprika;86;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE31;Radies;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE31;Radies;103,14;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE31;Radies;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE42;Paprika;1;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;0,53;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;11,21;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;26;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;8,41;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;130,55;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;21;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;2670,69;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;63;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;0,87;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;15,29;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;11;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;19,40;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;6185,72;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;67;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;11;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;58,92;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;2560,15;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;77;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;4,03;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;31,03;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;35;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;41,69;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;7336,62;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;282;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;7,30;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;837,61;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;73;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;4,68;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;421,48;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE41;Tomaten;71;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;3,88;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;366,66;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE41;Tomaten;28;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;2168,68;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;56;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE41;Tomaten;84,15;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE41;Tomaten;31595,90;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE41;Tomaten;218;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;;Insgesamt;24,10;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;;Insgesamt;1035,40;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;;Insgesamt;46;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;53,36;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;413,56;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;198;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;;Insgesamt;31,59;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;;Insgesamt;13045,97;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;;Insgesamt;16;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE31;Radies;4,28;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE31;Radies;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE31;Radies;18;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;45,67;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;25627,32;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;126;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE42;Paprika;5,99;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE42;Paprika;195,48;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE42;Paprika;/;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE31;Radies;0,39;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE31;Radies;3,57;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE31;Radies;21;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE42;Paprika;0,56;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE42;Paprika;39,39;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE42;Paprika;16;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;2,15;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;29,90;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;34;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;;Insgesamt;37,64;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;;Insgesamt;3184,33;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;;Insgesamt;43;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;1,26;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;19,86;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;27;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;1,32;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;21,13;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;25;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;3,89;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;34,31;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;18;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;;Insgesamt;36,89;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;;Insgesamt;14751,78;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;;Insgesamt;20;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE42;Paprika;10,56;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE42;Paprika;43;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;;Insgesamt;316,40;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;;Insgesamt;28012,63;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;;Insgesamt;401;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;3,72;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;82,87;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;GEMA04;Gemüsearten;GEMUESE290107;Sonstige Salate;34;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE42;Paprika;33,26;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE42;Paprika;4062,39;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;GEMA04;Gemüsearten;GEMUESE42;Paprika;281;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;29,03;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;313,69;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;165;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;6,74;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;279,05;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;34;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;66,59;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;17634,83;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE262;Salatgurken;197;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE31;Radies;/;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE31;Radies;40,86;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;GEMA04;Gemüsearten;GEMUESE31;Radies;9;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;;Insgesamt;37,47;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;;Insgesamt;6392,83;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;GEMA04;Gemüsearten;;Insgesamt;69;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;GEMA04;Gemüsearten;GEMUESE32;Rettich;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE42;Paprika;4,53;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE42;Paprika;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE42;Paprika;41;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE31;Radies;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE31;Radies;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;GEMA04;Gemüsearten;GEMUESE31;Radies;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;GEMA04;Gemüsearten;GEMUESE08;Kohlrabi;.;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;0,17;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;3,63;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;GEMA04;Gemüsearten;GEMUESE29;Kopfsalat;6;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;1,69;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;11,21;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;GEMA04;Gemüsearten;GEMUESE34;Feldsalat;12;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;0,10;ha;FLC064;Anbaufläche Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;3,55;t;ERN009;Erntemenge Gemüse (unter Schutzabdeckungen)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;GEMA04;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;6;Anzahl;BMG004;Betriebe mit Gemüseanbau unter Schutzabdeckungen

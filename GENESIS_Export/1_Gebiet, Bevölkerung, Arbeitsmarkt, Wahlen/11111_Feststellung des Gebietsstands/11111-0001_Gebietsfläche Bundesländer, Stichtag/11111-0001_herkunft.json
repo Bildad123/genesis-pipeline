@@ -1,0 +1,28 @@
+{
+  "tabelle": "11111-0001",
+  "titel": "Gebietsfläche: Bundesländer, Stichtag",
+  "zeitraum": "31.12.1995 - 31.12.2023",
+  "statistik": "11111",
+  "alle_statistiken": [
+    "11111"
+  ],
+  "stand_genesis": "28.12.2022 09:24:14h",
+  "abgerufen_am": "2026-09-28T16:24:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "11111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "11111-0001_flatfile.csv": "2dd1a450cff06f2fca7c562dc070fc3c6a6f3f49fe7fe4a896de9fcc9b74dc89"
+  },
+  "bytes": 2450,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/11111/table/11111-0001"
+}

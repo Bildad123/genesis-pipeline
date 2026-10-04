@@ -1,0 +1,28 @@
+{
+  "tabelle": "71811-0025",
+  "titel": "Gewinn- und Verlustrechnung (FEU): Bundesländer, Jahre, Ebenen des öffentlichen Bereichs, Rechtsform",
+  "zeitraum": "2008 - 2023",
+  "statistik": "71811",
+  "alle_statistiken": [
+    "71811"
+  ],
+  "stand_genesis": "29.12.2022 00:36:32h",
+  "abgerufen_am": "2026-09-28T20:52:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71811-0025",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71811-0025_flatfile.csv": "84b022b97d2a0facaa8fa8778633178e54844e037eaa94e1cdba95a144178aeb"
+  },
+  "bytes": 3066164,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71811/table/71811-0025"
+}

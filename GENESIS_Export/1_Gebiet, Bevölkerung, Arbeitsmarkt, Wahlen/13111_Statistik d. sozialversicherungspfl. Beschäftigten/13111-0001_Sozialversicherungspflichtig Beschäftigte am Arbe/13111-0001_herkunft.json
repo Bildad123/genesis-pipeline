@@ -1,0 +1,28 @@
+{
+  "tabelle": "13111-0001",
+  "titel": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort: Deutschland, Stichtag, Geschlecht, Altersgruppen",
+  "zeitraum": "31.03.2008 - 31.12.2025",
+  "statistik": "13111",
+  "alle_statistiken": [
+    "13111"
+  ],
+  "stand_genesis": "28.12.2022 17:14:03h",
+  "abgerufen_am": "2026-09-28T16:56:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13111-0001_flatfile.csv": "3be69c026de99c67b4c7b4ff883f5f7b08c7d83e87f548dc6e1cbd0f16a283ae"
+  },
+  "bytes": 61210,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13111/table/13111-0001"
+}

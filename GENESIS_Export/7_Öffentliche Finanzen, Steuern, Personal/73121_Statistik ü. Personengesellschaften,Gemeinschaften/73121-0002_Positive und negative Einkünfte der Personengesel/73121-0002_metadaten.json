@@ -1,0 +1,103 @@
+{
+  "abgerufen_am": "2026-09-28T20:53:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "73121-0002",
+    "Content": "Positive und negative Einkünfte der Personengesellschaften\nund Gemeinschaften: Deutschland, Jahre, Einkunftsarten,\nGewinn- und Verlustfälle",
+    "Time": {
+      "From": "2007",
+      "To": "2021"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "73121",
+        "Content": "Statistik ü. Personengesellschaften,Gemeinschaften",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "EKFAT2",
+          "Content": "Einkunftsarten",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STP025",
+              "Content": "Personengesellschaften und Gemeinschaften",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "EKF003",
+              "Content": "Einkünfte",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "EKFPN1",
+        "Content": "Positive und negative Einkünfte",
+        "Type": "Merkmal",
+        "Values": "2",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "STGVF1",
+        "Content": "Gewinnfälle und Verlustfälle",
+        "Type": "Merkmal",
+        "Values": "2",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.09.2015 12:49:19h"
+  }
+}

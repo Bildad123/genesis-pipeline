@@ -1,0 +1,28 @@
+{
+  "tabelle": "44241-0002",
+  "titel": "Betriebe, Tätige Personen, Entgelte, Umsatz (Bauträger): Deutschland, Stichquartal, Wirtschaftszweige",
+  "zeitraum": "II/2009 - II/2025",
+  "statistik": "44241",
+  "alle_statistiken": [
+    "44241"
+  ],
+  "stand_genesis": "14.02.2024 14:15:23h",
+  "abgerufen_am": "2026-09-28T19:09:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44241-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44241-0002_flatfile.csv": "f8063c5131ee454ed4192dae7521af65421c1fae75c189c330daac0e21c97a5f"
+  },
+  "bytes": 72038,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44241/table/44241-0002"
+}

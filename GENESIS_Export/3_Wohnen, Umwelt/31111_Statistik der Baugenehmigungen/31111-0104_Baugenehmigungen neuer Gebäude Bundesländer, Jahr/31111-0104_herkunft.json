@@ -1,0 +1,28 @@
+{
+  "tabelle": "31111-0104",
+  "titel": "Baugenehmigungen neuer Gebäude: Bundesländer, Jahre, Gebäudeart, Energieverwendung, Energieart",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31111",
+  "alle_statistiken": [
+    "31111"
+  ],
+  "stand_genesis": "20.06.2024 11:22:28h",
+  "abgerufen_am": "2026-09-28T18:04:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31111-0104",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31111-0104_flatfile.csv": "26936205b80d8068db2c90335c1996657317276e53fa033e110d9291bcdd5e10"
+  },
+  "bytes": 3899179,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31111/table/31111-0104"
+}

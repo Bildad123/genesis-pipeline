@@ -1,0 +1,104 @@
+{
+  "abgerufen_am": "2026-09-28T18:11:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32151-0001",
+    "Content": "Abfallerzeuger, Abfallmengen (gefährliche Abfälle):\nDeutschland, Jahre, Wirtschaftszweige, Abfallarten\n(EAV 2-Steller)",
+    "Time": {
+      "From": "2008",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "32151",
+        "Content": "Erhebung der gefährlichen Abfälle",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ABF010",
+          "Content": "Abfallerzeuger",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ABF011",
+          "Content": "Abfallmengen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ABF012",
+          "Content": "Abfallmengen, von Primärerzeugern erzeugt",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08G5",
+          "Content": "WZ2008 (ausgewählte Positionen): Abfallwirtschaft",
+          "Type": "Merkmal",
+          "Values": "34",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "EAVXG2",
+              "Content": "Abfallarten (EAV 2-Steller)",
+              "Type": "Merkmal",
+              "Values": "20",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:12:06h"
+  }
+}

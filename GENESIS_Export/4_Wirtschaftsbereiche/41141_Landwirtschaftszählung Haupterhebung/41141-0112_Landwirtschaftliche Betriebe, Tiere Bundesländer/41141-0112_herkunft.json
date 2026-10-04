@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0112",
+  "titel": "Landwirtschaftliche Betriebe, Tiere: Bundesländer, Stichtag, Tierarten, Rechtsformen, Größenklassen der landwirtschaftlich genutzten Fläche",
+  "zeitraum": "01.03.2010 - 01.03.2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "28.12.2022 21:35:12h",
+  "abgerufen_am": "2026-09-28T18:23:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0112",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0112_flatfile.csv": "4edb70c8dd3f483446f758d71c602160105f59f1bfd0842b5dc47eca8a196e21"
+  },
+  "bytes": 2209286,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0112"
+}

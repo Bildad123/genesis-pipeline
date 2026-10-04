@@ -1,0 +1,28 @@
+{
+  "tabelle": "21431-0003",
+  "titel": "Stipendiaten: Deutschland, Jahre, Geschlecht, Hochschulen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "21431",
+  "alle_statistiken": [
+    "21431"
+  ],
+  "stand_genesis": "28.12.2022 19:51:24h",
+  "abgerufen_am": "2026-09-28T17:12:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21431-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21431-0003_flatfile.csv": "70570f51999a6ca68a0a22829001b89310ffc3f352051dbe7b317bf942423a75"
+  },
+  "bytes": 671563,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21431/table/21431-0003"
+}

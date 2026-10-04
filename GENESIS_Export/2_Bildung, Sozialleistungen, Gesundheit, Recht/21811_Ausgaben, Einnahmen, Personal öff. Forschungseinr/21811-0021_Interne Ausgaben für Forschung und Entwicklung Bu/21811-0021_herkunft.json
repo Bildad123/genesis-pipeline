@@ -1,0 +1,28 @@
+{
+  "tabelle": "21811-0021",
+  "titel": "Interne Ausgaben für Forschung und Entwicklung: Bundesländer und Ausland, Jahre, Einrichtungsgruppe, Art der Ausgaben",
+  "zeitraum": "2019 - 2024",
+  "statistik": "21811",
+  "alle_statistiken": [
+    "21811"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:17:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21811-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21811-0021_flatfile.csv": "f53a1ee0a94ed1db2437c207a42d25da17621c152a254252a57e808fa4aac7ad"
+  },
+  "bytes": 139485,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21811/table/21811-0021"
+}

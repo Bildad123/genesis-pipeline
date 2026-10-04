@@ -1,0 +1,28 @@
+{
+  "tabelle": "81511-0001",
+  "titel": "Input-Output-Tabelle (Revision 2005) - Inländische Produktion (Herstellungspreise): Deutschland, Jahre (bis 2007)",
+  "zeitraum": "2000 - 2007",
+  "statistik": "81511",
+  "alle_statistiken": [
+    "81511"
+  ],
+  "stand_genesis": "28.12.2022 17:20:43h",
+  "abgerufen_am": "2026-09-28T21:12:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81511-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81511-0001_flatfile.csv": "14d15108e02ef0ae0034f96bccec0e7a21f652bf3b98154b9fc385b3a4334ec7"
+  },
+  "bytes": 163484,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81511/table/81511-0001"
+}

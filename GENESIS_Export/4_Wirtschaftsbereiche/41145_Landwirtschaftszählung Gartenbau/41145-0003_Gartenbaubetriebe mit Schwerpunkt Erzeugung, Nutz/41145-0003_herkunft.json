@@ -1,0 +1,28 @@
+{
+  "tabelle": "41145-0003",
+  "titel": "Gartenbaubetriebe mit Schwerpunkt Erzeugung, Nutzfläche: Deutschland, Jahre, Betriebstypen, Größenklassen der gärtnerischen Nutzfläche",
+  "zeitraum": "2005 - 2005",
+  "statistik": "41145",
+  "alle_statistiken": [
+    "41145"
+  ],
+  "stand_genesis": "29.12.2022 08:02:34h",
+  "abgerufen_am": "2026-09-28T18:25:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41145-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41145-0003_flatfile.csv": "75c0b9742dfc3c390f775d417ae86f87c7db6f859fb92258408d477811716917"
+  },
+  "bytes": 24405,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41145/table/41145-0003"
+}

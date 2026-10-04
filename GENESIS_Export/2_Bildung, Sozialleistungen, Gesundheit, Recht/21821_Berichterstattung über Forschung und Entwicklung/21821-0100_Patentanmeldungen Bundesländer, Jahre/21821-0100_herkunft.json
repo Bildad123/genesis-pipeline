@@ -1,0 +1,28 @@
+{
+  "tabelle": "21821-0100",
+  "titel": "Patentanmeldungen: Bundesländer, Jahre",
+  "zeitraum": "2000 - 2025",
+  "statistik": "21821",
+  "alle_statistiken": [
+    "21821"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:17:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21821-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21821-0100_flatfile.csv": "71b8135122a8e0089c6eb50003c210246e645cf859539017d24d5ab5f3747583"
+  },
+  "bytes": 63391,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21821/table/21821-0100"
+}

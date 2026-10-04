@@ -1,0 +1,28 @@
+{
+  "tabelle": "31111-0010",
+  "titel": "Baugenehmigungen von Wohnungen in neuen Gebäuden: Deutschland, Jahre, Gebäudeart, Anzahl der Räume",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31111",
+  "alle_statistiken": [
+    "31111"
+  ],
+  "stand_genesis": "02.05.2024 17:07:50h",
+  "abgerufen_am": "2026-09-28T18:02:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31111-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31111-0010_flatfile.csv": "a3611a7de82822818905cbcf46409b28edf3bdb860d883b33dc6f0d47874bdf4"
+  },
+  "bytes": 11014,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31111/table/31111-0010"
+}

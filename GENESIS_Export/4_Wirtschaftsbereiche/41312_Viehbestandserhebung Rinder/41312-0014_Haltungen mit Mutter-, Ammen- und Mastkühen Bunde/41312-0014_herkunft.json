@@ -1,0 +1,28 @@
+{
+  "tabelle": "41312-0014",
+  "titel": "Haltungen mit Mutter-, Ammen- und Mastkühen: Bundesländer, Stichmonat, Bestandsgrößenklassen",
+  "zeitraum": "05/2010 - 05/2026",
+  "statistik": "41312",
+  "alle_statistiken": [
+    "41312"
+  ],
+  "stand_genesis": "06.02.2023 15:47:29h",
+  "abgerufen_am": "2026-09-28T18:38:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41312-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41312-0014_flatfile.csv": "2f69ed61a7e906db731ca1e820ed1b1cbb73ea7262e3044b4f2598901d8f671a"
+  },
+  "bytes": 40833,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41312/table/41312-0014"
+}

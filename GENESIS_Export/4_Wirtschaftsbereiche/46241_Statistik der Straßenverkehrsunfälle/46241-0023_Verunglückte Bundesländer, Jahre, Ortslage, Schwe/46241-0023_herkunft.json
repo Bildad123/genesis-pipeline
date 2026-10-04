@@ -1,0 +1,28 @@
+{
+  "tabelle": "46241-0023",
+  "titel": "Verunglückte: Bundesländer, Jahre, Ortslage, Schwere der Verletzung",
+  "zeitraum": "2008 - 2025",
+  "statistik": "46241",
+  "alle_statistiken": [
+    "46241"
+  ],
+  "stand_genesis": "28.12.2022 17:06:48h",
+  "abgerufen_am": "2026-09-28T19:23:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46241-0023",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46241-0023_flatfile.csv": "6c32ba40ac72b285d08aa8365eb4a68e934af8d2db61359687e8dc554419b249"
+  },
+  "bytes": 559170,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46241/table/46241-0023"
+}

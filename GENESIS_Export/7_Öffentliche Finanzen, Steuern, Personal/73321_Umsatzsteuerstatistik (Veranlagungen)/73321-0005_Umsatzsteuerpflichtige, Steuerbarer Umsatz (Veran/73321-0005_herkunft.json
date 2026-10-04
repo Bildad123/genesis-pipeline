@@ -1,0 +1,28 @@
+{
+  "tabelle": "73321-0005",
+  "titel": "Umsatzsteuerpflichtige, Steuerbarer Umsatz (Veranlagungen): Deutschland, Jahre, Rechtsformen, Wirtschaftszweige (WZ2008 1-5-Steller Hierarchie)",
+  "zeitraum": "2020 - 2021",
+  "statistik": "73321",
+  "alle_statistiken": [
+    "73321"
+  ],
+  "stand_genesis": "25.09.2024 10:18:43h",
+  "abgerufen_am": "2026-09-28T20:57:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73321-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73321-0005_flatfile.csv": "d5de9925b59ff387910b8b3097303ce4887ac57a5bc3a4afc7d49a1bf7b99b53"
+  },
+  "bytes": 9448784,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73321/table/73321-0005"
+}

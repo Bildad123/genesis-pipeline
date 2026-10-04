@@ -1,0 +1,28 @@
+{
+  "tabelle": "41254-0010",
+  "titel": "Erzeugter Wein und Most: Bundesländer, Jahre, Qualitätsstufen, Rebsorte",
+  "zeitraum": "2024 - 2025",
+  "statistik": "41254",
+  "alle_statistiken": [
+    "41254"
+  ],
+  "stand_genesis": "07.05.2025 13:27:33h",
+  "abgerufen_am": "2026-09-28T18:34:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41254-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41254-0010_flatfile.csv": "65e46b18a70c963a461fea0d7c72c4f528b7a24ae74ebad43d2019b2953d9323"
+  },
+  "bytes": 61114,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41254/table/41254-0010"
+}

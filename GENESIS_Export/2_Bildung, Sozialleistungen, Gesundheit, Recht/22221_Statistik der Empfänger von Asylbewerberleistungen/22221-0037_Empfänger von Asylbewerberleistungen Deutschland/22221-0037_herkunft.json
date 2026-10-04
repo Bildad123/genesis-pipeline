@@ -1,0 +1,28 @@
+{
+  "tabelle": "22221-0037",
+  "titel": "Empfänger von Asylbewerberleistungen: Deutschland, Stichtag, Altersgruppen, Staatsangehörigkeit nach Kontinenten",
+  "zeitraum": "31.12.2020 - 31.12.2025",
+  "statistik": "22221",
+  "alle_statistiken": [
+    "22221"
+  ],
+  "stand_genesis": "28.07.2023 13:50:01h",
+  "abgerufen_am": "2026-09-28T17:26:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22221-0037",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22221-0037_flatfile.csv": "36a26716aa592ca36e7acdc65bcac399b4cac2b8d44d1ce9e9107575ab57a1be"
+  },
+  "bytes": 11185,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22221/table/22221-0037"
+}

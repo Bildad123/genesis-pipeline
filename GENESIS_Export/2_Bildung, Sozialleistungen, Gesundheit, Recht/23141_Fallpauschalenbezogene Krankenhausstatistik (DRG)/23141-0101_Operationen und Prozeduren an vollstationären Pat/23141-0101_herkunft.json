@@ -1,0 +1,28 @@
+{
+  "tabelle": "23141-0101",
+  "titel": "Operationen und Prozeduren an vollstationären Patienten: Deutschland, Jahre, Operationen und Prozeduren (1-4-Steller Hierarchie)",
+  "zeitraum": "2005 - 2024",
+  "statistik": "23141",
+  "alle_statistiken": [
+    "23141"
+  ],
+  "stand_genesis": "28.12.2022 17:30:34h",
+  "abgerufen_am": "2026-09-28T17:53:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23141-0101",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23141-0101_flatfile.csv": "abccc65e4f34cb4d816136529dd8a92f6c089f101fd097ca2ae0fffc3ba31733"
+  },
+  "bytes": 5020540,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23141/table/23141-0101"
+}

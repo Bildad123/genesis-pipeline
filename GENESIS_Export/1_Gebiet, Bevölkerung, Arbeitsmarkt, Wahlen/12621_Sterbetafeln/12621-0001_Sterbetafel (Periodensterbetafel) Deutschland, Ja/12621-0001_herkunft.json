@@ -1,0 +1,28 @@
+{
+  "tabelle": "12621-0001",
+  "titel": "Sterbetafel (Periodensterbetafel): Deutschland, Jahre, Geschlecht, Vollendetes Alter",
+  "zeitraum": "1991/93 - 2023/25",
+  "statistik": "12621",
+  "alle_statistiken": [
+    "12621"
+  ],
+  "stand_genesis": "14.10.2025 16:51:13h",
+  "abgerufen_am": "2026-09-28T16:54:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12621-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12621-0001_flatfile.csv": "4875d9045b549f84f4c6b85086d37bf86a892ac7ad8e928d8c50e871cac04f00"
+  },
+  "bytes": 316687,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12621/table/12621-0001"
+}

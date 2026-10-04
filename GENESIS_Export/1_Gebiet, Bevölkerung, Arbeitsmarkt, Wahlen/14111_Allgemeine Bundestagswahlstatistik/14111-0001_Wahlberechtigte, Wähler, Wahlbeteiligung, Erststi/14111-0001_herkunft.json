@@ -1,0 +1,28 @@
+{
+  "tabelle": "14111-0001",
+  "titel": "Wahlberechtigte, Wähler, Wahlbeteiligung, Erststimmen, Zweitstimmen (Allgemeine Bundestagswahlstatistik): Deutschland, Stichtag",
+  "zeitraum": "22.09.2013 - 23.02.2025",
+  "statistik": "14111",
+  "alle_statistiken": [
+    "14111"
+  ],
+  "stand_genesis": "28.12.2022 18:48:23h",
+  "abgerufen_am": "2026-09-28T16:59:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "14111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "14111-0001_flatfile.csv": "c32006db864842b1ec745978a71451e97b6148bcdd8b0aff1742b25f5f112fb8"
+  },
+  "bytes": 1889,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/14111/table/14111-0001"
+}

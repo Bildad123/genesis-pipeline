@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0001",
+  "titel": "Einbürgerungen von Ausländern: Deutschland, Jahre",
+  "zeitraum": "1981 - 2025",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "28.12.2022 19:16:47h",
+  "abgerufen_am": "2026-09-28T16:40:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0001_flatfile.csv": "46381d5d103220009b81204e9eab7b22f31598d6b7eed6953b0e098f035b8bde"
+  },
+  "bytes": 12740,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "42111-0007",
+  "titel": "Beschäftigte und Umsatz der Betriebe im Verarbeitenden Gewerbe: Fr. Bundesgebiet/Neue Länder, Jahre (bis 2020), Wirtschaftszweige (WZ2008 Hauptgruppen und Aggregate)",
+  "zeitraum": "2005 - 2020",
+  "statistik": "42111",
+  "alle_statistiken": [
+    "42111"
+  ],
+  "stand_genesis": "28.12.2022 17:02:30h",
+  "abgerufen_am": "2026-09-28T18:44:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42111-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42111-0007_flatfile.csv": "9c87337fb2e623d6eac1909341a4c0547673a270e514975786e3aafe9d65ee2d"
+  },
+  "bytes": 741813,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42111/table/42111-0007"
+}

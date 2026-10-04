@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0401",
+  "titel": "Mütter und Väter in Hauptwohnsitzhaushalten: Deutschland, Jahre, Altersgruppen, Familienformen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:04h",
+  "abgerufen_am": "2026-09-28T16:27:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0401",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0401_flatfile.csv": "439c8a1990a435f858bb23d1ef78366ae8adc50028300795df74ca94d5e40a1e"
+  },
+  "bytes": 30834,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0401"
+}

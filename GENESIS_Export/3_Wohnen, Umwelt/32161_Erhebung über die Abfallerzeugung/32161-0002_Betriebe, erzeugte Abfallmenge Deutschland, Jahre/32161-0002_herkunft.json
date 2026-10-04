@@ -1,0 +1,28 @@
+{
+  "tabelle": "32161-0002",
+  "titel": "Betriebe, erzeugte Abfallmenge: Deutschland, Jahre, Wirtschaftszweige, Abfallarten",
+  "zeitraum": "2010 - 2022",
+  "statistik": "32161",
+  "alle_statistiken": [
+    "32161"
+  ],
+  "stand_genesis": "28.12.2022 17:39:44h",
+  "abgerufen_am": "2026-09-28T18:11:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32161-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32161-0002_flatfile.csv": "4ebe84f4e9db4eb75d80179da13448ae681819af25d2bfdb35f589b836649259"
+  },
+  "bytes": 192485,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32161/table/32161-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "23621-0003",
+  "titel": "Gesundheitspersonal: Deutschland, Jahre, Beschäftigungsverhältnis, Altersgruppen, Berufe im Gesundheitswesen",
+  "zeitraum": "2012 - 2024",
+  "statistik": "23621",
+  "alle_statistiken": [
+    "23621"
+  ],
+  "stand_genesis": "28.12.2022 17:30:03h",
+  "abgerufen_am": "2026-09-28T17:57:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23621-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23621-0003_flatfile.csv": "5d4f741a15054c4137e452045437607afe5b9c4f1b71578f2c5b29648f03944b"
+  },
+  "bytes": 1065964,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23621/table/23621-0003"
+}

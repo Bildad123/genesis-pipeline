@@ -1,0 +1,94 @@
+{
+  "abgerufen_am": "2026-09-28T19:20:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46132-0001",
+    "Content": "Beförderte Güter, Beförderungsleistung (Eisenbahngüterverkehr): Deutschland, Jahre",
+    "Time": {
+      "From": "2016",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46132",
+        "Content": "Jährliche Güterverkehrsstatistik der Eisenbahn",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "GUT003",
+          "Content": "Beförderte Güter",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "GUT003",
+          "Content": "Beförderte Güter",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "CH0004",
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "GUT004",
+          "Content": "Beförderungsleistung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "GUT004",
+          "Content": "Beförderungsleistung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": "CH0006",
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "12.10.2023 11:33:49h"
+  }
+}

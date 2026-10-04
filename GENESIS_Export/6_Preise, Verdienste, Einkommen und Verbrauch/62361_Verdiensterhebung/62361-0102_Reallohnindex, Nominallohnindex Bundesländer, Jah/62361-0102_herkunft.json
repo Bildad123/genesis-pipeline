@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0102",
+  "titel": "Reallohnindex, Nominallohnindex: Bundesländer, Jahre",
+  "zeitraum": "2022 - 2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "19.04.2024 17:04:53h",
+  "abgerufen_am": "2026-09-28T20:42:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0102",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0102_flatfile.csv": "4f194a9a4c6f78acd10578e605efbc8053e96fd3cc973442d847eb996a29004d"
+  },
+  "bytes": 25968,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0102"
+}

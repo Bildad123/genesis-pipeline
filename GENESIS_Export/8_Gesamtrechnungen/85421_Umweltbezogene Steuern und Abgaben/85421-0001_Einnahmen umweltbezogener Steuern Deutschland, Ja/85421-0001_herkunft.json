@@ -1,0 +1,28 @@
+{
+  "tabelle": "85421-0001",
+  "titel": "Einnahmen umweltbezogener Steuern: Deutschland, Jahre, Steuerart",
+  "zeitraum": "1995 - 2024",
+  "statistik": "85421",
+  "alle_statistiken": [
+    "85421"
+  ],
+  "stand_genesis": "10.09.2026 12:56:24h",
+  "abgerufen_am": "2026-09-28T21:15:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85421-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85421-0001_flatfile.csv": "eecb73903e0ca3e679b4bfd32d562c2e9479edf7cac6da6f4e80fce6a9b53f95"
+  },
+  "bytes": 116759,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85421/table/85421-0001"
+}

@@ -1,0 +1,85 @@
+{
+  "abgerufen_am": "2026-09-28T19:24:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46251-0003",
+    "Content": "Neuzulassungen und Besitzumschreibungen von Kfz und\nKfz-Anhängern: Deutschland, Jahre (bis 2018), Fahrzeugarten",
+    "Time": {
+      "From": "1991",
+      "To": "2018"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46251",
+        "Content": "Statistik des Kraftfahrzeug- und Anhängerbestandes",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "KFZAT5",
+          "Content": "Fahrzeugarten",
+          "Type": "Merkmal",
+          "Values": "27",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "VER019",
+              "Content": "Neuzulassungen fabrikneuer Kfz und Kfz-Anhänger",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "VER020",
+              "Content": "Besitzumschreibungen gebrauchter Kfz,Kfz-Anhänger",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 23:06:29h"
+  }
+}

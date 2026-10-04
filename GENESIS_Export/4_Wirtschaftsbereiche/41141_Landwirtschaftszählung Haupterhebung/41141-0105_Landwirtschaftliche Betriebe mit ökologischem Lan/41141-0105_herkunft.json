@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0105",
+  "titel": "Landwirtschaftliche Betriebe mit ökologischem Landbau, Landwirtschaftlich genutzte Fläche: Bundesländer, Jahre, Größenklassen der landwirtschaftlich genutzten Fläche",
+  "zeitraum": "2010 - 2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "29.12.2022 08:02:05h",
+  "abgerufen_am": "2026-09-28T18:23:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0105",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0105_flatfile.csv": "d0e9b65ce406c41807db7afecc69772aba19909cbe010757132dec75843d84de"
+  },
+  "bytes": 222900,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0105"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22151-0009",
+  "titel": "Durchschnittlicher Nettobedarf, Bruttobedarf, angerechnete Einkommen: Deutschland, Berichtsmonat im Quartal, Geschlecht/Altersgruppen/Ort der Leistungserbringung",
+  "zeitraum": "März 2015 - Juni 2026",
+  "statistik": "22151",
+  "alle_statistiken": [
+    "22151"
+  ],
+  "stand_genesis": "15.04.2025 12:06:26h",
+  "abgerufen_am": "2026-09-28T17:21:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22151-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22151-0009_flatfile.csv": "dabb7011fb5bc832449e306e02cdfd0c2a44f1304a1d5df22e1305a3b02d03c6"
+  },
+  "bytes": 59228,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22151/table/22151-0009"
+}

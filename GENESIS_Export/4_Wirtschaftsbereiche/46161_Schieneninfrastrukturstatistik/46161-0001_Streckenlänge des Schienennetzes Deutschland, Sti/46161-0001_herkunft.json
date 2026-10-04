@@ -1,0 +1,28 @@
+{
+  "tabelle": "46161-0001",
+  "titel": "Streckenlänge des Schienennetzes: Deutschland, Stichtag, Betriebsordnung",
+  "zeitraum": "31.12.2010 - 31.12.2024",
+  "statistik": "46161",
+  "alle_statistiken": [
+    "46161"
+  ],
+  "stand_genesis": "11.10.2024 17:33:11h",
+  "abgerufen_am": "2026-09-28T19:20:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46161-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46161-0001_flatfile.csv": "a88a710a9bf7c28dd9c23ece20a83e065635f80f0c720970f2e2302089355dce"
+  },
+  "bytes": 16997,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46161/table/46161-0001"
+}

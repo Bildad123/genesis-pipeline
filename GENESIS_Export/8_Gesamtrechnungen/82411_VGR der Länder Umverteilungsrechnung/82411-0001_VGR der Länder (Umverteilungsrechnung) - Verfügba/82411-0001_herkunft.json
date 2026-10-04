@@ -1,0 +1,28 @@
+{
+  "tabelle": "82411-0001",
+  "titel": "VGR der Länder (Umverteilungsrechnung) - Verfügbares Einkommen der privaten Haushalte: Deutschland, Jahre",
+  "zeitraum": "1991 - 2024",
+  "statistik": "82411",
+  "alle_statistiken": [
+    "82411"
+  ],
+  "stand_genesis": "17.06.2026 10:31:57h",
+  "abgerufen_am": "2026-09-28T21:13:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "82411-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "82411-0001_flatfile.csv": "7b545c25271f73b2a1ee4bffb4f68d948418d8c4a7c7b00734c946412643eeb9"
+  },
+  "bytes": 12140,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/82411/table/82411-0001"
+}

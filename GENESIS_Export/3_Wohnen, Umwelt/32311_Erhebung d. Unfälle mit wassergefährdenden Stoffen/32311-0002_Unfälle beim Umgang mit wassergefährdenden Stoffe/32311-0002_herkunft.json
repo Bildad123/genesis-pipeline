@@ -1,0 +1,28 @@
+{
+  "tabelle": "32311-0002",
+  "titel": "Unfälle beim Umgang mit wassergefährdenden Stoffen, Freigesetzte, wiedergewonnene Menge: Deutschland, Jahre, Anlagenart, Freigesetzte Stoffart, Wassergefährdungsklasse",
+  "zeitraum": "2025 - 2025",
+  "statistik": "32311",
+  "alle_statistiken": [
+    "32311"
+  ],
+  "stand_genesis": "20.08.2026 16:31:58h",
+  "abgerufen_am": "2026-09-28T18:14:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32311-0002_flatfile.csv": "fa61e6d6e7161ccac35a01cc2d9d2af7d2b01697ffc9325a5b15cd5c5ac7af44"
+  },
+  "bytes": 1159914,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32311/table/32311-0002"
+}

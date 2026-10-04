@@ -1,0 +1,28 @@
+{
+  "tabelle": "73111-0020",
+  "titel": "Betriebe, Einkünfte (Einnahmenüberschussrechnung): Deutschland, Jahre, Einkunftsarten, Gewinnermittlung",
+  "zeitraum": "2013 - 2022",
+  "statistik": "73111",
+  "alle_statistiken": [
+    "73111"
+  ],
+  "stand_genesis": "28.12.2022 18:00:36h",
+  "abgerufen_am": "2026-09-28T20:53:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73111-0020",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73111-0020_flatfile.csv": "6e9eeb559394c14eff03ce706d49a6002d486aebf45a0c2c47b01277985f5b79"
+  },
+  "bytes": 61822,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73111/table/73111-0020"
+}

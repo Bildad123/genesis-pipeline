@@ -1,0 +1,28 @@
+{
+  "tabelle": "22311-0003",
+  "titel": "Haushalte mit Wohngeld: Deutschland, Stichtag, Wohngeldart, Geschlecht der Antragsteller",
+  "zeitraum": "31.12.2005 - 31.12.2025",
+  "statistik": "22311",
+  "alle_statistiken": [
+    "22311"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:28:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22311-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22311-0003_flatfile.csv": "d56e3dfc57c901d6c15420449c14197c7876f2a0aca573a0f57cc1e220a28331"
+  },
+  "bytes": 19466,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22311/table/22311-0003"
+}

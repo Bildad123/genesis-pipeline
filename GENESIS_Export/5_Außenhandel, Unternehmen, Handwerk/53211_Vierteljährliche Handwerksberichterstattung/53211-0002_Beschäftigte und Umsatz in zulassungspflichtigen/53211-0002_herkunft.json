@@ -1,0 +1,28 @@
+{
+  "tabelle": "53211-0002",
+  "titel": "Beschäftigte und Umsatz in zulassungspflichtigen Handwerksunternehmen: Deutschland, Quartale, Ausgewählte Wirtschaftszweige",
+  "zeitraum": "1. Quartal 2026 - 2. Quartal 2026",
+  "statistik": "53211",
+  "alle_statistiken": [
+    "53211"
+  ],
+  "stand_genesis": "15.06.2026 16:55:15h",
+  "abgerufen_am": "2026-09-28T20:19:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "53211-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "53211-0002_flatfile.csv": "ef2ffe4e3b8aa143c02d6add958c5d0462a644f3874aadb933609f7ef8afe360"
+  },
+  "bytes": 342864,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/53211/table/53211-0002"
+}

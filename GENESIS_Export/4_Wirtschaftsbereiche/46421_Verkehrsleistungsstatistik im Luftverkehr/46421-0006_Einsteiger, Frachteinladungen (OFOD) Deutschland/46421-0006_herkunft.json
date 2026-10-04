@@ -1,0 +1,28 @@
+{
+  "tabelle": "46421-0006",
+  "titel": "Einsteiger, Frachteinladungen (OFOD): Deutschland, Jahre, Berichtsflughafen, 1. Streckenzielland",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46421",
+  "alle_statistiken": [
+    "46421"
+  ],
+  "stand_genesis": "28.12.2022 17:57:22h",
+  "abgerufen_am": "2026-09-28T19:31:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46421-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46421-0006_flatfile.csv": "4823fdc5467738678659fb3e75ec80dfd99cd4b93a28b203de10285837d6a277"
+  },
+  "bytes": 3163509,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46421/table/46421-0006"
+}

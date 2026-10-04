@@ -1,0 +1,28 @@
+{
+  "tabelle": "12613-0005",
+  "titel": "Gestorbene, Sterbefälle je 1000 Einwohner: Deutschland, Monate",
+  "zeitraum": "Januar 1990 - August 2026",
+  "statistik": "12613",
+  "alle_statistiken": [
+    "12613"
+  ],
+  "stand_genesis": "15.04.2025 08:31:00h",
+  "abgerufen_am": "2026-09-28T16:53:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12613-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12613-0005_flatfile.csv": "c35e8a9e252d4b084fe77834168b69970e773f8faa3734555d8aabc527916297"
+  },
+  "bytes": 7937,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12613/table/12613-0005"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "24271-0012",
+  "titel": "Eilverfahren vor dem Sozialgericht: Bundesländer, Jahre, Stand der Erledigung",
+  "zeitraum": "2017 - 2024",
+  "statistik": "24271",
+  "alle_statistiken": [
+    "24271"
+  ],
+  "stand_genesis": "10.11.2023 12:42:02h",
+  "abgerufen_am": "2026-09-28T18:00:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24271-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24271-0012_flatfile.csv": "be7f2a488ddd56d9770b6b48e9f2950d5d73af442c0293aed217845a181527e3"
+  },
+  "bytes": 18484,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24271/table/24271-0012"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "61111-0001",
+  "titel": "Verbraucherpreisindex: Deutschland, Jahre",
+  "zeitraum": "1991 - 2025",
+  "statistik": "61111",
+  "alle_statistiken": [
+    "61111"
+  ],
+  "stand_genesis": "28.12.2022 11:08:22h",
+  "abgerufen_am": "2026-09-28T20:19:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61111-0001_flatfile.csv": "a6200e0c79ee95888ee0d65c8b3239dcca0ed189b1aed8307153da1e28a9c127"
+  },
+  "bytes": 9485,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61111/table/61111-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "24221-0002",
+  "titel": "Strafverfahren vor dem Amtsgericht: Deutschland, Jahre, Stand der Erledigung",
+  "zeitraum": "2017 - 2024",
+  "statistik": "24221",
+  "alle_statistiken": [
+    "24221"
+  ],
+  "stand_genesis": "11.10.2023 18:03:00h",
+  "abgerufen_am": "2026-09-28T17:58:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24221-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24221-0002_flatfile.csv": "ae972ee8edcf6bd2222f1f39940b87e7a8161b94835c4fb1b3d2fdbfe6e040d9"
+  },
+  "bytes": 10044,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24221/table/24221-0002"
+}

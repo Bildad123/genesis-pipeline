@@ -1,0 +1,28 @@
+{
+  "tabelle": "22522-0004",
+  "titel": "Maßnahmen des Familiengerichts bei Kindeswohlgefährdung: Deutschland, Jahre, Art der eingeleiteten Maßnahmen, Geschlecht, Altersgruppen",
+  "zeitraum": "2012 - 2025",
+  "statistik": "22522",
+  "alle_statistiken": [
+    "22522"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:34:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22522-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22522-0004_flatfile.csv": "8741712d361e224656cbb2af447788cb628228e8f078d053b35b30c9be3bf60b"
+  },
+  "bytes": 361423,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22522/table/22522-0004"
+}

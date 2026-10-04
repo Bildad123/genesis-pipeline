@@ -1,0 +1,28 @@
+{
+  "tabelle": "46181-0005",
+  "titel": "Unternehmen, Beförderte Personen, Personenkilometer (Personenverkehr mit Bussen und Bahnen): Deutschland, Quartale, Verkehrsart",
+  "zeitraum": "1. Quartal 2004 - 2. Quartal 2026",
+  "statistik": "46181",
+  "alle_statistiken": [
+    "46181"
+  ],
+  "stand_genesis": "28.12.2022 17:08:04h",
+  "abgerufen_am": "2026-09-28T19:21:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46181-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46181-0005_flatfile.csv": "65d7f23759f1bc73d25e98253c6c995e7dafeaa3b9675709952376ad76f7d8ae"
+  },
+  "bytes": 39303,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46181/table/46181-0005"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "41145-0015",
+  "titel": "Arbeitskräfte in Gartenbaubetrieben: Bundesländer, Jahre, Betriebl. Schwerpunkt der Gartenbaubetriebe, Beschäftigungs- umfang, Größenklassen der gärtnerischen Nutzfläche",
+  "zeitraum": "2005 - 2005",
+  "statistik": "41145",
+  "alle_statistiken": [
+    "41145"
+  ],
+  "stand_genesis": "29.12.2022 08:02:34h",
+  "abgerufen_am": "2026-09-28T18:26:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41145-0015",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41145-0015_flatfile.csv": "e549d9bbb4589ce68942f91c01d8d199696e6cbd4f75a6137d73127fbc0decb5"
+  },
+  "bytes": 184630,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41145/table/41145-0015"
+}

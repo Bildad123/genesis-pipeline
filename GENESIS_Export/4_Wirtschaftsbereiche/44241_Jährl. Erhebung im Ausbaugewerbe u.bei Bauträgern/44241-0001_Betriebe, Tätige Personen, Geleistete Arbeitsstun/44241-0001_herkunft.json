@@ -1,0 +1,28 @@
+{
+  "tabelle": "44241-0001",
+  "titel": "Betriebe, Tätige Personen, Geleistete Arbeitsstunden, Entgelte, Baugewerblicher Umsatz (Ausbaugewerbe): Deutschland, Stichquartal, Wirtschaftszweige",
+  "zeitraum": "II/2009 - II/2025",
+  "statistik": "44241",
+  "alle_statistiken": [
+    "44241"
+  ],
+  "stand_genesis": "14.02.2024 12:54:14h",
+  "abgerufen_am": "2026-09-28T19:09:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44241-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44241-0001_flatfile.csv": "393e7deecfca9724a2e10d56b64f7ec402b49f07490abd0c725b1fb9c15e2291"
+  },
+  "bytes": 339017,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44241/table/44241-0001"
+}

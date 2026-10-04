@@ -1,0 +1,15 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE0001B0099;1 bis 99 Tiere;76800;Anzahl;SCW003;Mastschweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE0001B0099;1 bis 99 Tiere;1670;Anzahl;BTR055;Betriebe mit Mastschweinen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE1000B1999;1000 bis 1999 Tiere;2672800;Anzahl;SCW003;Mastschweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE1000B1999;1000 bis 1999 Tiere;2010;Anzahl;BTR055;Betriebe mit Mastschweinen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE0400B0999;400 bis 999 Tiere;2922800;Anzahl;SCW003;Mastschweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE0400B0999;400 bis 999 Tiere;4440;Anzahl;BTR055;Betriebe mit Mastschweinen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;;Insgesamt;8968000;Anzahl;SCW003;Mastschweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;;Insgesamt;12110;Anzahl;BTR055;Betriebe mit Mastschweinen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE2000B4999;2000 bis 4999 Tiere;1703000;Anzahl;SCW003;Mastschweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE2000B4999;2000 bis 4999 Tiere;580;Anzahl;BTR055;Betriebe mit Mastschweinen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE5000UM;5000 und mehr Tiere;818900;Anzahl;SCW003;Mastschweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE5000UM;5000 und mehr Tiere;100;Anzahl;BTR055;Betriebe mit Mastschweinen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE0100B0399;100 bis 399 Tiere;773700;Anzahl;SCW003;Mastschweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DINSG;Deutschland insgesamt;DG;Deutschland;TIEB06;Bestandsgrößenklassen;TIE0100B0399;100 bis 399 Tiere;3310;Anzahl;BTR055;Betriebe mit Mastschweinen

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0014",
+  "titel": "Kinder in Tageseinrichtungen: Deutschland, Stichtag, Vertraglich vereinbarte Betreuungszeit",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 13:53:41h",
+  "abgerufen_am": "2026-09-28T17:36:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0014_flatfile.csv": "5305a7516747fd0a7b3ae28ecf38a46a7b2e5d522eff85dc7102d17de8e484ae"
+  },
+  "bytes": 18500,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0014"
+}

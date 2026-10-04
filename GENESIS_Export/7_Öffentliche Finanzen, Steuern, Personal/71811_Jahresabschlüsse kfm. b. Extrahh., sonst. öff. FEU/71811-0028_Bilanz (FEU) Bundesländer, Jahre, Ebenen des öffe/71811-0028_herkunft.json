@@ -1,0 +1,28 @@
+{
+  "tabelle": "71811-0028",
+  "titel": "Bilanz (FEU): Bundesländer, Jahre, Ebenen des öffentlichen Bereichs, Rechtsform",
+  "zeitraum": "2008 - 2023",
+  "statistik": "71811",
+  "alle_statistiken": [
+    "71811"
+  ],
+  "stand_genesis": "29.12.2022 00:36:32h",
+  "abgerufen_am": "2026-09-28T20:52:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71811-0028",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71811-0028_flatfile.csv": "8f3b9bd77fb37680a934ac9b5c24632680c3e4a75f59692fc270506f6aa4b2b7"
+  },
+  "bytes": 2363560,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71811/table/71811-0028"
+}

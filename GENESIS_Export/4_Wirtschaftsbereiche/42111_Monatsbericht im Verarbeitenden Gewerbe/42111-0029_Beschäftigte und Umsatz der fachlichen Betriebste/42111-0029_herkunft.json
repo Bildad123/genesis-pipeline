@@ -1,0 +1,28 @@
+{
+  "tabelle": "42111-0029",
+  "titel": "Beschäftigte und Umsatz der fachlichen Betriebsteile im Verarbeitenden Gewerbe: Fr. Bundesgebiet/Neue Länder, Jahre (bis 2020), Wirtschaftszweige (WZ2008 2-4-Steller Hier.)",
+  "zeitraum": "2005 - 2020",
+  "statistik": "42111",
+  "alle_statistiken": [
+    "42111"
+  ],
+  "stand_genesis": "28.12.2022 17:02:30h",
+  "abgerufen_am": "2026-09-28T18:47:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42111-0029",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42111-0029_flatfile.csv": "2a40455cfa1fa23dbd341c512231f40312cbd86565a1dd9f4b9c298c73115c5b"
+  },
+  "bytes": 1828848,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42111/table/42111-0029"
+}

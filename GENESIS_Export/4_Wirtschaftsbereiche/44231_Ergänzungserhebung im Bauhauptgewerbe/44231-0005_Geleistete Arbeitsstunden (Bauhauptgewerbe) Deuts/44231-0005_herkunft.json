@@ -1,0 +1,28 @@
+{
+  "tabelle": "44231-0005",
+  "titel": "Geleistete Arbeitsstunden (Bauhauptgewerbe): Deutschland, Stichmonat, Bauart, Wirtschaftszweige",
+  "zeitraum": "06/2009 - 06/2025",
+  "statistik": "44231",
+  "alle_statistiken": [
+    "44231"
+  ],
+  "stand_genesis": "14.02.2024 14:18:13h",
+  "abgerufen_am": "2026-09-28T19:08:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44231-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44231-0005_flatfile.csv": "ef306286e9c3c6dc30950913bc00eb92ae9012c67e21a5aeeeeb6d67e2460f3f"
+  },
+  "bytes": 83438,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44231/table/44231-0005"
+}

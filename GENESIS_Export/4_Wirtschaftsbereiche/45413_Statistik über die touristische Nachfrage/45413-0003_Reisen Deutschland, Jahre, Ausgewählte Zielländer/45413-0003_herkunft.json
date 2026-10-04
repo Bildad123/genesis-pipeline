@@ -1,0 +1,28 @@
+{
+  "tabelle": "45413-0003",
+  "titel": "Reisen: Deutschland, Jahre, Ausgewählte Zielländer/Zielkontinent/Reiseziel",
+  "zeitraum": "2012 - 2025",
+  "statistik": "45413",
+  "alle_statistiken": [
+    "45413"
+  ],
+  "stand_genesis": "28.12.2022 21:20:39h",
+  "abgerufen_am": "2026-09-28T19:17:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45413-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45413-0003_flatfile.csv": "9e32a5a0cc8d8673ac5b3ee33e9e552b01764c301ea4d6cd3dabbf4b2aa3b6c2"
+  },
+  "bytes": 86638,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45413/table/45413-0003"
+}

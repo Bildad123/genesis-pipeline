@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0200",
+  "titel": "Haupt- und Zweigstellen der Bibliotheken, Meldende Bibliotheken, Bestand, Entleiher, Bibliotheksbesuche: Deutschland, Jahre, Bibliotheksarten",
+  "zeitraum": "2000 - 2025",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:15:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0200",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0200_flatfile.csv": "b16e8abdb24907d1b259242d0634515dc60ff868f82be4acc4442706388bfb1d"
+  },
+  "bytes": 46844,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0200"
+}

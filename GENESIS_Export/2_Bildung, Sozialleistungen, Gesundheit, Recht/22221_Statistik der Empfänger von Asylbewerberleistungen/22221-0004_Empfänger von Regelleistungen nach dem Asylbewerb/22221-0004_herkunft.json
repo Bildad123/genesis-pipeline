@@ -1,0 +1,28 @@
+{
+  "tabelle": "22221-0004",
+  "titel": "Empfänger von Regelleistungen nach dem Asylbewerberleistungsgesetz: Deutschland, Stichtag (bis 31.12.2019), Stellung zum Haushaltsvorstand",
+  "zeitraum": "31.12.1994 - 31.12.2019",
+  "statistik": "22221",
+  "alle_statistiken": [
+    "22221"
+  ],
+  "stand_genesis": "28.12.2022 19:34:20h",
+  "abgerufen_am": "2026-09-28T17:24:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22221-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22221-0004_flatfile.csv": "2eaa8056907d965dcd34befca2da4082c080239fa2c0b17bc41f3242e61c4330"
+  },
+  "bytes": 30242,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22221/table/22221-0004"
+}

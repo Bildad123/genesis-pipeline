@@ -1,0 +1,61 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;619;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;41754,3;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;2045,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;636;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;34622,9;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;1927,7;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;1920;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;133134,9;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;14862,1;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);798;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);2643,4;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1501;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);80379,3;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);8061,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);747;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);2579,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1659;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);92694,5;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);9324,2;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);1073;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);3922,7;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1828;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);96046,9;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);10643,1;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;1842;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;130649,4;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;14010,4;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;639;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;48034,1;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;2080,6;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;636;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;37954,9;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;2042,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;1702;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;120352,0;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;13149,5;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1536;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);78597,7;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);8474,3;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;1672;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;128413,4;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;12721,1;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);771;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);2629,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;2000;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;130629,5;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;;Insgesamt;16422,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);885;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);x;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND03;Freiland (nicht im Ertrag);2964,8;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);1786;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);98512,0;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;FREILAND02;Freiland (im Ertrag);9969,6;ha;FLC065;Anbaufläche Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;645;Anzahl;BTR050;Betriebe mit Erdbeeranbau
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;34582,6;t;ERN010;Erntemenge Erdbeeren
+41215;Gemüseerhebung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;ANBA03;Anbauform;SCHUTZABD-03;Unter hohen begehb. Schutzabdeck. inkl. Gewächsh.;1857,0;ha;FLC065;Anbaufläche Erdbeeren

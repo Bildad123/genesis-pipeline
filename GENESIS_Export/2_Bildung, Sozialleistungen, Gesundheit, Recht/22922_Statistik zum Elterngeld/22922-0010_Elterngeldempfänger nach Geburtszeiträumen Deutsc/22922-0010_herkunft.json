@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0010",
+  "titel": "Elterngeldempfänger nach Geburtszeiträumen: Deutschland, Quartale (bis 2.Q. 2015), Geschlecht, Bezugsdauer des Elterngeldes",
+  "zeitraum": "1. Quartal 2009 - 2. Quartal 2015",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:41:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0010_flatfile.csv": "1edd8cf349cdc3f6a4cc1b7c60584a7a642ac6ea1f17e90bec35b46a951eb198"
+  },
+  "bytes": 97209,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0010"
+}

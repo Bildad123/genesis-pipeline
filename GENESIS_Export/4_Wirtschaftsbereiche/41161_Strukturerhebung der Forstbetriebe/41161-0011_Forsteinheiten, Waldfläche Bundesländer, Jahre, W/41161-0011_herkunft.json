@@ -1,0 +1,28 @@
+{
+  "tabelle": "41161-0011",
+  "titel": "Forsteinheiten, Waldfläche: Bundesländer, Jahre, Waldeigentumsarten, Größenklassen der Waldfläche",
+  "zeitraum": "2022 - 2022",
+  "statistik": "41161",
+  "alle_statistiken": [
+    "41161"
+  ],
+  "stand_genesis": "28.12.2022 11:08:57h",
+  "abgerufen_am": "2026-09-28T18:27:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41161-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41161-0011_flatfile.csv": "f208fce09ecfbd2d0855fadeb7ef0fe0249d36c86f3659e7e2fc2990ea61645e"
+  },
+  "bytes": 275426,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41161/table/41161-0011"
+}

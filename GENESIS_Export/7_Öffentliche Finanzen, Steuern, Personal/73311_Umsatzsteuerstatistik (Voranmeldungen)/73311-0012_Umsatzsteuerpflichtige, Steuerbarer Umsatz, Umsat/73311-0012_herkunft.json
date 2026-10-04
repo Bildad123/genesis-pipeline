@@ -1,0 +1,28 @@
+{
+  "tabelle": "73311-0012",
+  "titel": "Umsatzsteuerpflichtige, Steuerbarer Umsatz, Umsatzsteuer (Voranmeldungen): Bundesländer, Jahre (bis 2008), Wirtschaftszweige (WZ2003 1-2-Steller Hierarchie)",
+  "zeitraum": "2002 - 2008",
+  "statistik": "73311",
+  "alle_statistiken": [
+    "73311"
+  ],
+  "stand_genesis": "15.09.2023 18:22:24h",
+  "abgerufen_am": "2026-09-28T20:55:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73311-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73311-0012_flatfile.csv": "62c0835113b938a1c5857093d466d4b97e633d64ac26c5c03ff6acb0466e6841"
+  },
+  "bytes": 2733537,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73311/table/73311-0012"
+}

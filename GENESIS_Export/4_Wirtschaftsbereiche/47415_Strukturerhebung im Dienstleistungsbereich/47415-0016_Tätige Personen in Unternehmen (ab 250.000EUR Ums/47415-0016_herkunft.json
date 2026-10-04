@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0016",
+  "titel": "Tätige Personen in Unternehmen (ab 250.000EUR Umsatz):Dtld., Stichtag, Beschäftigungsumfang|Geschlecht|Art d.Anstellung, Wirtschaftsabschnitte, Größenklassen (Umsatz/tätige Pers.)",
+  "zeitraum": "30.09.2008 - 30.09.2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:36:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0016",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0016_flatfile.csv": "c1aa31fefa0d06c4ca8be58d708b112c784cff9737b35f71970644c8c7696464"
+  },
+  "bytes": 23920,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0016"
+}

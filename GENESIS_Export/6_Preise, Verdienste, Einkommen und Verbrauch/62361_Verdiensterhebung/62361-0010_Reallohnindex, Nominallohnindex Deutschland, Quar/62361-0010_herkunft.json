@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0010",
+  "titel": "Reallohnindex, Nominallohnindex: Deutschland, Quartale",
+  "zeitraum": "1. Quartal 2007 - 2. Quartal 2026",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "15.05.2023 13:51:20h",
+  "abgerufen_am": "2026-09-28T20:39:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0010_flatfile.csv": "b57cf6bfaa49ce39b88c76c9e24ad6f0fa4ba09b23a57360e5df3a071ca84f63"
+  },
+  "bytes": 11683,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0010"
+}

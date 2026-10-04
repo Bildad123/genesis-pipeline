@@ -1,0 +1,28 @@
+{
+  "tabelle": "52911-0001",
+  "titel": "IKT-Indikatoren für Unternehmen: Deutschland, Jahre (bis 2024)",
+  "zeitraum": "2015 - 2024",
+  "statistik": "52911",
+  "alle_statistiken": [
+    "52911"
+  ],
+  "stand_genesis": "30.10.2025 16:48:44h",
+  "abgerufen_am": "2026-09-28T20:17:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52911-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52911-0001_flatfile.csv": "32d3fdbbc65abbb57a78816a50d4366610c4c27d5286e727f14c5a2290388257"
+  },
+  "bytes": 748499,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52911/table/52911-0001"
+}

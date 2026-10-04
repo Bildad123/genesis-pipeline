@@ -1,0 +1,28 @@
+{
+  "tabelle": "31121-0007",
+  "titel": "Baufertigstellungen neuer Gebäude: Deutschland, Jahre, Gebäudeart, Art der Beheizung",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31121",
+  "alle_statistiken": [
+    "31121"
+  ],
+  "stand_genesis": "07.08.2024 13:46:49h",
+  "abgerufen_am": "2026-09-28T18:05:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31121-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31121-0007_flatfile.csv": "78e092adb9ce2e298eec9be39b93711d3e361c81d7c72a884626d859d4f4e2fd"
+  },
+  "bytes": 71913,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31121/table/31121-0007"
+}

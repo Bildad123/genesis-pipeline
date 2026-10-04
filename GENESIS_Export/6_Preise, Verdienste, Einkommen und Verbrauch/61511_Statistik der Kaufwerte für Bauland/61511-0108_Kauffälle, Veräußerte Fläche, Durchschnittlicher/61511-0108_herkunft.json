@@ -1,0 +1,28 @@
+{
+  "tabelle": "61511-0108",
+  "titel": "Kauffälle, Veräußerte Fläche, Durchschnittlicher Kaufwert für Bauland: Deutschland, Jahre (bis 2020), Baulandarten, Verwandtschaftsverhältnis",
+  "zeitraum": "2010 - 2020",
+  "statistik": "61511",
+  "alle_statistiken": [
+    "61511"
+  ],
+  "stand_genesis": "28.12.2022 19:28:03h",
+  "abgerufen_am": "2026-09-28T20:34:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61511-0108",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61511-0108_flatfile.csv": "ced055139489323cf23678a3582199420e55153dab53940dbc348603e4e8e5fb"
+  },
+  "bytes": 6863,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61511/table/61511-0108"
+}

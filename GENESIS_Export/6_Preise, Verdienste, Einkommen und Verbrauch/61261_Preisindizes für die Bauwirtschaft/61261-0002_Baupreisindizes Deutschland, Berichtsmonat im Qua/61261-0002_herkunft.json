@@ -1,0 +1,28 @@
+{
+  "tabelle": "61261-0002",
+  "titel": "Baupreisindizes: Deutschland, Berichtsmonat im Quartal, Messzahlen mit/ohne Umsatzsteuer, Gebäudearten, Bauarbeiten (Hochbau)",
+  "zeitraum": "Februar 1958 - Mai 2026",
+  "statistik": "61261",
+  "alle_statistiken": [
+    "61261"
+  ],
+  "stand_genesis": "09.07.2024 13:45:21h",
+  "abgerufen_am": "2026-09-28T20:24:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61261-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61261-0002_flatfile.csv": "b5f5e49c8fb648cb30953328a23840effcd134437f2321eb31f47c4b810aaf2d"
+  },
+  "bytes": 366066,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61261/table/61261-0002"
+}

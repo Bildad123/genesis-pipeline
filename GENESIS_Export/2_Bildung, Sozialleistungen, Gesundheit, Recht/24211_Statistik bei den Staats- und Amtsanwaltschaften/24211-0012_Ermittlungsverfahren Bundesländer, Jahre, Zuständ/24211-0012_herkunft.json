@@ -1,0 +1,28 @@
+{
+  "tabelle": "24211-0012",
+  "titel": "Ermittlungsverfahren: Bundesländer, Jahre, Zuständigkeit, Stand der Erledigung",
+  "zeitraum": "2018 - 2024",
+  "statistik": "24211",
+  "alle_statistiken": [
+    "24211"
+  ],
+  "stand_genesis": "23.03.2023 12:09:34h",
+  "abgerufen_am": "2026-09-28T17:58:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24211-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24211-0012_flatfile.csv": "c95a2940023fc82874a161d326c1a5316b45595ef70abe84f4f23d15053c1158"
+  },
+  "bytes": 44855,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24211/table/24211-0012"
+}

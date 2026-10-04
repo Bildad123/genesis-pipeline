@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0004",
+  "titel": "Lebendgeborene: Deutschland, Jahre, Familienstand der Eltern",
+  "zeitraum": "1950 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "28.12.2022 17:19:28h",
+  "abgerufen_am": "2026-09-28T16:51:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0004_flatfile.csv": "b8b903bebb9e7fd207fa810b27f04e28a8df4b4b95e0058bb4bd5ac845b1c922"
+  },
+  "bytes": 27190,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0004"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "71321-0007",
+  "titel": "Schulden beim nicht-öffentlichen Bereich je Einwohner: Bundesländer, Stichtag (ab 31.12.2010)",
+  "zeitraum": "31.12.2010 - 31.12.2025",
+  "statistik": "71321",
+  "alle_statistiken": [
+    "71321"
+  ],
+  "stand_genesis": "28.12.2022 19:08:33h",
+  "abgerufen_am": "2026-09-28T20:50:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71321-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71321-0007_flatfile.csv": "18ad3ce9b972947a32e714beb09a39c5681201def30f58a288b3bdc58ae542ed"
+  },
+  "bytes": 48109,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71321/table/71321-0007"
+}

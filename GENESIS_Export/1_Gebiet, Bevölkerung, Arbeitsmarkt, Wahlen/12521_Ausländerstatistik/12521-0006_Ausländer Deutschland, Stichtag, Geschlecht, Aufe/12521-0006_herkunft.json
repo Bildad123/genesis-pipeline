@@ -1,0 +1,28 @@
+{
+  "tabelle": "12521-0006",
+  "titel": "Ausländer: Deutschland, Stichtag, Geschlecht, Aufenthaltsdauer/Aufenthaltsdauer (Abgrenzung Einbürgerungen), Ländergruppierungen/Staatsangehörigkeit",
+  "zeitraum": "31.12.1998 - 31.12.2025",
+  "statistik": "12521",
+  "alle_statistiken": [
+    "12521"
+  ],
+  "stand_genesis": "28.12.2022 18:48:29h",
+  "abgerufen_am": "2026-09-28T16:45:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12521-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12521-0006_flatfile.csv": "bf0bc641f85b2340ef12ab93d2fb604f0a38a2f87863c40a52645b255a0e7b07"
+  },
+  "bytes": 285977,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12521/table/12521-0006"
+}

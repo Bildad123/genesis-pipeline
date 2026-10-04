@@ -1,0 +1,28 @@
+{
+  "tabelle": "22542-0004",
+  "titel": "Einrichtungen der Kinder- und Jugendhilfe: Bundesländer, Stichtag (bis 31.12.2020), Art der Einrichtung",
+  "zeitraum": "31.12.2010 - 31.12.2020",
+  "statistik": "22542",
+  "alle_statistiken": [
+    "22542"
+  ],
+  "stand_genesis": "13.03.2024 13:38:43h",
+  "abgerufen_am": "2026-09-28T17:37:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22542-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22542-0004_flatfile.csv": "75bffe7dab3c3938339f44f355c1f5460371b3cf7359c1cf8857a662f22ec3a8"
+  },
+  "bytes": 11211,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22542/table/22542-0004"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "31121-0108",
+  "titel": "Baufertigstellungen neuer Gebäude: Bundesländer, Jahre, Gebäudeart, Haustyp",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31121",
+  "alle_statistiken": [
+    "31121"
+  ],
+  "stand_genesis": "07.08.2024 13:50:03h",
+  "abgerufen_am": "2026-09-28T18:06:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31121-0108",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31121-0108_flatfile.csv": "16b0ba3b97193243f113cc278428d78b9e6a2cd3b97199faf8d99649effce3e8"
+  },
+  "bytes": 421409,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31121/table/31121-0108"
+}

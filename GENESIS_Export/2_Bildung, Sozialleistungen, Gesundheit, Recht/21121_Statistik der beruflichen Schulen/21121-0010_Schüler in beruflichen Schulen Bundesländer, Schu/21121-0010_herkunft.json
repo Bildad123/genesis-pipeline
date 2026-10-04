@@ -1,0 +1,28 @@
+{
+  "tabelle": "21121-0010",
+  "titel": "Schüler in beruflichen Schulen: Bundesländer, Schuljahr, Schulart",
+  "zeitraum": "2001/02 - 2024/25",
+  "statistik": "21121",
+  "alle_statistiken": [
+    "21121"
+  ],
+  "stand_genesis": "28.12.2022 18:50:37h",
+  "abgerufen_am": "2026-09-28T17:01:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21121-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21121-0010_flatfile.csv": "36a0ffad50e5f9cd5378131a174945a0dc9238e8fb64c7e275ab5ccfabf31d43"
+  },
+  "bytes": 36335,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21121/table/21121-0010"
+}

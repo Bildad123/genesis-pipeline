@@ -1,0 +1,106 @@
+{
+  "abgerufen_am": "2026-09-28T21:00:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "74211-0004",
+    "Content": "Versorgungszugänge der Empfänger von Ruhegehalt:\nDeutschland, Jahre, Körperschaftsebenen, Besoldungsgruppe,\nGrund für den Eintritt des Versorgungsfalls, Geschlecht",
+    "Time": {
+      "From": "2012",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "74211",
+        "Content": "Versorgungsempfängerstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "RGE001",
+                "Content": "Versorgungszugänge der Empfänger von Ruhegehalt",
+                "Type": "Merkmal",
+                "Values": "-1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "KRPEB2",
+          "Content": "Körperschaftsebenen",
+          "Type": "Merkmal",
+          "Values": "12",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "BSLGR2",
+          "Content": "Besoldungsgruppe",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "VSORG6",
+              "Content": "Grund für den Eintritt des Versorgungsfalls",
+              "Type": "Merkmal",
+              "Values": "11",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "GES",
+                  "Content": "Geschlecht",
+                  "Type": "Merkmal",
+                  "Values": "2",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 19:05:43h"
+  }
+}

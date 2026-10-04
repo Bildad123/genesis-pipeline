@@ -1,0 +1,28 @@
+{
+  "tabelle": "41321-0002",
+  "titel": "Brütereien, Fassungsvermögen der Brutanlagen, eingelegte Bruteier: Deutschland, Jahre, Geflügelart, Größenklassen des Fassungsvermögens der Brutanlagen",
+  "zeitraum": "2010 - 2025",
+  "statistik": "41321",
+  "alle_statistiken": [
+    "41321"
+  ],
+  "stand_genesis": "29.12.2022 04:30:43h",
+  "abgerufen_am": "2026-09-28T18:39:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41321-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41321-0002_flatfile.csv": "b577a53a05cbff2d5b4cb017e5e37b6fc4c2e981d38eeef5a7acaf25d0b26570"
+  },
+  "bytes": 96920,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41321/table/41321-0002"
+}

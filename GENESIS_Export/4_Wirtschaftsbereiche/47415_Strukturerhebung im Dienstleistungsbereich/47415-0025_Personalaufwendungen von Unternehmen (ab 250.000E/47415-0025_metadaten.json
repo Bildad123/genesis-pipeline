@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T19:36:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "47415-0025",
+    "Content": "Personalaufwendungen von Unternehmen (ab 250.000EUR Umsatz):\nDeutschland, Jahre, Art der Personalaufwendungen,\nWirtschaftsabschnitte, Größenklassen (Umsatz/tätige Pers.)",
+    "Time": {
+      "From": "2008",
+      "To": "2020"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "47415",
+        "Content": "Strukturerhebung im Dienstleistungsbereich",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "PAW001",
+          "Content": "Personalaufwendg.(Unternehmen ab 250.000 EUR Ums.)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ADPAW1",
+              "Content": "Art der Personalaufwendungen",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ08N1",
+          "Content": "WZ2008 (Abschnitte): Dienstleistungen",
+          "Type": "Merkmal",
+          "Values": "5",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UMSGR3",
+              "Content": "Umsatzgrößenklassen",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 23:53:28h"
+  }
+}

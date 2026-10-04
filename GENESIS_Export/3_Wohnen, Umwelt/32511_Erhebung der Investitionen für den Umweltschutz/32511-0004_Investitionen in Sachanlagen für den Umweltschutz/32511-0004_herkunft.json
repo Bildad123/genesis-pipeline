@@ -1,0 +1,28 @@
+{
+  "tabelle": "32511-0004",
+  "titel": "Investitionen in Sachanlagen für den Umweltschutz: Deutschland, Jahre, Umweltschutztyp, Umweltbereiche, Wirtschaftszweige",
+  "zeitraum": "2021 - 2024",
+  "statistik": "32511",
+  "alle_statistiken": [
+    "32511"
+  ],
+  "stand_genesis": "08.05.2024 12:34:48h",
+  "abgerufen_am": "2026-09-28T18:17:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32511-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32511-0004_flatfile.csv": "b0bcfcd3e975b0a60e8fe3e6b6b15ef103cc1845debaef89f6e8b6d842411796"
+  },
+  "bytes": 660683,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32511/table/32511-0004"
+}

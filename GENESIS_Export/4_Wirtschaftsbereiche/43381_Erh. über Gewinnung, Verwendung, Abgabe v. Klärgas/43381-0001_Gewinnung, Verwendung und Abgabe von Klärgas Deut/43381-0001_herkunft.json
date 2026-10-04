@@ -1,0 +1,28 @@
+{
+  "tabelle": "43381-0001",
+  "titel": "Gewinnung, Verwendung und Abgabe von Klärgas: Deutschland, Jahre",
+  "zeitraum": "1998 - 2025",
+  "statistik": "43381",
+  "alle_statistiken": [
+    "43381"
+  ],
+  "stand_genesis": "28.12.2022 17:21:47h",
+  "abgerufen_am": "2026-09-28T19:05:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43381-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43381-0001_flatfile.csv": "9167b37322b96b8c6f2bd41f1e6f760d70bed94dad0f4e56ab45fb4c94973882"
+  },
+  "bytes": 37363,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43381/table/43381-0001"
+}

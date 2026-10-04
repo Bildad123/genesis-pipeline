@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0022",
+  "titel": "Nominallohnindex: Deutschland, Jahre, Geschlecht",
+  "zeitraum": "2007 - 2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "24.02.2023 13:10:07h",
+  "abgerufen_am": "2026-09-28T20:40:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0022_flatfile.csv": "79aaa7c735db1f4601b8dca59adf18bb2166ba3e4fa6124ecb6e7402cb2fb8a2"
+  },
+  "bytes": 5975,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0022"
+}

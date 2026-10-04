@@ -1,0 +1,28 @@
+{
+  "tabelle": "62111-0100",
+  "titel": "Arbeiter, Angestellte, Bruttomonatsverdienste (Prod. Gewerbe u.Dienstleistungsbereich):Früheres Bundesgebiet/Neue Länder, Stichmonat (bis 10/2005), Art der Ausbildung",
+  "zeitraum": "10/2001 - 10/2005",
+  "statistik": "62111",
+  "alle_statistiken": [
+    "62111"
+  ],
+  "stand_genesis": "28.12.2022 22:30:47h",
+  "abgerufen_am": "2026-09-28T20:36:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62111-0100",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62111-0100_flatfile.csv": "53f80922c695a420e059c03dc016683dca7d615435b56add2b152ab1aa6280cb"
+  },
+  "bytes": 15857,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62111/table/62111-0100"
+}

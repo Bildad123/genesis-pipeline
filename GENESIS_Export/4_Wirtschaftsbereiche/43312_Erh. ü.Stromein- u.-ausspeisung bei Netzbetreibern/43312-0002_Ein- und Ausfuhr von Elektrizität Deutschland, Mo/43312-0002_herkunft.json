@@ -1,0 +1,28 @@
+{
+  "tabelle": "43312-0002",
+  "titel": "Ein- und Ausfuhr von Elektrizität: Deutschland, Monate, Länder",
+  "zeitraum": "Januar 1990 - Juni 2026",
+  "statistik": "43312",
+  "alle_statistiken": [
+    "43312"
+  ],
+  "stand_genesis": "28.12.2022 17:05:14h",
+  "abgerufen_am": "2026-09-28T19:04:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43312-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43312-0002_flatfile.csv": "96d7a49f44d8ab3864e66023c380b7fcf5ad2a9e76e6cc0a1fe98e768fa6e73e"
+  },
+  "bytes": 77840,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43312/table/43312-0002"
+}

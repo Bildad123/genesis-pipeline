@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0031",
+  "titel": "Väterbeteiligung: Bundesländer, Quartale",
+  "zeitraum": "1. Quartal 2016 - 1. Quartal 2024",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:42:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0031",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0031_flatfile.csv": "95e09a64f2b4bac406786d4a36c223ea29c7a9c5ffbc92dd34db011c85dae46b"
+  },
+  "bytes": 94093,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0031"
+}

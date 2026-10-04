@@ -1,0 +1,28 @@
+{
+  "tabelle": "62111-0011",
+  "titel": "Bruttostundenverdienste, Verdienstunterschied: Bundesländer, Jahre (bis 2018), Geschlecht, Wirtschaftsabschnitte",
+  "zeitraum": "2014 - 2018",
+  "statistik": "62111",
+  "alle_statistiken": [
+    "62111"
+  ],
+  "stand_genesis": "28.12.2022 19:23:30h",
+  "abgerufen_am": "2026-09-28T20:36:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62111-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62111-0011_flatfile.csv": "36686d6a7552e31494fb3faec65e496ecbedf20e1c2be398538af4e53e936d64"
+  },
+  "bytes": 266189,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62111/table/62111-0011"
+}

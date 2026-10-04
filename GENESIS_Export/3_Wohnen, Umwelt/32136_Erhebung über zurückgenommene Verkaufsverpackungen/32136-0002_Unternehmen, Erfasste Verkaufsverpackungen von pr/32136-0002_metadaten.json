@@ -1,0 +1,113 @@
+{
+  "abgerufen_am": "2026-09-28T18:10:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32136-0002",
+    "Content": "Unternehmen, Erfasste Verkaufsverpackungen von privaten\nEndverbrauchern, Verkaufsverpackungen nach der Sortierung:\nDeutschland, Jahre, Rücknahmearten",
+    "Time": {
+      "From": "2010",
+      "To": "2020"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "32136",
+        "Content": "Erhebung über zurückgenommene Verkaufsverpackungen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "VPKRN1",
+          "Content": "Rücknahmearten",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "UNT003",
+          "Content": "Unternehmen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VPK002",
+          "Content": "Erfasste Verkaufsverpack. v. priv. Endverbrauchern",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VPK003",
+          "Content": "Erf. Verkaufsverpack. v. priv. Endverbr. je Einw.",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VPK004",
+          "Content": "Verkaufsverpackungen nach der Sortierung",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VPK005",
+          "Content": "Abgabe von Verkaufsverp. n.d. Sort. an das Ausland",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:46:05h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0024",
+  "titel": "Elterngeldempfänger nach Geburtszeiträumen: Bundesländer, Jahre, Geschlecht, Grundlage der Berechnung des Elterngeldanspruchs",
+  "zeitraum": "2009 - 2023",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:13:17h",
+  "abgerufen_am": "2026-09-28T17:42:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0024",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0024_flatfile.csv": "7152b4f9cc2353f39b3116dc98c16f08896dec15e0c4228bb821281aeca80ab8"
+  },
+  "bytes": 1470568,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0024"
+}

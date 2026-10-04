@@ -1,0 +1,28 @@
+{
+  "tabelle": "12631-0011",
+  "titel": "Ehescheidungen: Bundesländer, Jahre, Ehedauer",
+  "zeitraum": "1997 - 2025",
+  "statistik": "12631",
+  "alle_statistiken": [
+    "12631"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T16:54:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12631-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12631-0011_flatfile.csv": "c0ec26809ff47fa28febd718266da112c11a8bc7824e34fa2eb705f900a481e3"
+  },
+  "bytes": 76302,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12631/table/12631-0011"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "41161-0001",
+  "titel": "Waldfläche: Deutschland, Jahre, Waldeigentumsarten",
+  "zeitraum": "2022 - 2022",
+  "statistik": "41161",
+  "alle_statistiken": [
+    "41161"
+  ],
+  "stand_genesis": "28.12.2022 11:08:57h",
+  "abgerufen_am": "2026-09-28T18:27:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41161-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41161-0001_flatfile.csv": "4944e8e8f7b8d7cf984a0f7f072bc6a2f6e7007e33cc6cbc08990241061abb5e"
+  },
+  "bytes": 1182,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41161/table/41161-0001"
+}

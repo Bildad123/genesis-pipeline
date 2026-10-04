@@ -1,0 +1,28 @@
+{
+  "tabelle": "22221-0110",
+  "titel": "Empfänger von Grundleistungen bzw. Hilfe zum Lebensunterhalt (AsylbLG): Bundesländer, Stichtag, Geschlecht, Altersgruppen",
+  "zeitraum": "31.12.2020 - 31.12.2025",
+  "statistik": "22221",
+  "alle_statistiken": [
+    "22221"
+  ],
+  "stand_genesis": "28.07.2023 13:50:17h",
+  "abgerufen_am": "2026-09-28T17:26:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22221-0110",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22221-0110_flatfile.csv": "392a4fdb7df0ea9df1964fd072d0045ed14f609f1ecdc3b647740a32111e5ac8"
+  },
+  "bytes": 79350,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22221/table/22221-0110"
+}

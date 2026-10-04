@@ -1,0 +1,28 @@
+{
+  "tabelle": "21352-0002",
+  "titel": "Promovierende: Deutschland, Stichtag, Geschlecht, Altersgruppen, Fächergruppen",
+  "zeitraum": "01.12.2025 - 01.12.2025",
+  "statistik": "21352",
+  "alle_statistiken": [
+    "21352"
+  ],
+  "stand_genesis": "21.08.2026 16:25:26h",
+  "abgerufen_am": "2026-09-28T17:07:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21352-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21352-0002_flatfile.csv": "53a21c9c031ac08144d13b7caf6853614a7bd47b0377475f49f3c9127c50df6c"
+  },
+  "bytes": 78962,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21352/table/21352-0002"
+}

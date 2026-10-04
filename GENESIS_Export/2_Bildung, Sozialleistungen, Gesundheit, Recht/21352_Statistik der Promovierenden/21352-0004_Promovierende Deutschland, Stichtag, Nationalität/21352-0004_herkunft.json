@@ -1,0 +1,28 @@
+{
+  "tabelle": "21352-0004",
+  "titel": "Promovierende: Deutschland, Stichtag, Nationalität, Geschlecht, Fächergruppen und Studienbereiche",
+  "zeitraum": "01.12.2025 - 01.12.2025",
+  "statistik": "21352",
+  "alle_statistiken": [
+    "21352"
+  ],
+  "stand_genesis": "21.08.2026 16:36:43h",
+  "abgerufen_am": "2026-09-28T17:07:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21352-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21352-0004_flatfile.csv": "b3958b4c2c4ca9a1ddd5ceb2dd046362f5424d76b52dce2bbc5b1dd0a490d406"
+  },
+  "bytes": 174657,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21352/table/21352-0004"
+}

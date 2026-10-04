@@ -1,0 +1,28 @@
+{
+  "tabelle": "31231-0003",
+  "titel": "Wohnungen in Wohn- und Nichtwohngebäuden: Deutschland, Stichtag, Anzahl der Räume",
+  "zeitraum": "31.12.1995 - 31.12.2025",
+  "statistik": "31231",
+  "alle_statistiken": [
+    "31231"
+  ],
+  "stand_genesis": "16.09.2025 12:35:20h",
+  "abgerufen_am": "2026-09-28T18:08:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31231-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31231-0003_flatfile.csv": "48d9f6f627c2958e2c339fcdd655b8aec383c04db7ed0da85be58c335634fece"
+  },
+  "bytes": 50500,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31231/table/31231-0003"
+}

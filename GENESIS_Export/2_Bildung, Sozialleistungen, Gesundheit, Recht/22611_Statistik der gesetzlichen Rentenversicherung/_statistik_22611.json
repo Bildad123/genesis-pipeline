@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:18:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22611",
+    "Content": "Statistik der gesetzlichen Rentenversicherung",
+    "Cubes": "3",
+    "Variables": "7",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Monatlich"
+      }
+    ],
+    "Information": "Statistik der gesetzlichen Rentenversicherung\n=============================================\n\nDie gesetzliche Rentenversicherung bietet den Schutz durch\neine Generationen übergreifende Solidargemeinschaft. Nach\ndem Erwerbsleben ersetzt die Rente im Alter das\nArbeitsentgelt und trägt damit zu einem gesicherten\nLebensabend bei. Geschlecht, Alter oder Gesundheitszustand\nspielen für den Beitrag zur gesetzlichen Rentenversicherung\n- anders als bei privaten Versicherungen - keine Rolle. Für\ndie Gemeinschaft besonders wichtige Lebensphasen, zum\nBeispiel die Kindererziehung, werden mit abgesichert. Die\ngesetzliche Rentenversicherung bietet aber nicht nur soziale\nSicherheit im Alter, sondern auch schon während der\nErwerbsphase - in Form von Rehabilitationsleistungen oder\nRenten wegen verminderter Erwerbsfähigkeit. Zudem werden\nHinterbliebene beim Tod des Ehepartners beziehungsweise des\nLebenspartners bei eingetragener Lebenspartnerschaft durch\ndie Hinterbliebenenrente oder beim Tod eines Elternteils\ndurch die Waisenrente unterstützt.\n\nDie gesetzliche Rentenversicherung ist als\nPflichtversicherung für Arbeitnehmer angelegt, aber auch für\nbestimmte Gruppen von Selbstständigen und andere\nPersonengruppen. Den meisten nicht versicherungspflichtigen\nPersonen bietet sie die Möglichkeit der freiwilligen\nVersicherung oder für nicht versicherungspflichtige\nSelbstständige die Versicherungspflicht auf Antrag.\n\nDie Rentenversicherung wird von besonderen öffentlich-\nrechtlichen Körperschaften durchgeführt. Träger der\nRentenversicherung sind die Deutsche Rentenversicherung -\nBund (ehemals Bundesversicherungsanstalt für Angestellte -\nBfA - Berlin), die Deutsche Rentenversicherung -\nKnappschaft-Bahn-See (ehemals Bundesknappschaft, Seekasse\nund Bahnversicherungsanstalt), sowie die Regionalträger wie\nz. B. Deutsche Rentenversicherung - Baden-Württemberg oder\nNord (ehemals Landesversicherungsanstalten, z. B. LVA\nBaden-Württemberg oder LVA Hamburg) etc.\n\n\nQuelle:\nBundesministerium für Arbeit und Soziales, Bonn",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12613-0006",
+  "titel": "Gestorbene: Deutschland, Monate, Geschlecht",
+  "zeitraum": "Januar 1950 - August 2026",
+  "statistik": "12613",
+  "alle_statistiken": [
+    "12613"
+  ],
+  "stand_genesis": "28.12.2022 17:01:14h",
+  "abgerufen_am": "2026-09-28T16:54:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12613-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12613-0006_flatfile.csv": "3ef94c89ca4d336d8816678446041d232f8d32c7a7c610339339d797e9906900"
+  },
+  "bytes": 8978,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12613/table/12613-0006"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "46241-0020",
+  "titel": "Unfälle (polizeilich erfasste): Bundesländer, Jahre, Unfallkategorie, Ortslage",
+  "zeitraum": "2008 - 2025",
+  "statistik": "46241",
+  "alle_statistiken": [
+    "46241"
+  ],
+  "stand_genesis": "28.12.2022 17:06:48h",
+  "abgerufen_am": "2026-09-28T19:23:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46241-0020",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46241-0020_flatfile.csv": "22a60d06cc3d4a8076788ad2ec67d12e3f784309b3ac802ba0376b4e546088a4"
+  },
+  "bytes": 802326,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46241/table/46241-0020"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "23121-0002",
+  "titel": "Orientierungswert für Krankenhäuser: Deutschland, Jahre",
+  "zeitraum": "2012 - 2020",
+  "statistik": "23121",
+  "alle_statistiken": [
+    "23121"
+  ],
+  "stand_genesis": "28.12.2022 17:31:55h",
+  "abgerufen_am": "2026-09-28T17:48:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23121-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23121-0002_flatfile.csv": "93998d19856bf21fd47907d9eb0dd3255338af9db0c952b7909405d269f743eb"
+  },
+  "bytes": 4454,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23121/table/23121-0002"
+}

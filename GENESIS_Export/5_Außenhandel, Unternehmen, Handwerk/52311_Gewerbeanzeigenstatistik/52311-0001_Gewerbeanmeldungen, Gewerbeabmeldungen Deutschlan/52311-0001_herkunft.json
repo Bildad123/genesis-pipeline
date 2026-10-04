@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0001",
+  "titel": "Gewerbeanmeldungen, Gewerbeabmeldungen: Deutschland, Monate",
+  "zeitraum": "Januar 2003 - Juli 2026",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "30.07.2024 13:13:00h",
+  "abgerufen_am": "2026-09-28T20:05:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0001_flatfile.csv": "5652bd7a785543b6d432c16e7d21da73e36ccfa6b08863c0f4acc5588efd3eb0"
+  },
+  "bytes": 20585,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0001"
+}

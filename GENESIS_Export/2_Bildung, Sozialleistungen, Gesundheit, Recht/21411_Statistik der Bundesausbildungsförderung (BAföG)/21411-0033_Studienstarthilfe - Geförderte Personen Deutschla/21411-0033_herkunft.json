@@ -1,0 +1,28 @@
+{
+  "tabelle": "21411-0033",
+  "titel": "Studienstarthilfe - Geförderte Personen: Deutschland, Jahre, Geschlecht, Alter des Auszubildenden",
+  "zeitraum": "2024 - 2025",
+  "statistik": "21411",
+  "alle_statistiken": [
+    "21411"
+  ],
+  "stand_genesis": "10.07.2026 15:23:03h",
+  "abgerufen_am": "2026-09-28T17:10:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21411-0033",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21411-0033_flatfile.csv": "682ca4d14f605dc2fc031bc3b9483f2fdda8d5380c95fd3365ad4bb5c3d29925"
+  },
+  "bytes": 7649,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21411/table/21411-0033"
+}

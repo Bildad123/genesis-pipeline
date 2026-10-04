@@ -1,0 +1,28 @@
+{
+  "tabelle": "23131-0010",
+  "titel": "Krankenhauspatienten: Bundesländer, Jahre, Hauptdiagnose ICD-10 (1-3-Steller Hierarchie)",
+  "zeitraum": "2000 - 2024",
+  "statistik": "23131",
+  "alle_statistiken": [
+    "23131"
+  ],
+  "stand_genesis": "28.12.2022 17:15:56h",
+  "abgerufen_am": "2026-09-28T17:50:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23131-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23131-0010_flatfile.csv": "0d721015c89c92fb1799fd15faf1b1cec3aa60270a4d77a45ea6da20466d0280"
+  },
+  "bytes": 6955529,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23131/table/23131-0010"
+}

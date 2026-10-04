@@ -1,0 +1,28 @@
+{
+  "tabelle": "46311-0003",
+  "titel": "Umsatz (Binnenschifffahrt): Deutschland, Jahre, Umsatzarten",
+  "zeitraum": "1980 - 2024",
+  "statistik": "46311",
+  "alle_statistiken": [
+    "46311"
+  ],
+  "stand_genesis": "29.12.2022 08:14:55h",
+  "abgerufen_am": "2026-09-28T19:25:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46311-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46311-0003_flatfile.csv": "d33d36fe7f41910faf4b3cf7226d95dac78976b1583e0547de5f3c639973d3d4"
+  },
+  "bytes": 52685,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46311/table/46311-0003"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-1009",
+  "titel": "Erwerbstätige aus Hauptwohnsitzhaushalten: Bundesländer, Jahre, Geschlecht, Stellung im Beruf, Berufe",
+  "zeitraum": "2024 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "15.05.2025 13:19:35h",
+  "abgerufen_am": "2026-09-28T16:29:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-1009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-1009_flatfile.csv": "9010d3f3f09e8108a451f8bb0f7399f2471499408c5472d51722142a590d6b30"
+  },
+  "bytes": 4901445,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-1009"
+}

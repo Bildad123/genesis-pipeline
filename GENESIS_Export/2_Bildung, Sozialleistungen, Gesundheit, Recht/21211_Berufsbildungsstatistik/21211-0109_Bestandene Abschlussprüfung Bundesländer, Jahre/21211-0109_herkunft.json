@@ -1,0 +1,28 @@
+{
+  "tabelle": "21211-0109",
+  "titel": "Bestandene Abschlussprüfung: Bundesländer, Jahre, Geschlecht, Schulabschluss",
+  "zeitraum": "2008 - 2025",
+  "statistik": "21211",
+  "alle_statistiken": [
+    "21211"
+  ],
+  "stand_genesis": "28.12.2022 19:17:25h",
+  "abgerufen_am": "2026-09-28T17:03:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21211-0109",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21211-0109_flatfile.csv": "678989085da6ebbe3a24d98868a26fb7a6c19c06d320efa4ce758ba985a4291e"
+  },
+  "bytes": 62935,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21211/table/21211-0109"
+}

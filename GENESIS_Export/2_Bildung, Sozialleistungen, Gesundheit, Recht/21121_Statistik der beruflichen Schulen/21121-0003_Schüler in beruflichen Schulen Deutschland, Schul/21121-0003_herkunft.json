@@ -1,0 +1,28 @@
+{
+  "tabelle": "21121-0003",
+  "titel": "Schüler in beruflichen Schulen: Deutschland, Schuljahr, Nationalität, Geschlecht, Schulart, Zeitform des Unterrichts",
+  "zeitraum": "2001/02 - 2024/25",
+  "statistik": "21121",
+  "alle_statistiken": [
+    "21121"
+  ],
+  "stand_genesis": "26.10.2023 16:33:10h",
+  "abgerufen_am": "2026-09-28T17:01:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21121-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21121-0003_flatfile.csv": "3987a15c8e4baf95da2d9273cb49623f68ec30db8614d1d6a30f8e948d22a168"
+  },
+  "bytes": 98834,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21121/table/21121-0003"
+}

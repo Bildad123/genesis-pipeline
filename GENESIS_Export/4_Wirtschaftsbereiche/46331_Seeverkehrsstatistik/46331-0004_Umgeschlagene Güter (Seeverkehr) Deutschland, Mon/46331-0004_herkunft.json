@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0004",
+  "titel": "Umgeschlagene Güter (Seeverkehr): Deutschland, Monate, Güterabteilungen, Hauptverkehrsbeziehungen, Flagge des Schiffes",
+  "zeitraum": "Januar 2011 - Juni 2026",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.12.2022 20:02:05h",
+  "abgerufen_am": "2026-09-28T19:28:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0004_flatfile.csv": "7740a8765f22d3930f7759ae3b2aab40d5df54f8584ff1e7cfa207d77e5f519e"
+  },
+  "bytes": 1062095,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0004"
+}

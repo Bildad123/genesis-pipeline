@@ -1,0 +1,28 @@
+{
+  "tabelle": "45412-0025",
+  "titel": "Ankünfte, Übernachtungen in Beherbergungsbetrieben: Bundesländer, Monate",
+  "zeitraum": "Januar 1992 - Juli 2026",
+  "statistik": "45412",
+  "alle_statistiken": [
+    "45412"
+  ],
+  "stand_genesis": "05.06.2024 15:36:49h",
+  "abgerufen_am": "2026-09-28T19:16:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45412-0025",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45412-0025_flatfile.csv": "3906183e8c77e93655bb3b52d630e1501a4fb3b58e474749ecd8a3679555cda4"
+  },
+  "bytes": 112746,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45412/table/45412-0025"
+}

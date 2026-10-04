@@ -1,0 +1,28 @@
+{
+  "tabelle": "21351-0003",
+  "titel": "Habilitationen: Bundesländer, Jahre, Geschlecht",
+  "zeitraum": "1992 - 2025",
+  "statistik": "21351",
+  "alle_statistiken": [
+    "21351"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:07:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21351-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21351-0003_flatfile.csv": "9030b06573db3633f66d4c27fbaa2339b180bb4afb595bef1ba0b2682b8227a7"
+  },
+  "bytes": 70388,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21351/table/21351-0003"
+}

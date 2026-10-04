@@ -1,0 +1,28 @@
+{
+  "tabelle": "61311-0016",
+  "titel": "Erzeugerpreisindex für die See- und Küstenschifffahrt: Deutschland, Monate, Kontinente, Verkehrsrichtung",
+  "zeitraum": "Januar 2006 - Juni 2026",
+  "statistik": "61311",
+  "alle_statistiken": [
+    "61311"
+  ],
+  "stand_genesis": "28.12.2022 18:03:25h",
+  "abgerufen_am": "2026-09-28T20:28:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61311-0016",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61311-0016_flatfile.csv": "885db57268f9078c1b2ba1753320c91b89da23d8b0daf5f2ddb72b17cf081900"
+  },
+  "bytes": 119984,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61311/table/61311-0016"
+}

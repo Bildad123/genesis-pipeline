@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0125",
+  "titel": "Landwirtschaftliche Betriebe mit ökologischem Landbau, LF, Arbeitskräfte, Arbeitsleistung: Bundesländer, Jahre, Rechtsformen, Größenklassen der LF",
+  "zeitraum": "2020 - 2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "29.12.2022 08:02:05h",
+  "abgerufen_am": "2026-09-28T18:25:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0125",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0125_flatfile.csv": "162e05ff2ecff0340829e4810b7db6da36c0e25934c801053ab181a0ede078f8"
+  },
+  "bytes": 3106348,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0125"
+}

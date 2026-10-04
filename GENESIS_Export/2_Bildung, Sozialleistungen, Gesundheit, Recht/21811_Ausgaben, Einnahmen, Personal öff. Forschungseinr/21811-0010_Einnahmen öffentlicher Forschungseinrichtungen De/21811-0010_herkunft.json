@@ -1,0 +1,28 @@
+{
+  "tabelle": "21811-0010",
+  "titel": "Einnahmen öffentlicher Forschungseinrichtungen: Deutschland, Jahre, Einrichtungsart, Art der Einnahmen",
+  "zeitraum": "2019 - 2024",
+  "statistik": "21811",
+  "alle_statistiken": [
+    "21811"
+  ],
+  "stand_genesis": "28.12.2022 20:45:19h",
+  "abgerufen_am": "2026-09-28T17:17:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21811-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21811-0010_flatfile.csv": "d6b86a500e763ee60923524fdb56d37d5362b31a9eb4907cb1767e65c002b3ee"
+  },
+  "bytes": 25699,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21811/table/21811-0010"
+}

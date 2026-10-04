@@ -1,0 +1,28 @@
+{
+  "tabelle": "41271-0017",
+  "titel": "Landwirtschaftliche Betriebe mit ökologischem Landbau, Ökologisch bewirtschaftete Fläche: Bundesländer, Jahre, Bodennutzungsarten, Größenklassen der LF",
+  "zeitraum": "2025 - 2025",
+  "statistik": "41271",
+  "alle_statistiken": [
+    "41271"
+  ],
+  "stand_genesis": "13.07.2026 16:23:12h",
+  "abgerufen_am": "2026-09-28T18:37:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41271-0017",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41271-0017_flatfile.csv": "52f1c2ea9b628e25234e56070ffffa139fb63230e7766b486ddf00806abb0e34"
+  },
+  "bytes": 268851,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41271/table/41271-0017"
+}

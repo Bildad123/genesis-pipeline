@@ -1,0 +1,577 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1,06;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;15670;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;26843586;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,88;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;4873;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;24785313;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;78;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,91;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;5281;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;12748708;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;210;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,87;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;11185;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;15827975;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;14490;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;7887;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-489;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-3;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;8238808;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;41444;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;3324866;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,87;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;19904;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;47039126;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;109644;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,88;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;5428;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;7756896;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;533;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1,11;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;8509;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;8000750;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;10297;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1,03;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;4836;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;5571619;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;10267;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-490;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;8797;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,68;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;738;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1611185;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-1107;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-16;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-5;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-1;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;1015554;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;396078;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;333511;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;800710;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,72;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;121;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;167752;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,81;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;217;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;368565;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;41875;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1,01;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;8758;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;28812281;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;12434;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1,01;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;5788;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;12079056;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;7994;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;23096;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;37522;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-1284;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-4123;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-968;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;3828068;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;12120219;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;2751808;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;4458406;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;1647883;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1,02;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;6186;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;4878775;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;42;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;0,85;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;7543;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;27273662;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;14231;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;14831;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-VW;Vorleistung nach Wirtschaftszweigen;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-2136;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;1,17;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;232;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KH;Konsum privater Haushalte;292940;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-1161;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-1297;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-414;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-2176;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;-97;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-KS;Konsum des Staates;.;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;448448;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;220190;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;x;1000 t;OSL004;Kohlenstoffsequestrierung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Mill. cbm;OSL002;Holzzuwachs (mit Rinde)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;Grad C;OSL006;Kühlung in Städten
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;t;OSL003;Feinstaubfilterung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL005;Kohlenstoffspeicherung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;t/ha;OSL007;Vermiedene Bodenerosion
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;.;1000 t;OSL001;Bereitstellung von Kulturpflanzen (Ernteerträge)
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;...;1000 t;OSL008;Bestäubung
+85331;Leistungen der Ökosysteme;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;OSLVW1;Verwendung der Ökosystemleistungen;OSLVW-EX;Ausfuhren;942097;Anzahl;OSL009;Naturnaher Tourismus (Übernachtungen)

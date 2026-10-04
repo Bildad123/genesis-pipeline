@@ -1,0 +1,143 @@
+{
+  "abgerufen_am": "2026-09-28T20:48:31",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "71141-0003",
+    "Content": "Rechnungsergebnisse des öffentlichen Gesamthaushalts\n(Finanzierungssaldo, Besondere Finanzierungsvorgänge):\nDeutschland, Jahre, Körperschaftsgruppen",
+    "Time": {
+      "From": "1992",
+      "To": "2011"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "71141",
+        "Content": "Rechnungsergebnisse d.öffentlichen Gesamthaushalts",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "VGR089",
+          "Content": "Saldo der haushaltstechnischen Verrechnungen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "VGR030",
+          "Content": "Finanzierungssaldo",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ASG012",
+          "Content": "Besondere Finanzierungsvorgänge (Ausgaben)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "SLD010",
+          "Content": "Schuldentilgungen an Kreditmarkt",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ZAR001",
+          "Content": "Zuführung an Rücklagen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "ENM010",
+          "Content": "Besondere Finanzierungsvorgänge (Einnahmen)",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "SLD011",
+          "Content": "Schuldenaufnahmen am Kreditmarkt",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "EAR001",
+          "Content": "Entnahmen aus Rücklagen",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "KRPGR3",
+        "Content": "Körperschaftsgruppen",
+        "Type": "Merkmal",
+        "Values": "7",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 17:40:39h"
+  }
+}

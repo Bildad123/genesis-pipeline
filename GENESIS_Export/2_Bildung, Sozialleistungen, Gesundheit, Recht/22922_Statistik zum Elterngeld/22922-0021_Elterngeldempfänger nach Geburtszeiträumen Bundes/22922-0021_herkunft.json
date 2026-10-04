@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0021",
+  "titel": "Elterngeldempfänger nach Geburtszeiträumen: Bundesländer, Quartale, Geschlecht",
+  "zeitraum": "1. Quartal 2009 - 1. Quartal 2024",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:41:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0021_flatfile.csv": "a648ff76e4acad1fefae94123bb2e2f34e681b5e4162fcecd7d89c2e882ae603"
+  },
+  "bytes": 85049,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0021"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "71411-0003",
+  "titel": "Finanzvermögen des öffentlichen Gesamthaushalts je Einwohner: Bundesländer, Stichtag",
+  "zeitraum": "31.12.2010 - 31.12.2025",
+  "statistik": "71411",
+  "alle_statistiken": [
+    "71411"
+  ],
+  "stand_genesis": "28.12.2022 22:53:53h",
+  "abgerufen_am": "2026-09-28T20:51:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71411-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71411-0003_flatfile.csv": "2da417a7a92fad46ca34ad289c0da5fd29886ad6d6c309b8df0958837bc0d1c6"
+  },
+  "bytes": 41582,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71411/table/71411-0003"
+}

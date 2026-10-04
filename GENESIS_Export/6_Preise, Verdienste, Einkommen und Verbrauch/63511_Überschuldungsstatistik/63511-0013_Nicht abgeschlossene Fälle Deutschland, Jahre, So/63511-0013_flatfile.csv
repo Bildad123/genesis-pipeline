@@ -1,0 +1,15 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;PAAR-K-X;Paar ohne Kind;40250;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINERZ-03;Alleinerziehende Frau mit zwei Kindern;13469;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINLEB-02;Alleinlebende Frau;75620;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINERZ-02;Alleinerziehende Frau mit einem Kind;25387;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINLEB-03;Alleinlebender Mann;103400;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINERZ-05;Alleinerziehender Mann mit einem Kind;5450;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;PAAR-K-03;Paar mit zwei Kindern;19084;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINERZ-04;Alleinerziehende Frau mit drei und mehr Kindern;7392;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;PAAR-K-02;Paar mit einem Kind;23238;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINERZ-07;Alleinerziehender Mann mit drei und mehr Kindern;806;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;ALLEINERZ-06;Alleinerziehender Mann mit zwei Kindern;1768;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;PAAR-K-04;Paar mit drei und mehr Kindern;15789;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;LEBENSF-SONST;Sonstige Lebensform;16807;Anzahl;FLL003;Nicht abgeschlossene Fälle
+63511;Überschuldungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP5;Haushaltstyp;;Insgesamt;348460;Anzahl;FLL003;Nicht abgeschlossene Fälle

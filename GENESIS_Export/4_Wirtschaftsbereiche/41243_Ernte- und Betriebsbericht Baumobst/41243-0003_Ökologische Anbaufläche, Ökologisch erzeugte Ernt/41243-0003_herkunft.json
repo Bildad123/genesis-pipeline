@@ -1,0 +1,28 @@
+{
+  "tabelle": "41243-0003",
+  "titel": "Ökologische Anbaufläche, Ökologisch erzeugte Erntemenge (Baumobst): Deutschland, Jahre, Baumobstarten",
+  "zeitraum": "2022 - 2025",
+  "statistik": "41243",
+  "alle_statistiken": [
+    "41243"
+  ],
+  "stand_genesis": "19.01.2023 13:30:49h",
+  "abgerufen_am": "2026-09-28T18:31:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41243-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41243-0003_flatfile.csv": "bcd3f62c882940c069dddbb278a93d56280cd3b072a2da7fe7e72cf2d9a21245"
+  },
+  "bytes": 9285,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41243/table/41243-0003"
+}

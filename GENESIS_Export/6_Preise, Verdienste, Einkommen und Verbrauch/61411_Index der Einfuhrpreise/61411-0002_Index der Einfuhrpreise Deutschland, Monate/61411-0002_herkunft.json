@@ -1,0 +1,28 @@
+{
+  "tabelle": "61411-0002",
+  "titel": "Index der Einfuhrpreise: Deutschland, Monate",
+  "zeitraum": "Januar 1962 - Juli 2026",
+  "statistik": "61411",
+  "alle_statistiken": [
+    "61411"
+  ],
+  "stand_genesis": "28.12.2022 17:38:36h",
+  "abgerufen_am": "2026-09-28T20:28:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61411-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61411-0002_flatfile.csv": "349ae7cba1763315d3081c85d9711bafe2f15ecc750700cc040e5b86006fce1b"
+  },
+  "bytes": 10522,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61411/table/61411-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21411-0014",
+  "titel": "BAföG - Geförderte Studierende: Deutschland, Jahre, Ausbildungsstätte, Fachsemester, Wohnort während der Ausbildung",
+  "zeitraum": "2016 - 2025",
+  "statistik": "21411",
+  "alle_statistiken": [
+    "21411"
+  ],
+  "stand_genesis": "04.06.2024 13:53:49h",
+  "abgerufen_am": "2026-09-28T17:10:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21411-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21411-0014_flatfile.csv": "a88ece85b8b97740fcf8e82ee43140f5ac2d4ae0f40fb01ad24fbd077bee36de"
+  },
+  "bytes": 88490,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21411/table/21411-0014"
+}

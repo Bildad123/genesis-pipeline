@@ -1,0 +1,28 @@
+{
+  "tabelle": "52931-0005",
+  "titel": "Beschäftigungszuwachs, Beschäftigungsabbau: Deutschland, Jahre, Qualifikation",
+  "zeitraum": "2021/23 - 2021/23",
+  "statistik": "52931",
+  "alle_statistiken": [
+    "52931"
+  ],
+  "stand_genesis": "18.11.2025 12:12:17h",
+  "abgerufen_am": "2026-09-28T20:17:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52931-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52931-0005_flatfile.csv": "1afba16a0c82d808ac4c8d262085324341fe26720d4ab6091de64e1fe4801915"
+  },
+  "bytes": 1571,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52931/table/52931-0005"
+}

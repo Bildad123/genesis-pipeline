@@ -1,0 +1,28 @@
+{
+  "tabelle": "23631-0001",
+  "titel": "Krankheitskosten, Krankheitskosten je Einwohner: Deutschland, Jahre, Krankheitsdiagnosen (ICD-10)",
+  "zeitraum": "2015 - 2023",
+  "statistik": "23631",
+  "alle_statistiken": [
+    "23631"
+  ],
+  "stand_genesis": "07.08.2025 13:09:07h",
+  "abgerufen_am": "2026-09-28T17:57:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23631-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23631-0001_flatfile.csv": "6bfc250f94a086cdd811c12a00cd400d24885e80001b62476f5a8e3d58d5551c"
+  },
+  "bytes": 118252,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23631/table/23631-0001"
+}

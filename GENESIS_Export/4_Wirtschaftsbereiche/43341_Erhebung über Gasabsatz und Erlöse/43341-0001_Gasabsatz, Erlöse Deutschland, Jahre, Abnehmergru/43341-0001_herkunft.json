@@ -1,0 +1,28 @@
+{
+  "tabelle": "43341-0001",
+  "titel": "Gasabsatz, Erlöse: Deutschland, Jahre, Abnehmergruppen",
+  "zeitraum": "1991 - 2024",
+  "statistik": "43341",
+  "alle_statistiken": [
+    "43341"
+  ],
+  "stand_genesis": "28.12.2022 17:21:47h",
+  "abgerufen_am": "2026-09-28T19:05:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43341-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43341-0001_flatfile.csv": "7e80fb729a291b19007afb24d3255c83caba3c38497f316ff7c2a0899e9a28d3"
+  },
+  "bytes": 75072,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43341/table/43341-0001"
+}

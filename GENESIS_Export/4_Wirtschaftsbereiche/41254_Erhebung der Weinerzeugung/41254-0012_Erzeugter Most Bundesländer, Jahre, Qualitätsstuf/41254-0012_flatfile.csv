@@ -1,0 +1,289 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;36;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;3124;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;27;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;1968;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;598;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;9;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;10;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;13844;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;9;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;13;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;58;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;9;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;436;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;2;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;23237;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;54;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;148;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;357684;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;152;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;1;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;164;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;2;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;52;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;21;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;527;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;156420;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;122;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;15;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;271;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;3226;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;585;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;5873;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;50;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;2;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;37;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;9246;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;37;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;6912;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;722;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;108;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;80443;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;24;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;5159;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;17364;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;18360;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;1819;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;5758;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;10;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;34;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;10138;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;3905;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;598;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;2800;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;873;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;329;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;151;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;7279;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;1305;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;65410;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;236863;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;10141;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;99979;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;179;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;693;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;75551;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;9939;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;114;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;2614;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;212;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;92;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;31;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;45;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINROT;Rotwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;28;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;;Insgesamt;3211;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINWEISS;Weißwein;257705;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;;Insgesamt;21160;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;WEIQS2;Qualitätsstufen;WEIN-GGA-L;Wein mit g.g.A. bzw. Landwein;REBSO2;Rebsorte;WEINWEISS;Weißwein;93;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;WEIQS2;Qualitätsstufen;WEIN-XG;Wein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;WEIQS2;Qualitätsstufen;WEIN-GU-Q;Qualitätswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;WEIQS2;Qualitätsstufen;WEIN-GU-P;Prädikatswein (Wein mit g.U.);REBSO2;Rebsorte;WEINROT;Rotwein;-;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;WEIQS2;Qualitätsstufen;;Insgesamt;REBSO2;Rebsorte;;Insgesamt;.;hl;ERZ006;Erzeugter Most
+41254;Erhebung der Weinerzeugung;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;WEIQS2;Qualitätsstufen;WEIN-REB;Rebsortenwein ohne g.U./g.g.A.;REBSO2;Rebsorte;WEINWEISS;Weißwein;-;hl;ERZ006;Erzeugter Most

@@ -1,0 +1,28 @@
+{
+  "tabelle": "61511-0058",
+  "titel": "Kauffälle, Veräußerte Fläche, Kaufsumme, Durchschnittlicher Kaufwert für Bauland: Bundesländer, Jahre (bis 2022), Gemeindegrößenklassen, Preisklassen",
+  "zeitraum": "2021 - 2022",
+  "statistik": "61511",
+  "alle_statistiken": [
+    "61511"
+  ],
+  "stand_genesis": "20.05.2025 11:48:15h",
+  "abgerufen_am": "2026-09-28T20:33:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61511-0058",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61511-0058_flatfile.csv": "8a80a10efe67f74cc6a5ea110fc08a4526002afb9fdb2c4e46a649b510ed25ff"
+  },
+  "bytes": 1460052,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61511/table/61511-0058"
+}

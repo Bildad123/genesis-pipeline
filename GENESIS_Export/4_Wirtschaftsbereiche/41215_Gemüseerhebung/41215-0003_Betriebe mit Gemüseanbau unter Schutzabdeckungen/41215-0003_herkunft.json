@@ -1,0 +1,28 @@
+{
+  "tabelle": "41215-0003",
+  "titel": "Betriebe mit Gemüseanbau unter Schutzabdeckungen, Anbaufläche, Erntemenge: Deutschland, Jahre, Gemüsearten",
+  "zeitraum": "2010 - 2025",
+  "statistik": "41215",
+  "alle_statistiken": [
+    "41215"
+  ],
+  "stand_genesis": "14.07.2023 15:56:06h",
+  "abgerufen_am": "2026-09-28T18:28:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41215-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41215-0003_flatfile.csv": "3e6da9336d39ca5924a37ab9b8feda444094091dbe261128112b9cc682a1daa9"
+  },
+  "bytes": 6386,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41215/table/41215-0003"
+}

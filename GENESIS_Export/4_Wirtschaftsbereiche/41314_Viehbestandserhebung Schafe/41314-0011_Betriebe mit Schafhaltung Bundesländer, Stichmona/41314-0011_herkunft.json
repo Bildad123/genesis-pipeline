@@ -1,0 +1,28 @@
+{
+  "tabelle": "41314-0011",
+  "titel": "Betriebe mit Schafhaltung: Bundesländer, Stichmonat, Bestandsgrößenklassen",
+  "zeitraum": "11/2011 - 11/2025",
+  "statistik": "41314",
+  "alle_statistiken": [
+    "41314"
+  ],
+  "stand_genesis": "06.02.2023 13:38:40h",
+  "abgerufen_am": "2026-09-28T18:39:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41314-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41314-0011_flatfile.csv": "19e5eb82c590048752b0249afbd5a7254e4b7b517552f8d9d90d557e2fe2b8fd"
+  },
+  "bytes": 30745,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41314/table/41314-0011"
+}

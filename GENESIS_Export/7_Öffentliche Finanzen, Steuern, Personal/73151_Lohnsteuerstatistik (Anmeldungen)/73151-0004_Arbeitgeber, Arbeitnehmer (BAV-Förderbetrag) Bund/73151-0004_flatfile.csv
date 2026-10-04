@@ -1,0 +1,321 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;306569;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;87828;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;825;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1436;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;977474;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;9781;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;786;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;15884;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;323510;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;3287;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;168;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1773;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;1180744;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;799;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;57;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;6278;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1872901;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;88847;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;5867;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;25409;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;481456;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;23411;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1594;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;5780;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1766294;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;17648;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2012;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;41610;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;1987136;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;63663;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;965;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;9558;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;2451189;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;1938;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;212;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;26562;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;143484;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;40121;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1229;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2309;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;419959;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;4147;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;453;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;9726;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;318918;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;290;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;30;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;3267;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;122692;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;34530;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1128;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2052;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2174049;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;21557;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1588;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;33875;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;377441;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;18136;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;994;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;2882;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;8683756;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;322412;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;10070;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;85973;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;4875041;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;3680;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;519;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;52982;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;2241109;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;107007;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;5152;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;17027;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;568108;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;16777;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;406;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;4643;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1037665;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;48897;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;2916;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;10616;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;4498233;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;181182;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;5429;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;44789;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;419058;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;4241;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;534;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;7865;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;250011;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2429;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;274;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;3795;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;226378;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;59627;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1468;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2203;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;107879;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1044;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;120;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2025;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;319668;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;86387;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2642;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;4207;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;;Insgesamt;579731;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;;Insgesamt;24831;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;;Insgesamt;1122;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;;Insgesamt;11463;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;328455;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;430;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;97;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;10572;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1108863;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;313705;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;7107;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;11706;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;1160246;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;68232;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;2559;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;;Insgesamt;18471;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;582552;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;156821;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;3702;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;6016;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;1732334;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;1040;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;149;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;15952;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;219418;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2141;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;314;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;4772;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1370556;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;382224;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;7714;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;12204;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;263032;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;284;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;61;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;4512;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;413739;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;19674;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1519;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;6731;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;202951;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;9639;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;836;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;3068;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;1887195;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;108921;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;5013;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;43064;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;110725;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;5274;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;361;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1495;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;897905;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;53310;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;2760;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;22580;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;243753;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;11800;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;716;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;2959;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;328618;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;3220;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;114;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1284;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;185878;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;53544;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1459;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2625;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;69190;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;18236;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;588;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;977;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;751767;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;660;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;50;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;3577;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1450849;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;68599;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;3499;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;10562;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1507426;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;14765;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1013;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;14669;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;;Insgesamt;1679096;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;;Insgesamt;81710;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;;Insgesamt;2680;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;BTRGK1;Betriebsgrößenklassen;;Insgesamt;10435;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;783539;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;37683;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1812;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;6985;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;772546;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;7540;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;438;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;6147;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;7578865;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;5416;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;718;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;160588;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;144972;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;41100;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;1499;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2593;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;113694;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1129;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;45;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;542;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;2344861;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;2129;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;296;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;44190;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;297050;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;84214;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2792;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;5220;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;;Insgesamt;2335753;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;;Insgesamt;114939;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;;Insgesamt;4893;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;;Insgesamt;61963;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;5000249;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;4074;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;819;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;149120;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;9748307;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;424274;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;15805;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;227845;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;1114670;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;994;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;204;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;42250;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;4942552;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;217628;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;7700;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;76706;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;92721;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;4305;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;159;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;547;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;13364579;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;516204;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;15172;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;BTRGK1;Betriebsgrößenklassen;;Insgesamt;223694;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;313401;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;14560;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;348;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;1244;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;145651;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;1492;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;190;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2605;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;463672;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;4619;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;231;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2889;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;757348;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;792;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;168;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;23248;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;490959;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;134021;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;2967;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;5095;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;;Insgesamt;2960630;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;;Insgesamt;115229;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;;Insgesamt;1872;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;;Insgesamt;23068;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;330564;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;430;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;111;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;12147;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;850440;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;235368;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;5039;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;7760;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;701721;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;44489;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;2034;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;;Insgesamt;12055;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;291937;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;277;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;53;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;6966;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;164373;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;45084;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;446;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;752;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;480604;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;459;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;110;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;BTRGK1;Betriebsgrößenklassen;ARBNA0251UM;251 und mehr Arbeitnehmer;9092;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;211963;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;2064;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;243;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0051B0250;51 bis 250 Arbeitnehmer;3817;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;42775;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;11053;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;172;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;BTRGK1;Betriebsgrößenklassen;ARBNA0000B0010;bis 10 Arbeitnehmer;287;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;170346;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;8183;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;655;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;2886;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;196409;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;9369;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;671;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;2865;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;;Insgesamt;880311;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;;Insgesamt;51984;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;;Insgesamt;2240;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;BTRGK1;Betriebsgrößenklassen;;Insgesamt;19563;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;458055;Anzahl;ERW005;Arbeitnehmer
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;21742;Anzahl;ERW100;Arbeitgeber
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;667;Anzahl;ERW101;Arbeitgeber, die BAV-Förderbetrag auszahlen
+73151;Lohnsteuerstatistik (Anmeldungen);JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;BTRGK1;Betriebsgrößenklassen;ARBNA0011B0050;11 bis 50 Arbeitnehmer;2791;Anzahl;ERW102;Arbeitnehmer mit BAV-Förderbetrag

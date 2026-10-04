@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0027",
+  "titel": "Personalaufwendungen von Unternehmen (ab 250.000EUR Umsatz): Deutschland, Jahre, Art der Personalaufwendungen, Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)",
+  "zeitraum": "2008 - 2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 22:32:11h",
+  "abgerufen_am": "2026-09-28T19:37:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0027",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0027_flatfile.csv": "aed57513af0d360c4a8fa66a293f3f586965d6c5c91595ef7b21856a7bc1795d"
+  },
+  "bytes": 219348,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0027"
+}

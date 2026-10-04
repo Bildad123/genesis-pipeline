@@ -1,0 +1,28 @@
+{
+  "tabelle": "24241-0001",
+  "titel": "Vor dem Amtsgericht erledigte Verfahren in Familiensachen: Deutschland, Jahre, Art der Erledigung",
+  "zeitraum": "2014 - 2024",
+  "statistik": "24241",
+  "alle_statistiken": [
+    "24241"
+  ],
+  "stand_genesis": "28.12.2022 18:51:46h",
+  "abgerufen_am": "2026-09-28T17:59:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24241-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24241-0001_flatfile.csv": "e623e43f88e68d29fa0ba311180420dfcd18c415aac09af2698085bcce81d433"
+  },
+  "bytes": 59614,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24241/table/24241-0001"
+}

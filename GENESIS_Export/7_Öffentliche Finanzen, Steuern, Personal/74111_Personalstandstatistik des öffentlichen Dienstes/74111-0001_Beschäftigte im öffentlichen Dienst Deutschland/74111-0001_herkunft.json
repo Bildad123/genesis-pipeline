@@ -1,0 +1,28 @@
+{
+  "tabelle": "74111-0001",
+  "titel": "Beschäftigte im öffentlichen Dienst: Deutschland, Stichtag, Beschäftigungsbereich",
+  "zeitraum": "30.06.2000 - 30.06.2024",
+  "statistik": "74111",
+  "alle_statistiken": [
+    "74111"
+  ],
+  "stand_genesis": "21.06.2024 17:50:33h",
+  "abgerufen_am": "2026-09-28T20:59:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "74111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "74111-0001_flatfile.csv": "69d5758363d4a8f0127b247b51f92b2b63a44625b66468fa9a57f3c34518e69c"
+  },
+  "bytes": 29892,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/74111/table/74111-0001"
+}

@@ -1,0 +1,193 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;4351;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;148;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;1807;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;135;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;4340;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;19;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;;Insgesamt;192908;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;;Insgesamt;17055;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;25468;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;1861;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;7;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;2672;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;42;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;1;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;2000;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;10;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;13;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;6416;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;2509;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;1648;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;54;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;46250;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;1513;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;5856;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;25;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;3965;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1632;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;785;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;61;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;;Insgesamt;2999;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;;Insgesamt;420;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;69;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;3;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;36920;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;524;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;12698;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;70;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;3023;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;227;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;14943;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;6214;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;1676;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;24;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;;Insgesamt;18462;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB03;Bestandsgrößenklassen;;Insgesamt;2936;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;35;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;;Insgesamt;67;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;;Insgesamt;14;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;4888;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;361;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;17482;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;7069;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;;Insgesamt;29926;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;;Insgesamt;4738;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;3;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;85549;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;418;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;10526;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;761;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;138;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;45;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;570;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;44;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;-;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;-;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;2;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;52738;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;757;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;8197;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;3024;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;;Insgesamt;179367;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;;Insgesamt;8904;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;313;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;4;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;3801;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;24;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;12703;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;900;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;;Insgesamt;23099;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;;Insgesamt;2335;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;21;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;9313;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;138;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;105797;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;574;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;;Insgesamt;228;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;;Insgesamt;40;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;17516;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;6741;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;990;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;348;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;10544;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;44;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;12368;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;185;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;;Insgesamt;27551;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;;Insgesamt;1892;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;3012;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;41;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;5612;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;407;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;6938;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;235;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;1954;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;148;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;3941;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;55;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;;Insgesamt;229753;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;;Insgesamt;10573;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;14260;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;462;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;-;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;-;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;10982;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;811;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;10358;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;4063;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;1678;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;55;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;17421;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;580;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;4819;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;2009;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;-;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;-;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;1854;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;143;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;;Insgesamt;16874;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;;Insgesamt;3238;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;2494;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;82;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;20279;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;102;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;1303;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;18;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;;Insgesamt;777;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;;Insgesamt;57;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;3050;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;1395;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;;Insgesamt;14751;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;;Insgesamt;2254;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;2607;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;37;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;2099;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;72;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;;Insgesamt;60716;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB03;Bestandsgrößenklassen;;Insgesamt;4180;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;43358;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;273;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;3712;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;19;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;997;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0010B0019;10 bis 19 Tiere;73;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;6207;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;2957;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;41033;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;1273;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;2770;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;93;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;.;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;2;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;31429;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;987;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;;Insgesamt;67930;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB03;Bestandsgrößenklassen;;Insgesamt;8340;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;;Insgesamt;11156;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB03;Bestandsgrößenklassen;;Insgesamt;1548;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;42591;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;622;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;112;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB03;Bestandsgrößenklassen;TIE0020B0049;20 bis 49 Tiere;3;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;1717;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;23;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;35241;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;12786;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;18004;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB03;Bestandsgrößenklassen;TIE0100UM;100 und mehr Tiere;29;Anzahl;HLT005;Haltungen mit Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;4533;Anzahl;RIN005;Bullen und Ochsen
+41312;Viehbestandserhebung Rinder;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB03;Bestandsgrößenklassen;TIE0001B0009;1 bis 9 Tiere;2079;Anzahl;HLT005;Haltungen mit Bullen und Ochsen

@@ -1,0 +1,28 @@
+{
+  "tabelle": "44252-0001",
+  "titel": "Kleine Unternehmen im Baugewerbe, Tätige Personen, Umsatz, Bruttowertschöpfung zu Faktorkosten, Bruttoinvestitionen in Sachanlagen: Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "2008 - 2024",
+  "statistik": "44252",
+  "alle_statistiken": [
+    "44252"
+  ],
+  "stand_genesis": "29.12.2022 10:28:14h",
+  "abgerufen_am": "2026-09-28T19:09:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "44252-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "44252-0001_flatfile.csv": "d5be4ee0e712e1a0b3e0124c4e3c3c7f4ab7e7686416924ef81d8e91122cce2e"
+  },
+  "bytes": 77183,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/44252/table/44252-0001"
+}

@@ -1,0 +1,103 @@
+{
+  "abgerufen_am": "2026-09-28T18:23:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "41141-0112",
+    "Content": "Landwirtschaftliche Betriebe, Tiere: Bundesländer, Stichtag,\nTierarten, Rechtsformen, Größenklassen der\nlandwirtschaftlich genutzten Fläche",
+    "Time": {
+      "From": "01.03.2010",
+      "To": "01.03.2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "41141",
+        "Content": "Landwirtschaftszählung: Haupterhebung",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "TIER03",
+          "Content": "Tierarten",
+          "Type": "Merkmal",
+          "Values": "4",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BTR010",
+              "Content": "Landwirtschaftliche Betriebe",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "TIE003",
+              "Content": "Tiere",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "RECF01",
+          "Content": "Rechtsformen",
+          "Type": "Merkmal",
+          "Values": "5",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "FLCG05",
+              "Content": "Größenklassen der LF",
+              "Type": "Merkmal",
+              "Values": "9",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 21:35:12h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0008",
+  "titel": "Landwirtschaftliche Betriebe mit ökologischem Landbau, Tiere in Betrieben mit ökologischem Landbau, Tiere in ökologischer Haltung: Deutschland, Stichtag, Tierarten",
+  "zeitraum": "01.03.2010 - 01.03.2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "28.12.2022 21:35:12h",
+  "abgerufen_am": "2026-09-28T18:20:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0008_flatfile.csv": "4bb5ad2f405405915d8846dd1721c15b5bf9b38b5a1a924b7abc2f1a9633918d"
+  },
+  "bytes": 23217,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0008"
+}

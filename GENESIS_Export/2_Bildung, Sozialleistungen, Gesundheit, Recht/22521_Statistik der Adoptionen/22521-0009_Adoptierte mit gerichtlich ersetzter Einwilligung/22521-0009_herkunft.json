@@ -1,0 +1,28 @@
+{
+  "tabelle": "22521-0009",
+  "titel": "Adoptierte mit gerichtlich ersetzter Einwilligung: Deutschland, Jahre (bis 2017), Familienstand der abgebenden Eltern, Art der Unterbringung vor der Adoption",
+  "zeitraum": "2010 - 2017",
+  "statistik": "22521",
+  "alle_statistiken": [
+    "22521"
+  ],
+  "stand_genesis": "14.08.2024 13:17:43h",
+  "abgerufen_am": "2026-09-28T17:33:14",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22521-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22521-0009_flatfile.csv": "3d84c639874894c827dd340d8e683ba87f84f8b716a828453e8fab327d5309b1"
+  },
+  "bytes": 21313,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22521/table/22521-0009"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "45211-0014",
+  "titel": "Umsatzindex im Großhandel: Bundesländer, Monate/Quartale/Halbjahre, Preisarten",
+  "zeitraum": "Januar 2021 - Juni 2026",
+  "statistik": "45211",
+  "alle_statistiken": [
+    "45211"
+  ],
+  "stand_genesis": "22.07.2026 13:41:55h",
+  "abgerufen_am": "2026-09-28T19:10:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45211-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45211-0014_flatfile.csv": "2129c008858e47ff53a05008025084701b72db79a58515b67cf5737d3c23facf"
+  },
+  "bytes": 159106,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45211/table/45211-0014"
+}

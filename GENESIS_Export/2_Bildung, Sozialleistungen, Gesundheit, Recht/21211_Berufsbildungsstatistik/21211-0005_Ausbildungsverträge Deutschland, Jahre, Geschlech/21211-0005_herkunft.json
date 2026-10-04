@@ -1,0 +1,28 @@
+{
+  "tabelle": "21211-0005",
+  "titel": "Ausbildungsverträge: Deutschland, Jahre, Geschlecht, Altersjahre",
+  "zeitraum": "2008 - 2025",
+  "statistik": "21211",
+  "alle_statistiken": [
+    "21211"
+  ],
+  "stand_genesis": "28.12.2022 19:17:25h",
+  "abgerufen_am": "2026-09-28T17:02:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21211-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21211-0005_flatfile.csv": "e5eb7df50bfde65de3d0f8b178f50ab3e5940b118f9d8651a5496f2303136210"
+  },
+  "bytes": 67875,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21211/table/21211-0005"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "52411-0017",
+  "titel": "Insolvenzverfahren (Unternehmen): Deutschland, Monate, Beantragte Verfahren, Unternehmensgrößenklassen",
+  "zeitraum": "Januar 2003 - Juni 2026",
+  "statistik": "52411",
+  "alle_statistiken": [
+    "52411"
+  ],
+  "stand_genesis": "09.08.2023 17:42:28h",
+  "abgerufen_am": "2026-09-28T20:12:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52411-0017",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52411-0017_flatfile.csv": "892f5cffb3b9d48d04ceea0b92074636e9a72ca6b4be5b0fb89ab9eb7fec2c95"
+  },
+  "bytes": 105008,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52411/table/52411-0017"
+}

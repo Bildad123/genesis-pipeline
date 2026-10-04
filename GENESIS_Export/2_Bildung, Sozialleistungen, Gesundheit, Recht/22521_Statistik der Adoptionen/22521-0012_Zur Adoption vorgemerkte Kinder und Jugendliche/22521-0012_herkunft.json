@@ -1,0 +1,28 @@
+{
+  "tabelle": "22521-0012",
+  "titel": "Zur Adoption vorgemerkte Kinder und Jugendliche, Vorgemerkte Adoptionsbewerbungen, In Adoptionspflege untergebrachte Kinder und Jugendliche: Deutschland, Stichtag, Trägergruppen",
+  "zeitraum": "31.12.2010 - 31.12.2025",
+  "statistik": "22521",
+  "alle_statistiken": [
+    "22521"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:33:27",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22521-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22521-0012_flatfile.csv": "9c575097fa67dd6bf4c4c3165649962980221226238557bd5df641fddccd52ee"
+  },
+  "bytes": 4455,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22521/table/22521-0012"
+}

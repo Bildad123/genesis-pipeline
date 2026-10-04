@@ -1,0 +1,28 @@
+{
+  "tabelle": "22521-0021",
+  "titel": "Adoptierte Kinder und Jugendliche: Bundesländer, Jahre (bis 2017), Altersgruppen",
+  "zeitraum": "2010 - 2017",
+  "statistik": "22521",
+  "alle_statistiken": [
+    "22521"
+  ],
+  "stand_genesis": "14.08.2024 13:14:41h",
+  "abgerufen_am": "2026-09-28T17:33:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22521-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22521-0021_flatfile.csv": "2b3f2dcf93708560697fb058a1e614f67fcedd22ac2996d6ff4a0ea865a96a8a"
+  },
+  "bytes": 194329,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22521/table/22521-0021"
+}

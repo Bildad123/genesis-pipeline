@@ -1,0 +1,28 @@
+{
+  "tabelle": "46911-0001",
+  "titel": "Beförderte Rohölmenge und Beförderungsleistung (Rohrfernleitungsstatistik): Deutschland, Monate, Hauptverkehrsbeziehungen",
+  "zeitraum": "Januar 1962 - Juli 2026",
+  "statistik": "46911",
+  "alle_statistiken": [
+    "46911"
+  ],
+  "stand_genesis": "29.12.2022 04:28:32h",
+  "abgerufen_am": "2026-09-28T19:33:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46911-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46911-0001_flatfile.csv": "688500db6d68182d5f15f7afe2fd1f14d999a6f182776ba0167dcb275dae247c"
+  },
+  "bytes": 23126,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46911/table/46911-0001"
+}

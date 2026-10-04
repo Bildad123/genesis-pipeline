@@ -1,0 +1,28 @@
+{
+  "tabelle": "22311-0006",
+  "titel": "Haushalte mit Wohngeld, Durchschnittliche monatliche Miete, Durchschnittliches Wohngeld, Durchschnittliche Wohnfläche: Deutschland, Stichtag, Wohngeldart, Mietenstufe, Wohnfläche",
+  "zeitraum": "31.12.2005 - 31.12.2025",
+  "statistik": "22311",
+  "alle_statistiken": [
+    "22311"
+  ],
+  "stand_genesis": "28.12.2022 20:45:19h",
+  "abgerufen_am": "2026-09-28T17:28:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22311-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22311-0006_flatfile.csv": "a4b6b644040c3c58c3b20702d535fd15799e6eccfedae108e0b7fa55cd1ed10e"
+  },
+  "bytes": 136171,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22311/table/22311-0006"
+}

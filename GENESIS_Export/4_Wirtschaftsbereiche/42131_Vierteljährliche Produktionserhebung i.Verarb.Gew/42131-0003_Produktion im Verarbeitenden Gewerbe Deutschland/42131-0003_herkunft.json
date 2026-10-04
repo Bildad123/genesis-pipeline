@@ -1,0 +1,28 @@
+{
+  "tabelle": "42131-0003",
+  "titel": "Produktion im Verarbeitenden Gewerbe: Deutschland, Jahre, Güterverzeichnis (2-/4-Steller)",
+  "zeitraum": "2019 - 2025",
+  "statistik": "42131",
+  "alle_statistiken": [
+    "42131"
+  ],
+  "stand_genesis": "26.04.2023 13:23:30h",
+  "abgerufen_am": "2026-09-28T18:53:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42131-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42131-0003_flatfile.csv": "2a0d0ed52e89c7d8bff278fa81b6e3467ce4fb9cf8396bda19bde2eabc7b94f7"
+  },
+  "bytes": 15163,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42131/table/42131-0003"
+}

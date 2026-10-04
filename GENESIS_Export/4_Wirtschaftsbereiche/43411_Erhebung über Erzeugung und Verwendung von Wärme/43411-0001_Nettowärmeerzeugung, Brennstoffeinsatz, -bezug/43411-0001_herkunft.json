@@ -1,0 +1,28 @@
+{
+  "tabelle": "43411-0001",
+  "titel": "Nettowärmeerzeugung, Brennstoffeinsatz, -bezug, -bestand der Heizwerke: Deutschland, Jahre, Energieträger",
+  "zeitraum": "2002 - 2024",
+  "statistik": "43411",
+  "alle_statistiken": [
+    "43411"
+  ],
+  "stand_genesis": "28.12.2022 18:16:46h",
+  "abgerufen_am": "2026-09-28T19:05:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43411-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43411-0001_flatfile.csv": "1d08cb967e85708a12d17b7fa01e316cfcd8335c75074e51f508a18e19806632"
+  },
+  "bytes": 30765,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43411/table/43411-0001"
+}

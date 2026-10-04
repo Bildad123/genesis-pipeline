@@ -1,0 +1,28 @@
+{
+  "tabelle": "91311-0001",
+  "titel": "Kulturindikatoren: Bundesländer, Jahre",
+  "zeitraum": "2000 - 2023",
+  "statistik": "91311",
+  "alle_statistiken": [
+    "91311"
+  ],
+  "stand_genesis": "28.12.2022 17:27:42h",
+  "abgerufen_am": "2026-09-28T21:15:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "91311-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "91311-0001_flatfile.csv": "882c6d79f75efd297467e379ad8c364eda0a08715299fa292deadf76282e190d"
+  },
+  "bytes": 1119396,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/91311/table/91311-0001"
+}

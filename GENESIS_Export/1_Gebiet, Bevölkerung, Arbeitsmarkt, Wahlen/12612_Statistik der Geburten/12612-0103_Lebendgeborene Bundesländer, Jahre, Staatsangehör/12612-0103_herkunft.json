@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0103",
+  "titel": "Lebendgeborene: Bundesländer, Jahre, Staatsangehörigkeit des Kindes und der Eltern",
+  "zeitraum": "1990 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "28.12.2022 17:19:28h",
+  "abgerufen_am": "2026-09-28T16:53:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0103",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0103_flatfile.csv": "06db5ff059790eaf9ed536d0dee747d86efb78229e897f236f124fe62b55d074"
+  },
+  "bytes": 1310006,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0103"
+}

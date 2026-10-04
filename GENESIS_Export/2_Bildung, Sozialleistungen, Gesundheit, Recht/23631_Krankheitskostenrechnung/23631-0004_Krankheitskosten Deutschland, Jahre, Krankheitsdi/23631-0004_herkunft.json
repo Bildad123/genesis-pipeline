@@ -1,0 +1,28 @@
+{
+  "tabelle": "23631-0004",
+  "titel": "Krankheitskosten: Deutschland, Jahre, Krankheitsdiagnosen (ICD-10), Geschlecht, Einrichtungen",
+  "zeitraum": "2015 - 2023",
+  "statistik": "23631",
+  "alle_statistiken": [
+    "23631"
+  ],
+  "stand_genesis": "28.12.2022 17:31:55h",
+  "abgerufen_am": "2026-09-28T17:58:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23631-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23631-0004_flatfile.csv": "1e16a36b7859e43e13e05e8c9b6ccc07f967a40000b4f5da4297a53119a9d74c"
+  },
+  "bytes": 1933411,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23631/table/23631-0004"
+}

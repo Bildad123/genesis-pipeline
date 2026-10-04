@@ -1,0 +1,28 @@
+{
+  "tabelle": "22151-0004",
+  "titel": "Empfänger von Grundsicherung: Deutschland, Berichtsmonat im Quartal, Ort der Leistungserbringung, Geschlecht, Altersgruppen",
+  "zeitraum": "März 2015 - Juni 2026",
+  "statistik": "22151",
+  "alle_statistiken": [
+    "22151"
+  ],
+  "stand_genesis": "15.04.2025 12:00:54h",
+  "abgerufen_am": "2026-09-28T17:20:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22151-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22151-0004_flatfile.csv": "abb6e7a244248c393fabab68d65699a236ce6b2b0a3e7f8ad0ab4f28d17273ce"
+  },
+  "bytes": 191674,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22151/table/22151-0004"
+}

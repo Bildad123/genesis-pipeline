@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0011",
+  "titel": "Abhängig Erwerbstätige aus Hauptwohnsitzhaushalten: Deutschland, Jahre, Geschlecht, Altersgruppen, Beschäftigungsumfang",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "10.07.2024 17:20:52h",
+  "abgerufen_am": "2026-09-28T16:25:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0011_flatfile.csv": "2a385a1ab6d3df7ca4b3c56d3fb7c8ed9c4fd556b2384f50a3bec951f97f0965"
+  },
+  "bytes": 67675,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0011"
+}

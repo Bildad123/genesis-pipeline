@@ -1,0 +1,28 @@
+{
+  "tabelle": "63111-0016",
+  "titel": "Einkommen und Einnahmen sowie Ausgaben privater Haushalte (LWR): Deutschland, Jahre (bis 2022), Haushaltstyp",
+  "zeitraum": "2000 - 2022",
+  "statistik": "63111",
+  "alle_statistiken": [
+    "63111"
+  ],
+  "stand_genesis": "26.08.2026 12:25:44h",
+  "abgerufen_am": "2026-09-28T20:44:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63111-0016",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63111-0016_flatfile.csv": "ee6e06984c6451d8d235fb8a6df9b71e4d0222650e7806e24c7204a9875e733a"
+  },
+  "bytes": 83138,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63111/table/63111-0016"
+}

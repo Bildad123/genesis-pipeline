@@ -1,0 +1,28 @@
+{
+  "tabelle": "52311-0060",
+  "titel": "Neugründungen von Gewerben: Deutschland, Jahre, Art der Neugründung",
+  "zeitraum": "2003 - 2025",
+  "statistik": "52311",
+  "alle_statistiken": [
+    "52311"
+  ],
+  "stand_genesis": "29.01.2025 15:02:52h",
+  "abgerufen_am": "2026-09-28T20:08:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52311-0060",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52311-0060_flatfile.csv": "371ef36becf809bd1eddae983ffd375f21d29fa2b98c8ae961e531e01488baef"
+  },
+  "bytes": 20194,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52311/table/52311-0060"
+}

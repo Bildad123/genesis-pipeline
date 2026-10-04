@@ -1,0 +1,28 @@
+{
+  "tabelle": "45212-0002",
+  "titel": "Beschäftigtenindex im Einzelhandel: Deutschland, Monate/Quartale/Halbjahre, Wirtschaftszweige",
+  "zeitraum": "Januar 1994 - Juli 2026",
+  "statistik": "45212",
+  "alle_statistiken": [
+    "45212"
+  ],
+  "stand_genesis": "26.06.2026 16:39:48h",
+  "abgerufen_am": "2026-09-28T19:10:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45212-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45212-0002_flatfile.csv": "9df70ae44bd2130a5b1894ff942fb14e82a09afc0955f64ba3a9326dee7dbb37"
+  },
+  "bytes": 415131,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45212/table/45212-0002"
+}

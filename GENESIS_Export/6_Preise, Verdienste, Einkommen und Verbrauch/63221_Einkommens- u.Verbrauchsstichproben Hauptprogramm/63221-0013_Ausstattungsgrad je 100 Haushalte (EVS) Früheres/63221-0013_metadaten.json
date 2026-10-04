@@ -1,0 +1,84 @@
+{
+  "abgerufen_am": "2026-09-28T20:46:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "63221-0013",
+    "Content": "Ausstattungsgrad je 100 Haushalte (EVS): Früheres\nBundesgebiet/Neue Länder, Jahre, Gebrauchsgüter,\nHaushaltsgröße",
+    "Time": {
+      "From": "2023",
+      "To": "2023"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "63221",
+        "Content": "Einkommens- u.Verbrauchsstichproben: Hauptprogramm",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "ATG001",
+            "Content": "Ausstattungsgrad je 100 Haushalte",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "DINSGF",
+          "Content": "Früheres Bundesgebiet / Neue Länder",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "HSHGR2",
+              "Content": "Haushaltsgröße",
+              "Type": "Merkmal",
+              "Values": "5",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "GUTGB3",
+          "Content": "Gebrauchsgüter",
+          "Type": "Merkmal",
+          "Values": "111",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "19.12.2025 16:41:39h"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:22:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46251",
+    "Content": "Statistik des Kraftfahrzeug- und Anhängerbestandes",
+    "Cubes": "20",
+    "Variables": "17",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Statistik des Kraftfahrzeug- und Anhängerbestandes \n(EVAS-Nr. 46251)\n\nVom Kraftfahrt-Bundesamt werden aus Meldungen der\nKraftfahrzeug-Zulassungsstellen Statistiken über den Bestand\nan Kraftfahrzeugen und Anhängern (jährlich), Neuzulassungen\n(monatlich), Besitzumschreibungen (monatlich) und Löschungen\n(jährlich) durchgeführt.\n\nDie statistischen Auswertungen umfassen alle nach der\nStraßenverkehrs-Zulassungs-Ordnung (StVZO) in Deutschland\nzugelassenen bzw. angemeldeten Fahrzeuge, denen ein\namtliches Kennzeichen zugeteilt wurde. Mit einbezogen sind\nFahrzeuge, die vorübergehend stillgelegt wurden sowie\nFahrzeuge des Bundesgrenzschutzes (BGS) und des Technischen\nHilfswerkes (THW). Dagegen sind nicht einbezogen die\nFahrzeuge der Bundeswehr sowie Fahrzeuge mit rotem\nKennzeichen und mit Ausfuhrkennzeichen.\n\nDem Kraftfahrtbundesamt (KBA) obliegt die statistische\nBearbeitung der Datenmeldungen der Zulassungsbehörden und\nder Haftpflichtversicherungen (Kfz mit Versicherungs-\nkennzeichen) sowie des Zentralen Fahrzeugregisters (ZFZR).\nEs handelt sich dabei um Sekundärstatistiken, denen die\ngemeldeten Kraftfahrzeuge und Kraftfahrzeuganhänger mit\nderen Halterangaben zugrunde liegen.\n\n\n© Statistisches Bundesamt, Wiesbaden 2010",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

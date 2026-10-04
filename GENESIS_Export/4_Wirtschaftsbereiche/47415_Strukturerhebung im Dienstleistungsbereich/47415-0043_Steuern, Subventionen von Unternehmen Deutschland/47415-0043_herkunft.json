@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0043",
+  "titel": "Steuern, Subventionen von Unternehmen: Deutschland, Jahre, Wirtschaftsabschnitte, Größenklassen (Umsatz / tätige Personen)",
+  "zeitraum": "2014 - 2020",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:38:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0043",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0043_flatfile.csv": "ef714dd12eef75b8f602981926f70b862ffbe22aec810af4b46291db6631d851"
+  },
+  "bytes": 9088,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0043"
+}

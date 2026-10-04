@@ -1,0 +1,28 @@
+{
+  "tabelle": "53111-0002",
+  "titel": "Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland, Jahre, Handwerksarten, Gewerbegruppen und Gewerbezweige",
+  "zeitraum": "2020 - 2024",
+  "statistik": "53111",
+  "alle_statistiken": [
+    "53111"
+  ],
+  "stand_genesis": "23.04.2026 09:15:26h",
+  "abgerufen_am": "2026-09-28T20:18:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "53111-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "53111-0002_flatfile.csv": "64276d38c4caa23a4432cd2d92af0da6ff99bc4d735b48a00f0a9159fee4afbb"
+  },
+  "bytes": 508446,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/53111/table/53111-0002"
+}

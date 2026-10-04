@@ -1,0 +1,28 @@
+{
+  "tabelle": "45412-0012",
+  "titel": "Geöffnete Beherbergungsbetriebe, angebotene Schlafgelegenheiten, durchschnittliche Auslastung der Schlafgelegenheiten: Deutschland, Jahre, Betriebsarten",
+  "zeitraum": "2008 - 2025",
+  "statistik": "45412",
+  "alle_statistiken": [
+    "45412"
+  ],
+  "stand_genesis": "05.06.2024 14:48:08h",
+  "abgerufen_am": "2026-09-28T19:15:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45412-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45412-0012_flatfile.csv": "52643a30e3a2901c604815af1c7f396d333fbdcf6b20fbd5da812c65a883e73a"
+  },
+  "bytes": 119317,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45412/table/45412-0012"
+}

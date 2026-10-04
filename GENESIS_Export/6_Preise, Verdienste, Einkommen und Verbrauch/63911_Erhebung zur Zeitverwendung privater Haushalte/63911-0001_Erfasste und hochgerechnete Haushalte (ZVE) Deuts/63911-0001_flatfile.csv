@@ -1,0 +1,13 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;ALLEINERZ;Alleinerziehende;796;Anzahl;HSH011;Erfasste Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;ALLEINERZ;Alleinerziehende;1403;1000;HSH012;Hochgerechnete Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;;Insgesamt;9774;Anzahl;HSH011;Erfasste Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;;Insgesamt;40589;1000;HSH012;Hochgerechnete Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;PAAR-XK;Paare ohne Kind;2180;Anzahl;HSH011;Erfasste Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;PAAR-XK;Paare ohne Kind;11305;1000;HSH012;Hochgerechnete Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;PAAR-K;Paare mit Kindern;3040;Anzahl;HSH011;Erfasste Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;PAAR-K;Paare mit Kindern;6438;1000;HSH012;Hochgerechnete Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;HSH-SONST;Sonstige Haushalte;1291;Anzahl;HSH011;Erfasste Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;HSH-SONST;Sonstige Haushalte;4584;1000;HSH012;Hochgerechnete Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;ALLEINLEB;Alleinlebende;2467;Anzahl;HSH011;Erfasste Haushalte
+63911;Erhebung zur Zeitverwendung privater Haushalte;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HSHTP9;Haushaltstyp;ALLEINLEB;Alleinlebende;16859;1000;HSH012;Hochgerechnete Haushalte

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22151-0040",
+  "titel": "Empfänger von Grundsicherung: Kreise, Berichtsmonat im Quartal, Geschlecht/Altersgruppen/Ort der Leistungserbringung",
+  "zeitraum": "Dezember 2015 - Dezember 2025",
+  "statistik": "22151",
+  "alle_statistiken": [
+    "22151"
+  ],
+  "stand_genesis": "15.04.2025 12:28:58h",
+  "abgerufen_am": "2026-09-28T17:23:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22151-0040",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22151-0040_flatfile.csv": "e95fe18d57956658d17d7e0727b31f4b0f48ffa99406c1298a76fa64886a7abe"
+  },
+  "bytes": 1733542,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22151/table/22151-0040"
+}

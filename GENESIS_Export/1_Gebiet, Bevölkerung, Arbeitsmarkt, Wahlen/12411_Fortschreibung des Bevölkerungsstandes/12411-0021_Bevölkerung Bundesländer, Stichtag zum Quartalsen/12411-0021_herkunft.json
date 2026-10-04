@@ -1,0 +1,28 @@
+{
+  "tabelle": "12411-0021",
+  "titel": "Bevölkerung: Bundesländer, Stichtag zum Quartalsende, Geschlecht",
+  "zeitraum": "31.03.1991 - 30.06.2026",
+  "statistik": "12411",
+  "alle_statistiken": [
+    "12411"
+  ],
+  "stand_genesis": "23.01.2025 11:36:51h",
+  "abgerufen_am": "2026-09-28T16:40:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12411-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12411-0021_flatfile.csv": "17d4c2b8ab2fd8ad5f3f6e2982937090213c6a1a7733c947a5c5cbe7877effe4"
+  },
+  "bytes": 186369,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0021"
+}

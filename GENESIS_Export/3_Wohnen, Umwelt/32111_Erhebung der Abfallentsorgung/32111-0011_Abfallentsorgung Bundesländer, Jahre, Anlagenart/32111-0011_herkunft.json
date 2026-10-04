@@ -1,0 +1,28 @@
+{
+  "tabelle": "32111-0011",
+  "titel": "Abfallentsorgung: Bundesländer, Jahre, Anlagenart",
+  "zeitraum": "2006 - 2024",
+  "statistik": "32111",
+  "alle_statistiken": [
+    "32111"
+  ],
+  "stand_genesis": "28.12.2022 17:20:43h",
+  "abgerufen_am": "2026-09-28T18:09:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32111-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32111-0011_flatfile.csv": "b20eb736c6b343efa11a6addeb1df48876b2f3e7b826f5e3a966b6c2a5e20c2c"
+  },
+  "bytes": 516028,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32111/table/32111-0011"
+}

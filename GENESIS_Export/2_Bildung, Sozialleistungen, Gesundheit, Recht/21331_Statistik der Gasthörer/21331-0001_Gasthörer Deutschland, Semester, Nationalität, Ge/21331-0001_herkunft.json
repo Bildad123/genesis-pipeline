@@ -1,0 +1,28 @@
+{
+  "tabelle": "21331-0001",
+  "titel": "Gasthörer: Deutschland, Semester, Nationalität, Geschlecht, Altersgruppen",
+  "zeitraum": "WS 1994/95 - WS 2025/26",
+  "statistik": "21331",
+  "alle_statistiken": [
+    "21331"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:06:40",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21331-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21331-0001_flatfile.csv": "e5b5e69997b59397804d04898018110533116e4c0aea8e2938f6c517dc33b307"
+  },
+  "bytes": 934003,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21331/table/21331-0001"
+}

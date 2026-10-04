@@ -1,0 +1,28 @@
+{
+  "tabelle": "32421-0013",
+  "titel": "Verwendung klimawirksamer Stoffe: Bundesländer, Jahre, Wirtschaftszweig des Unternehmens, Einsatzbereiche",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32421",
+  "alle_statistiken": [
+    "32421"
+  ],
+  "stand_genesis": "26.02.2024 12:51:46h",
+  "abgerufen_am": "2026-09-28T18:17:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32421-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32421-0013_flatfile.csv": "f951e6c9763b58846d39e50434497c698ef258bf79d37ac34d46f7242849ce61"
+  },
+  "bytes": 3222611,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32421/table/32421-0013"
+}

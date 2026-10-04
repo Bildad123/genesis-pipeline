@@ -1,0 +1,136 @@
+{
+  "abgerufen_am": "2026-09-28T17:03:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21231-0001",
+    "Content": "Verfahren und Neuanträge zur Anerkennung ausländischer\nBerufsqualifikationen: Deutschland, Jahre, rechtliche\nRegelung, Reglementierung der Berufe",
+    "Time": {
+      "From": "2016",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "21231",
+        "Content": "Erhebung n. §17 BerufsqualifikationsfeststellungsG",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "RECRE1",
+          "Content": "Rechtliche Regelung",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "BERRE1",
+              "Content": "Reglementierung der Berufe",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "BQF001",
+                  "Content": "Verfahren zur Anerkennung ausländ. Berufsqualifik.",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "BQF002",
+                  "Content": "Abgeschlossene Verfahren",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "BQF003",
+                  "Content": "Positiv beschiedene Anträge",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "BQF004",
+                  "Content": "Neuanträge zur Anerkennung ausl. Berufsqualifik.",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "BQF005",
+                  "Content": "Abgeschlossene Verfahren zu Neuanträgen",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "BQF006",
+                  "Content": "Positiv beschiedene Neuanträge",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 18:04:07h"
+  }
+}

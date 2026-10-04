@@ -1,0 +1,28 @@
+{
+  "tabelle": "73311-0005",
+  "titel": "Umsatzsteuerpflichtige, Steuerbarer Umsatz (Voranmeldungen): Deutschland, Jahre, Rechtsformen, Wirtschaftszweige (WZ2008 1-5-Steller Hierarchie)",
+  "zeitraum": "2020 - 2024",
+  "statistik": "73311",
+  "alle_statistiken": [
+    "73311"
+  ],
+  "stand_genesis": "18.09.2023 12:18:37h",
+  "abgerufen_am": "2026-09-28T20:55:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73311-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73311-0005_flatfile.csv": "1dcd37ac2b187bfd3f9ff35c354039592c3abb6c7813ed95715f2523303544a4"
+  },
+  "bytes": 9483023,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73311/table/73311-0005"
+}

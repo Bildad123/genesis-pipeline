@@ -1,0 +1,28 @@
+{
+  "tabelle": "21411-0032",
+  "titel": "Studienstarthilfe - Geförderte Personen: Deutschland, Jahre, Geschlecht, Art des zugrundeliegenden Sozialleistungsbezugs",
+  "zeitraum": "2024 - 2025",
+  "statistik": "21411",
+  "alle_statistiken": [
+    "21411"
+  ],
+  "stand_genesis": "10.07.2026 15:22:52h",
+  "abgerufen_am": "2026-09-28T17:10:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21411-0032",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21411-0032_flatfile.csv": "7e536f6d39ea1cd0e938d9f65ed615b016f3a6a0eed4762dae96e58ccc732abd"
+  },
+  "bytes": 9099,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21411/table/21411-0032"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22311-0002",
+  "titel": "Haushalte mit Wohngeld: Deutschland, Stichtag, Wohngeldart, Art des Zuschusses",
+  "zeitraum": "31.12.2005 - 31.12.2025",
+  "statistik": "22311",
+  "alle_statistiken": [
+    "22311"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:28:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22311-0002_flatfile.csv": "dac75a56f2d313923cac9c62def1666d9242d6f0cc61d0f5b3803fea21d170b1"
+  },
+  "bytes": 31190,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22311/table/22311-0002"
+}

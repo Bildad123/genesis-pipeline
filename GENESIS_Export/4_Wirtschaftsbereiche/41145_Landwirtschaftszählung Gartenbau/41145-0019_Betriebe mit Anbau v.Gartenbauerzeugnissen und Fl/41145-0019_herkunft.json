@@ -1,0 +1,28 @@
+{
+  "tabelle": "41145-0019",
+  "titel": "Betriebe mit Anbau v.Gartenbauerzeugnissen und Flächen unter Glas und/oder abgedeckten Freilandflächen: Bundesländer, Jahre, Größenklassen der gärtnerischen Nutzfläche",
+  "zeitraum": "2005 - 2005",
+  "statistik": "41145",
+  "alle_statistiken": [
+    "41145"
+  ],
+  "stand_genesis": "29.12.2022 08:02:34h",
+  "abgerufen_am": "2026-09-28T18:27:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41145-0019",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41145-0019_flatfile.csv": "2e73a6bea9613db27a15c699e07305670b5660ddbeb9a0bb49b189fbd5ce0572"
+  },
+  "bytes": 206011,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41145/table/41145-0019"
+}

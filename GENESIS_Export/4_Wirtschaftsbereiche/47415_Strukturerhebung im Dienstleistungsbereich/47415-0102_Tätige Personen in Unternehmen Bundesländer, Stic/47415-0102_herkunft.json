@@ -1,0 +1,28 @@
+{
+  "tabelle": "47415-0102",
+  "titel": "Tätige Personen in Unternehmen: Bundesländer, Stichtag (bis 30.09.2007), Stellung im Beruf, Wirtschaftsabschnitte, Umsatzgrößenklassen",
+  "zeitraum": "30.09.2003 - 30.09.2007",
+  "statistik": "47415",
+  "alle_statistiken": [
+    "47415"
+  ],
+  "stand_genesis": "28.12.2022 23:53:28h",
+  "abgerufen_am": "2026-09-28T19:38:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47415-0102",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47415-0102_flatfile.csv": "00a89f81eefbd82e21db5e5bac38cd30b0986d3760a0e53f7c682b37fcc8b682"
+  },
+  "bytes": 75375,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47415/table/47415-0102"
+}

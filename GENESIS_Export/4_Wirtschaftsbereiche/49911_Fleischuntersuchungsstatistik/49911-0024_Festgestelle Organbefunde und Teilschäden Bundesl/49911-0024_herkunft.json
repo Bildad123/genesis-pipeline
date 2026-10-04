@@ -1,0 +1,28 @@
+{
+  "tabelle": "49911-0024",
+  "titel": "Festgestelle Organbefunde und Teilschäden: Bundesländer, Jahre, Untersuchungsort und Herkunft, Genussuntauglichkeitsgründe, Tierarten",
+  "zeitraum": "2019 - 2025",
+  "statistik": "49911",
+  "alle_statistiken": [
+    "49911"
+  ],
+  "stand_genesis": "28.12.2022 21:05:06h",
+  "abgerufen_am": "2026-09-28T19:43:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "49911-0024",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "49911-0024_flatfile.csv": "cc2b31cd72c1707068b819b4e850d6cd5080e6743c33e78070a988cbe8b54215"
+  },
+  "bytes": 6137463,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/49911/table/49911-0024"
+}

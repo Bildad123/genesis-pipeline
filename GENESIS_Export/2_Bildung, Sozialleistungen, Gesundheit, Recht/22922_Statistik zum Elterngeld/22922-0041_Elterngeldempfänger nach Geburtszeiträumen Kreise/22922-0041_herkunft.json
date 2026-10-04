@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0041",
+  "titel": "Elterngeldempfänger nach Geburtszeiträumen: Kreise, Jahre, Geschlecht, Erwerbstätigkeit",
+  "zeitraum": "2016 - 2023",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "19.08.2025 12:04:54h",
+  "abgerufen_am": "2026-09-28T17:43:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0041",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0041_flatfile.csv": "d7cd6f2bbafb4bddeafde2c4b149fc856e379d6fd7e1d591f3ba1c17e05221ba"
+  },
+  "bytes": 8378484,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0041"
+}

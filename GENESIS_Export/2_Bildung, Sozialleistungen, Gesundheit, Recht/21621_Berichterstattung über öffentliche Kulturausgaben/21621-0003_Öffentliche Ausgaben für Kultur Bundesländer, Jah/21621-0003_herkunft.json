@@ -1,0 +1,28 @@
+{
+  "tabelle": "21621-0003",
+  "titel": "Öffentliche Ausgaben für Kultur: Bundesländer, Jahre, Kulturbereiche",
+  "zeitraum": "2005 - 2021",
+  "statistik": "21621",
+  "alle_statistiken": [
+    "21621"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:15:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21621-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21621-0003_flatfile.csv": "89752933caa062a4c312f0cde986c29e9fd83152edbf87fe094b2ff1a54ab7d3"
+  },
+  "bytes": 34541,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21621/table/21621-0003"
+}

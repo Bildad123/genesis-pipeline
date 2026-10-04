@@ -1,0 +1,28 @@
+{
+  "tabelle": "82111-0002",
+  "titel": "VGR der Länder (Entstehungsrechnung) - Bruttowertschöpfung zu Herstellungspreisen (nominal): Deutschland, Jahre, Wirtschaftszweige",
+  "zeitraum": "1991 - 2025",
+  "statistik": "82111",
+  "alle_statistiken": [
+    "82111"
+  ],
+  "stand_genesis": "22.04.2026 10:26:39h",
+  "abgerufen_am": "2026-09-28T21:13:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "82111-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "82111-0002_flatfile.csv": "18b62d8c6320066401f0420c8a839f167582f568a5491e0feb623f301e98ebef"
+  },
+  "bytes": 86429,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/82111/table/82111-0002"
+}

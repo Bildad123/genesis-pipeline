@@ -1,0 +1,28 @@
+{
+  "tabelle": "13211-0006",
+  "titel": "Arbeitslosenquote aller zivilen Erwerbspersonen: Deutschland/Früheres Bundesgebiet/Neue Länder, Monate, Geschlecht und weitere Personengruppen",
+  "zeitraum": "Januar 2005 - August 2026",
+  "statistik": "13211",
+  "alle_statistiken": [
+    "13211"
+  ],
+  "stand_genesis": "28.12.2022 17:08:18h",
+  "abgerufen_am": "2026-09-28T16:57:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13211-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13211-0006_flatfile.csv": "273121a82bd55990332a52f54e208a7469d7136f399dca4659809a3eccad3125"
+  },
+  "bytes": 179910,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13211/table/13211-0006"
+}

@@ -1,0 +1,95 @@
+{
+  "abgerufen_am": "2026-09-28T20:38:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "62311-0002",
+    "Content": "Bruttostundenverdienste in der Landwirtschaft: Früheres\nBundesgebiet/Neue Länder, Stichmonat (bis 09/2010), Ausgew.\nBereiche der Landwirtschaft, Arbeitergruppen, Geschlecht",
+    "Time": {
+      "From": "09/2010",
+      "To": "09/2010"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "62311",
+        "Content": "Verdiensterhebung in der Landwirtschaft",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "VST007",
+            "Content": "Bruttostundenverdienste",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "ARBGR2",
+          "Content": "Arbeitergruppen (Landwirtschaft)",
+          "Type": "Merkmal",
+          "Values": "3",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "DINSGF",
+          "Content": "Früheres Bundesgebiet / Neue Länder",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "WZ08B4",
+              "Content": "WZ2008: Landwirtschaft",
+              "Type": "Merkmal",
+              "Values": "6",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "SMONAT",
+        "Content": "Stichmonat",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "29.12.2022 09:01:04h"
+  }
+}

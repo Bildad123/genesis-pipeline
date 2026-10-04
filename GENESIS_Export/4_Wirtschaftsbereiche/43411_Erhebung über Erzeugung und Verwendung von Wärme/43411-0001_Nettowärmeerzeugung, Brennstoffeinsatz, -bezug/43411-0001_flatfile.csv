@@ -1,0 +1,157 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-STK;Staub- und Trockenkohle;12613;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-STK;Staub- und Trockenkohle;1310780;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-STK;Staub- und Trockenkohle;1313200;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-STK;Staub- und Trockenkohle;319501;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRKER;Kernenergie;x;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRKER;Kernenergie;x;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRKER;Kernenergie;x;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRKER;Kernenergie;x;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-HART;Hartbraunkohlen;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-HART;Hartbraunkohlen;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-HART;Hartbraunkohlen;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-HART;Hartbraunkohlen;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-SONST;Sonstige Mineralölprodukte;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-S-01;Heizöl, schwer;.;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-S-01;Heizöl, schwer;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-S-01;Heizöl, schwer;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-S-01;Heizöl, schwer;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-03;Abfall (Hausmüll, Siedlungsabfälle);.;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-03;Abfall (Hausmüll, Siedlungsabfälle);.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-03;Abfall (Hausmüll, Siedlungsabfälle);.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-03;Abfall (Hausmüll, Siedlungsabfälle);.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-01;Abfall (Hausmüll, Industrie);-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-01;Abfall (Hausmüll, Industrie);-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-01;Abfall (Hausmüll, Industrie);-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-01;Abfall (Hausmüll, Industrie);-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-02;Abfall (Industrie);.;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-02;Abfall (Industrie);.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-02;Abfall (Industrie);.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ABF-02;Abfall (Industrie);.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-K-01;Kokereigas;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-K-01;Kokereigas;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-K-01;Kokereigas;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-K-01;Kokereigas;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-KOKS;Braunkohlenkoks;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-KOKS;Braunkohlenkoks;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-KOKS;Braunkohlenkoks;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-KOKS;Braunkohlenkoks;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KOKS;Steinkohlenkoks;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KOKS;Steinkohlenkoks;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KOKS;Steinkohlenkoks;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KOKS;Steinkohlenkoks;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-ROH;Rohbraunkohlen;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-ROH;Rohbraunkohlen;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-ROH;Rohbraunkohlen;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-ROH;Rohbraunkohlen;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;PKOKS-01;Petrolkoks;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;PKOKS-01;Petrolkoks;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;PKOKS-01;Petrolkoks;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;PKOKS-01;Petrolkoks;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KWS;Kohlenwertstoffe aus Steinkohle;.;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KWS;Kohlenwertstoffe aus Steinkohle;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KWS;Kohlenwertstoffe aus Steinkohle;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-KWS;Kohlenwertstoffe aus Steinkohle;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENR-EB-SONST;Sonstige erneuerbare Energien;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENR-EB-SONST;Sonstige erneuerbare Energien;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENR-EB-SONST;Sonstige erneuerbare Energien;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENR-EB-SONST;Sonstige erneuerbare Energien;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-SONST;Sonstige Braunkohlen;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-SONST;Sonstige Braunkohlen;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-SONST;Sonstige Braunkohlen;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-SONST;Sonstige Braunkohlen;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-E-02;Erdgas, Erdölgas;.;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-E-02;Erdgas, Erdölgas;58667664;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-E-02;Erdgas, Erdölgas;58667617;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-E-02;Erdgas, Erdölgas;13479938;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GEOTH-01;Geothermie;x;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GEOTH-01;Geothermie;x;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GEOTH-01;Geothermie;x;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GEOTH-01;Geothermie;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-BIO;Biogas;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-BIO;Biogas;3473978;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-BIO;Biogas;3473978;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-BIO;Biogas;612500;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-HO-01;Hochofengas;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-HO-01;Hochofengas;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-HO-01;Hochofengas;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-HO-01;Hochofengas;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-FL;Flüssiggas;.;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-FL;Flüssiggas;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-FL;Flüssiggas;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-FL;Flüssiggas;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-FL-01;Flüssige biogene Stoffe;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-FL-01;Flüssige biogene Stoffe;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-FL-01;Flüssige biogene Stoffe;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-FL-01;Flüssige biogene Stoffe;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-GRUB;Grubengas;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-GRUB;Grubengas;315867;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-GRUB;Grubengas;315867;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-GRUB;Grubengas;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-RAF;Raffineriegas;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-RAF;Raffineriegas;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-RAF;Raffineriegas;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-RAF;Raffineriegas;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;WRM-01;Wärme;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;WRM-01;Wärme;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;WRM-01;Wärme;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;WRM-01;Wärme;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRSET;Sonstige Energieträger;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRSET;Sonstige Energieträger;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRSET;Sonstige Energieträger;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;ENRSET;Sonstige Energieträger;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-F-01;Feste biogene Stoffe;631316;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-F-01;Feste biogene Stoffe;8079036;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-F-01;Feste biogene Stoffe;8048726;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;BIO-F-01;Feste biogene Stoffe;1623632;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-SONST;Sonstige hergestellte Gase;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-SONST;Sonstige hergestellte Gase;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-SONST;Sonstige hergestellte Gase;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-SONST;Sonstige hergestellte Gase;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KLS-01;Klärschlamm;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KLS-01;Klärschlamm;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KLS-01;Klärschlamm;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KLS-01;Klärschlamm;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-SONST;Sonstige Steinkohlen;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-SONST;Sonstige Steinkohlen;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-SONST;Sonstige Steinkohlen;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-SONST;Sonstige Steinkohlen;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-WSK;Wirbelschichtkohle;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-WSK;Wirbelschichtkohle;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-WSK;Wirbelschichtkohle;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-WSK;Wirbelschichtkohle;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-01;Steinkohlen;.;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-01;Steinkohlen;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-01;Steinkohlen;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-01;Steinkohlen;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;DIESEL-01;Dieselkraftstoff;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;DIESEL-01;Dieselkraftstoff;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;DIESEL-01;Dieselkraftstoff;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;DIESEL-01;Dieselkraftstoff;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-KL;Klärgas;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-KL;Klärgas;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-KL;Klärgas;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-KL;Klärgas;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-BRIK;Steinkohlenbriketts;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-BRIK;Steinkohlenbriketts;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-BRIK;Steinkohlenbriketts;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-S-BRIK;Steinkohlenbriketts;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;SOLTH-01;Solarthermie;x;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;SOLTH-01;Solarthermie;x;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;SOLTH-01;Solarthermie;x;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;SOLTH-01;Solarthermie;.;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-BRIK;Braunkohlenbriketts;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-BRIK;Braunkohlenbriketts;-;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-BRIK;Braunkohlenbriketts;-;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;KHL-B-BRIK;Braunkohlenbriketts;-;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-L-01;Heizöl, leicht;4192138;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-L-01;Heizöl, leicht;2504734;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-L-01;Heizöl, leicht;2426714;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;OEL-H-L-01;Heizöl, leicht;576081;MWh;WRM001;Nettowärmeerzeugung
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-DEP;Deponiegas;-;GJ;BRN003;Brennstoffbestand
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-DEP;Deponiegas;.;GJ;BRN002;Brennstoffbezug
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-DEP;Deponiegas;.;GJ;BRN001;Brennstoffeinsatz
+43411;Erhebung über Erzeugung und Verwendung von Wärme;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;ENRG05;Energieträger;GAS-DEP;Deponiegas;.;MWh;WRM001;Nettowärmeerzeugung

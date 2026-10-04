@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0017",
+  "titel": "Index der durchschnittlichen Bruttoverdienste: Früheres Bundesgebiet / Neue Länder, Quartale, Wirtschaftszweige",
+  "zeitraum": "1. Quartal 2007 - 2. Quartal 2026",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "28.12.2022 18:09:26h",
+  "abgerufen_am": "2026-09-28T20:39:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0017",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0017_flatfile.csv": "0abb153ee43833395c7dd5e36d89f9881451abe14d6d7e68426a8d176d7f65b9"
+  },
+  "bytes": 1343624,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0017"
+}

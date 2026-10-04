@@ -1,0 +1,28 @@
+{
+  "tabelle": "61421-0014",
+  "titel": "Index der Ausfuhrpreise: Deutschland, Monate, Euro-Länder und Nicht-Euro-Länder, Warengruppen (EGW2002 1-Steller)",
+  "zeitraum": "Januar 2000 - Juli 2026",
+  "statistik": "61421",
+  "alle_statistiken": [
+    "61421"
+  ],
+  "stand_genesis": "28.12.2022 20:03:10h",
+  "abgerufen_am": "2026-09-28T20:31:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61421-0014",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61421-0014_flatfile.csv": "3525d35affcd3e8bd81b003bb4c149375ffcf95342869c32addfffad154a44ee"
+  },
+  "bytes": 160574,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61421/table/61421-0014"
+}

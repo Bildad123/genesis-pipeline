@@ -1,0 +1,28 @@
+{
+  "tabelle": "21711-0003",
+  "titel": "Budget für Bildung, Forschung und Wissenschaft: Deutschland, Jahre, Budgetbereiche",
+  "zeitraum": "2010 - 2024",
+  "statistik": "21711",
+  "alle_statistiken": [
+    "21711"
+  ],
+  "stand_genesis": "28.12.2022 17:12:06h",
+  "abgerufen_am": "2026-09-28T17:16:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21711-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21711-0003_flatfile.csv": "7379494561aec25731044457695cb4ad285534b741b74af63844dd2c0b8f3f68"
+  },
+  "bytes": 50109,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21711/table/21711-0003"
+}

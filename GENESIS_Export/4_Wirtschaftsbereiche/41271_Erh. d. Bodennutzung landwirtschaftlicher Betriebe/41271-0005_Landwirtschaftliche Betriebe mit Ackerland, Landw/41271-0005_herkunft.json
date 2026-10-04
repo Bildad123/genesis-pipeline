@@ -1,0 +1,28 @@
+{
+  "tabelle": "41271-0005",
+  "titel": "Landwirtschaftliche Betriebe mit Ackerland, Landwirtschaftlich genutzte Fläche: Deutschland, Jahre (bis 2024), Ackerkulturen, Größenklassen des Ackerlandes",
+  "zeitraum": "2010 - 2024",
+  "statistik": "41271",
+  "alle_statistiken": [
+    "41271"
+  ],
+  "stand_genesis": "13.07.2026 16:15:54h",
+  "abgerufen_am": "2026-09-28T18:36:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41271-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41271-0005_flatfile.csv": "53b774c43bf01568f0f167587078ecdfa399a8b2ed454f520423cbc7c0f0ea75"
+  },
+  "bytes": 41061,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41271/table/41271-0005"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "42191-0002",
+  "titel": "Lkw-Maut-Grenzfahrtenindex: Deutschland, Monate, Original- und bereinigte Daten, Nachbarstaaten",
+  "zeitraum": "Juli 2018 - August 2026",
+  "statistik": "42191",
+  "alle_statistiken": [
+    "42191"
+  ],
+  "stand_genesis": "29.12.2022 08:06:48h",
+  "abgerufen_am": "2026-09-28T18:58:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42191-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42191-0002_flatfile.csv": "3d66e5565ae40e69d7c3a156fb4cb8e787ced9ba5838a25c03865917f6a67129"
+  },
+  "bytes": 339946,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42191/table/42191-0002"
+}

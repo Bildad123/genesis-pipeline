@@ -1,0 +1,220 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE252;Stangenbohnen;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE252;Stangenbohnen;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE252;Stangenbohnen;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;;Insgesamt;5773;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;;Insgesamt;4297226,2;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;;Insgesamt;130448,9;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290105;Römischer Salat (Romanasalat);460;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290105;Römischer Salat (Romanasalat);50657,2;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290105;Römischer Salat (Romanasalat);1997,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE07;Rosenkohl;855;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE07;Rosenkohl;7933,0;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE07;Rosenkohl;413,2;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE250;Busch- und Stangenbohnen;960;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE250;Busch- und Stangenbohnen;42060,4;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE250;Busch- und Stangenbohnen;3777,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290103;Lollosalat;594;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290103;Lollosalat;24597,1;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290103;Lollosalat;956,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE09;Chinakohl;723;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE09;Chinakohl;43090,9;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE09;Chinakohl;956,2;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE271;Frühjahrsspinat;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE271;Frühjahrsspinat;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE271;Frühjahrsspinat;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290101;Eichblattsalat;987;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290101;Eichblattsalat;15848,2;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290101;Eichblattsalat;644,8;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE3301;Frischerbsen zum Drusch (ohne Hülsen);158;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE3301;Frischerbsen zum Drusch (ohne Hülsen);16484,2;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE3301;Frischerbsen zum Drusch (ohne Hülsen);3275,5;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE062;Mittelfrüher und Spätblumenkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE062;Mittelfrüher und Spätblumenkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE062;Mittelfrüher und Spätblumenkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE24;Spargel;1349;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE24;Spargel;103919,6;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE24;Spargel;22484,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE292;Sommer- und Herbstkopfsalat;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE292;Sommer- und Herbstkopfsalat;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE292;Sommer- und Herbstkopfsalat;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE081;Frühkohlrabi;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE081;Frühkohlrabi;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE081;Frühkohlrabi;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE043;Dauerrotkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE043;Dauerrotkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE043;Dauerrotkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE28;Eissalat;554;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE28;Eissalat;139757,5;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE28;Eissalat;3852,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE03;Weißkohl;1661;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE03;Weißkohl;507547,0;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE03;Weißkohl;6500,6;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE041;Frührotkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE041;Frührotkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE041;Frührotkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE26;Gurken;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE26;Gurken;201337,7;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE26;Gurken;2114,5;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE131;Knollensellerie;1202;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE131;Knollensellerie;80293,2;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE131;Knollensellerie;1743,3;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE41;Tomaten;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE41;Tomaten;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE41;Tomaten;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE321;Meerrettich;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE321;Meerrettich;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE321;Meerrettich;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE133;Knollenfenchel;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE133;Knollenfenchel;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE133;Knollenfenchel;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE241;Spargel (im Ertrag);1327;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE241;Spargel (im Ertrag);103919,6;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE241;Spargel (im Ertrag);19217,6;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE264;Speisekürbisse;2130;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE264;Speisekürbisse;121717,6;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE264;Speisekürbisse;5754,9;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE262;Salatgurken;166;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE262;Salatgurken;3744,4;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE262;Salatgurken;118,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE35;Rhabarber;618;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE35;Rhabarber;22618,9;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE35;Rhabarber;1219,1;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE050;Wirsing;1221;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE050;Wirsing;25763,8;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE050;Wirsing;735,1;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE10;Broccoli;966;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE10;Broccoli;49029,9;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE10;Broccoli;3311,8;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE031;Frühweißkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE031;Frühweißkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE031;Frühweißkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE39;Petersilie;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE39;Petersilie;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE39;Petersilie;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;919;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;74498,9;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE98;Sonstige Gemüsearten;2859,0;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE033;Dauerweißkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE033;Dauerweißkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE033;Dauerweißkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE052;Spätwirsing;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE052;Spätwirsing;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE052;Spätwirsing;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE120;Möhren/Karotten;1680;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE120;Möhren/Karotten;865678,7;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE120;Möhren/Karotten;14190,7;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE330;Frischerbsen;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE330;Frischerbsen;19529,5;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE330;Frischerbsen;3802,2;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE31;Radies;613;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE31;Radies;66952,3;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE31;Radies;2966,7;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE162;Bundzwiebeln;556;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE162;Bundzwiebeln;92329,3;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE162;Bundzwiebeln;2312,5;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE122;Späte Möhren/Karotten;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE122;Späte Möhren/Karotten;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE122;Späte Möhren/Karotten;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290107;Sonstige Salate;573;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290107;Sonstige Salate;3787,5;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290107;Sonstige Salate;361,3;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290106;Rucolasalat;337;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290106;Rucolasalat;10959,7;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290106;Rucolasalat;1346,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE08;Kohlrabi;1149;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE08;Kohlrabi;49085,7;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE08;Kohlrabi;1576,1;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE253;Dicke Bohnen;257;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE253;Dicke Bohnen;1796,7;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE253;Dicke Bohnen;310,6;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290104;Radicchio;616;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290104;Radicchio;5060,9;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290104;Radicchio;226,6;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE29;Kopfsalat;1015;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE29;Kopfsalat;30250,0;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE29;Kopfsalat;982,1;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE251;Buschbohnen;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE251;Buschbohnen;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE251;Buschbohnen;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE272;Herbstspinat;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE272;Herbstspinat;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE272;Herbstspinat;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290102;Endiviensalat;831;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290102;Endiviensalat;15373,0;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE290102;Endiviensalat;475,9;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE3302;Frischerbsen zum Pflücken (mit Hülsen);222;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE3302;Frischerbsen zum Pflücken (mit Hülsen);3045,3;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE3302;Frischerbsen zum Pflücken (mit Hülsen);526,7;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE061;Frühblumenkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE061;Frühblumenkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE061;Frühblumenkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE23;Grünkohl;1179;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE23;Grünkohl;22220,3;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE23;Grünkohl;988,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE291;Frühjahrskopfsalat;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE291;Frühjahrskopfsalat;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE291;Frühjahrskopfsalat;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE082;Spätkohlrabi;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE082;Spätkohlrabi;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE082;Spätkohlrabi;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE04;Rotkohl;1443;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE04;Rotkohl;150431,8;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE04;Rotkohl;2305,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE27;Spinat;834;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE27;Spinat;71349,4;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE27;Spinat;4010,2;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE06;Blumenkohl;1064;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE06;Blumenkohl;86515,6;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE06;Blumenkohl;2942,5;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE042;Spätrotkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE042;Spätrotkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE042;Spätrotkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE132;Stauden- und Stangensellerie;358;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE132;Stauden- und Stangensellerie;16107,5;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE132;Stauden- und Stangensellerie;436,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE40;Schnittlauch;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE40;Schnittlauch;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE40;Schnittlauch;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE263;Zucchini;1217;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE263;Zucchini;51097,3;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE263;Zucchini;1257,9;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE242;Spargel (nicht im Ertrag);608;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE242;Spargel (nicht im Ertrag);x;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE242;Spargel (nicht im Ertrag);3266,9;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE261;Einlegegurken;237;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE261;Einlegegurken;197593,3;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE261;Einlegegurken;1996,0;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE34;Feldsalat;663;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE34;Feldsalat;10375,0;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE34;Feldsalat;1951,2;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE051;Frühwirsing;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE051;Frühwirsing;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE051;Frühwirsing;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE32;Rettich;486;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE32;Rettich;23770,8;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE32;Rettich;512,9;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE38;Zuckermais;464;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE38;Zuckermais;20328,1;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE38;Zuckermais;2119,7;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE032;Spätweißkohl;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE032;Spätweißkohl;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE032;Spätweißkohl;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE36;Chicoree;49;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE36;Chicoree;x;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE36;Chicoree;452,5;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE15;Porree;1090;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE15;Porree;102077,9;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE15;Porree;2511,4;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE053;Dauerwirsing;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE053;Dauerwirsing;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE053;Dauerwirsing;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE121;Frühe Möhren/Karotten;.;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE121;Frühe Möhren/Karotten;.;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE121;Frühe Möhren/Karotten;.;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE30;Rote Rüben (Rote Bete);1467;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE30;Rote Rüben (Rote Bete);168132,8;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE30;Rote Rüben (Rote Bete);3315,1;ha;FLC063;Anbaufläche Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE161;Speisezwiebeln (Trockenzw. einschl. Schalotten);1928;Anzahl;BMG003;Betriebe mit Gemüseanbau im Freiland
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE161;Speisezwiebeln (Trockenzw. einschl. Schalotten);903345,8;t;ERN008;Erntemenge Gemüse (Freiland)
+41215;Gemüseerhebung;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;GEMA01;Gemüsearten;GEMUESE161;Speisezwiebeln (Trockenzw. einschl. Schalotten);19773,5;ha;FLC063;Anbaufläche Gemüse (Freiland)

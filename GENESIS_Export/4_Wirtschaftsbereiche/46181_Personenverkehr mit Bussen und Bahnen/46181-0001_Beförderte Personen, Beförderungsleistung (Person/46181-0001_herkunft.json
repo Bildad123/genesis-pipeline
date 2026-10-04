@@ -1,0 +1,28 @@
+{
+  "tabelle": "46181-0001",
+  "titel": "Beförderte Personen, Beförderungsleistung (Personenfernverkehr mit Bussen): Deutschland, Jahre, Verkehrsart, Hauptverkehrsverbindung",
+  "zeitraum": "2022 - 2024",
+  "statistik": "46181",
+  "alle_statistiken": [
+    "46181"
+  ],
+  "stand_genesis": "12.03.2025 13:38:55h",
+  "abgerufen_am": "2026-09-28T19:21:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46181-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46181-0001_flatfile.csv": "8dcdd9dfa19c24ddcb25b98f8a84567f624420c6cf97ebca8c6af84e8ae5489b"
+  },
+  "bytes": 5068,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46181/table/46181-0001"
+}

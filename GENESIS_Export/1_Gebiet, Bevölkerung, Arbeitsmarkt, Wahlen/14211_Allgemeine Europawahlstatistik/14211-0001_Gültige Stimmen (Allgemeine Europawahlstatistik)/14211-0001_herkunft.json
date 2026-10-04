@@ -1,0 +1,28 @@
+{
+  "tabelle": "14211-0001",
+  "titel": "Gültige Stimmen (Allgemeine Europawahlstatistik): Deutschland, Stichtag, Parteien",
+  "zeitraum": "12.06.1994 - 09.06.2024",
+  "statistik": "14211",
+  "alle_statistiken": [
+    "14211"
+  ],
+  "stand_genesis": "28.12.2022 18:56:22h",
+  "abgerufen_am": "2026-09-28T16:59:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "14211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "14211-0001_flatfile.csv": "2172734dd7b7b2ac1042f25972c5c2877cd0f777c4199d0e3e321bd4429f4f8b"
+  },
+  "bytes": 35211,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/14211/table/14211-0001"
+}

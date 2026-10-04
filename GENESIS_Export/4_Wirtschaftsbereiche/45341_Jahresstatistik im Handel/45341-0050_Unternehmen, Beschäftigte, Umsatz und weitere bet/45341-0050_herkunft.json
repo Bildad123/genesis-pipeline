@@ -1,0 +1,28 @@
+{
+  "tabelle": "45341-0050",
+  "titel": "Unternehmen, Beschäftigte, Umsatz und weitere betriebs- und volkswirtschaftliche Kennzahlen im Einzelhandel: Deutschland, Jahre, Einzelhandelsbranchen",
+  "zeitraum": "2015 - 2020",
+  "statistik": "45341",
+  "alle_statistiken": [
+    "45341"
+  ],
+  "stand_genesis": "31.07.2024 14:03:03h",
+  "abgerufen_am": "2026-09-28T19:14:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45341-0050",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45341-0050_flatfile.csv": "4a006c0caa62210b1c1a31898256af1ecff620f338cfeafba93acd255521adb8"
+  },
+  "bytes": 503602,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45341/table/45341-0050"
+}

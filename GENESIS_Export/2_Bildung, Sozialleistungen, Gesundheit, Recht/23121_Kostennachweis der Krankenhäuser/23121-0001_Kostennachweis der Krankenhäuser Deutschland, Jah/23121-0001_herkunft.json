@@ -1,0 +1,28 @@
+{
+  "tabelle": "23121-0001",
+  "titel": "Kostennachweis der Krankenhäuser: Deutschland, Jahre",
+  "zeitraum": "1991 - 2024",
+  "statistik": "23121",
+  "alle_statistiken": [
+    "23121"
+  ],
+  "stand_genesis": "28.12.2022 17:31:55h",
+  "abgerufen_am": "2026-09-28T17:48:24",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23121-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23121-0001_flatfile.csv": "98f2b344d18b61973e9d5517749ff106e0bffda6dbf213d2fd341c77b04978d0"
+  },
+  "bytes": 15341,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23121/table/23121-0001"
+}

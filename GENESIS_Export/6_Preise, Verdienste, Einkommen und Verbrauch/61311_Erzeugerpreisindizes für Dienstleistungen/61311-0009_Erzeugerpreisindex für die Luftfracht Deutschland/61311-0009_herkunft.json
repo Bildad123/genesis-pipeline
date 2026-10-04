@@ -1,0 +1,28 @@
+{
+  "tabelle": "61311-0009",
+  "titel": "Erzeugerpreisindex für die Luftfracht: Deutschland, Jahre, Ausgewählte Regionen, Verkehrsrichtung",
+  "zeitraum": "2015 - 2025",
+  "statistik": "61311",
+  "alle_statistiken": [
+    "61311"
+  ],
+  "stand_genesis": "13.06.2024 12:29:25h",
+  "abgerufen_am": "2026-09-28T20:27:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61311-0009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61311-0009_flatfile.csv": "26b64bfac037edcfc4db9cd5d2eafd2318438db18da184eaeabe15df5462900e"
+  },
+  "bytes": 40523,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61311/table/61311-0009"
+}

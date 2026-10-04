@@ -1,0 +1,28 @@
+{
+  "tabelle": "42311-0004",
+  "titel": "Beschäftigte in der Eisen- und Stahlindustrie: Deutschland, Monate (bis 2009)",
+  "zeitraum": "Januar 1950 - Dezember 2009",
+  "statistik": "42311",
+  "alle_statistiken": [
+    "42311"
+  ],
+  "stand_genesis": "18.11.2015 14:46:33h",
+  "abgerufen_am": "2026-09-28T19:03:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42311-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42311-0004_flatfile.csv": "9eb02dcfbf33a08e95daaac4aa54c4dc01741e47e6a2f8b850f2ee3673724fab"
+  },
+  "bytes": 3943,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42311/table/42311-0004"
+}

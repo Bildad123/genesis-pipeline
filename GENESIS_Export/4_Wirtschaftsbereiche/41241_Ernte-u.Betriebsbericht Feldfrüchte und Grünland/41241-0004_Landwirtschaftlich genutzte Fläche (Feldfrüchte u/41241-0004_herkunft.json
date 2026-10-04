@@ -1,0 +1,28 @@
+{
+  "tabelle": "41241-0004",
+  "titel": "Landwirtschaftlich genutzte Fläche (Feldfrüchte und Grünland): Deutschland, Jahre (bis 2009), Kulturarten",
+  "zeitraum": "1950 - 2009",
+  "statistik": "41241",
+  "alle_statistiken": [
+    "41241"
+  ],
+  "stand_genesis": "26.01.2024 13:59:59h",
+  "abgerufen_am": "2026-09-28T18:31:21",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41241-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41241-0004_flatfile.csv": "0eb35b64e28522d1039427870ca72b55a4a106086008ec55fa8a47c3e231e2a5"
+  },
+  "bytes": 15922,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41241/table/41241-0004"
+}

@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:22:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "45213",
+    "Content": "Monatsstatistik im Gastgewerbe",
+    "Cubes": "17",
+    "Variables": "11",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Monatlich"
+      }
+    ],
+    "Information": null,
+    "Updated": "17.09.2026 12:27:34h"
+  }
+}

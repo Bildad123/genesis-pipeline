@@ -1,0 +1,28 @@
+{
+  "tabelle": "32181-0010",
+  "titel": "Gesammelte/zurückgenommene Verpackungen: Bundesländer, Jahre, Art des Verpackungsmaterials",
+  "zeitraum": "2022 - 2024",
+  "statistik": "32181",
+  "alle_statistiken": [
+    "32181"
+  ],
+  "stand_genesis": "02.05.2025 15:01:10h",
+  "abgerufen_am": "2026-09-28T18:12:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32181-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32181-0010_flatfile.csv": "f7f6ad4e3b70f8ae90e3e6843e4b09ea91ada7e6f3d26d7012d926e94b6571f4"
+  },
+  "bytes": 18340,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32181/table/32181-0010"
+}

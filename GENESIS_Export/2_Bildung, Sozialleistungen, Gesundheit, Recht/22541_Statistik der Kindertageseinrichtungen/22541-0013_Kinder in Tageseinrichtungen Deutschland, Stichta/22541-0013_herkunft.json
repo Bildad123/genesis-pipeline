@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0013",
+  "titel": "Kinder in Tageseinrichtungen: Deutschland, Stichtag, Betreuungstage pro Woche",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 13:52:59h",
+  "abgerufen_am": "2026-09-28T17:36:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0013_flatfile.csv": "cc87a012e07dca51ed40d26c97d10c0dff24f1e2dfdd2804eadf47127791f75c"
+  },
+  "bytes": 18705,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0013"
+}

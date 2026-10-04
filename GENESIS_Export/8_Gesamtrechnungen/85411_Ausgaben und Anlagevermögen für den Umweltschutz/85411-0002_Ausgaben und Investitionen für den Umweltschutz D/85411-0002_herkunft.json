@@ -1,0 +1,28 @@
+{
+  "tabelle": "85411-0002",
+  "titel": "Ausgaben und Investitionen für den Umweltschutz: Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "1996 - 2010",
+  "statistik": "85411",
+  "alle_statistiken": [
+    "85411"
+  ],
+  "stand_genesis": "28.12.2022 17:27:42h",
+  "abgerufen_am": "2026-09-28T21:15:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85411-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85411-0002_flatfile.csv": "f047ab9daa3b55bdb92785918598a11dd0f473b08e517ef94b81c1a171784ac3"
+  },
+  "bytes": 31329,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85411/table/85411-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22521-0008",
+  "titel": "Adoptierte Kinder und Jugendliche: Deutschland, Jahre (bis 2017),Verwandtschaftsverhältnis zu Adoptiveltern,Familienst. der abgebenden Eltern, Art der Unterbringung vor der Adopt.",
+  "zeitraum": "2010 - 2017",
+  "statistik": "22521",
+  "alle_statistiken": [
+    "22521"
+  ],
+  "stand_genesis": "14.08.2024 13:21:22h",
+  "abgerufen_am": "2026-09-28T17:33:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22521-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22521-0008_flatfile.csv": "ec2e8dbd76bb608f11be6fee3012f22e136b3f39eadaa7374ddeb9e5f0ecf2ac"
+  },
+  "bytes": 100441,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22521/table/22521-0008"
+}

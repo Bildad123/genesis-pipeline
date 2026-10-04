@@ -1,0 +1,166 @@
+{
+  "abgerufen_am": "2026-09-28T18:14:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "32311-0002",
+    "Content": "Unfälle beim Umgang mit wassergefährdenden Stoffen,\nFreigesetzte, wiedergewonnene Menge: Deutschland, Jahre,\nAnlagenart, Freigesetzte Stoffart, Wassergefährdungsklasse",
+    "Time": {
+      "From": "2025",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "32311",
+        "Content": "Erhebung d. Unfälle mit wassergefährdenden Stoffen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "WGSAT1",
+          "Content": "Unfallbereich",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UNF003",
+              "Content": "Unfälle",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "UNF004",
+              "Content": "Unfälle mit wiedergewonnener Menge",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "MNG001",
+              "Content": "Freigesetzte Menge",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "MNG002",
+              "Content": "Freigesetzte Menge je Unfall",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "MNG005",
+              "Content": "Wiedergewonnene Menge",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "MNG006",
+              "Content": "Wiedergewonnene Menge je Unfall",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "MNG007",
+              "Content": "Wiedergew. Menge je Unfälle mit wiedergew. Menge",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "ANLAT6",
+          "Content": "Anlagenart",
+          "Type": "Merkmal",
+          "Values": "10",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "STFAT5",
+              "Content": "Freigesetzte Stoffart",
+              "Type": "Merkmal",
+              "Values": "5",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "WGKAT1",
+                  "Content": "Wassergefährdungsklasse",
+                  "Type": "Merkmal",
+                  "Values": "5",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "20.08.2026 16:31:58h"
+  }
+}

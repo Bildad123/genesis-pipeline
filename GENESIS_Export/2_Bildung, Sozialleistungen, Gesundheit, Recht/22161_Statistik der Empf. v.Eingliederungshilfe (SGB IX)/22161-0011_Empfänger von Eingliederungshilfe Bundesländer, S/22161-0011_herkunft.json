@@ -1,0 +1,28 @@
+{
+  "tabelle": "22161-0011",
+  "titel": "Empfänger von Eingliederungshilfe: Bundesländer, Stichtag, Geschlecht, Altersgruppen",
+  "zeitraum": "31.12.2020 - 31.12.2025",
+  "statistik": "22161",
+  "alle_statistiken": [
+    "22161"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:23:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22161-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22161-0011_flatfile.csv": "fc949c9e39f3bc51c9546a0f80eff216f8ff36e5d738206c99ee425e692a94af"
+  },
+  "bytes": 61990,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22161/table/22161-0011"
+}

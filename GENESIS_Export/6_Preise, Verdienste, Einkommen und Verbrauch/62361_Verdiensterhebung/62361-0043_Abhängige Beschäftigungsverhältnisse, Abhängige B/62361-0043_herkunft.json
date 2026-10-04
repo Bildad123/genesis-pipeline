@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0043",
+  "titel": "Abhängige Beschäftigungsverhältnisse, Abhängige Beschäftigungsverhältnisse mit Niedriglohn: Deutschland, Stichmonat, Wirtschaftsabschnitte",
+  "zeitraum": "04/2022 - 04/2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "26.01.2023 17:59:12h",
+  "abgerufen_am": "2026-09-28T20:41:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0043",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0043_flatfile.csv": "9125aad0deba8db74cfcb39482482e0fa466628db855f3d2294f4a4b7c374a17"
+  },
+  "bytes": 14012,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0043"
+}

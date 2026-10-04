@@ -1,0 +1,28 @@
+{
+  "tabelle": "51911-0003",
+  "titel": "Ausfuhr, Einfuhr und Außenhandelsumsatz von Unternehmen: Deutschland, Jahre, Beschäftigtengrößenklassen",
+  "zeitraum": "2018 - 2024",
+  "statistik": "51911",
+  "alle_statistiken": [
+    "51911"
+  ],
+  "stand_genesis": "01.04.2026 14:27:26h",
+  "abgerufen_am": "2026-09-28T20:03:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "51911-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "51911-0003_flatfile.csv": "75b129ca7f7e85a2064b997d24526b4a7ec3ee9db5d4c2d701ae5a998c317169"
+  },
+  "bytes": 8181,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/51911/table/51911-0003"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22251-0001",
+  "titel": "Empfänger von Leistungen für Bildung und Teilhabe nach dem Asylbewerberleistungsgesetz: Deutschland, Quartale, Leistungsart, Geschlecht",
+  "zeitraum": "1. Quartal 2016 - 4. Quartal 2025",
+  "statistik": "22251",
+  "alle_statistiken": [
+    "22251"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:28:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22251-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22251-0001_flatfile.csv": "30cfb96cfcf44036ef232d3a88dbc2f2fe6974ed3e239f17295e947013789b58"
+  },
+  "bytes": 56509,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22251/table/22251-0001"
+}

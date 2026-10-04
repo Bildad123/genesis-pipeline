@@ -1,0 +1,28 @@
+{
+  "tabelle": "61281-0002",
+  "titel": "Index der Großhandelsverkaufspreise: Deutschland, Monate",
+  "zeitraum": "Januar 1968 - August 2026",
+  "statistik": "61281",
+  "alle_statistiken": [
+    "61281"
+  ],
+  "stand_genesis": "28.12.2022 17:20:53h",
+  "abgerufen_am": "2026-09-28T20:26:08",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61281-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61281-0002_flatfile.csv": "a806a692d74288a6c91c4729da99d518eaffe5f4ae7e9d915492f53550ce8be1"
+  },
+  "bytes": 11764,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61281/table/61281-0002"
+}

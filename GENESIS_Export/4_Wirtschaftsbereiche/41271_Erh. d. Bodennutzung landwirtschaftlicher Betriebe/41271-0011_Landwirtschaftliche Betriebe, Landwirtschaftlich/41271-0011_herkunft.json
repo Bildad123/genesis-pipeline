@@ -1,0 +1,28 @@
+{
+  "tabelle": "41271-0011",
+  "titel": "Landwirtschaftliche Betriebe, Landwirtschaftlich genutzte Fläche: Bundesländer, Jahre, Größenklassen der landwirtschaftlich genutzten Fläche",
+  "zeitraum": "2010 - 2023",
+  "statistik": "41271",
+  "alle_statistiken": [
+    "41271"
+  ],
+  "stand_genesis": "13.07.2026 16:19:02h",
+  "abgerufen_am": "2026-09-28T18:36:55",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41271-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41271-0011_flatfile.csv": "a5b80e9bfa1b2c633b4bc41f7d307f48b248709a15af21d301621f584b4c0cd3"
+  },
+  "bytes": 69541,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41271/table/41271-0011"
+}

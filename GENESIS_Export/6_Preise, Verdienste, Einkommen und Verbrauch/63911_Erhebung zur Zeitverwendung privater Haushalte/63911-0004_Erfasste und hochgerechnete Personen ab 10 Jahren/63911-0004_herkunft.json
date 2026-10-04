@@ -1,0 +1,28 @@
+{
+  "tabelle": "63911-0004",
+  "titel": "Erfasste und hochgerechnete Personen ab 10 Jahren (ZVE): Deutschland, Jahre, Geschlecht, Haushaltstyp",
+  "zeitraum": "2022 - 2022",
+  "statistik": "63911",
+  "alle_statistiken": [
+    "63911"
+  ],
+  "stand_genesis": "20.02.2025 15:46:39h",
+  "abgerufen_am": "2026-09-28T20:48:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63911-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63911-0004_flatfile.csv": "ab6e759b58b985838d0c9175388f46edef3d178f874ea6cb84306437a4ce002e"
+  },
+  "bytes": 8832,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63911/table/63911-0004"
+}

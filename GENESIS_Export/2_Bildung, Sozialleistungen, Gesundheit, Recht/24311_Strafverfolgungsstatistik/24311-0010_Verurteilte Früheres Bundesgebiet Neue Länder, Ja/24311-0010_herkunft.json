@@ -1,0 +1,28 @@
+{
+  "tabelle": "24311-0010",
+  "titel": "Verurteilte: Früheres Bundesgebiet/Neue Länder, Jahre, Art der Straftat",
+  "zeitraum": "1976 - 2024",
+  "statistik": "24311",
+  "alle_statistiken": [
+    "24311"
+  ],
+  "stand_genesis": "28.12.2022 17:41:42h",
+  "abgerufen_am": "2026-09-28T18:01:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24311-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24311-0010_flatfile.csv": "390b9f156a990ebdc37f7dc96b4da49f2338b36101bfcdbd7858d579337126fb"
+  },
+  "bytes": 537235,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24311/table/24311-0010"
+}

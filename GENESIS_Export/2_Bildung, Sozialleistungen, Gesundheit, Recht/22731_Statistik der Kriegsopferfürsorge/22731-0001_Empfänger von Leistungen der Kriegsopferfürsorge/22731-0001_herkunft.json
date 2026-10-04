@@ -1,0 +1,28 @@
+{
+  "tabelle": "22731-0001",
+  "titel": "Empfänger von Leistungen der Kriegsopferfürsorge: Deutschland, Jahre, Leistungsart",
+  "zeitraum": "1963 - 2022",
+  "statistik": "22731",
+  "alle_statistiken": [
+    "22731"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:40:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22731-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22731-0001_flatfile.csv": "42c167ba5750506b5ba04e11f59f5cd00fd68a098e782f3edc3c39ade65d5cb2"
+  },
+  "bytes": 23194,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22731/table/22731-0001"
+}

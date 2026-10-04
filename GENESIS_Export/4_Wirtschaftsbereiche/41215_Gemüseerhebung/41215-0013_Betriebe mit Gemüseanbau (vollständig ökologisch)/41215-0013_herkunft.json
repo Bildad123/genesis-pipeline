@@ -1,0 +1,28 @@
+{
+  "tabelle": "41215-0013",
+  "titel": "Betriebe mit Gemüseanbau (vollständig ökologisch), Anbaufläche, Erntemenge: Bundesländer, Jahre",
+  "zeitraum": "2023 - 2025",
+  "statistik": "41215",
+  "alle_statistiken": [
+    "41215"
+  ],
+  "stand_genesis": "05.12.2024 15:29:02h",
+  "abgerufen_am": "2026-09-28T18:29:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41215-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41215-0013_flatfile.csv": "ee5103130053bb32bed8485202e3e1d3c9c0a1995126c19fb8bc9046d83a634c"
+  },
+  "bytes": 20373,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41215/table/41215-0013"
+}

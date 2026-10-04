@@ -1,0 +1,28 @@
+{
+  "tabelle": "85421-0003",
+  "titel": "Europäischer Emissionshandel: Deutschland, Jahre, Wirtschaftsbereiche",
+  "zeitraum": "2008 - 2024",
+  "statistik": "85421",
+  "alle_statistiken": [
+    "85421"
+  ],
+  "stand_genesis": "11.09.2026 13:25:46h",
+  "abgerufen_am": "2026-09-28T21:15:23",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85421-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85421-0003_flatfile.csv": "73913dae12a7e057c5602e5476d029f2610d87e382fc661deacd049c6641123f"
+  },
+  "bytes": 70528,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85421/table/85421-0003"
+}

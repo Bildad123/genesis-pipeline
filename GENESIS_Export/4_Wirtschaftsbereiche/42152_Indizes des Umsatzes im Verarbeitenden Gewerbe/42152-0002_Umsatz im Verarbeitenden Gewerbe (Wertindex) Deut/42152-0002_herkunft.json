@@ -1,0 +1,28 @@
+{
+  "tabelle": "42152-0002",
+  "titel": "Umsatz im Verarbeitenden Gewerbe (Wertindex): Deutschland, Monate, Original- und bereinigte Daten, Absatzrichtung, Wirtschaftszweige (2-/3-/4-Steller)",
+  "zeitraum": "Januar 1991 - Juli 2026",
+  "statistik": "42152",
+  "alle_statistiken": [
+    "42152"
+  ],
+  "stand_genesis": "28.12.2022 17:35:35h",
+  "abgerufen_am": "2026-09-28T18:55:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42152-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42152-0002_flatfile.csv": "cca91fb59e178eebe0181aa20be90ecfbbec31a32286a7e6a1013915d9777b0a"
+  },
+  "bytes": 6793476,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42152/table/42152-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "22412-0015",
+  "titel": "Personal der stationären Pflegeeinrichtungen: Bundesländer, Stichtag, Geschlecht, Überwiegender Tätigkeitsbereich",
+  "zeitraum": "15.12.1999 - 15.12.2023",
+  "statistik": "22412",
+  "alle_statistiken": [
+    "22412"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:30:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22412-0015",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22412-0015_flatfile.csv": "6f9ad1bfeb6cefefcd469110339dd5ba5b656d8f8182308b53a68f8c09cab6d8"
+  },
+  "bytes": 112928,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22412/table/22412-0015"
+}

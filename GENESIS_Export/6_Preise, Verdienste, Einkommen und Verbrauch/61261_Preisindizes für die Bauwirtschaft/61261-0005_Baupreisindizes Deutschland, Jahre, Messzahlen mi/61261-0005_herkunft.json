@@ -1,0 +1,28 @@
+{
+  "tabelle": "61261-0005",
+  "titel": "Baupreisindizes: Deutschland, Jahre, Messzahlen mit/ohne Umsatzsteuer, Instandhaltung von Wohngebäuden, Bauarbeiten (Instandhaltung)",
+  "zeitraum": "1958 - 2025",
+  "statistik": "61261",
+  "alle_statistiken": [
+    "61261"
+  ],
+  "stand_genesis": "28.12.2022 17:32:38h",
+  "abgerufen_am": "2026-09-28T20:24:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61261-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61261-0005_flatfile.csv": "f32ae05f4a5be3b76630cfd8c89ba6ef32f8f4a4bb94ddc5e1141d61ede2b8a9"
+  },
+  "bytes": 251984,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61261/table/61261-0005"
+}

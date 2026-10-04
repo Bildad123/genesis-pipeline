@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-1012",
+  "titel": "Erwerbslose aus Hauptwohnsitzhaushalten: Bundesländer, Jahre, Geschlecht, Altersgruppen, Dauer der Erwerbslosigkeit",
+  "zeitraum": "2021 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "02.09.2024 13:48:39h",
+  "abgerufen_am": "2026-09-28T16:29:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-1012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-1012_flatfile.csv": "87183ccbaa02835f4bf7f63d3d0111fb3c6bbdbd74bb95ff423d6e395f535d07"
+  },
+  "bytes": 369564,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-1012"
+}

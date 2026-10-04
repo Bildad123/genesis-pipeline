@@ -1,0 +1,92 @@
+{
+  "abgerufen_am": "2026-09-28T18:37:07",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "41271-0014",
+    "Content": "Landwirtschaftliche Betriebe mit Ackerland,\nLandwirtschaftlich genutzte Fläche: Bundesländer, Jahre (bis\n2024), Ackerkulturen, Größenklassen des Ackerlandes",
+    "Time": {
+      "From": "2010",
+      "To": "2024"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "41271",
+        "Content": "Erh. d. Bodennutzung landwirtschaftlicher Betriebe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BTR010",
+          "Content": "Landwirtschaftliche Betriebe",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        },
+        {
+          "Code": "FLC017",
+          "Content": "Landwirtschaftlich genutzte Fläche",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "KULA02",
+          "Content": "Ackerkulturen",
+          "Type": "Merkmal",
+          "Values": "7",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "ALDGR1",
+              "Content": "Größenklassen des Ackerlandes",
+              "Type": "Merkmal",
+              "Values": "9",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "JAHR",
+        "Content": "Jahr",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": {
+        "Code": "DLAND",
+        "Content": "Bundesländer",
+        "Type": "Merkmal",
+        "Values": "16",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "13.07.2026 16:21:01h"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:18:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "22621",
+    "Content": "Statistik der gesetzlichen Krankenversicherung",
+    "Cubes": "2",
+    "Variables": "7",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Monatlich"
+      }
+    ],
+    "Information": "Statistik der gesetzlichen Krankenversicherung\n==============================================\n\nDie Gesetzliche Krankenversicherung (GKV) ist neben der\nRenten-, Arbeitslosen-, Unfall- und Pflegeversicherung\nBestandteil des deutschen Sozialversicherungssystems und\nTeil des deutschen Gesundheitssystems. Sie ist grundsätzlich\neine verpflichtende Versicherung für alle Personen in\nDeutschland, die nicht versicherungsfrei eingestuft werden\nund die keinen anderweitigen Anspruch auf Absicherung im\nKrankheitsfall haben. Die Mitgliedschaft kann unter\nbestimmten Voraussetzungen auch freiwillig erworben werden.\n\nAufgabe der gesetzlichen Krankenversicherung ist es, die\nGesundheit der Versicherten zu erhalten, wiederherzustellen\noder ihren Gesundheitszustand zu bessern. Dazu gehört auch,\nKrankheitsbeschwerden zu lindern. Von den Krankenkassen\nwerden die Aufgaben der Gesetzlichen Krankenversicherung\nnach Maßgabe des SGB V wahrgenommen.\n\nDer Krankenversicherungsschutz in der GKV kann im Rahmen\neiner Pflichtmitgliedschaft (insbesondere Arbeitnehmer und\nRentner), durch eine Familienversicherung oder als\nfreiwillige Versicherung bestehen.",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

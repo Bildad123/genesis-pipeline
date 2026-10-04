@@ -1,0 +1,28 @@
+{
+  "tabelle": "81511-0003",
+  "titel": "Input-Output-Tabelle (Revision 2014) - Inländische Produktion (Herstellungspreise): Deutschland, Jahre (bis 2015)",
+  "zeitraum": "2010 - 2015",
+  "statistik": "81511",
+  "alle_statistiken": [
+    "81511"
+  ],
+  "stand_genesis": "28.12.2022 17:20:43h",
+  "abgerufen_am": "2026-09-28T21:12:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81511-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81511-0003_flatfile.csv": "a4836bd498b78cd46c8a32d96db12a6e5bef803a8ccf072047069df02feb17ef"
+  },
+  "bytes": 2592235,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81511/table/81511-0003"
+}

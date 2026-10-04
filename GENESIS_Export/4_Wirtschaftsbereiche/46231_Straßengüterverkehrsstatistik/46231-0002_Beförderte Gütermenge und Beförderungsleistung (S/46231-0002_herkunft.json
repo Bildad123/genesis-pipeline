@@ -1,0 +1,28 @@
+{
+  "tabelle": "46231-0002",
+  "titel": "Beförderte Gütermenge und Beförderungsleistung (Straßengüterverkehr): Deutschland, Monate, Verkehrswege",
+  "zeitraum": "Januar 1998 - März 2026",
+  "statistik": "46231",
+  "alle_statistiken": [
+    "46231"
+  ],
+  "stand_genesis": "28.12.2022 20:01:59h",
+  "abgerufen_am": "2026-09-28T19:21:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46231-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46231-0002_flatfile.csv": "6fd643d8049b612a691d84559171b6401607aaff2785351ef5bfa3d276760fc8"
+  },
+  "bytes": 65343,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46231/table/46231-0002"
+}

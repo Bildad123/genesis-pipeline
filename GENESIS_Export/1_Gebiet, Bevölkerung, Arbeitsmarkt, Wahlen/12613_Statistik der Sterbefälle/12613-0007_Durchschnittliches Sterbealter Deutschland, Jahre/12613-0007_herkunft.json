@@ -1,0 +1,28 @@
+{
+  "tabelle": "12613-0007",
+  "titel": "Durchschnittliches Sterbealter: Deutschland, Jahre, Geschlecht",
+  "zeitraum": "1956 - 2025",
+  "statistik": "12613",
+  "alle_statistiken": [
+    "12613"
+  ],
+  "stand_genesis": "18.08.2023 11:42:55h",
+  "abgerufen_am": "2026-09-28T16:54:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12613-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12613-0007_flatfile.csv": "380f9ea428b335dc2e03378953e8a84bcd01b36127d8ae8546065128f3e98f03"
+  },
+  "bytes": 35852,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12613/table/12613-0007"
+}

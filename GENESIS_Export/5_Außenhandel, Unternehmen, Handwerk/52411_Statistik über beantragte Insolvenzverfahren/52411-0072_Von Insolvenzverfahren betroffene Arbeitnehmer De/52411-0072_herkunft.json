@@ -1,0 +1,28 @@
+{
+  "tabelle": "52411-0072",
+  "titel": "Von Insolvenzverfahren betroffene Arbeitnehmer: Deutschland, Jahre, Wirtschaftszweige (Abschnitte)",
+  "zeitraum": "2008 - 2025",
+  "statistik": "52411",
+  "alle_statistiken": [
+    "52411"
+  ],
+  "stand_genesis": "17.08.2023 14:43:37h",
+  "abgerufen_am": "2026-09-28T20:14:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52411-0072",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52411-0072_flatfile.csv": "c57091055c80a1b5c8738b8b9eb4fcbd15b187d49b65c876bf1188203a1e36a1"
+  },
+  "bytes": 5137,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52411/table/52411-0072"
+}

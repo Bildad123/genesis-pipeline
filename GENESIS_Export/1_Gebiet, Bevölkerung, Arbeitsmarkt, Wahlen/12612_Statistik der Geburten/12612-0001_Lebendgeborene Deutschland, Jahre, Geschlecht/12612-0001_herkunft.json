@@ -1,0 +1,28 @@
+{
+  "tabelle": "12612-0001",
+  "titel": "Lebendgeborene: Deutschland, Jahre, Geschlecht",
+  "zeitraum": "1950 - 2025",
+  "statistik": "12612",
+  "alle_statistiken": [
+    "12612"
+  ],
+  "stand_genesis": "27.02.2024 11:32:15h",
+  "abgerufen_am": "2026-09-28T16:51:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12612-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12612-0001_flatfile.csv": "75f1ab6d575d8bcb16f3c1af0cdceffe5f792caf7d95c5ddec34a12f16f7fa82"
+  },
+  "bytes": 34818,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12612/table/12612-0001"
+}

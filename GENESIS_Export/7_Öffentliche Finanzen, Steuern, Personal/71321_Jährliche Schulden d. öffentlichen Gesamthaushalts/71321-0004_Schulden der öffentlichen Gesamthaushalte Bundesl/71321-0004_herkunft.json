@@ -1,0 +1,28 @@
+{
+  "tabelle": "71321-0004",
+  "titel": "Schulden der öffentlichen Gesamthaushalte: Bundesländer, Stichtag (31.12.2006-31.12.2009), Körperschaftsgruppen, Haushalte, Schuldenarten",
+  "zeitraum": "31.12.2006 - 31.12.2009",
+  "statistik": "71321",
+  "alle_statistiken": [
+    "71321"
+  ],
+  "stand_genesis": "28.12.2022 19:08:33h",
+  "abgerufen_am": "2026-09-28T20:50:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71321-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71321-0004_flatfile.csv": "9d95ecadf92b7f81b4e2642c44c419a569ac56bcf5f8d53e3520985727f00fbc"
+  },
+  "bytes": 239432,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71321/table/71321-0004"
+}

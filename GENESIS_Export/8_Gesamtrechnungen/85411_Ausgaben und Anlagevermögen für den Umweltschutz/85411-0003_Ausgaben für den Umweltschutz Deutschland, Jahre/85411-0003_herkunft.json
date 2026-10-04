@@ -1,0 +1,28 @@
+{
+  "tabelle": "85411-0003",
+  "titel": "Ausgaben für den Umweltschutz: Deutschland, Jahre, Umweltbereiche",
+  "zeitraum": "1996 - 2010",
+  "statistik": "85411",
+  "alle_statistiken": [
+    "85411"
+  ],
+  "stand_genesis": "28.12.2022 17:27:42h",
+  "abgerufen_am": "2026-09-28T21:15:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85411-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85411-0003_flatfile.csv": "b2c8761ce5b51711521df3c69b9f28de72af060520295d81e31f6f9e99cb85e5"
+  },
+  "bytes": 26279,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85411/table/85411-0003"
+}

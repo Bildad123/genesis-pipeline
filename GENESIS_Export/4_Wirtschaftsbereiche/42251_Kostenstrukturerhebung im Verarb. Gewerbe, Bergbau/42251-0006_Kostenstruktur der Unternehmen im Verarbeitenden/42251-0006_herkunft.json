@@ -1,0 +1,28 @@
+{
+  "tabelle": "42251-0006",
+  "titel": "Kostenstruktur der Unternehmen im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2008 2-4-Steller Hierarchie)",
+  "zeitraum": "2008 - 2020",
+  "statistik": "42251",
+  "alle_statistiken": [
+    "42251"
+  ],
+  "stand_genesis": "28.12.2022 18:29:47h",
+  "abgerufen_am": "2026-09-28T19:01:19",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42251-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42251-0006_flatfile.csv": "661e114422a540eced38d97d66c939da772925d783dd4c8b5e964d5cb64d9c42"
+  },
+  "bytes": 1233023,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42251/table/42251-0006"
+}

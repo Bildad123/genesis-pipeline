@@ -1,0 +1,86 @@
+{
+  "abgerufen_am": "2026-09-28T19:29:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "46331-0024",
+    "Content": "Schiffsankünfte: Bundesländer mit Seehäfen, Jahre,\nSchiffsart, Bruttoraumzahlklasse",
+    "Time": {
+      "From": "2001",
+      "To": "2025"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "46331",
+        "Content": "Seeverkehrsstatistik",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "SCF002",
+            "Content": "Schiffsankünfte",
+            "Type": "Merkmal",
+            "Values": "-1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": null,
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "DLANDS",
+          "Content": "Bundesländer mit Seehäfen",
+          "Type": "Merkmal",
+          "Values": "6",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "SCFAT1",
+              "Content": "Schiffsart",
+              "Type": "Merkmal",
+              "Values": "12",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "SCFBR1",
+                  "Content": "Bruttoraumzahlklasse",
+                  "Type": "Merkmal",
+                  "Values": "22",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "28.06.2023 11:42:02h"
+  }
+}

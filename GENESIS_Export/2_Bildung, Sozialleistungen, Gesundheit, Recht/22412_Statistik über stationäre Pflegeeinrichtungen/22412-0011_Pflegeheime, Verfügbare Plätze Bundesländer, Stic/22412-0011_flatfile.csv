@@ -1,0 +1,137 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-PRIV;Privat;1235;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-PRIV;Privat;72830;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;8792;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;524931;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-PRIV;Privat;1182;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-PRIV;Privat;62461;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;523;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;32325;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-PRIV;Privat;248;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-PRIV;Privat;18644;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;1350;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;70259;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-PRIV;Privat;752;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-PRIV;Privat;45811;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;99;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;6746;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;;Insgesamt;3252;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;;Insgesamt;199000;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;96;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;4117;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;;Insgesamt;582;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;;Insgesamt;46559;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;;Insgesamt;693;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;;Insgesamt;40802;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-PRIV;Privat;429;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-PRIV;Privat;26459;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-PRIV;Privat;6996;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-PRIV;Privat;407803;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;;Insgesamt;2049;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;;Insgesamt;120050;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-OEFF;Öffentlich;717;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-OEFF;Öffentlich;56217;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-OEFF;Öffentlich;165;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-OEFF;Öffentlich;14423;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;;Insgesamt;2146;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;;Insgesamt;139595;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;44;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;3191;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-OEFF;Öffentlich;27;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-OEFF;Öffentlich;1723;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-OEFF;Öffentlich;13;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-OEFF;Öffentlich;936;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-OEFF;Öffentlich;93;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-OEFF;Öffentlich;8683;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-PRIV;Privat;230;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-PRIV;Privat;11608;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;;Insgesamt;388;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;;Insgesamt;32879;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-PRIV;Privat;515;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-PRIV;Privat;27978;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;338;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;17895;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;372;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;17377;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;575;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;31776;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;;Insgesamt;531;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;;Insgesamt;26043;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-PRIV;Privat;260;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-PRIV;Privat;13342;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;;Insgesamt;756;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;;Insgesamt;37530;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-PRIV;Privat;.;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-PRIV;Privat;.;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;121;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;8570;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;52;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;4031;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;17;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;1436;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-OEFF;Öffentlich;26;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-OEFF;Öffentlich;2148;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;1229;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;79361;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-PRIV;Privat;104;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-PRIV;Privat;10682;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-PRIV;Privat;.;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-PRIV;Privat;.;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-OEFF;Öffentlich;24;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-OEFF;Öffentlich;2711;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;1977;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;127856;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-PRIV;Privat;523;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-PRIV;Privat;32778;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;321;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;26979;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-PRIV;Privat;568;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-PRIV;Privat;31424;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;;Insgesamt;1095;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;;Insgesamt;68371;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;237;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;12620;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;;Insgesamt;2059;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;;Insgesamt;110499;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;770;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;44029;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;;Insgesamt;16505;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;;Insgesamt;988951;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;;Insgesamt;206;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;;Insgesamt;17785;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;;Insgesamt;150;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;;Insgesamt;7609;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;3;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;357;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-OEFF;Öffentlich;141;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-OEFF;Öffentlich;8816;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-OEFF;Öffentlich;49;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-OEFF;Öffentlich;3268;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-PRIV;Privat;386;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-PRIV;Privat;17480;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-PRIV;Privat;236;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-PRIV;Privat;10565;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;;Insgesamt;213;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;;Insgesamt;14638;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;272;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;13853;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;;Insgesamt;594;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;;Insgesamt;31651;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;333;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;17419;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-PRIV;Privat;185;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-PRIV;Privat;16419;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;;Insgesamt;649;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;;Insgesamt;32155;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;179;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;13749;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;;Insgesamt;1142;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;;Insgesamt;63785;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-OEFF;Öffentlich;37;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-OEFF;Öffentlich;2631;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-OEFF;Öffentlich;23;Anzahl;PFL009;Pflegeheime
+22412;Statistik über stationäre Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-OEFF;Öffentlich;1625;Anzahl;PFL003;Verfügbare Plätze in Pflegeheimen

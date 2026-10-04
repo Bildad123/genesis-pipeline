@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0301",
+  "titel": "VGR des Bundes - Verfügbares Einkommen der privaten Haushalte: Deutschland, Jahre, Einkommensarten",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "13.09.2024 13:57:24h",
+  "abgerufen_am": "2026-09-28T21:11:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0301",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0301_flatfile.csv": "9b0511919ea941909c6ac318f3a9e610e7be597fdd3c1d678920feadc49480c2"
+  },
+  "bytes": 67064,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0301"
+}

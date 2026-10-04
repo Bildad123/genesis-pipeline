@@ -1,0 +1,28 @@
+{
+  "tabelle": "61121-0002",
+  "titel": "Harmonisierter Verbraucherpreisindex: Deutschland, Monate",
+  "zeitraum": "Januar 2025 - August 2026",
+  "statistik": "61121",
+  "alle_statistiken": [
+    "61121"
+  ],
+  "stand_genesis": "12.02.2026 11:52:53h",
+  "abgerufen_am": "2026-09-28T20:20:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61121-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61121-0002_flatfile.csv": "1eecead7f82e5fcfe4ddc4b533a1fc2a37c2ee504b592d053a33ce2e326ba702"
+  },
+  "bytes": 13551,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61121/table/61121-0002"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "79994-0008",
+  "titel": "Vergebene öffentliche Aufträge, Auftragsvolumen: Deutschland, Quartale, Auftraggeberebene, Unterschwelle, Auftragsart, Nachhaltigkeitskriterien",
+  "zeitraum": "1. Quartal 2021 - 4. Quartal 2024",
+  "statistik": "79994",
+  "alle_statistiken": [
+    "79994"
+  ],
+  "stand_genesis": "28.12.2022 19:36:00h",
+  "abgerufen_am": "2026-09-28T21:02:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "79994-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "79994-0008_flatfile.csv": "e5d3f0d5ed3b88edf684391cbbb6941a9094e2f950466b227535da681e30c856"
+  },
+  "bytes": 229143,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/79994/table/79994-0008"
+}

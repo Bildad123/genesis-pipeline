@@ -1,0 +1,28 @@
+{
+  "tabelle": "22131-0011",
+  "titel": "Empfänger von Leistungen nach dem 5. bis 9. Kapitel SGB XII: Bundesländer, Stichtag, Art der Hilfe, Geschlecht",
+  "zeitraum": "31.12.2005 - 31.12.2024",
+  "statistik": "22131",
+  "alle_statistiken": [
+    "22131"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:20:25",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22131-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22131-0011_flatfile.csv": "8f3f4685547ba3f6fdb87f5d4a7570677d9b746b8a796682e3a6659b3ae373c2"
+  },
+  "bytes": 1257152,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22131/table/22131-0011"
+}

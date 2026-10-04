@@ -1,0 +1,28 @@
+{
+  "tabelle": "32331-0004",
+  "titel": "Geprüfte Anlagen zum Umgang mit wassergefährdenden Stoffen: Deutschland, Jahre, Standort, Maßgebende wassergefährdende Stoffart",
+  "zeitraum": "2018 - 2023",
+  "statistik": "32331",
+  "alle_statistiken": [
+    "32331"
+  ],
+  "stand_genesis": "20.10.2020 11:47:51h",
+  "abgerufen_am": "2026-09-28T18:15:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32331-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32331-0004_flatfile.csv": "e8b3f472b8bddb762ea888b1c42dd5956daffb6cbcb52d6b30f820e5e65326bf"
+  },
+  "bytes": 74914,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32331/table/32331-0004"
+}

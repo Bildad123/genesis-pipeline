@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0012",
+  "titel": "Empfang und Versand von Gütern bzw. Ladeeinheiten (Seeverkehr): Deutschland, Jahre, Partnerländer, Umschlagsstärkste Seehäfen",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.06.2023 12:25:45h",
+  "abgerufen_am": "2026-09-28T19:28:58",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0012_flatfile.csv": "5d9f4530d376672e441a386cfe322b9f36b2ab095b92cc662d1a9a9fb7d51e78"
+  },
+  "bytes": 2434223,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0012"
+}

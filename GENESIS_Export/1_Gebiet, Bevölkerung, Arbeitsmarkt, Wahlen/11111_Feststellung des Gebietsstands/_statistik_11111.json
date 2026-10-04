@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:16:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "11111",
+    "Content": "Feststellung des Gebietsstands",
+    "Cubes": "3",
+    "Variables": "5",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Der Gebietsstand wird monatlich aufgrund von Meldungen der\nzuständigen Landesbehörden erfasst und zusammengestellt. Die\nBereitstellung des Gebietsstandes erfolgt im allgemeinen\njährlich.\n\nRechtsgrundlage:\nLandesspezifische Regelungen.\n\n© Statistisches Bundesamt, Wiesbaden 2003",
+    "Updated": "01.12.2025 13:21:28h"
+  }
+}

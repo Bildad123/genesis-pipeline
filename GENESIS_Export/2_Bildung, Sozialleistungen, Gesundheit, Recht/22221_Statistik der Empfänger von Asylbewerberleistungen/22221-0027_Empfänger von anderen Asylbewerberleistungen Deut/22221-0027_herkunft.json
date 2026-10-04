@@ -1,0 +1,28 @@
+{
+  "tabelle": "22221-0027",
+  "titel": "Empfänger von anderen Asylbewerberleistungen: Deutschland, Jahre, Geschlecht, Staatsangehörigkeit nach Kontinenten",
+  "zeitraum": "2020 - 2025",
+  "statistik": "22221",
+  "alle_statistiken": [
+    "22221"
+  ],
+  "stand_genesis": "28.07.2023 13:48:48h",
+  "abgerufen_am": "2026-09-28T17:26:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22221-0027",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22221-0027_flatfile.csv": "1c4873a390abe76cc0cc645985486cb0ab3b2f94bea4f43becfec67d9a26ff36"
+  },
+  "bytes": 5230,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22221/table/22221-0027"
+}

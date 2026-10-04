@@ -1,0 +1,28 @@
+{
+  "tabelle": "32214-0005",
+  "titel": "Kläranlagen mit biologischer Abwasserbehandlung: Deutschland, Jahre, Art der Klärschlammbehandlung",
+  "zeitraum": "2023 - 2024",
+  "statistik": "32214",
+  "alle_statistiken": [
+    "32214"
+  ],
+  "stand_genesis": "02.02.2026 14:23:00h",
+  "abgerufen_am": "2026-09-28T18:13:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32214-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32214-0005_flatfile.csv": "741597132aaa553c7aff1b16e7569fcf074a91b2b978e25268a06e2cda1d735c"
+  },
+  "bytes": 2776,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32214/table/32214-0005"
+}

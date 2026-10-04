@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0012",
+  "titel": "Nominallohnindex: Deutschland, Quartale, Geschlecht",
+  "zeitraum": "1. Quartal 2007 - 2. Quartal 2026",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "15.05.2023 13:52:53h",
+  "abgerufen_am": "2026-09-28T20:39:33",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0012_flatfile.csv": "fbde9a4b0ba8d6532ca3d8578b6ea8f7efe3c33ca9538878b16f033ee3b7a9a8"
+  },
+  "bytes": 7722,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0012"
+}

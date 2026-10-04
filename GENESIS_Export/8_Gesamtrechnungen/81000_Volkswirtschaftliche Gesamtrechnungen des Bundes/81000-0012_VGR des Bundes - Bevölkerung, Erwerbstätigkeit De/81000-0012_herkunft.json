@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0012",
+  "titel": "VGR des Bundes - Bevölkerung, Erwerbstätigkeit: Deutschland, Quartale, Original- und bereinigte Daten",
+  "zeitraum": "1. Quartal 1991 - 2. Quartal 2026",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "27.08.2024 15:09:12h",
+  "abgerufen_am": "2026-09-28T21:06:16",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0012_flatfile.csv": "ad47db84c94a18cc2d386dc283407fa774e2aef1d196a690a3e48c628938da56"
+  },
+  "bytes": 53034,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0012"
+}

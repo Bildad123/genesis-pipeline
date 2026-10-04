@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0030",
+  "titel": "Bruttostundenverdienste, Bruttomonatsverdienste: Deutschland, Stichmonat, Geschlecht, Berufe",
+  "zeitraum": "04/2022 - 04/2025",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "20.03.2023 15:08:06h",
+  "abgerufen_am": "2026-09-28T20:40:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0030",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0030_flatfile.csv": "b36b17f422558ec71d0c52de84ebfe0341734658ab21dc0295b27f568a1018ec"
+  },
+  "bytes": 4928557,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0030"
+}

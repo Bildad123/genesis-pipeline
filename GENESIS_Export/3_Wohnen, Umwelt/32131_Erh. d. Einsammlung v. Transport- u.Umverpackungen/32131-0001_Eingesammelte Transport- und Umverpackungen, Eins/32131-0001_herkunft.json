@@ -1,0 +1,28 @@
+{
+  "tabelle": "32131-0001",
+  "titel": "Eingesammelte Transport- und Umverpackungen, Einsammler: Deutschland, Jahre",
+  "zeitraum": "2001 - 2020",
+  "statistik": "32131",
+  "alle_statistiken": [
+    "32131"
+  ],
+  "stand_genesis": "28.12.2022 17:46:05h",
+  "abgerufen_am": "2026-09-28T18:10:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32131-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32131-0001_flatfile.csv": "8541f6c05a657b8ec98d99f22f6f6718e72cb599171262c149e32aa4a4b8bf6b"
+  },
+  "bytes": 6703,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32131/table/32131-0001"
+}

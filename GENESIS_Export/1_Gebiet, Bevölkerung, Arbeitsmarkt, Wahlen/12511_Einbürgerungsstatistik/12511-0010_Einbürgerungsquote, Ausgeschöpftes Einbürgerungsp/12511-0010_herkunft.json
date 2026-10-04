@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0010",
+  "titel": "Einbürgerungsquote, Ausgeschöpftes Einbürgerungspotential, Durchschnittsalter, Durchschnittliche Aufenthaltsdauer: Deutschland, Jahre, Staatsangehörigkeit",
+  "zeitraum": "2025 - 2025",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "10.09.2026 11:38:54h",
+  "abgerufen_am": "2026-09-28T16:41:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0010_flatfile.csv": "0f0d332d0ba67d7c5b6de183c2cffd64f55ff4988832bc6d4ff227c62e3df3e8"
+  },
+  "bytes": 204136,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0010"
+}

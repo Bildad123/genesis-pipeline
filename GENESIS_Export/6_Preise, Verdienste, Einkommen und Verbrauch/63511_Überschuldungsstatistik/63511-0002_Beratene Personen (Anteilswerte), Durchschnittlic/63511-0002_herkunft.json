@@ -1,0 +1,28 @@
+{
+  "tabelle": "63511-0002",
+  "titel": "Beratene Personen (Anteilswerte), Durchschnittliche Schulden: Deutschland, Jahre, Erwerbssituation, Sozioökonomische Merkmale",
+  "zeitraum": "2015 - 2025",
+  "statistik": "63511",
+  "alle_statistiken": [
+    "63511"
+  ],
+  "stand_genesis": "28.12.2022 17:08:06h",
+  "abgerufen_am": "2026-09-28T20:46:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "63511-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "63511-0002_flatfile.csv": "9453575845747a7589a0c1a67989b3cfd5cdfed46a728e871fa4940a93a5e96f"
+  },
+  "bytes": 30395,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/63511/table/63511-0002"
+}

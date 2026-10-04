@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9043",
+  "titel": "Familien, Paare, Alleinerziehende: Früheres Bundesgebiet/ Neue Länder, Jahre (bis 2019), Vorhandensein von Kindern",
+  "zeitraum": "04/1996 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:10h",
+  "abgerufen_am": "2026-09-28T16:33:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9043",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9043_flatfile.csv": "78e8d50bd5c66f687a46d051b9ac7eb8de81926c5084a418bc7639d6b5f955d5"
+  },
+  "bytes": 83044,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9043"
+}

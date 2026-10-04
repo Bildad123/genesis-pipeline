@@ -1,0 +1,449 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;21900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;155800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;1180;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;15900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;330600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;1210;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-3;Mastschweine;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-3;Mastschweine;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-1;Ferkel;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-1;Ferkel;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;8300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;16500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;1125900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;3070;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;10400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;460;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;1000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;17700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;;Insgesamt;1005700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;;Insgesamt;150;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;0;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;521400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;2310;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;344800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;1230;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;;Insgesamt;555500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;;Insgesamt;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;105800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;90;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;9200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;52100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;9200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;70200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;5100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;;Insgesamt;592200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;;Insgesamt;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;117500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;98000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;1150;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;10;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-1;Ferkel;26500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-1;Ferkel;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;12000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;284600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;1580;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;62300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;/;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;710;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-1;Ferkel;688100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-1;Ferkel;1290;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;100100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;550;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;;Insgesamt;528600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;;Insgesamt;110;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-1;Ferkel;258400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-1;Ferkel;170;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;12800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;0;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;;Insgesamt;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;;Insgesamt;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;1429700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;2440;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;15500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;990;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;8100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-1;Ferkel;489500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-1;Ferkel;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;21300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-1;Ferkel;329900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-1;Ferkel;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;10;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-1;Ferkel;208500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-1;Ferkel;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;7300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-1;Ferkel;100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-1;Ferkel;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-3;Mastschweine;600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-3;Mastschweine;10;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;86800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;52000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-1;Ferkel;97900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-1;Ferkel;170;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;1240300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;2720;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-3;Mastschweine;486200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-3;Mastschweine;1180;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;5200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;470800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;2170;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;119800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;370500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;1100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;214300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;320;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-1;Ferkel;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-1;Ferkel;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;12700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;420;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;65500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;6800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;140;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;30000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;12900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;140;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;68400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;153700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;90;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;;Insgesamt;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;;Insgesamt;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;104400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;58600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;186700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;350;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;68200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;48000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;;Insgesamt;2400800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;;Insgesamt;3100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;216900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;990;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-3;Mastschweine;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-3;Mastschweine;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;57000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;71800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;340;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;2682500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;3880;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-3;Mastschweine;34900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-3;Mastschweine;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-3;Mastschweine;1084800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-3;Mastschweine;2660;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;3287200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;3000;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-3;Mastschweine;452500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-3;Mastschweine;430;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;56000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;32200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;150;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;51500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;58700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;540;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;18300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;58500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;0;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;56600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;890;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;0;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;7300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;2400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;120;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;57000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;;Insgesamt;82400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;;Insgesamt;110;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;115100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;90;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;;Insgesamt;476800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;;Insgesamt;110;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;120500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-3;Mastschweine;242200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-3;Mastschweine;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;123800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-3;Mastschweine;170900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-3;Mastschweine;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-3;Mastschweine;118100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-3;Mastschweine;90;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;56500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;230;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-1;Ferkel;437400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-1;Ferkel;610;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;157100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;1180;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;;Insgesamt;5881400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;;Insgesamt;5010;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;163700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-3;Mastschweine;430;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;57100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;1020;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;1295300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;2110;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;98700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;550;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;42300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;890;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;49000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;/;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;140;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;10900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;120;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;30;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;61400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;170;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;3400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;120;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;48800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;;Insgesamt;354100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;;Insgesamt;470;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;242200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;1080;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;120300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;102900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-2;Jungschweine unter 50 kg Lebendgewicht,ohne Ferkel;80;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;20900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;66800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;390;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;1000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;23200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;20700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;150;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-1;Ferkel;1627900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-1;Ferkel;1530;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;31700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;940;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;/;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;460;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-4;Zuchtschweine;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-1;Ferkel;1891900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-1;Ferkel;1280;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;10800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;130;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;16900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;470;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;60600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;170;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;227600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;1050;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;;Insgesamt;6844900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;;Insgesamt;3420;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;18300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;;Insgesamt;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;;Insgesamt;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;1800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;14800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-1;Ferkel;199800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-1;Ferkel;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;9300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;209400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;350;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-1;Ferkel;250500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-1;Ferkel;60;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;49200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-1;Ferkel;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-1;Ferkel;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;22600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;270;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;26100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;30;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;367100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;1100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;206100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;1160;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;7800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;;Insgesamt;1000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;;Insgesamt;10;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;40600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;960;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;;Insgesamt;986700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;SCWK01;Schweinekategorien;;Insgesamt;470;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;3800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;70;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;300;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;0;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;1512700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;2420;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;113600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;1180;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;30900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;56500;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;660;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;41000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;200;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;10;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;1700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;940;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;27700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;910;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;6600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;3100;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-422;Andere trächtige Sauen;50;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;34000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-421;Jungsauen, zum 1. Mal trächtig;1070;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;3400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;760;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;1272000;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;3020;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;14600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;100;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;;Insgesamt;1240600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;;Insgesamt;1380;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;20400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;150;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;74400;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;SCWK01;Schweinekategorien;SCW-31;Mastschweine 50 bis unter 80 kg Lebendgewicht;390;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-41;Eber zur Zucht;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;449800;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;2200;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;187600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;SCWK01;Schweinekategorien;SCW-32;Mastschweine 80 bis unter 110 kg Lebendgewicht;1060;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;SCWK01;Schweinekategorien;SCW-424;Andere nicht trächtige Sauen;.;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;8700;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;40;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;0;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;SCWK01;Schweinekategorien;SCW-33;Mastschweine 110 kg und mehr Lebendgewicht;0;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;328900;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;SCWK01;Schweinekategorien;SCW-42;Zuchtsauen;1210;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;14600;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;830;Anzahl;BTR053;Betriebe mit Schweinehaltung
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;.;Anzahl;SCW001;Schweine
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;SCWK01;Schweinekategorien;SCW-423;Jungsauen, noch nicht trächtig;.;Anzahl;BTR053;Betriebe mit Schweinehaltung

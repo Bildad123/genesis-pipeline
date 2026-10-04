@@ -1,0 +1,28 @@
+{
+  "tabelle": "48112-0005",
+  "titel": "Unternehmen (EU), Provisionen, Kosten, Subventionen und weitere betriebswirtschaftliche Kennzahlen: Deutschland, Jahre, Wirtschaftszweige (WZ2008 1-/2-/3-/4-Steller)",
+  "zeitraum": "2018 - 2024",
+  "statistik": "48112",
+  "alle_statistiken": [
+    "48112"
+  ],
+  "stand_genesis": "21.07.2025 13:43:45h",
+  "abgerufen_am": "2026-09-28T19:40:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "48112-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "48112-0005_flatfile.csv": "913c143d6ece3a8bccf148b405cce6f4856ec33907fcec8b5797bfe8bc927ebb"
+  },
+  "bytes": 55016,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/48112/table/48112-0005"
+}

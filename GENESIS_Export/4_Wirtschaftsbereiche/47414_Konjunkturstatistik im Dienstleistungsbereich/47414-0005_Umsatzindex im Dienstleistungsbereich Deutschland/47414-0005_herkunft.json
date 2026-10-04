@@ -1,0 +1,28 @@
+{
+  "tabelle": "47414-0005",
+  "titel": "Umsatzindex im Dienstleistungsbereich: Deutschland, Monate, Preisarten, Original- und bereinigte Daten, Wirtschaftszweige",
+  "zeitraum": "Januar 2015 - Juni 2026",
+  "statistik": "47414",
+  "alle_statistiken": [
+    "47414"
+  ],
+  "stand_genesis": "28.12.2022 17:31:31h",
+  "abgerufen_am": "2026-09-28T19:34:56",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "47414-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "47414-0005_flatfile.csv": "b11a8443d22db94bc66195b657e40ed763fba0cd0af1f75455b8e7e07acabecc"
+  },
+  "bytes": 5046567,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/47414/table/47414-0005"
+}

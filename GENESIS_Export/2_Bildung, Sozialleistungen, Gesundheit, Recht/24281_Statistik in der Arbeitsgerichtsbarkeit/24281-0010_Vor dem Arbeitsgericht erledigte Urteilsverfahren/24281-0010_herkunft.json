@@ -1,0 +1,28 @@
+{
+  "tabelle": "24281-0010",
+  "titel": "Vor dem Arbeitsgericht erledigte Urteilsverfahren: Bundesländer, Jahre, Art der Erledigung",
+  "zeitraum": "2018 - 2024",
+  "statistik": "24281",
+  "alle_statistiken": [
+    "24281"
+  ],
+  "stand_genesis": "23.11.2023 14:05:29h",
+  "abgerufen_am": "2026-09-28T18:00:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24281-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24281-0010_flatfile.csv": "3ce701414badc749b4ade09677a2c40813c4364468b3769f4b2dacbab293dd4d"
+  },
+  "bytes": 33992,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24281/table/24281-0010"
+}

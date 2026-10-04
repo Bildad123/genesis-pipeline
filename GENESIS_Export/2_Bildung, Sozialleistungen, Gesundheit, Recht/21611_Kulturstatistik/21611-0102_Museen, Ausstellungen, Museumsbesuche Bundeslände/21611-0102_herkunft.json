@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0102",
+  "titel": "Museen, Ausstellungen, Museumsbesuche: Bundesländer, Jahre",
+  "zeitraum": "2002 - 2023",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "28.12.2022 14:31:39h",
+  "abgerufen_am": "2026-09-28T17:15:05",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0102",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0102_flatfile.csv": "41f2954631989cbc60631c248ac3f19a7b5f1365667e637a6e0ea76a98b1a411"
+  },
+  "bytes": 108216,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0102"
+}

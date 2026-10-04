@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-9036",
+  "titel": "Bevölkerung in Privathaushalten: Deutschland, Jahre (bis 2019), Haushaltsgröße, Altersgruppen",
+  "zeitraum": "04/1972 - 2019",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:10h",
+  "abgerufen_am": "2026-09-28T16:32:38",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-9036",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-9036_flatfile.csv": "1e90eb572fab441d21c3db2c0abe30a050b8dd5770b69eee59c5b186f89da01b"
+  },
+  "bytes": 306854,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-9036"
+}

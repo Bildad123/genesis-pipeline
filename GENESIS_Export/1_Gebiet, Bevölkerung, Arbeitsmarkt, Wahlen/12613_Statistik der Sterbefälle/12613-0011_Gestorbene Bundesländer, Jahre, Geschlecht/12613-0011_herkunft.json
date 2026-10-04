@@ -1,0 +1,28 @@
+{
+  "tabelle": "12613-0011",
+  "titel": "Gestorbene: Bundesländer, Jahre, Geschlecht",
+  "zeitraum": "1990 - 2025",
+  "statistik": "12613",
+  "alle_statistiken": [
+    "12613"
+  ],
+  "stand_genesis": "28.12.2022 17:01:14h",
+  "abgerufen_am": "2026-09-28T16:54:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12613-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12613-0011_flatfile.csv": "23236519e051f74f3978ca7ccffa2b2e79c8abeeaf48151f8fedf81717808e89"
+  },
+  "bytes": 247166,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12613/table/12613-0011"
+}

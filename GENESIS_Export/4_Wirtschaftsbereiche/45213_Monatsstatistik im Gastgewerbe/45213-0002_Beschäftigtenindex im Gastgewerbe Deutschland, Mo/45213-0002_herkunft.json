@@ -1,0 +1,28 @@
+{
+  "tabelle": "45213-0002",
+  "titel": "Beschäftigtenindex im Gastgewerbe: Deutschland, Monate/Quartale/Halbjahre, Wirtschaftszweige",
+  "zeitraum": "Januar 1994 - Juli 2026",
+  "statistik": "45213",
+  "alle_statistiken": [
+    "45213"
+  ],
+  "stand_genesis": "25.08.2026 12:47:30h",
+  "abgerufen_am": "2026-09-28T19:11:48",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45213-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45213-0002_flatfile.csv": "1de4aa4368780ac22afece5e65b65631125601c069d7786f3a9a1c19ddd316ac"
+  },
+  "bytes": 74175,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45213/table/45213-0002"
+}

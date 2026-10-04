@@ -1,0 +1,107 @@
+{
+  "abgerufen_am": "2026-09-28T19:07:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "44111-0011",
+    "Content": "Baugewerblicher Umsatz (Wert- und Volumenindex) im\nBauhauptgewerbe (Betriebe mit 20 u.m. tätigen Personen):\nDeutschland, Monate, Bauarten",
+    "Time": {
+      "From": "1995",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "44111",
+        "Content": "Monatsbericht im Bauhauptgewerbe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "BTRAG1",
+            "Content": "Betriebsabgrenzung",
+            "Type": "Merkmal",
+            "Values": "2",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "DINSG",
+                "Content": "Deutschland insgesamt",
+                "Type": "Merkmal",
+                "Values": "1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BAUAX1",
+          "Content": "Bauarten",
+          "Type": "Merkmal",
+          "Values": "11",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UMS104",
+              "Content": "Baugewerblicher Umsatz: Wertindex",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "UMS105",
+              "Content": "Baugewerblicher Umsatz: Volumenindex",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "MONAT",
+              "Content": "Monate",
+              "Type": "Merkmal",
+              "Values": "12",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": null
+    },
+    "Updated": "17.08.2023 11:45:51h"
+  }
+}

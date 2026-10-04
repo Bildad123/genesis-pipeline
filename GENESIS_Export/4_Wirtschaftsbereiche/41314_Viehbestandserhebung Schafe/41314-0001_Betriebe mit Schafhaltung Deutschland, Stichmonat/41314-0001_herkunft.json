@@ -1,0 +1,28 @@
+{
+  "tabelle": "41314-0001",
+  "titel": "Betriebe mit Schafhaltung: Deutschland, Stichmonat, Schafkategorien",
+  "zeitraum": "11/2011 - 11/2025",
+  "statistik": "41314",
+  "alle_statistiken": [
+    "41314"
+  ],
+  "stand_genesis": "06.02.2023 13:37:18h",
+  "abgerufen_am": "2026-09-28T18:39:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41314-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41314-0001_flatfile.csv": "da80709e87944084af90acf5920dff80aa627ea787db83987b89cdb12e53d9b1"
+  },
+  "bytes": 3048,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41314/table/41314-0001"
+}

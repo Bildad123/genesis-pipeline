@@ -1,0 +1,28 @@
+{
+  "tabelle": "43311-0002",
+  "titel": "Elektrizitätserzeugung, Nettowärmeerzeugung, Brennstoffeinsatz: Deutschland, Monate, Energieträger",
+  "zeitraum": "Januar 2002 - Juni 2026",
+  "statistik": "43311",
+  "alle_statistiken": [
+    "43311"
+  ],
+  "stand_genesis": "28.12.2022 17:05:14h",
+  "abgerufen_am": "2026-09-28T19:04:44",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "43311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "43311-0002_flatfile.csv": "e12b797d30476434b84e2192bc7c8ba739c1c66e4ae82628a78dc0f29d5d58e7"
+  },
+  "bytes": 590048,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/43311/table/43311-0002"
+}

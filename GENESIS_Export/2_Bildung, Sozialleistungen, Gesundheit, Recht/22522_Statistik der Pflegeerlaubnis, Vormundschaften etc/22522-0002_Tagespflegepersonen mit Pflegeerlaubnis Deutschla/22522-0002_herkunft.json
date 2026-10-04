@@ -1,0 +1,28 @@
+{
+  "tabelle": "22522-0002",
+  "titel": "Tagespflegepersonen mit Pflegeerlaubnis: Deutschland, Stichtag",
+  "zeitraum": "31.12.2012 - 31.12.2025",
+  "statistik": "22522",
+  "alle_statistiken": [
+    "22522"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:33:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22522-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22522-0002_flatfile.csv": "fca8be108012f99fea600bd484c8c22a9896447b9732c093344743bd347662d8"
+  },
+  "bytes": 2796,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22522/table/22522-0002"
+}

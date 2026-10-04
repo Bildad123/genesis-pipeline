@@ -1,0 +1,28 @@
+{
+  "tabelle": "85331-0002",
+  "titel": "Ökosystemleistungen: Deutschland, Jahre, Verwendung der Ökosystemleistungen",
+  "zeitraum": "2015 - 2023",
+  "statistik": "85331",
+  "alle_statistiken": [
+    "85331"
+  ],
+  "stand_genesis": "30.09.2025 11:52:16h",
+  "abgerufen_am": "2026-09-28T21:14:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85331-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85331-0002_flatfile.csv": "c28b77d4f613af9d7ceebfafb80c4e09ad73cf9c2906d6cbee7497a523f8298d"
+  },
+  "bytes": 7831,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85331/table/85331-0002"
+}

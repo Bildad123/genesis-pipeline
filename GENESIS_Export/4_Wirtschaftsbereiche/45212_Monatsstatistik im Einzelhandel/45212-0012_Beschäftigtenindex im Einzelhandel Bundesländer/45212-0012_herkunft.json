@@ -1,0 +1,28 @@
+{
+  "tabelle": "45212-0012",
+  "titel": "Beschäftigtenindex im Einzelhandel: Bundesländer, Monate/Quartale/Halbjahre",
+  "zeitraum": "Januar 2021 - Juni 2026",
+  "statistik": "45212",
+  "alle_statistiken": [
+    "45212"
+  ],
+  "stand_genesis": "26.06.2026 16:54:51h",
+  "abgerufen_am": "2026-09-28T19:11:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45212-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45212-0012_flatfile.csv": "016270aff92d334f4981450adf9dbe0d43715372c7daa40dd57c6428354f9081"
+  },
+  "bytes": 56038,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45212/table/45212-0012"
+}

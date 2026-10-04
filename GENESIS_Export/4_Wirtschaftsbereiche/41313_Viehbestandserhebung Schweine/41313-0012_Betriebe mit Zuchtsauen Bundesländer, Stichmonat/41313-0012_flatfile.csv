@@ -1,0 +1,225 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;100;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;2400;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;50;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;8600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;5600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;;Insgesamt;1180;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;;Insgesamt;155800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;1500;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;/;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;/;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;310;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;108000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;23200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;57900;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;50;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;16000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;30;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;500;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;110;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;2600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;120;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;76300;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;80;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;27600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;1100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;2200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;/;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;/;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;300;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;22900;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;;Insgesamt;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;;Insgesamt;100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;/;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;/;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;900;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;100;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;7500;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;5500;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;;Insgesamt;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;;Insgesamt;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;11900;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;390;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;71000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;160;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;12100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;6200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;;Insgesamt;60;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;;Insgesamt;56000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;9300;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;;Insgesamt;1210;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;;Insgesamt;328900;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;1200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;2800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;320;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;109000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;40;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;6800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;300;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;;Insgesamt;50;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;;Insgesamt;52000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;3000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;/;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;44300;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;100;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;7600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;3700;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;30;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;48800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;;Insgesamt;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;;Insgesamt;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;7700;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;;Insgesamt;150;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;;Insgesamt;20400;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;290;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;6600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;9400;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;45400;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;120;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0250B0499;250 bis 499 Tiere;39300;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0050B0099;50 bis 99 Tiere;1500;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;;Insgesamt;50;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;;Insgesamt;58500;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;;Insgesamt;1100;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;;Insgesamt;367100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;470;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;79800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;4300;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;40;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;108600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;;Insgesamt;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;;Insgesamt;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;0;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;60;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;06;Hessen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;900;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;1000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;;Insgesamt;50;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;;Insgesamt;5100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;12600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;6500;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;1100;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;11;Berlin;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;07;Rheinland-Pfalz;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;;Insgesamt;60;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;;Insgesamt;68200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;60;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;86800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;;Insgesamt;70;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;;Insgesamt;119800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;/;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;12;Brandenburg;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;/;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;450;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;09;Bayern;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;73000;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;0;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;15;Sachsen-Anhalt;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;900;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;;Insgesamt;550;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;;Insgesamt;98700;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;04;Bremen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;;Insgesamt;170;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;01;Schleswig-Holstein;TIEB07;Bestandsgrößenklassen;;Insgesamt;60600;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;20;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;14;Sachsen;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;43200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;140;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;03;Niedersachsen;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;91300;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;10;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;16;Thüringen;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;1800;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;.;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;02;Hamburg;TIEB07;Bestandsgrößenklassen;TIE1000UM;1000 und mehr Tiere;.;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;230;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;08;Baden-Württemberg;TIEB07;Bestandsgrößenklassen;TIE0100B0249;100 bis 249 Tiere;39200;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;-;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;10;Saarland;TIEB07;Bestandsgrößenklassen;TIE0500B0999;500 bis 999 Tiere;-;Anzahl;SCW002;Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;110;Anzahl;BTR054;Betriebe mit Zuchtsauen
+41313;Viehbestandserhebung Schweine;SMONAT;Stichmonat;2026-05P1M;DLAND;Bundesländer;05;Nordrhein-Westfalen;TIEB07;Bestandsgrößenklassen;TIE0001B0049;1 bis 49 Tiere;2800;Anzahl;SCW002;Zuchtsauen

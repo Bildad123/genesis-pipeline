@@ -1,0 +1,28 @@
+{
+  "tabelle": "42113-0001",
+  "titel": "Reichweiten der Auftragsbestände im Verarbeitenden Gewerbe: Deutschland, Monate, Wirtschaftszweige (Hauptgruppen)",
+  "zeitraum": "Januar 2015 - Juli 2026",
+  "statistik": "42113",
+  "alle_statistiken": [
+    "42113"
+  ],
+  "stand_genesis": "28.12.2022 17:42:00h",
+  "abgerufen_am": "2026-09-28T18:52:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42113-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42113-0001_flatfile.csv": "2a870e1f1453f8f9586d55a3c16718955989440bf7a08c1e1f7500224b58b9c9"
+  },
+  "bytes": 27013,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42113/table/42113-0001"
+}

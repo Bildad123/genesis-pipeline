@@ -1,0 +1,307 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;35454327;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;15203947;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;393177102;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;147061758;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;38200664;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;15913521;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,4;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;338722986;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;116390615;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,9;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;382618608;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;134577789;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;436215153;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;166779328;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;347423487;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;113736529;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,1;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;296715586;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;94185874;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;495615855;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;190944421;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;80846597;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;35594836;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;307067251;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;105437613;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,9;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;68818451;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;30407319;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;279441738;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;75409481;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;277161393;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;84842840;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;450706650;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;163040375;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;56539655;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;24886141;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;329499876;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;118710235;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;45363394;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;20134221;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;356544025;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;131807870;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;42642003;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;18991993;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;80901511;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;34800708;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;329365467;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;107202089;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,1;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;405693148;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;151381204;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;323662216;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;93956585;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,4;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;34708026;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;14347059;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,4;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;36354308;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;15835915;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;361846064;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;129857436;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;407202952;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;152717958;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;89922707;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;39563217;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;338414229;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;112578211;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,0;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;304781484;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;94744536;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;447271335;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;171625978;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;79671128;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;34971458;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;293359592;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;96256394;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,0;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;406208032;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;148466341;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;63677226;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;28351523;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;313005396;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;108060524;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,9;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;288181039;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;79108600;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;290701207;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;90081434;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;487109543;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;183267049;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;369545051;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;132946665;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;338384501;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;122310639;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;54778813;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;24419823;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;68088042;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;28462586;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,4;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;366424738;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;136031142;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;41698643;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;18392337;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;314411422;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;101351968;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,1;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;314226500;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;89899860;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,5;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;34784762;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;14490379;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,4;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;37250029;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;16509128;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;351184690;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;125227420;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;411863194;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;155188324;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;338522190;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;110995701;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,0;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;270295331;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;85695981;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;459444606;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;178230886;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;410744045;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;152256945;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;306658055;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;94984623;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;87686506;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;38880866;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;295681581;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;99053291;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,0;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;75579880;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;33004992;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;313870072;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;108607600;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,9;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;60305016;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;26874811;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;280243569;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;74337211;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;285790731;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;80322917;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;302313980;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;98145085;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,1;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;496031775;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;189761887;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;368689667;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;132830427;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;52953499;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;23570975;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;339942820;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;123643519;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;40642776;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;17968215;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;83601037;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;37222581;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;308322608;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;98013124;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,1;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;375569280;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;140779378;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;31005810;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;11687863;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;312079450;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;88032614;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,5;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;35481177;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;14847985;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,4;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;38664260;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;17120655;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;380275462;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;139991210;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;343924743;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;120552588;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,9;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;424055900;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;160784874;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;279196061;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;85145974;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;347444386;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;112844634;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,1;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;478040637;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;185082401;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;413810205;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;154800772;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;83875326;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;37451508;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;297879414;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;93027486;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;71920374;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;31544805;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;298231191;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;101656445;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,9;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;318444233;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;90250732;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,5;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;277371424;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;73685555;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;271968300;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;82177209;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;3,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;310201871;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;96833837;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;497411242;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;192023353;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;319970446;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;113116399;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,8;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;54819595;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;24222827;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;348476020;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;127779882;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;48243162;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;21499297;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,2;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;390354131;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;146201535;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ01;Wohnsitz im Inland;2,7;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;40786331;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;17860011;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;85287730;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;37504942;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,3;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;321245058;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;95526864;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;;Insgesamt;3,4;Tage;GAST03;Durchschnittliche Aufenthaltsdauer
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;32018649;Anzahl;GAST02;Übernachtungen
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;12449104;Anzahl;GAST01;Ankünfte
+45412;Monatserhebung im Tourismus;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;HANWS1;Wohnsitz der Gäste;WOHNSITZ02;Wohnsitz im Ausland;2,6;Tage;GAST03;Durchschnittliche Aufenthaltsdauer

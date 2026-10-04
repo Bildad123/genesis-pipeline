@@ -1,0 +1,28 @@
+{
+  "tabelle": "62221-0004",
+  "titel": "Indizes der Tarifverdienste, Wochenarbeitszeit: Früheres Bundesgebiet/Neue Länder, Quartale, Wirtschaftszweige",
+  "zeitraum": "1. Quartal 1995 - 2. Quartal 2026",
+  "statistik": "62221",
+  "alle_statistiken": [
+    "62221"
+  ],
+  "stand_genesis": "28.12.2022 17:59:58h",
+  "abgerufen_am": "2026-09-28T20:37:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62221-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62221-0004_flatfile.csv": "6ab95facb60a53d41dc7f25e7ad240f731b21d220889727b0e5924fdabe5ea83"
+  },
+  "bytes": 4066937,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62221/table/62221-0004"
+}

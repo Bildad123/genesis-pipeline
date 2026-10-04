@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:19:18",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "24911",
+    "Content": "Polizeiliche Kriminalstatistik",
+    "Cubes": "2",
+    "Variables": "7",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Das Bundeskriminalamt veröffentlicht in der Polizeilichen\nKriminalstatistik jährlich Angaben über bekannt gewordene\nund aufgeklärte Straftaten sowie über polizeilich ermittelte\nTatverdächtige, jeweils für einzelne Deliktarten und\nergänzende kriminologische Merkmale. Es werden alle\nVerbrechen und Vergehen mit Ausnahme der Staatsschutzdelikte\nund der Vergehen im Straßenverkehr nachgewiesen.\n\nEine Straftat gilt als aufgeklärt, wenn nach dem\npolizeilichen Ermittlungsergebnis ein mindestens namentlich\nbekannter oder auf frischer Tat ergriffener Tatverdächtiger\nfestgestellt worden ist. Tatverdächtig ist jeder, der\naufgrund des polizeilichen Ermittlungsergebnisses zumindest\nhinreichend verdächtig ist, eine mit Strafe bedrohte\nHandlung begangen zu haben.\n\nRechtsgrundlage:\n§ 2 Abs. 6 Nr. 2 BKAG; Polizeigesetze der Länder.\n\n© Statistisches Bundesamt, Wiesbaden 2003",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "52111-0013",
+  "titel": "Überlebende Unternehmen: Deutschland, Jahre, Wirtschaftszweige, Zeitpunkt der Unternehmensgründung",
+  "zeitraum": "2018 - 2024",
+  "statistik": "52111",
+  "alle_statistiken": [
+    "52111"
+  ],
+  "stand_genesis": "28.12.2022 17:12:43h",
+  "abgerufen_am": "2026-09-28T20:05:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "52111-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "52111-0013_flatfile.csv": "89443ca3c82323913adfe67352a25ff80cc658cdff7df03afcf48a361bdc6d15"
+  },
+  "bytes": 392876,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/52111/table/52111-0013"
+}

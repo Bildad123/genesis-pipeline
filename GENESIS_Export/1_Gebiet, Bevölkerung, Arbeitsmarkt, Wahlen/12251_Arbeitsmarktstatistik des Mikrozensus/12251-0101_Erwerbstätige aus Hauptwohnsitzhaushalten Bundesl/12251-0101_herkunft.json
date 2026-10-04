@@ -1,0 +1,28 @@
+{
+  "tabelle": "12251-0101",
+  "titel": "Erwerbstätige aus Hauptwohnsitzhaushalten: Bundesländer, Jahre, Geschlecht, Stellung im Beruf, Wochenend- und Feiertagsarbeit",
+  "zeitraum": "2024 - 2025",
+  "statistik": "12251",
+  "alle_statistiken": [
+    "12251"
+  ],
+  "stand_genesis": "15.05.2025 13:25:05h",
+  "abgerufen_am": "2026-09-28T16:37:50",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12251-0101",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12251-0101_flatfile.csv": "a0825678719d6bfb6257029d7edd20ded7a0a48b606c942ad3a39f33b6dab968"
+  },
+  "bytes": 1053473,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12251/table/12251-0101"
+}

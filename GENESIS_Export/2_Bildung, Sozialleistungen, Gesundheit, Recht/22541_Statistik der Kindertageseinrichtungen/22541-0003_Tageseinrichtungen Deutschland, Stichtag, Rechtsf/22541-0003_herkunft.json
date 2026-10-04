@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0003",
+  "titel": "Tageseinrichtungen: Deutschland, Stichtag, Rechtsform der Tageseinrichtung",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 13:45:44h",
+  "abgerufen_am": "2026-09-28T17:35:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0003_flatfile.csv": "b9b1639661f990818a322ea1ecb9e16205198971d23714a62b48b8b839c95e3d"
+  },
+  "bytes": 37780,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0003"
+}

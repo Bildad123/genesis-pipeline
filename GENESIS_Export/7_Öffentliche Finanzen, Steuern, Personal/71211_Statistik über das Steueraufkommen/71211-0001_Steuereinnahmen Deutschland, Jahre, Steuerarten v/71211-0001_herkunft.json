@@ -1,0 +1,28 @@
+{
+  "tabelle": "71211-0001",
+  "titel": "Steuereinnahmen: Deutschland, Jahre, Steuerarten vor der Steuerverteilung",
+  "zeitraum": "1999 - 2025",
+  "statistik": "71211",
+  "alle_statistiken": [
+    "71211"
+  ],
+  "stand_genesis": "28.12.2022 17:58:57h",
+  "abgerufen_am": "2026-09-28T20:48:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71211-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71211-0001_flatfile.csv": "96363c33ba1c0f8c24a789d4ce4938f84a4ae1bac8d4d03b7557b640d9d7b36c"
+  },
+  "bytes": 120865,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71211/table/71211-0001"
+}

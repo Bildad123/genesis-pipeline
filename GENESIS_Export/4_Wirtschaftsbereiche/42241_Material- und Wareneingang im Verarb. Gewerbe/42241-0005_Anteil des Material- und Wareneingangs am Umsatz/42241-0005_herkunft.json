@@ -1,0 +1,28 @@
+{
+  "tabelle": "42241-0005",
+  "titel": "Anteil des Material- und Wareneingangs am Umsatz im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (2-4-Steller Hierarchie)",
+  "zeitraum": "2010 - 2014",
+  "statistik": "42241",
+  "alle_statistiken": [
+    "42241"
+  ],
+  "stand_genesis": "28.12.2022 21:01:15h",
+  "abgerufen_am": "2026-09-28T19:00:11",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42241-0005",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42241-0005_flatfile.csv": "93e062d419d4e7a1ef8376bbf1f43634c02f83f4635dced7de3309891869bb4a"
+  },
+  "bytes": 211566,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42241/table/42241-0005"
+}

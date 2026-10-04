@@ -1,0 +1,28 @@
+{
+  "tabelle": "24271-0010",
+  "titel": "Vor dem Sozialgericht erledigte Klageverfahren: Bundesländer, Jahre, Art der Erledigung, Sachgebiete",
+  "zeitraum": "2017 - 2024",
+  "statistik": "24271",
+  "alle_statistiken": [
+    "24271"
+  ],
+  "stand_genesis": "10.11.2023 12:26:31h",
+  "abgerufen_am": "2026-09-28T18:00:30",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24271-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24271-0010_flatfile.csv": "6fe4374fbd1000429eedc00b860bef079423f417fc6773ec49df503df1bebddc"
+  },
+  "bytes": 1180146,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24271/table/24271-0010"
+}

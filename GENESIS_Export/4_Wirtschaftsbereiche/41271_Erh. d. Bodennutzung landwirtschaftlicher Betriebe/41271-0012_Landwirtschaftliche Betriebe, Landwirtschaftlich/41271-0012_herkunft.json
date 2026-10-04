@@ -1,0 +1,28 @@
+{
+  "tabelle": "41271-0012",
+  "titel": "Landwirtschaftliche Betriebe, Landwirtschaftlich genutzte Fläche: Bundesländer, Jahre, Bodennutzungsarten",
+  "zeitraum": "2010 - 2026",
+  "statistik": "41271",
+  "alle_statistiken": [
+    "41271"
+  ],
+  "stand_genesis": "13.07.2026 16:19:40h",
+  "abgerufen_am": "2026-09-28T18:37:01",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41271-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41271-0012_flatfile.csv": "fcb649c7b734452860177186a56d3c4595beb3accab5c0a804568d7c3beb28b3"
+  },
+  "bytes": 836439,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41271/table/41271-0012"
+}

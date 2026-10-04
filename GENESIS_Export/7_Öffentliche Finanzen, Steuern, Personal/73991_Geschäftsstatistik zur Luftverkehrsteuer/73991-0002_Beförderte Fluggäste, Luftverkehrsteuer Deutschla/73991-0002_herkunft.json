@@ -1,0 +1,28 @@
+{
+  "tabelle": "73991-0002",
+  "titel": "Beförderte Fluggäste, Luftverkehrsteuer: Deutschland, Jahre, Distanzklassen",
+  "zeitraum": "2011 - 2025",
+  "statistik": "73991",
+  "alle_statistiken": [
+    "73991"
+  ],
+  "stand_genesis": "24.03.2023 15:30:14h",
+  "abgerufen_am": "2026-09-28T20:59:39",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73991-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73991-0002_flatfile.csv": "2c1de75168fa69915be383af0415a8113a0f296ed86efb1ae944cb2fed6be97c"
+  },
+  "bytes": 36992,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73991/table/73991-0002"
+}

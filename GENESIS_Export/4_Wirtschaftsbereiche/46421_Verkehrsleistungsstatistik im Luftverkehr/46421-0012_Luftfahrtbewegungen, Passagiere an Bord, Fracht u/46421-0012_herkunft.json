@@ -1,0 +1,28 @@
+{
+  "tabelle": "46421-0012",
+  "titel": "Luftfahrtbewegungen, Passagiere an Bord, Fracht und Post an Bord (Flight Stage): Deutschland, Monate, Berichtsflughafen, Art der Flugbewegung, Startgewichtsklassen",
+  "zeitraum": "Januar 2011 - Juli 2026",
+  "statistik": "46421",
+  "alle_statistiken": [
+    "46421"
+  ],
+  "stand_genesis": "28.12.2022 17:57:22h",
+  "abgerufen_am": "2026-09-28T19:32:35",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46421-0012",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46421-0012_flatfile.csv": "87b6634c3118bd0e33d3b97d73c8b50169edb66aa20fd94c07f3fa0b08f117a4"
+  },
+  "bytes": 6158959,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46421/table/46421-0012"
+}

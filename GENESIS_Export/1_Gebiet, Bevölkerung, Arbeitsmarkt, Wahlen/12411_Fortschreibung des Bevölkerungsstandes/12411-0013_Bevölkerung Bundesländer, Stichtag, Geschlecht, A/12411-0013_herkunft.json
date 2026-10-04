@@ -1,0 +1,28 @@
+{
+  "tabelle": "12411-0013",
+  "titel": "Bevölkerung: Bundesländer, Stichtag, Geschlecht, Altersjahre",
+  "zeitraum": "31.12.1967 - 31.12.2025",
+  "statistik": "12411",
+  "alle_statistiken": [
+    "12411"
+  ],
+  "stand_genesis": "22.01.2025 17:49:10h",
+  "abgerufen_am": "2026-09-28T16:39:28",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12411-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12411-0013_flatfile.csv": "b5c83626794c63d9423b0a7b5d51be8dd92391bbeadd08c1d316eff2044d4486"
+  },
+  "bytes": 975288,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0013"
+}

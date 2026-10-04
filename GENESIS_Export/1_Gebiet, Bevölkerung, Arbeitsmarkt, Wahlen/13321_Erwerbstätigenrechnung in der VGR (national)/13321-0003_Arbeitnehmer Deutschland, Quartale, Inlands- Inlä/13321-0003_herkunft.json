@@ -1,0 +1,28 @@
+{
+  "tabelle": "13321-0003",
+  "titel": "Arbeitnehmer: Deutschland, Quartale, Inlands-/Inländerkonzept, Original- und bereinigte Daten",
+  "zeitraum": "1. Quartal 1991 - 2. Quartal 2026",
+  "statistik": "13321",
+  "alle_statistiken": [
+    "13321"
+  ],
+  "stand_genesis": "28.12.2022 18:15:17h",
+  "abgerufen_am": "2026-09-28T16:58:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "13321-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "13321-0003_flatfile.csv": "1757afa8a40667935716c0179720c48ed4550675c6ea57fd2e9c2adbb31182d4"
+  },
+  "bytes": 80641,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/13321/table/13321-0003"
+}

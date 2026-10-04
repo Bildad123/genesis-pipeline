@@ -1,0 +1,28 @@
+{
+  "tabelle": "85311-0002",
+  "titel": "Fläche: Bundesländer, Jahre, Ökosysteme",
+  "zeitraum": "2015 - 2021",
+  "statistik": "85311",
+  "alle_statistiken": [
+    "85311"
+  ],
+  "stand_genesis": "08.04.2025 13:19:55h",
+  "abgerufen_am": "2026-09-28T21:14:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "85311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "85311-0002_flatfile.csv": "08622e1f2b803cc7c5bc00a1ac3d25496886023f7afe395b47e7e776c7a830f3"
+  },
+  "bytes": 296027,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/85311/table/85311-0002"
+}

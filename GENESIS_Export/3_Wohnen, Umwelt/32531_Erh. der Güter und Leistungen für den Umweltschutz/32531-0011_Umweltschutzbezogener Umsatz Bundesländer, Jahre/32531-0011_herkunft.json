@@ -1,0 +1,28 @@
+{
+  "tabelle": "32531-0011",
+  "titel": "Umweltschutzbezogener Umsatz: Bundesländer, Jahre (bis 2010), Umsatzarten",
+  "zeitraum": "2006 - 2010",
+  "statistik": "32531",
+  "alle_statistiken": [
+    "32531"
+  ],
+  "stand_genesis": "24.06.2024 16:54:09h",
+  "abgerufen_am": "2026-09-28T18:18:34",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32531-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32531-0011_flatfile.csv": "4239980539c6b7d3ee12d608ef8b6211303d57612949c1865981be32fd0d67a2"
+  },
+  "bytes": 12884,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32531/table/32531-0011"
+}

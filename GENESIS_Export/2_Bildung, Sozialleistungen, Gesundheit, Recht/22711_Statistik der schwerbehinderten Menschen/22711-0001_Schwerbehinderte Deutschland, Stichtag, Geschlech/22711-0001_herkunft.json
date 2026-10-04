@@ -1,0 +1,28 @@
+{
+  "tabelle": "22711-0001",
+  "titel": "Schwerbehinderte: Deutschland, Stichtag, Geschlecht",
+  "zeitraum": "31.12.1985 - 31.12.2025",
+  "statistik": "22711",
+  "alle_statistiken": [
+    "22711"
+  ],
+  "stand_genesis": "28.12.2022 18:13:50h",
+  "abgerufen_am": "2026-09-28T17:40:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22711-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22711-0001_flatfile.csv": "95bee3460700352b4a0e6628dc41147bf268d3095b562fbea9040059e011a0d6"
+  },
+  "bytes": 11779,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22711/table/22711-0001"
+}

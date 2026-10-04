@@ -1,0 +1,28 @@
+{
+  "tabelle": "12231-9009",
+  "titel": "Personen, die das Internet im 1. Quartal genutzt haben: Deutschland, Jahre (bis 2020), Geschlecht, Einkaufen/Bestellen über das Internet",
+  "zeitraum": "2006 - 2020",
+  "statistik": "12231",
+  "alle_statistiken": [
+    "12231"
+  ],
+  "stand_genesis": "28.12.2022 20:26:43h",
+  "abgerufen_am": "2026-09-28T16:35:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12231-9009",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12231-9009_flatfile.csv": "8b3bd61e1a12f69fbe6d73e914c2af7cfa3bc22bd3c435ed1a98f10b7d7faaf8"
+  },
+  "bytes": 35051,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12231/table/12231-9009"
+}

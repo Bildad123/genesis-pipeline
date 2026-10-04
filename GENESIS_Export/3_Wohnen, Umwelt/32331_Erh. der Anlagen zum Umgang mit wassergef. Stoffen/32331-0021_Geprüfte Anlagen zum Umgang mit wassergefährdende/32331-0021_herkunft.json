@@ -1,0 +1,28 @@
+{
+  "tabelle": "32331-0021",
+  "titel": "Geprüfte Anlagen zum Umgang mit wassergefährdenden Stoffen: Bundesländer, Jahre, Standort",
+  "zeitraum": "2018 - 2023",
+  "statistik": "32331",
+  "alle_statistiken": [
+    "32331"
+  ],
+  "stand_genesis": "20.10.2020 11:49:52h",
+  "abgerufen_am": "2026-09-28T18:16:17",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "32331-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "32331-0021_flatfile.csv": "fcafcc9d070dcb2a3af2008a159a4f41be495fed00384fecadd1ffbf7303bd79"
+  },
+  "bytes": 28531,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/32331/table/32331-0021"
+}

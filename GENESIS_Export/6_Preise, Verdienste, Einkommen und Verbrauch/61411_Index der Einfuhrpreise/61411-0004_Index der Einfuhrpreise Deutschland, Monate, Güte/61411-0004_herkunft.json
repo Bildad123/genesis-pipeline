@@ -1,0 +1,28 @@
+{
+  "tabelle": "61411-0004",
+  "titel": "Index der Einfuhrpreise: Deutschland, Monate, Güterverzeichnis (GP2019 2-/3-/4-Steller/Sonderpositionen)",
+  "zeitraum": "Januar 1962 - Juli 2026",
+  "statistik": "61411",
+  "alle_statistiken": [
+    "61411"
+  ],
+  "stand_genesis": "20.03.2024 10:57:16h",
+  "abgerufen_am": "2026-09-28T20:28:32",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61411-0004",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61411-0004_flatfile.csv": "3bfa02946217285b7527d7e6098b7446e2c7f7eee9e056ab01dd0e4dd067cc4d"
+  },
+  "bytes": 94670,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61411/table/61411-0004"
+}

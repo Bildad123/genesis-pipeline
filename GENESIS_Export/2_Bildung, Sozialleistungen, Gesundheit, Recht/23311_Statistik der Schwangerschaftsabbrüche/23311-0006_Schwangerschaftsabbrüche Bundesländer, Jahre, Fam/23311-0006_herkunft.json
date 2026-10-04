@@ -1,0 +1,28 @@
+{
+  "tabelle": "23311-0006",
+  "titel": "Schwangerschaftsabbrüche: Bundesländer, Jahre, Familienstand/Herkunfts-Bundesland oder Ausland",
+  "zeitraum": "1996 - 2025",
+  "statistik": "23311",
+  "alle_statistiken": [
+    "23311"
+  ],
+  "stand_genesis": "18.06.2024 17:31:36h",
+  "abgerufen_am": "2026-09-28T17:55:52",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23311-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23311-0006_flatfile.csv": "2049bbc2afd9b8ea4137c397e82761d27febb63b05e2a6909bee82e95e6ec953"
+  },
+  "bytes": 11607,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23311/table/23311-0006"
+}

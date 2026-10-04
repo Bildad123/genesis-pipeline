@@ -1,0 +1,28 @@
+{
+  "tabelle": "31111-0008",
+  "titel": "Baugenehmigungen neuer Gebäude: Deutschland, Jahre, Gebäudeart, Geschosszahl",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31111",
+  "alle_statistiken": [
+    "31111"
+  ],
+  "stand_genesis": "02.05.2024 17:07:26h",
+  "abgerufen_am": "2026-09-28T18:02:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31111-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31111-0008_flatfile.csv": "2844fff7486bbeb6ae1b4bbcdcd6d38f6fa7ad3a8d399c079df8bb333a42be8f"
+  },
+  "bytes": 29347,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31111/table/31111-0008"
+}

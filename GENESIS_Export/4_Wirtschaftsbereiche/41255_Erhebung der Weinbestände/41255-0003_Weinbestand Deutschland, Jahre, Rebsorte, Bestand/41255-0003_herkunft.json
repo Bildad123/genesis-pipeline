@@ -1,0 +1,28 @@
+{
+  "tabelle": "41255-0003",
+  "titel": "Weinbestand: Deutschland, Jahre, Rebsorte, Bestandsort, Kategorien des Bezeichnungsschutzes",
+  "zeitraum": "2021 - 2025",
+  "statistik": "41255",
+  "alle_statistiken": [
+    "41255"
+  ],
+  "stand_genesis": "29.12.2022 08:01:59h",
+  "abgerufen_am": "2026-09-28T18:34:43",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41255-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41255-0003_flatfile.csv": "e81f9de185d33359bc90ef7cfbb022b636b05d946580d4b7bb4d199d3c1e4628"
+  },
+  "bytes": 14791,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41255/table/41255-0003"
+}

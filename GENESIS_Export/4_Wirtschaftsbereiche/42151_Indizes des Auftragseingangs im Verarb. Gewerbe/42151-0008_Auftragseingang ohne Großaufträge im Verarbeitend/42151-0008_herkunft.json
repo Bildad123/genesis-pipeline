@@ -1,0 +1,28 @@
+{
+  "tabelle": "42151-0008",
+  "titel": "Auftragseingang ohne Großaufträge im Verarbeitenden Gewerbe (Volumenindex): Deutschland, Monate, Original- und bereinigte Daten, Absatzrichtung, Wirtschaftszweige",
+  "zeitraum": "Januar 2010 - Juli 2026",
+  "statistik": "42151",
+  "alle_statistiken": [
+    "42151"
+  ],
+  "stand_genesis": "28.12.2022 17:09:59h",
+  "abgerufen_am": "2026-09-28T18:54:51",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42151-0008",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42151-0008_flatfile.csv": "d88dca2f67b3d97c2659deb8c9b2d469c22c801fe11baed85cb1c5e5add2eb37"
+  },
+  "bytes": 1744000,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42151/table/42151-0008"
+}

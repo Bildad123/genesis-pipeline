@@ -1,0 +1,595 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;4304;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;73336;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1801;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2143;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;9645;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;8470;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;54883;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;21585;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;58532;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;1820;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6056;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2084;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;58669;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;38006;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;67798;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;50027;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;6320;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;101960;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;11294;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;46161;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;24320;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;65433;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;181831;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;92650;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;21133;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;42641;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;23529;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;17206;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;53194;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;40523;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7387;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;28852;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;131562;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;7570;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;3654;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;17739;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;74220;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;17427;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;295410;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);633;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1601;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;3855;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;7638;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;192688;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);610;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;88319;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6273;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2671;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;5898;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;538207;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;29089;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;20810;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;11950;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;17260;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;93265;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;31211;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;154957;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;14539;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1808;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;18546;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;28332;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;289882;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;12581;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;15915;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7339;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;8041;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;82509;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;4037;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7163;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);840;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;500267;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;5536;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;3407;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;40535;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;327722;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;35751;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;22242;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;20801;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;22267;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;10279;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;7243;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;162864;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;76522;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;17455;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;19353;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;303117;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;38966;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;11603;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;91713;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;8175;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7434;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;35200;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;34208;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;18514;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;20315;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;10390;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;152216;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;7555;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;5375;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;18934;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;12783;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);916;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;5872;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1919;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6384;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1471;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;23576;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;20226;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;23636;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;15728;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2484;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;10031;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2018;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;5743;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;63069;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;116871;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;5750;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;476246;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;47770;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;8879;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;7143;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;65378;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;10664;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;107500;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;6255;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;113204;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;21913;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;51419;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;5124;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;24408;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;64706;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;11934;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;35892;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;4635;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;37433;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2669;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;10342;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;19342;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;9781;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;12877;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;11180;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);573;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;120798;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;16915;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;114455;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;8686;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1855;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;85071;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;7131;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;6241;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6334;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2830;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;67168;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;95057;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;7052;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;24996;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;12784;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;106730;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;21065;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;28802;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2705;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;10782;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;29037;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;12953;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;4363;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;24807;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;20221;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;12438;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);2021;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;27653;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;25132;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;110778;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;227900;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;11585;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;66969;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;8426;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2213;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;8972;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;37139;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;1853;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;357642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;16630;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;32915;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;20884;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;118061;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;11337;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;54903;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;26957;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7466;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;30853;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;11100;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;13929;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;51979;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;42397;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;32231;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;7822;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;229597;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;7251;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;12556;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;93326;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;374760;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1008;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;8406;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;18842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7658;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;6457;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6510;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;8365;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1917;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;30176;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;17173;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;26251;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;18568;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;235299;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7531;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);649;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;4393;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;11960;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2954;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;14521;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;13797;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;19713;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;27383;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;21146;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;1508;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;3889;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;44400;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;7241;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;14435;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;9286;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;11476;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;9426;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;3299;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;15388;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6518;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);566;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;132516;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1754;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;77214;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2459;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;25891;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;3769;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6157;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;9279;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;121058;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;29375;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;48192;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;90587;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;14664;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7672;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;8169;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1144;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;6345;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;6562;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;87057;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;56910;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;27736;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);537;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6311;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2113;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;247449;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;26944;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;241773;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;50978;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1595;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2103;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;86486;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6536;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;13408;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;9337;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;31533;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;41348;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;1805;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;78846;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;127773;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;3434;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;24474;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;23714;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;15266;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;20642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;48352;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;20393;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;7998;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;62815;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;93998;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;314195;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;438874;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;17926;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;22089;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;280447;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;32083;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;35616;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;11757;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;175348;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;8037;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;145621;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;33356;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;7926;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;138293;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7373;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;29609;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1109;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;17681;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;4779;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;8863;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;31283;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;113790;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7723;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;4575;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;17055;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;8988;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7489;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7070;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;15725;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1635;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);696;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;4640;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);583;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;13177;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;40483;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;39324;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;14743;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;21332;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;6940;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;265866;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;81639;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;3025;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6985;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;163617;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;71201;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;25782;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;30128;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1841;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;23185;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7667;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6237;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;209983;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;44488;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;71247;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;195689;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;111205;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;9735;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;3244;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;11414;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;94794;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2789;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;22363;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6576;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1856;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;19677;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;12075;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;8687;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;21020;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;31513;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;25260;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);2443;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1990;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6072;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;16449;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;187437;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;3435;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;6597;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2361;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;9354;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;29453;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;126902;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;1955;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;23191;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;12203;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2269;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;60623;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;11000;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6229;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;207547;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;97949;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;54482;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;13661;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;8345;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;18305;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;10951;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;6043;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;62115;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;49760;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;34560;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;71601;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;22971;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;4991;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;21504;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;18960;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;11289;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;22597;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;49077;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;32480;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;19064;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2473;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;10275;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;55327;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;2074;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;4518;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;21255;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1995;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;71589;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;241114;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;10866;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;51683;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;165190;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2014;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;56296;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;115154;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;5661;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;23515;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;4920;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;30441;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;168370;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;97016;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;19402;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;98191;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;171340;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;9507;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;196612;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;65983;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1652;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;159211;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;17023;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;6786;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;14689;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;255685;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);683;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;5406;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7754;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;5343;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;41195;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;120507;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1997;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;19179;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);599;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;18769;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;213942;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7248;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1574;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;3229;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6642;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7367;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;103929;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;10252;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;34493;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;68220;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;178289;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;17151;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1696;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;17167;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6531;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;28104;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;13919;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;20321;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;39958;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;390975;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;103547;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;411538;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7696;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;17387;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;177023;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;6403;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;23479;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);533;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2280;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1727;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;184910;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;59086;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;13847;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6020;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2118;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;85171;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;8204;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;76749;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;23090;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;149159;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;20051;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;3231;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2001;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;221284;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;15828;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;10113;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;5076;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7732;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;58011;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;25797;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;16223;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;45492;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;11346;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;20188;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7452;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;9967;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;81030;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;19290;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;3907;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6759;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2172;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;18764;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;72584;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;1298;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;41628;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;53404;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;197654;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;21434;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;22056;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;37666;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;6363;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;24477;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;78355;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;25104;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1993;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;3524;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;143022;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;44989;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;10047;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;201277;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;234746;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;259363;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;21603;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;59976;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;45170;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2004;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;88396;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2131;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7527;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6615;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;14718;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6158;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1723;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;138993;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7793;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;26800;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;82879;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;43707;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;9454;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;26277;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1859;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;8781;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;9138;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;21741;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7445;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1842;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT030;Gesundheitshandwerk / -einzelhandel;12875;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;18924;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;6865;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;15156;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;499872;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;3173;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;3432;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2003;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;33548;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;7214;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;1707;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;122905;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;343385;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1999;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;28041;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;46466;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;57019;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;5900;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;9716;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;26782;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;8808;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;14780;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;24898;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;7858;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;17207;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;43492;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;SEINPRHH01;Sonstige Einrichtungen und private Haushalte;8463;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;115023;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT029;Apotheken;35042;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT026;Arztpraxen;25978;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;13373;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT036;Rettungsdienste;3593;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;143590;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT033;Stationäre / teilstationäre Einrichtungen;132681;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;63917;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT028;Praxen sonstiger medizinischer Berufe;13173;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT035;Stationäre / teilstationäre Pflege;52245;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT025;Ambulante Einrichtungen;235118;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;EINRICHT01;Krankenhäuser;78302;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2002;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;7716;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6100;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;8894;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2000;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1905;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1259;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;16122;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;1754;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;20213;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;6690;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1998;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;;Insgesamt;201567;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);519;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT024;Gesundheitsschutz;2339;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT034;Vorsorge- / Rehabilitationseinrichtungen;8982;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;6457;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1992;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT027;Zahnarztpraxen;17174;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT037;Ausland (Importe);1491;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1994;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;AFGA21;Verwaltung;9821;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;1996;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT001;Investitionen;7281;Mill. EUR;GES054;Gesundheitsausgaben
+23611;Gesundheitsausgabenrechnung;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;GESU03;Einrichtungen;GESUNDHSTAT031;Ambulante Pflege;23114;Mill. EUR;GES054;Gesundheitsausgaben

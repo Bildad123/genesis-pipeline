@@ -1,0 +1,28 @@
+{
+  "tabelle": "71321-0006",
+  "titel": "Schulden beim nicht-öffentlichen Bereich: Bundesländer, Stichtag (ab 31.12.2010), Ebenen des öffentlichen Gesamthaushalts, Haushalte, Schuldenarten",
+  "zeitraum": "31.12.2010 - 31.12.2025",
+  "statistik": "71321",
+  "alle_statistiken": [
+    "71321"
+  ],
+  "stand_genesis": "28.12.2022 19:08:33h",
+  "abgerufen_am": "2026-09-28T20:50:45",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "71321-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "71321-0006_flatfile.csv": "12de1a6c2fea7882efd6d24030f03f0bdaa2e92d6dc037ba5cfe88e7d35b25e6"
+  },
+  "bytes": 3230894,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/71321/table/71321-0006"
+}

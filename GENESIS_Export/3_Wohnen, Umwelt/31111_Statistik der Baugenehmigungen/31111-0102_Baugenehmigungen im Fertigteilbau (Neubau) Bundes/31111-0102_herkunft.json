@@ -1,0 +1,28 @@
+{
+  "tabelle": "31111-0102",
+  "titel": "Baugenehmigungen im Fertigteilbau (Neubau): Bundesländer, Jahre, Gebäudeart",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31111",
+  "alle_statistiken": [
+    "31111"
+  ],
+  "stand_genesis": "20.06.2024 11:22:02h",
+  "abgerufen_am": "2026-09-28T18:04:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31111-0102",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31111-0102_flatfile.csv": "db74f549ae8f425d53c0675615c9e9d98cb8092f1a2d457b051f229309c7b9de"
+  },
+  "bytes": 4772563,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31111/table/31111-0102"
+}

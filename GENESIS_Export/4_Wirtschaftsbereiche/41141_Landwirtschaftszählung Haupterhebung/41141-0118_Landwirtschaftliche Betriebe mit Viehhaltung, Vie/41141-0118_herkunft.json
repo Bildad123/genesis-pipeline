@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0118",
+  "titel": "Landwirtschaftliche Betriebe mit Viehhaltung, Viehbestand, Landwirtschaftlich genutzte Fläche: Bundesländer, Stichtag, Tierarten, Bestandsgrößenklassen",
+  "zeitraum": "01.03.2020 - 01.03.2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "28.12.2022 21:35:12h",
+  "abgerufen_am": "2026-09-28T18:24:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0118",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0118_flatfile.csv": "cd057251d2a7df09b94b8652901d1666a996199001df31f5dc15b7ab4572475d"
+  },
+  "bytes": 7440914,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0118"
+}

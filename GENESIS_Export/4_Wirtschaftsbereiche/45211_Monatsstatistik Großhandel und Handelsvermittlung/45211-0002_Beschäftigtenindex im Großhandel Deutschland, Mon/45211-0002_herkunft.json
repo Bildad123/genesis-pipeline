@@ -1,0 +1,28 @@
+{
+  "tabelle": "45211-0002",
+  "titel": "Beschäftigtenindex im Großhandel: Deutschland, Monate/Quartale/Halbjahre, Wirtschaftszweige",
+  "zeitraum": "Januar 1994 - Juli 2026",
+  "statistik": "45211",
+  "alle_statistiken": [
+    "45211"
+  ],
+  "stand_genesis": "22.07.2026 13:59:58h",
+  "abgerufen_am": "2026-09-28T19:09:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "45211-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "45211-0002_flatfile.csv": "af4a3c5a17f94b3163593b981c9a03425d75f249f44b1690392c70f6b08c1d32"
+  },
+  "bytes": 384117,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/45211/table/45211-0002"
+}

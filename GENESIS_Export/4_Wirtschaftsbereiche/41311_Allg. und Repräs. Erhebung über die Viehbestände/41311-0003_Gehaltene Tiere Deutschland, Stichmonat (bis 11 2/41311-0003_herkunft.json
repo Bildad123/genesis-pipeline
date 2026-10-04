@@ -1,0 +1,28 @@
+{
+  "tabelle": "41311-0003",
+  "titel": "Gehaltene Tiere: Deutschland, Stichmonat (bis 11/2010), Tierarten",
+  "zeitraum": "12/1973 - 11/2010",
+  "statistik": "41311",
+  "alle_statistiken": [
+    "41311"
+  ],
+  "stand_genesis": "06.02.2023 16:39:45h",
+  "abgerufen_am": "2026-09-28T18:37:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41311-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41311-0003_flatfile.csv": "8f69efd94c7dc56d2c8800b77146708481c4bf80603e9489be0eeb45efddf7bb"
+  },
+  "bytes": 43960,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41311/table/41311-0003"
+}

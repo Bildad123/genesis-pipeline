@@ -1,0 +1,28 @@
+{
+  "tabelle": "42155-0003",
+  "titel": "Auftragsbestand im Verarbeitenden Gewerbe (Wertindex): Deutschland, Monate, Original- und bereinigte Daten, Absatzrichtung, Wirtschaftszweige (2-4-Steller Hierarchie)",
+  "zeitraum": "Januar 2019 - Juli 2026",
+  "statistik": "42155",
+  "alle_statistiken": [
+    "42155"
+  ],
+  "stand_genesis": "28.12.2022 20:00:53h",
+  "abgerufen_am": "2026-09-28T18:57:37",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42155-0003",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42155-0003_flatfile.csv": "ae237f5d3aacb0fa031ad4ec9e93d5751a003e0ca79346162a686eeb965e2c68"
+  },
+  "bytes": 14289105,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42155/table/42155-0003"
+}

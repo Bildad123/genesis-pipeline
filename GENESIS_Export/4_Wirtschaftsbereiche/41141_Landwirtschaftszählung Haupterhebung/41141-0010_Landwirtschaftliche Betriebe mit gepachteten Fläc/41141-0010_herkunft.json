@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0010",
+  "titel": "Landwirtschaftliche Betriebe mit gepachteten Flächen, Pachtentgelt: Deutschland, Jahre, Bodennutzungsarten, Rechtsformen, Größenklassen der landw. genutzten Fläche",
+  "zeitraum": "2010 - 2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "29.12.2022 08:02:05h",
+  "abgerufen_am": "2026-09-28T18:20:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0010_flatfile.csv": "ea5aee6e1ec9058ba99cfd6abfed4261babd1c43a2bf8495c122dee0d2273061"
+  },
+  "bytes": 312050,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0010"
+}

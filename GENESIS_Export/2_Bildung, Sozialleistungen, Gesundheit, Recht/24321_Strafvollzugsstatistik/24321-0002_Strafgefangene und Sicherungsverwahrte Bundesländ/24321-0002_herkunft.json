@@ -1,0 +1,28 @@
+{
+  "tabelle": "24321-0002",
+  "titel": "Strafgefangene und Sicherungsverwahrte: Bundesländer, Stichtag, Nationalität, Geschlecht, Altersgruppen, Art des Vollzugs",
+  "zeitraum": "31.03.2017 - 31.03.2025",
+  "statistik": "24321",
+  "alle_statistiken": [
+    "24321"
+  ],
+  "stand_genesis": "12.01.2024 12:37:43h",
+  "abgerufen_am": "2026-09-28T18:01:46",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "24321-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "24321-0002_flatfile.csv": "23bd43c76e8cd58b931af91b4508e9d49616580190b1b82e34cb8e2df48479f8"
+  },
+  "bytes": 1357591,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/24321/table/24321-0002"
+}

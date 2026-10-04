@@ -1,0 +1,28 @@
+{
+  "tabelle": "12411-0040",
+  "titel": "Durchschnittliche Bevölkerung: Deutschland, Jahre, Nationalität, Geschlecht",
+  "zeitraum": "2000 - 2025",
+  "statistik": "12411",
+  "alle_statistiken": [
+    "12411"
+  ],
+  "stand_genesis": "22.01.2025 17:57:16h",
+  "abgerufen_am": "2026-09-28T16:40:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12411-0040",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12411-0040_flatfile.csv": "1288cd8fec454e367852f2b185297f5c1ef8af7f144d0c71b65702346a4be020"
+  },
+  "bytes": 51319,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0040"
+}

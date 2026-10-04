@@ -1,0 +1,28 @@
+{
+  "tabelle": "73111-0001",
+  "titel": "Lohn- und Einkommensteuerpflichtige mit pos. Einkünften, Gesamtbetrag der Einkünfte, Einkommen, Zu versteuerndes Einkommen, Festgesetzte Einkommensteuer: Deutschland, Jahre",
+  "zeitraum": "1989 - 2022",
+  "statistik": "73111",
+  "alle_statistiken": [
+    "73111"
+  ],
+  "stand_genesis": "28.05.2025 10:24:46h",
+  "abgerufen_am": "2026-09-28T20:53:02",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "73111-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "73111-0001_flatfile.csv": "5b263dad88a059ac80462a2361d416f32bf0593fab75bcd4ed8b5d4e8ea4068c"
+  },
+  "bytes": 14819,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/73111/table/73111-0001"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "41141-0124",
+  "titel": "Landwirtschaftliche Betriebe mit ökologischem Landbau und Pacht, Gepachtete LF, Pachtentgelt: Bundesländer, Jahre, Betriebswirtschaftliche Ausrichtung",
+  "zeitraum": "2020 - 2023",
+  "statistik": "41141",
+  "alle_statistiken": [
+    "41141"
+  ],
+  "stand_genesis": "29.12.2022 08:02:05h",
+  "abgerufen_am": "2026-09-28T18:25:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41141-0124",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41141-0124_flatfile.csv": "9aeabdc52da90f98a190944dac2fba411575c4c660f3630d6d43758091495347"
+  },
+  "bytes": 136314,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41141/table/41141-0124"
+}

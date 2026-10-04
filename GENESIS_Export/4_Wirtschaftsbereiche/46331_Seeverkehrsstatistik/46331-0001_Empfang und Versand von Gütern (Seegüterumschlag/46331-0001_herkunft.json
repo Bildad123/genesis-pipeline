@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0001",
+  "titel": "Empfang und Versand von Gütern (Seegüterumschlag deutscher Häfen): Deutschland, Jahre, Güterabteilungen und -gruppen",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.06.2023 12:01:56h",
+  "abgerufen_am": "2026-09-28T19:27:49",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0001_flatfile.csv": "3506832643371cbfc9f05935c0cab4b94d5db0798d966338e6383ff4492e901b"
+  },
+  "bytes": 84701,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0001"
+}

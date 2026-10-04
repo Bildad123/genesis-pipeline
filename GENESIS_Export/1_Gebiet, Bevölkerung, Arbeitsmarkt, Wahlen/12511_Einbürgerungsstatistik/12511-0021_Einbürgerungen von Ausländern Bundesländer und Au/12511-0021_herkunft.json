@@ -1,0 +1,28 @@
+{
+  "tabelle": "12511-0021",
+  "titel": "Einbürgerungen von Ausländern: Bundesländer und Ausland, Jahre, Staatsangehörigkeit, Geschlecht",
+  "zeitraum": "2000 - 2025",
+  "statistik": "12511",
+  "alle_statistiken": [
+    "12511"
+  ],
+  "stand_genesis": "09.09.2026 15:23:10h",
+  "abgerufen_am": "2026-09-28T16:42:12",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12511-0021",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12511-0021_flatfile.csv": "53ff21d444134fdfad0994287392ae54a9510f8cb9a16dfa5ae285202f21346b"
+  },
+  "bytes": 2311602,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12511/table/12511-0021"
+}

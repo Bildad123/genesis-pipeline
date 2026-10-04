@@ -1,0 +1,28 @@
+{
+  "tabelle": "21611-0002",
+  "titel": "Kinos, Leinwände, Sitzplätze der Kinos, Filmbesuche, Durchschnittlicher Kino-Eintrittspreis, Einnahmen, Filmabgabe: Deutschland, Jahre",
+  "zeitraum": "2000 - 2024",
+  "statistik": "21611",
+  "alle_statistiken": [
+    "21611"
+  ],
+  "stand_genesis": "12.06.2026 12:14:56h",
+  "abgerufen_am": "2026-09-28T17:14:29",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21611-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21611-0002_flatfile.csv": "4f4d2ae20343124057973b4be7edeb96fa7396cc9b4f5fbca5f326f2a74d3954"
+  },
+  "bytes": 28108,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21611/table/21611-0002"
+}

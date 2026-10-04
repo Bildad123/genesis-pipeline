@@ -1,0 +1,28 @@
+{
+  "tabelle": "41243-0001",
+  "titel": "Anbaufläche, Erntemenge (Baumobst): Deutschland, Jahre, Baumobstarten",
+  "zeitraum": "2005 - 2026",
+  "statistik": "41243",
+  "alle_statistiken": [
+    "41243"
+  ],
+  "stand_genesis": "29.12.2022 08:00:44h",
+  "abgerufen_am": "2026-09-28T18:31:42",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41243-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41243-0001_flatfile.csv": "ec466ad838f07c12f9db754df1c456283bb805220e413256e9c378e4a1adea21"
+  },
+  "bytes": 45573,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41243/table/41243-0001"
+}

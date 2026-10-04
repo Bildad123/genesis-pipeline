@@ -1,0 +1,28 @@
+{
+  "tabelle": "31121-0010",
+  "titel": "Baufertigstellungen von Wohnungen in neuen Gebäuden: Deutschland, Jahre, Gebäudeart, Anzahl der Räume",
+  "zeitraum": "2015 - 2025",
+  "statistik": "31121",
+  "alle_statistiken": [
+    "31121"
+  ],
+  "stand_genesis": "07.08.2024 13:47:28h",
+  "abgerufen_am": "2026-09-28T18:06:03",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31121-0010",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31121-0010_flatfile.csv": "78f45a963d9fe4b17f4b968e7ca3894249aed9a10aa78e444be995639f534a51"
+  },
+  "bytes": 11157,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31121/table/31121-0010"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "31231-0023",
+  "titel": "Wohnungen in Nichtwohngebäuden, Wohnfläche: Kreise, Stichtag",
+  "zeitraum": "31.12.2015 - 31.12.2025",
+  "statistik": "31231",
+  "alle_statistiken": [
+    "31231"
+  ],
+  "stand_genesis": "16.08.2023 16:40:20h",
+  "abgerufen_am": "2026-09-28T18:09:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "31231-0023",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "31231-0023_flatfile.csv": "10d2316fc6b0c2fe208b079643326f8ba8475d2b6c4e5edc49d51e19d9aa096e"
+  },
+  "bytes": 169247,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/31231/table/31231-0023"
+}

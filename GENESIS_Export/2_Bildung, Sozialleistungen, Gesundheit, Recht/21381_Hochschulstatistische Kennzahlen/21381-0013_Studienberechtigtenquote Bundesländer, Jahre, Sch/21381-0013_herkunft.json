@@ -1,0 +1,28 @@
+{
+  "tabelle": "21381-0013",
+  "titel": "Studienberechtigtenquote: Bundesländer, Jahre, Schulabschluss",
+  "zeitraum": "2006 - 2024",
+  "statistik": "21381",
+  "alle_statistiken": [
+    "21381"
+  ],
+  "stand_genesis": "28.12.2022 17:48:25h",
+  "abgerufen_am": "2026-09-28T17:09:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21381-0013",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21381-0013_flatfile.csv": "2f95403f232ef1b358d990d7232f80412f207f0996460a02a10ecc112fa84698"
+  },
+  "bytes": 165449,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21381/table/21381-0013"
+}

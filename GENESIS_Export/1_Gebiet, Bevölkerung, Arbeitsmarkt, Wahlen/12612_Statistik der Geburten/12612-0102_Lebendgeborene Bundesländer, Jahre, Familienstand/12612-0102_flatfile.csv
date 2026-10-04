@@ -1,0 +1,1121 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3625;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20965;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14738;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4593;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20256;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6153;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18865;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9270;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14713;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;73909;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15115;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7795;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18704;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6356;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7120;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13237;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4252;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7337;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6407;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10138;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;26880;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10808;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7642;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10990;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11086;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10296;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;68399;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5498;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6815;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6341;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13081;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18817;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9137;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10771;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10169;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4239;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4806;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16626;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10943;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4775;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17584;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5449;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5522;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6643;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11929;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15412;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18173;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14386;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20147;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9002;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;21013;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11952;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;39880;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6867;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;72112;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23769;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3615;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5890;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10972;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20802;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;40391;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12350;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6213;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8179;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6362;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3617;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;19728;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;39318;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6971;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5966;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7968;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1575;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15051;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5755;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16545;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11087;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4687;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9555;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;69282;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5401;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2156;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1444;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7777;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2531;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19238;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18630;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3495;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15397;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11576;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10682;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8025;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10909;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11250;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5334;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20808;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;17038;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20442;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20357;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18984;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;21943;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;24248;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;76047;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20995;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1381;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15478;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16594;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20592;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20946;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;70655;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;73951;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3361;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20718;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18472;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8809;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10863;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13509;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7128;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8084;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10177;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;68434;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6442;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1801;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13127;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16912;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;72234;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10882;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7029;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6833;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7474;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13761;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18634;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10849;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3434;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6929;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10132;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4477;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5189;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13695;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8239;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5704;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5961;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6842;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;155407;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16465;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1694;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;50350;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10854;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15371;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3795;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6746;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20096;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6857;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6839;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12434;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;39234;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1956;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;54543;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14071;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12250;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7648;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9689;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5193;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;41656;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;43880;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9017;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;34106;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1226;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;82044;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6772;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5313;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20809;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17762;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;32093;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18110;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10398;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3451;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2497;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4918;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;30514;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4172;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;21014;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8623;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;24683;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10209;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9213;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7015;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15571;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5351;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;54799;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5747;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19797;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11110;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10801;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3774;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10451;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;44656;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12710;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14017;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9536;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;147780;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6943;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;19849;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3706;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21882;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;39945;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6999;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11524;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9269;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11193;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;54721;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20475;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2399;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10706;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11041;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5368;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;47509;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8334;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17529;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7920;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9292;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17403;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14347;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5397;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6687;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;26766;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1872;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6450;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4788;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7492;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7288;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;164724;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18274;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6078;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;99159;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;40673;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3558;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23398;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7513;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2514;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2921;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1406;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5816;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;42685;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6766;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;165609;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;84255;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;21446;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;42534;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8187;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;38505;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20729;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17830;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5866;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;34947;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;85291;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;26704;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10628;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;37778;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4601;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7879;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7572;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5629;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13979;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3990;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6983;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23253;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5540;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5336;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4322;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8161;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11666;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5022;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9583;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8929;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5278;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;37934;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2165;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7624;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5670;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19681;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9081;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;37628;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5315;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;123891;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;52675;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10931;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14042;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;50486;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7042;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4824;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7379;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13359;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;42793;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;119496;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10986;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2027;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;25799;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;90833;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7470;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4507;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;112829;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8628;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;34387;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;25960;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15144;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;38502;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;44388;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;78903;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3400;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;27724;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5533;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20146;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7959;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20040;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;24152;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8276;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;86461;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16503;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2106;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3485;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18844;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;119715;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;54328;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;100209;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6853;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9230;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9741;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8324;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13108;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;43250;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11619;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8498;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;50051;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15173;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;101476;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5419;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4143;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1755;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;37159;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;28520;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4913;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;114146;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4747;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;51758;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;53582;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12196;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;102402;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4079;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23960;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;19073;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;29552;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;26774;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14238;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16848;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2696;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6779;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15469;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2457;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3585;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5936;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;82225;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24459;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3813;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;36575;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23537;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6603;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19013;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4910;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;74442;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10222;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1782;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7842;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5220;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;22508;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13283;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4159;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;112064;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15128;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7321;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6201;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;33912;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12130;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;119379;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7482;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;45105;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18503;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9435;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4112;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;36102;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8287;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3843;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9282;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5450;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;73970;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14336;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2914;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;24767;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16438;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7924;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6539;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;53895;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;38132;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2856;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;35056;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20140;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;121359;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23780;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10818;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4088;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16780;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;17094;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;36228;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21043;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18935;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2772;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13583;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;35362;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3841;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;17171;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1855;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;26307;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;35859;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;119905;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;18056;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;102298;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10923;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8079;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8453;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;42492;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;38558;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;107583;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;26898;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10217;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11304;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12000;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15691;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;19034;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;92085;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9349;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8360;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4300;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;49730;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;105778;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3447;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21766;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;118485;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5143;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1564;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14096;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11440;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18232;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;106055;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12999;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12045;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19430;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2011;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6823;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10997;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8568;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;96219;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19854;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;119028;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3707;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2414;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21405;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;20419;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16639;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4185;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24023;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17735;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7041;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14614;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;105304;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2487;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8012;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4929;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5282;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10709;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11672;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8473;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4473;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8827;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;23330;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15023;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7996;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6857;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1528;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3822;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;22232;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5348;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7969;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6780;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14299;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;32483;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8202;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;108524;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11781;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10785;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;101353;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4249;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1996;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10684;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10824;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6691;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9938;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7158;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;106619;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8967;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4734;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;49772;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9399;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;38320;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;120053;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8499;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4834;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1812;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5318;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;46339;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4064;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;31214;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15514;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8936;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;42039;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15888;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2512;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2131;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9563;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3879;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10784;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;112779;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;42048;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;42510;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5684;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5718;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;27349;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;48772;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11309;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9341;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8438;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7194;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11929;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5826;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;110880;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2302;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;25646;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8118;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18481;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;40734;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;44750;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;38038;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23556;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9090;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8920;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7773;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5549;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;112687;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;45301;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;37277;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;107308;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16216;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1278;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16879;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8231;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12205;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9736;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7843;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;49666;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10974;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12123;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5283;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6709;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12543;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;17079;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24755;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5012;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15647;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10061;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;47596;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;44050;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5644;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4939;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17158;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8595;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;22667;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10407;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;81522;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11015;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;77981;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4666;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17867;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8305;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18748;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13246;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9800;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8293;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7903;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15049;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;76319;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6851;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;79991;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7327;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7421;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9228;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8434;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7358;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;24777;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16170;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14596;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11074;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23880;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15728;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8125;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13279;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15504;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;22546;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10672;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9712;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11315;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10196;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4853;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4016;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10026;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18996;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5311;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9256;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16547;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7510;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10895;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10658;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7367;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13545;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10363;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7575;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;103535;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7781;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;107388;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;28798;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15648;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;104099;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;77679;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9117;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9797;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9016;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;80670;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2640;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;111222;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11046;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13576;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8302;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14462;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16180;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15640;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6955;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11278;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19568;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3636;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5641;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10594;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19221;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;23187;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8531;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7904;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;17011;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14712;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8121;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5699;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14407;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7536;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;38489;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10872;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16451;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10381;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16530;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8450;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11587;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;114009;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14566;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6291;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9938;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6757;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;17443;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11741;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20819;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2114;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1421;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15813;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6280;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;124142;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5888;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16637;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1739;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;17743;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4666;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16944;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8414;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5786;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14813;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;118503;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14918;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13645;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18914;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6482;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17731;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9432;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10476;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4364;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10573;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16695;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13464;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16670;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11672;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6885;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;114978;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21308;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21656;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8750;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4950;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6925;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;39562;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;43524;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6859;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5892;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20607;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16965;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2368;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15085;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;33757;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;3631;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;72129;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8847;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;106527;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9637;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;108763;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16101;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2391;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;51495;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7175;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16365;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18195;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11144;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15867;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7363;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8251;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15697;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;51397;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1782;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;83163;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24920;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10702;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8224;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10034;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11513;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;26594;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;103396;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6173;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4839;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14813;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8662;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;22901;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7339;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17715;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15708;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11746;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;46991;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;43097;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8058;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;23872;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;87204;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4011;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7183;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15437;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12956;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5152;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7216;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1881;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7440;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19080;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;88283;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;59137;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6489;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18360;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20503;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;25549;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7684;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4821;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;26209;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;22223;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8822;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2993;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1352;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;10822;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;26031;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1456;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;54671;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;30881;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;24068;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9088;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5323;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7577;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;47153;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8638;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4451;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17372;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11479;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20162;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10839;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12035;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7842;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10530;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;46139;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6410;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5080;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8835;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6045;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;49590;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;165277;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1140;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;49058;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9128;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6129;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;178582;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;56554;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6993;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19478;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10628;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15365;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12934;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;176457;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5630;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7638;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;53969;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8555;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11325;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7004;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;98462;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5382;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;8449;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1732;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;173653;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;52999;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12225;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13181;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21932;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;95007;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;34713;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4811;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5093;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;38785;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12622;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6975;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12589;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1758;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5989;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2879;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;161085;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7515;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6716;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;93229;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;93456;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;24145;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15268;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5102;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8072;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;144630;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6290;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;82274;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8042;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;51791;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;13226;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4312;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4844;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2144;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14079;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3507;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14170;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7959;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;70735;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;63745;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13991;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4901;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7435;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;26428;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8653;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4643;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2883;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13947;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;32508;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;52483;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5914;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6969;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8078;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;91474;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4311;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;90762;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;69588;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4719;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24301;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2620;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7655;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;34869;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16417;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6097;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9116;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;25348;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20424;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20241;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;23069;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;29371;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6675;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8473;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9665;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16422;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2504;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;22743;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;27073;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;31384;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7492;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8654;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;16291;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;48404;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6586;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5037;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1736;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9649;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;79885;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14530;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;30110;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9912;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15866;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21396;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10560;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5304;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13948;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;71525;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;73776;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;15759;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6192;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6379;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16883;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2078;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10276;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6497;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;135957;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;94231;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;82391;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14612;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7177;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6889;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3800;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7535;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6443;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23056;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4752;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18655;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4076;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;23977;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;130951;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7132;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7543;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;33996;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;89679;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18029;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14837;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7079;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;79881;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14272;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;73460;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6372;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5080;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11848;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;80477;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1976;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8628;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10803;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9728;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;31795;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8127;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;82075;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7222;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8063;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;84483;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8527;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;75502;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6333;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;73485;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7071;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6911;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;22506;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18004;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8648;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7455;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;127258;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8387;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4277;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1221;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;23631;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4515;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13103;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7642;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2030;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10193;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;78626;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;19241;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;43576;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8495;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7282;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;27101;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;26554;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8295;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10771;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9170;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10456;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;26645;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;43184;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11502;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7202;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;12636;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;8511;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7755;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24763;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7817;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;23443;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;43021;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;83054;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2022;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;34064;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;17693;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;38108;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13543;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;50323;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18197;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7723;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7750;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1277;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9829;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;27198;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1886;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;20387;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7941;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9539;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14563;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10858;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6226;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9513;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;70200;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5856;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;85720;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;72681;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;29058;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;27602;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;13926;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5955;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2964;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;90630;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5385;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1789;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;68165;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2016;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11181;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;41782;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2010;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;78150;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;28054;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;14757;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;65310;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;7182;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24457;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4164;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2013;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;80010;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;44475;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2175;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10382;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;32625;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5198;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11406;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1999;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;11757;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;14177;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7725;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;9009;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1992;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12990;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;42653;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4718;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9698;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11148;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7252;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5884;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4728;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12772;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;12;Brandenburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11293;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2005;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;25265;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2007;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;5640;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;01;Schleswig-Holstein;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4331;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;45556;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2006;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24418;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5498;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2002;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1710;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;09;Bayern;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21606;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;04;Bremen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;1586;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1998;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12224;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2021;DLAND;Bundesländer;15;Sachsen-Anhalt;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;9081;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2015;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;21653;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1995;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12287;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2014;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;7048;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2024;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;15119;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1993;DLAND;Bundesländer;08;Baden-Württemberg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;11927;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2008;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;24062;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;4540;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2003;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;5009;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2011;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6856;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1996;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12794;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2023;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2458;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2000;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;48521;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1994;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;3579;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2019;DLAND;Bundesländer;11;Berlin;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18490;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2017;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;10409;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2009;DLAND;Bundesländer;07;Rheinland-Pfalz;FAMEL1;Familienstand der Eltern;VERH;verheiratet;22756;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2001;DLAND;Bundesländer;03;Niedersachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;16102;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2004;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;FAMEL1;Familienstand der Eltern;VERH;verheiratet;4967;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2012;DLAND;Bundesländer;16;Thüringen;FAMEL1;Familienstand der Eltern;VERH;verheiratet;6769;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1997;DLAND;Bundesländer;02;Hamburg;FAMEL1;Familienstand der Eltern;VERH;verheiratet;12980;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;1991;DLAND;Bundesländer;06;Hessen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;6525;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2018;DLAND;Bundesländer;10;Saarland;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;2505;Anzahl;BEV001;Lebendgeborene
+12612;Statistik der Geburten;JAHR;Jahr;2020;DLAND;Bundesländer;14;Sachsen;FAMEL1;Familienstand der Eltern;FAMVERH2;nicht verheiratet;18298;Anzahl;BEV001;Lebendgeborene

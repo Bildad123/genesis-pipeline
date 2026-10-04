@@ -1,0 +1,385 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;8178;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;107;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;76,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;326838;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;4348;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;75,2;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);485981;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);5292;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);91,8;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;1989;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;29;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;68,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;518582;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;5827;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;89,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;2663;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;43;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;62,1;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;55;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;35,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;6717;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;94;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;71,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;1;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;1,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);631;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);12;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);54,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);5709;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);110;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);51,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;100408;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;1527;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;65,8;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;7204;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;108;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;66,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;459;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;4;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;104,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;185;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;4;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;46,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;8447;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;120;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;70,2;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;2394;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;38;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;63,1;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;1401;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;42;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;33,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;11436;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;173;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;66,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;916;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;13;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;68,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;134571;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;2503;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;53,8;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;1484;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;16;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;93,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;204311;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;2318;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;88,2;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;3;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;19,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;1380062;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;17796;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;77,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;1332;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;24;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;56,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;844;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;9;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;94,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;3537;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;78;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;45,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;961;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;19;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;50,2;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;433;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;8;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;53,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;157839;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;2782;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;56,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;40;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;101,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;52;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;75,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;13198;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;331;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;39,9;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;3407;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;75;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;45,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;13354;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;295;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;45,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;56;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;26,8;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;384;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;10;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;37,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);6430;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);95;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);67,8;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;48;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;49,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;1263;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;22;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;57,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;3049;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;54;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;56,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;3;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;102;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;101,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;34;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;28,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;23;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;43,9;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;562;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;8;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;73,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;172;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;3;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;53,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;85;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;42,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);3144;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);38;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);83,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;426;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;9;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;44,9;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;409330;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;5978;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;68,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;2766;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;70;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;39,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;0;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;0,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);1967;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);41;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);47,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;4;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;4,9;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;4650;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;50;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;15;Sachsen-Anhalt;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;93,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);170476;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);2669;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);63,9;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;18301;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;255;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;71,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;5;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;4,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;468;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;5;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;16;Thüringen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;98,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;170534;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;1825;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;93,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-DOR;Dornfelder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;0;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;0,7;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;113;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;50,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;25010;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;440;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;56,8;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;353434;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;3873;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;91,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;293;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;8;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;38,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;44;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;26,2;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;21;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;1;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;25,2;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;0;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;0,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;171425;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;2252;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;76,1;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;133528;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;1883;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;08;Baden-Württemberg;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;70,9;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;92442;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;1311;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;70,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-SLG;Grüner Silvaner;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;414;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;6;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;69,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);49;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);24,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;13819;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;239;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;09;Bayern;REBSO4;Rebsorte;REBSORTE-BUR;Weißer Burgunder;57,9;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);2417;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);46;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);53,0;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;2481;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;44;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;06;Hessen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;56,4;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;03;Niedersachsen;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;11;Berlin;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;04;Bremen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;4516;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;49;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;14;Sachsen;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;91,3;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);64;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;12;Brandenburg;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);28,5;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;02;Hamburg;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;608573;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;6369;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;07;Rheinland-Pfalz;REBSO4;Rebsorte;REBSORTE-MTH;Müller-Thurgau;95,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;01;Schleswig-Holstein;REBSO4;Rebsorte;REBSORTE-RSL;Weißer Riesling;-;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);51;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);2;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;05;Nordrhein-Westfalen;REBSO4;Rebsorte;REBSORTE-RUL;Ruländer (Grauer Burgunder);28,6;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;8;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;0;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-POR;Blauer Portugieser;59,8;hl;ERT007;Weinmostertrag je Hektar
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;770;hl;ERN006;Erntemenge an Weinmost
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;14;ha;FLC054;Rebfläche im Ertrag
+41253;Erhebung der Weinernte;JAHR;Jahr;2025;DLAND;Bundesländer;10;Saarland;REBSO4;Rebsorte;REBSORTE-SPB;Blauer Spätburgunder;55,3;hl;ERT007;Weinmostertrag je Hektar

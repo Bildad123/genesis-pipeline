@@ -1,0 +1,28 @@
+{
+  "tabelle": "81000-0011",
+  "titel": "VGR des Bundes - Bevölkerung, Erwerbstätigkeit: Deutschland, Jahre",
+  "zeitraum": "1991 - 2025",
+  "statistik": "81000",
+  "alle_statistiken": [
+    "81000"
+  ],
+  "stand_genesis": "28.12.2022 17:19:48h",
+  "abgerufen_am": "2026-09-28T21:06:09",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81000-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81000-0011_flatfile.csv": "e2611911f7ca428497a5b8aa584e1acbfd27aa1a449f0b16a5eba8518233b9c7"
+  },
+  "bytes": 19835,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81000/table/81000-0011"
+}

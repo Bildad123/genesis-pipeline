@@ -1,0 +1,28 @@
+{
+  "tabelle": "46331-0015",
+  "titel": "Umgeschlagene Güter (Seeverkehr): Deutschland, Jahre, Flagge des Schiffes",
+  "zeitraum": "2011 - 2025",
+  "statistik": "46331",
+  "alle_statistiken": [
+    "46331"
+  ],
+  "stand_genesis": "28.06.2023 12:30:38h",
+  "abgerufen_am": "2026-09-28T19:29:10",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "46331-0015",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "46331-0015_flatfile.csv": "573ae7f9036694ec2a5db228dfc03db02d191b0de90e12efdb4fccef6ba1f232"
+  },
+  "bytes": 18590,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/46331/table/46331-0015"
+}

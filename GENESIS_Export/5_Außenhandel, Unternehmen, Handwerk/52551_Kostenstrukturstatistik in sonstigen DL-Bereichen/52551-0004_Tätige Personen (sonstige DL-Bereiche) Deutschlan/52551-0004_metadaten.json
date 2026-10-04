@@ -1,0 +1,116 @@
+{
+  "abgerufen_am": "2026-09-28T20:16:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "52551-0004",
+    "Content": "Tätige Personen (sonstige DL-Bereiche): Deutschland,\nStichtag (bis 30.09.2006), Beschäftigungsumfang, Geschlecht,\nWirtschaftszweige, Umsatz-/Beschäftigtengrößenklassen",
+    "Time": {
+      "From": "30.09.2002",
+      "To": "30.09.2006"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "52551",
+        "Content": "Kostenstrukturstatistik in sonstigen DL-Bereichen",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "DINSG",
+            "Content": "Deutschland insgesamt",
+            "Type": "Merkmal",
+            "Values": "1",
+            "Selected": null,
+            "Functions": null,
+            "Structure": null,
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BESUM4",
+          "Content": "Beschäftigungsumfang",
+          "Type": "Merkmal",
+          "Values": "2",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "GES",
+              "Content": "Geschlecht",
+              "Type": "Merkmal",
+              "Values": "2",
+              "Selected": null,
+              "Functions": null,
+              "Structure": [
+                {
+                  "Code": "PER005",
+                  "Content": "Tätige Personen",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                },
+                {
+                  "Code": "PER008",
+                  "Content": "Tätige Personen je Unternehmen",
+                  "Type": "Merkmal",
+                  "Values": "-1",
+                  "Selected": null,
+                  "Functions": null,
+                  "Structure": null,
+                  "Updated": "see parent"
+                }
+              ],
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "WZ03W7",
+          "Content": "WZ2003: Kostenstrukturstatistik",
+          "Type": "Merkmal",
+          "Values": "26",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "UMSGR5",
+              "Content": "Umsatzgrößenklassen",
+              "Type": "Merkmal",
+              "Values": "3",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": {
+        "Code": "STAG",
+        "Content": "Stichtag",
+        "Type": "Merkmal",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      },
+      "Subheading": null
+    },
+    "Updated": "28.12.2022 17:27:39h"
+  }
+}

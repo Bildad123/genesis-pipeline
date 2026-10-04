@@ -1,0 +1,28 @@
+{
+  "tabelle": "21411-0011",
+  "titel": "BAföG - Finanzieller Aufwand: Deutschland, Jahre, Ausbildungsstätte, Art des finanziellen Aufwandes",
+  "zeitraum": "2016 - 2025",
+  "statistik": "21411",
+  "alle_statistiken": [
+    "21411"
+  ],
+  "stand_genesis": "04.06.2024 13:53:09h",
+  "abgerufen_am": "2026-09-28T17:10:13",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21411-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21411-0011_flatfile.csv": "37bb277aca6404cb53b38b16ed64452998c6bc41d469dc490edd236e2598dbf3"
+  },
+  "bytes": 17493,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21411/table/21411-0011"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "42251-0002",
+  "titel": "Beschäftigte, Umsatz, Produktionswert und Wertschöpfung der Unternehmen im Verarbeitenden Gewerbe: Deutschland, Jahre, Wirtschaftszweige (WZ2003 2-4-Steller Hierarchie)",
+  "zeitraum": "1995 - 2007",
+  "statistik": "42251",
+  "alle_statistiken": [
+    "42251"
+  ],
+  "stand_genesis": "26.08.2024 12:31:46h",
+  "abgerufen_am": "2026-09-28T19:00:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "42251-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "42251-0002_flatfile.csv": "9e726985d671db138c4d83b70c55449b55660129ce7a225fe178c528a0c0ebdf"
+  },
+  "bytes": 1512004,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/42251/table/42251-0002"
+}

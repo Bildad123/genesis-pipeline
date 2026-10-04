@@ -1,0 +1,137 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-PRIV;Privat;990;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-PRIV;Privat;67557;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;4697;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;475351;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-PRIV;Privat;2273;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-PRIV;Privat;142824;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;263;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;23685;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-PRIV;Privat;398;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-PRIV;Privat;23206;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;519;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;65032;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-PRIV;Privat;1415;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-PRIV;Privat;59553;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;85;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;7651;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;;Insgesamt;3205;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;;Insgesamt;240078;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;37;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;3734;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;;Insgesamt;591;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;;Insgesamt;49670;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;;Insgesamt;573;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;;Insgesamt;37328;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-PRIV;Privat;390;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-PRIV;Privat;21551;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-PRIV;Privat;10648;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-PRIV;Privat;610881;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;;Insgesamt;1409;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;;Insgesamt;116020;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-OEFF;Öffentlich;204;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;TRG-OEFF;Öffentlich;14440;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-OEFF;Öffentlich;18;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-OEFF;Öffentlich;1211;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;;Insgesamt;2173;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;;Insgesamt;126418;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;24;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;2279;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-OEFF;Öffentlich;11;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-OEFF;Öffentlich;797;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-OEFF;Öffentlich;4;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-OEFF;Öffentlich;654;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-OEFF;Öffentlich;26;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-OEFF;Öffentlich;986;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-PRIV;Privat;286;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-PRIV;Privat;20087;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;;Insgesamt;670;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;;Insgesamt;43847;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-PRIV;Privat;779;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-PRIV;Privat;52734;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;212;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;22027;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;266;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;19657;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;364;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;34503;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;;Insgesamt;522;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;;Insgesamt;35282;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-PRIV;Privat;530;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-PRIV;Privat;29884;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;;Insgesamt;650;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;;Insgesamt;47012;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-PRIV;Privat;93;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-PRIV;Privat;7020;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;.;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;.;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;11;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;TRG-OEFF;Öffentlich;1241;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;5;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;288;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-OEFF;Öffentlich;4;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;TRG-OEFF;Öffentlich;169;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;740;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;09;Bayern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;65654;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-PRIV;Privat;305;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-PRIV;Privat;18009;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-PRIV;Privat;69;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-PRIV;Privat;5586;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-OEFF;Öffentlich;7;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-OEFF;Öffentlich;326;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;906;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;05;Nordrhein-Westfalen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;96268;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-PRIV;Privat;1069;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-PRIV;Privat;48863;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;189;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;07;Rheinland-Pfalz;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;25810;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-PRIV;Privat;740;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-PRIV;Privat;34634;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;;Insgesamt;1367;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;;Insgesamt;74503;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;172;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;01;Schleswig-Holstein;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;14980;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;;Insgesamt;1297;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;;Insgesamt;102736;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;395;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;03;Niedersachsen;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;46184;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;;Insgesamt;15549;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;;Insgesamt;TRGAT2;Träger;;Insgesamt;1100672;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;;Insgesamt;396;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;;Insgesamt;25947;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;;Insgesamt;106;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;;Insgesamt;9320;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-OEFF;Öffentlich;-;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;04;Bremen;TRGAT2;Träger;TRG-OEFF;Öffentlich;-;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;6;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;02;Hamburg;TRGAT2;Träger;TRG-OEFF;Öffentlich;287;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-OEFF;Öffentlich;38;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;08;Baden-Württemberg;TRGAT2;Träger;TRG-OEFF;Öffentlich;3070;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-OEFF;Öffentlich;35;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;06;Hessen;TRGAT2;Träger;TRG-OEFF;Öffentlich;1955;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-PRIV;Privat;441;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-PRIV;Privat;27475;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-PRIV;Privat;331;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-PRIV;Privat;20186;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;;Insgesamt;133;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;10;Saarland;TRGAT2;Träger;;Insgesamt;11921;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;.;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;.;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;;Insgesamt;502;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;16;Thüringen;TRGAT2;Träger;;Insgesamt;42283;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;199;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;18515;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-PRIV;Privat;539;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-PRIV;Privat;31712;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;;Insgesamt;801;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;12;Brandenburg;TRGAT2;Träger;;Insgesamt;49829;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;124;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;11;Berlin;TRGAT2;Träger;TRG-FRGM;Freigemeinnützig;11809;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;;Insgesamt;1154;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;14;Sachsen;TRGAT2;Träger;;Insgesamt;88478;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-OEFF;Öffentlich;10;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;15;Sachsen-Anhalt;TRGAT2;Träger;TRG-OEFF;Öffentlich;1022;Anzahl;PFL001;Pflegebedürftige
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL008;Ambulante Dienste
+22411;Statistik über ambulante Pflegeeinrichtungen;STAG;Stichtag;2023-12-15;DLAND;Bundesländer;13;Mecklenburg-Vorpommern;TRGAT2;Träger;TRG-OEFF;Öffentlich;.;Anzahl;PFL001;Pflegebedürftige

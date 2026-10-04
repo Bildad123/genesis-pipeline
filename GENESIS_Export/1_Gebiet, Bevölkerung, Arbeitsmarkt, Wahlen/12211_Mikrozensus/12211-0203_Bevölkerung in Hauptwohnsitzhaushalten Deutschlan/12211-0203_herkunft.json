@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0203",
+  "titel": "Bevölkerung in Hauptwohnsitzhaushalten: Deutschland, Jahre, Geschlecht, Migrationsstatus",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:26:09h",
+  "abgerufen_am": "2026-09-28T16:26:22",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0203",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0203_flatfile.csv": "bc56b4b3c2c1e9ff75fa1eec9b339d8259548a5163a47623ec1d61000fdab9e3"
+  },
+  "bytes": 13014,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0203"
+}

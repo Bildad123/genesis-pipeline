@@ -1,0 +1,28 @@
+{
+  "tabelle": "62361-0002",
+  "titel": "Nominallohnindex: Deutschland, Monate, Wirtschaftszweige",
+  "zeitraum": "Januar 2022 - Juli 2026",
+  "statistik": "62361",
+  "alle_statistiken": [
+    "62361"
+  ],
+  "stand_genesis": "25.05.2023 12:13:53h",
+  "abgerufen_am": "2026-09-28T20:38:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "62361-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "62361-0002_flatfile.csv": "61e038c79e507e16ae74493c6da84d631bf5dd712eebb697f89ed0f4d0b2b3d3"
+  },
+  "bytes": 650741,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/62361/table/62361-0002"
+}

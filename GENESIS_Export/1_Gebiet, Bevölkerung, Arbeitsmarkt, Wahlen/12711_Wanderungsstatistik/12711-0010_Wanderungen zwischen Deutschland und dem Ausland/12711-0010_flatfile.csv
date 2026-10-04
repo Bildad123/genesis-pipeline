@@ -1,0 +1,541 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;3_variable_code;3_variable_label;3_variable_attribute_code;3_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;820344;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;169417;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;650927;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;101614;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;74417;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;27197;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;155307;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-46434;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;201741;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;36882;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;10878;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;26004;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;88749;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-61749;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;150498;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3047;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;1;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3046;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;66258;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;28767;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;37491;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;36943;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-14757;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;51700;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;195308;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;137020;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;58288;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;94614;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;60927;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;33687;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;978948;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;486853;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;492095;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;613502;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;85846;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;527656;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;513320;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;82295;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;431025;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;716178;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;192015;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;524163;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;213799;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;115940;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;97859;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;4152;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;400;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3752;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;25483;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;17917;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;7566;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;5368;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;-927;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;6295;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;24702;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;17154;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;7548;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;34829;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;5229;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;29600;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;22286;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;15404;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;6882;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;545031;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;46027;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;499004;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;26186;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;18853;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;7333;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;50929;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;11426;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;39503;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;37241;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;8450;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;28791;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;37595;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-16682;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;54277;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;38685;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;29360;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;9325;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;36113;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;27934;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;8179;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;27425;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;6528;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;20897;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;105070;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;63713;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;41357;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;663465;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;152341;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;511124;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;43174;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-14031;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;57205;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;94394;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;59210;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;35184;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;21694;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;15550;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;6144;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7806;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;371;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7435;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;61291;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;30632;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;30659;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;35410;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-23141;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;58551;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;647607;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;102014;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;545593;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;38392;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;11304;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;27088;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;44277;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-8589;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;52866;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;5117;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;438;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;4679;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;34788;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;6718;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;28070;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;136314;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-43683;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;179997;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;115206;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-21201;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;136407;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;66287;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;28310;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;37977;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;112356;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;55439;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;56917;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;227569;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;159665;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;67904;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;1050291;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;205177;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;845114;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;190460;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;148281;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;42179;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;2724;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-424;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3148;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;2315;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-27;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;2342;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;389086;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;102421;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;286665;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;92161;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;47720;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;44441;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;397072;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;124714;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;272358;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;39236;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;12308;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;26928;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;132082;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-40332;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;172414;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;5553;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;-801;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;6354;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;118748;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-101228;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;219976;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;4165;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;477;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3688;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;43863;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-8409;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;52272;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;76521;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;21235;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;55286;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;140073;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;104111;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;35962;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;33788;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;8422;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;25366;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;25465;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;5952;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;19513;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;92164;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;54080;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;38084;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;4256;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;403;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3853;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;125699;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-79406;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;205105;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;1416;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-303;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;1719;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;74129;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;20907;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;53222;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;147555;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;78851;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;68704;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;1038440;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;303172;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;735268;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7954;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;251;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7703;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;28412;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;20946;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;7466;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;1052057;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;689273;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;362784;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;844679;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;169256;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;675423;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;646401;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;170919;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;475482;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;2191;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-796;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;2987;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;504167;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;80114;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;424053;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;35701;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-11442;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;47143;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;70300;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;9554;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;60746;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;156022;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-32274;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;188296;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;4499;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;-1414;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;5913;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;218683;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;118686;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;99997;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;130106;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;99008;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;31098;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;4304;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;433;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3871;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;2636;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-501;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3137;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;376968;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;286619;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;90349;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;56866;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;30114;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;26752;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;36166;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;6760;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;29406;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;115900;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;76770;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;39130;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;27893;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;7711;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;20182;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7756;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;500;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7256;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;43062;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;16949;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;26113;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;37890;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;10283;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;27607;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;143929;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;104082;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;39847;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3654;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-29;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3683;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;36950;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-17657;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;54607;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;2889;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-116;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3005;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;67642;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;14334;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;53308;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;35471;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;4325;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;31146;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;99371;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-28926;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;128297;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;1224406;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;329886;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;894520;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;37247;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;10029;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;27218;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;40666;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;14430;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;26236;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;154989;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-25530;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;180519;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;77562;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;22958;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;54604;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;125955;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;85248;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;40707;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;41556;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;11613;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;29943;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;44001;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;12906;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;31095;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;65975;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;28867;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;37108;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;157695;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-52152;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;209847;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;98998;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-52634;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;151632;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;331359;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;86961;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;244398;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;362172;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;39093;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;323079;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;135168;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;62353;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;72815;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;508228;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;137871;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;370357;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;113613;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;54973;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;58640;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;134408;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-75774;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;210182;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;36464;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;8343;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;28121;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;114521;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-38121;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;152642;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;40816;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-11073;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;51889;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;73877;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;31721;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;42156;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;28263;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;8783;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;19480;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;101443;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;60501;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;40942;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;106580;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-36147;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;142727;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;53474;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;24715;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;28759;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;470342;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;362494;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;107848;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;5936;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;-115;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;6051;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;111030;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-37845;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;148875;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;34395;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;13469;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;20926;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;58501;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;32993;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;25508;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;56089;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;29019;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;27070;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;272987;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;158052;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;114935;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;38129;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;9931;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;28198;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;2031005;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;1176126;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;854879;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;1060537;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;277055;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;783482;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;111126;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-17121;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;128247;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;33844;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;5913;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;27931;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;174074;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-125252;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;299326;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3591;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;23;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3568;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7923;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;307;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;7616;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;907195;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;85111;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;822084;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;2830;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;-374;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3204;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;236895;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;182508;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;54387;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;25464;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;5474;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;19990;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;144175;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;-52829;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;;Insgesamt;197004;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;3127;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;-405;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;;Insgesamt;3532;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;72917;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;43764;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;29153;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;392039;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;132253;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;259786;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;238243;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;142790;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;95453;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;402684;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;103163;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;299521;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;72596;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;16045;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;56551;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;55326;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;-24024;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESW;weiblich;79350;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;339237;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;241102;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;98135;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;38326;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;10650;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESM;männlich;27676;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;279882;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;214213;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;65669;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;2802;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;465;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;2337;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;37528;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;29096;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;8432;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;71252;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;15061;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;56191;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;646565;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;105046;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESM;männlich;541519;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;2308;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;-618;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;2926;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;201004;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;155074;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;45930;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;15169;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;9238;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESW;weiblich;5931;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;36430;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;9285;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;GESW;weiblich;27145;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;316177;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;89303;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;226874;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;424352;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;80924;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;GESW;weiblich;343428;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;66149;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;32347;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;;Insgesamt;33802;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;331110;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;254082;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;;Insgesamt;77028;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;1035651;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;207467;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;828184;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;75131;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;18733;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;56398;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3650;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-182;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3832;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;1711;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;-102;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;1813;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;125446;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;79223;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESW;weiblich;46223;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;96381;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;-28890;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;STAATENLOS;Staatenlos, unbekannt, ungeklärt, ohne Angabe;GES;Geschlecht;GESM;männlich;125271;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;1037854;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;166770;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2024;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;EUROPA;Europa;GES;Geschlecht;;Insgesamt;871084;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;122343;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;66020;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;ASIEN;Asien;GES;Geschlecht;GESM;männlich;56323;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;2732;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;-426;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2023;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESM;männlich;3158;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;55688;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;15311;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AMERIKA;Amerika;GES;Geschlecht;;Insgesamt;40377;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;44505;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;22818;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AFRIKA;Afrika;GES;Geschlecht;GESM;männlich;21687;Anzahl;BEV011;Fortzüge in das Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3667;Anzahl;BEV029;Zuzüge aus dem Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;-96;Anzahl;BEV012;Wanderungssaldo Ausland
+12711;Wanderungsstatistik;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;KONTI2;Kontinente;AUSTRALIEN;Australien und Ozeanien;GES;Geschlecht;GESW;weiblich;3763;Anzahl;BEV011;Fortzüge in das Ausland

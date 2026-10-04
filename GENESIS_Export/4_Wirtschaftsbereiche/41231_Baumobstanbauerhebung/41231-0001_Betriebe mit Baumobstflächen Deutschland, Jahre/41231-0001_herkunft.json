@@ -1,0 +1,28 @@
+{
+  "tabelle": "41231-0001",
+  "titel": "Betriebe mit Baumobstflächen: Deutschland, Jahre, Baumobstarten",
+  "zeitraum": "1972 - 2022",
+  "statistik": "41231",
+  "alle_statistiken": [
+    "41231"
+  ],
+  "stand_genesis": "29.12.2022 08:02:04h",
+  "abgerufen_am": "2026-09-28T18:29:47",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "41231-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "41231-0001_flatfile.csv": "1d7f757a2d21c25d5e2c5c90cfbbe536bdef7cea9ee8f455cdbaac4dd89df6e5"
+  },
+  "bytes": 19568,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/41231/table/41231-0001"
+}

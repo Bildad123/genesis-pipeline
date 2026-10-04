@@ -1,0 +1,28 @@
+{
+  "tabelle": "23112-0002",
+  "titel": "Personal in Vorsorge- oder Rehabilitationseinrichtungen: Deutschland, Stichtag",
+  "zeitraum": "31.12.1991 - 31.12.2024",
+  "statistik": "23112",
+  "alle_statistiken": [
+    "23112"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:48:20",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "23112-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "23112-0002_flatfile.csv": "0e6aaa584a9cbfd114cbc850defd56b83db927abb044111bcd435d78cc8eaabc"
+  },
+  "bytes": 23294,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/23112/table/23112-0002"
+}

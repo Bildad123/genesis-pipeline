@@ -1,0 +1,116 @@
+{
+  "abgerufen_am": "2026-09-28T19:07:26",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/table",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "44111-0009",
+    "Content": "Auftragseingang (Wert- und Volumenindex) im Bauhauptgewerbe\n(Betriebe mit 20 u.m. tätigen Personen): Deutschland,\nMonate, Bauarten, Original- und bereinigte Daten",
+    "Time": {
+      "From": "1991",
+      "To": "2026"
+    },
+    "Valid": "true",
+    "Structure": {
+      "Head": {
+        "Code": "44111",
+        "Content": "Monatsbericht im Bauhauptgewerbe",
+        "Type": "Statistik",
+        "Values": "-1",
+        "Selected": null,
+        "Functions": null,
+        "Structure": [
+          {
+            "Code": "BTRAG1",
+            "Content": "Betriebsabgrenzung",
+            "Type": "Merkmal",
+            "Values": "2",
+            "Selected": null,
+            "Functions": null,
+            "Structure": [
+              {
+                "Code": "DINSG",
+                "Content": "Deutschland insgesamt",
+                "Type": "Merkmal",
+                "Values": "1",
+                "Selected": null,
+                "Functions": null,
+                "Structure": null,
+                "Updated": "see parent"
+              }
+            ],
+            "Updated": "see parent"
+          }
+        ],
+        "Updated": "see parent"
+      },
+      "Columns": [
+        {
+          "Code": "BAUAX1",
+          "Content": "Bauarten",
+          "Type": "Merkmal",
+          "Values": "11",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "AUF101",
+              "Content": "Auftragseingang: Wertindex",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            },
+            {
+              "Code": "AUF102",
+              "Content": "Auftragseingang: Volumenindex",
+              "Type": "Merkmal",
+              "Values": "-1",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Rows": [
+        {
+          "Code": "JAHR",
+          "Content": "Jahr",
+          "Type": "Merkmal",
+          "Values": "-1",
+          "Selected": null,
+          "Functions": null,
+          "Structure": [
+            {
+              "Code": "MONAT",
+              "Content": "Monate",
+              "Type": "Merkmal",
+              "Values": "12",
+              "Selected": null,
+              "Functions": null,
+              "Structure": null,
+              "Updated": "see parent"
+            }
+          ],
+          "Updated": "see parent"
+        }
+      ],
+      "Subtitel": null,
+      "Subheading": {
+        "Code": "WERT03",
+        "Content": "Original- und bereinigte Daten",
+        "Type": "Merkmal",
+        "Values": "5",
+        "Selected": null,
+        "Functions": null,
+        "Structure": null,
+        "Updated": "see parent"
+      }
+    },
+    "Updated": "28.12.2022 17:37:43h"
+  }
+}

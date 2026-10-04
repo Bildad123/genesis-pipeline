@@ -1,0 +1,28 @@
+{
+  "tabelle": "81711-0006",
+  "titel": "Tourismussatellitenkonto - Erwerbstätige für touristische Zwecke: Deutschland, Jahre, Touristische Produkte, Wirtschaftszweige",
+  "zeitraum": "2021 - 2023",
+  "statistik": "81711",
+  "alle_statistiken": [
+    "81711"
+  ],
+  "stand_genesis": "14.03.2023 17:01:20h",
+  "abgerufen_am": "2026-09-28T21:13:15",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "81711-0006",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "81711-0006_flatfile.csv": "0e016c3ec606cf6ac1a261c7b0fbd90ec4b7122fac27c4c8341c31ac3bf42f73"
+  },
+  "bytes": 55329,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/81711/table/81711-0006"
+}

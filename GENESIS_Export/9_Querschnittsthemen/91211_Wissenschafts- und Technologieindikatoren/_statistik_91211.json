@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:24:36",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "91211",
+    "Content": "Wissenschafts- und Technologieindikatoren",
+    "Cubes": "2",
+    "Variables": "5",
+    "Frequency": [
+      {
+        "From": "01.01.1995",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Wissenschaft und Technologie sind Schlüsselthemen einer\nmodernen Gesellschaft und ihrer zukünftigen Entwicklung. Im\nMärz 2000 hat der Europäische Rat in Lissabon der\nEuropäischen Union das strategische Ziel gesetzt, zum\nwettbewerbsfähigsten und dynamischsten wissensbasierten\nWirtschaftsraum der Welt zu werden. Der Übergang zu einer\nwissensbasierten Wirtschaft und Gesellschaft soll unter\nanderem durch Intensivierung von Forschung und Entwicklung\ngefördert werden. Der Rat von Barcelona hat das Ziel 2002\nkonkretisiert und als Zielvorgabe für Europa im Jahr 2010\neinen Anteil der FuE-Ausgaben von drei Prozent am\nBruttoinlandsprodukt beschlossen. Die Bundesregierung hat\ndieses Ziel für Deutschland ausdrücklich bestätigt. Durch\ndie föderale Struktur Deutschlands rückt dieses Ziel auch\nfür die Bundesländer in den Fokus des Interesses.\n\nFortschritte auf dem Gebiet der Wissenschaft und Technologie\nmüssen gemessen und analysiert werden, um eine verlässliche\nBeurteilung der aktuellen Situation zu ermöglichen. Die\nGrundlage für derartige Messungen und Analysen sind\nfundierte Indikatoren, welche die wissenschaftlich-\ntechnologische Entwicklung beschreiben. Hierzu wurde eine\nAuswahl von Indikatoren aus diesem Gebiet aus verschiedenen\nDatenquellen zusammengestellt. Neben den Daten der deutschen\namtlichen Statistik wurde auch auf Daten der\nWissenschaftsstatistik im Stifterverband für die Deutsche\nWissenschaft und von Eurostat zurückgegriffen. Die\nDarstellung erfolgt durchgängig auf der Ebene der\nBundesländer.\n\n\n© Statistisches Bundesamt, Wiesbaden 2012",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "61311-0002",
+  "titel": "Erzeugerpreisindex für Dienstleistungen: Deutschland, Quartale",
+  "zeitraum": "1. Quartal 2006 - 2. Quartal 2026",
+  "statistik": "61311",
+  "alle_statistiken": [
+    "61311"
+  ],
+  "stand_genesis": "13.06.2024 14:50:18h",
+  "abgerufen_am": "2026-09-28T20:27:04",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "61311-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "61311-0002_flatfile.csv": "0657aebdc227bf2bc993f0f4e071ae0a05886a212d20cc0edfbf156702ae7ef3"
+  },
+  "bytes": 10649,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/61311/table/61311-0002"
+}

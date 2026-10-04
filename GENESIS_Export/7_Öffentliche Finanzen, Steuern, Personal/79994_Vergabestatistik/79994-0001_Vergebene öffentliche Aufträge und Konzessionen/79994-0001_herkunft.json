@@ -1,0 +1,28 @@
+{
+  "tabelle": "79994-0001",
+  "titel": "Vergebene öffentliche Aufträge und Konzessionen, Auftragsvolumen: Deutschland, Quartale, Auftraggeberebene, Schwellenwert, Auftragsart",
+  "zeitraum": "1. Quartal 2021 - 4. Quartal 2024",
+  "statistik": "79994",
+  "alle_statistiken": [
+    "79994"
+  ],
+  "stand_genesis": "28.12.2022 19:36:00h",
+  "abgerufen_am": "2026-09-28T21:01:06",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "79994-0001",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "79994-0001_flatfile.csv": "fb52ee707ec33d3f54c17ee6086ac7ade65289162b82ac5c24a0ddcdb1bbc786"
+  },
+  "bytes": 226177,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/79994/table/79994-0001"
+}

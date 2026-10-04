@@ -1,0 +1,28 @@
+{
+  "tabelle": "22541-0104",
+  "titel": "Tätige Personen: Bundesländer, Stichtag, Arbeitsbereich",
+  "zeitraum": "01.03.2014 - 01.03.2025",
+  "statistik": "22541",
+  "alle_statistiken": [
+    "22541"
+  ],
+  "stand_genesis": "21.10.2025 13:59:38h",
+  "abgerufen_am": "2026-09-28T17:37:00",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22541-0104",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22541-0104_flatfile.csv": "66dbc6f771cc22cc1de7b6280ee29978ec9353ab7e294f6bd3bf23e508719536"
+  },
+  "bytes": 25312,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22541/table/22541-0104"
+}

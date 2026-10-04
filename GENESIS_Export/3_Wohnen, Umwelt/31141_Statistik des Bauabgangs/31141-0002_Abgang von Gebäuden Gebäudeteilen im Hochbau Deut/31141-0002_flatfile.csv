@@ -1,0 +1,69 @@
+﻿statistics_code;statistics_label;time_code;time_label;time;1_variable_code;1_variable_label;1_variable_attribute_code;1_variable_attribute_label;2_variable_code;2_variable_label;2_variable_attribute_code;2_variable_attribute_label;value;value_unit;value_variable_code;value_variable_label
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;9611;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;3580;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;773;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-W;Wohngebäude;216;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;2964;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;6879;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;266;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;GBD-NW;Nichtwohngebäude;4116;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;12575;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;10459;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;1039;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB3;Gebäudeart;;Insgesamt;4332;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;4;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;497;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;19;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WH;Wohnheime;26;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;589;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;571;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;67;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-LW;Landwirtschaftliche Betriebsgebäude;2061;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;0;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;0;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;0;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-ETW;Wohngebäude mit Eigentumswohnungen;0;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;0;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;0;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;0;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO2;Wohngebäude mit 2 Wohnungen;0;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;606;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;248;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;23;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-S;Sonstige Nichtwohngebäude;676;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;2154;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;1495;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;134;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW;Nichtlandwirtschaftliche Betriebsgebäude;3328;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;177;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;21;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;1;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-AN;Anstaltsgebäude;115;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;748;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;286;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;29;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-FW;Fabrik- und Werkstattgebäude;874;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;384;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;533;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;41;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-H;Handelsgebäude;542;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;590;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;629;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;41;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-BV;Büro- und Verwaltungsgebäude;699;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;218;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;288;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;24;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-HG;Hotels und Gaststätten;375;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;0;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;0;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;0;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO1;Wohngebäude mit 1 Wohnung;0;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;642;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;324;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;35;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-NW-NLW-WL;Warenlagergebäude;1076;Anzahl;BAU006;Gebäude/Gebäudeteile
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;0;1000 qm;FLC002;Nutzfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;0;Anzahl;WOHN01;Wohnungen
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;0;1000 qm;FLC001;Wohnfläche
+31141;Statistik des Bauabgangs;JAHR;Jahr;2025;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GBD-W-WO3UM;Wohngebäude mit 3 oder mehr Wohnungen;0;Anzahl;BAU006;Gebäude/Gebäudeteile

@@ -1,0 +1,20 @@
+{
+  "abgerufen_am": "2026-09-28T16:17:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/metadata/statistic",
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "metadaten": {
+    "Code": "21621",
+    "Content": "Berichterstattung über öffentliche Kulturausgaben",
+    "Cubes": "6",
+    "Variables": "9",
+    "Frequency": [
+      {
+        "From": "01.01.1950",
+        "To": null,
+        "Type": "Jährlich"
+      }
+    ],
+    "Information": "Die Daten der Berichterstattung über öffentliche\nKulturausgaben geben Aufschluss über\ndie Höhe der aus allgemeinen Haushaltsmitteln finanzierten\nKulturausgaben der Gebietskörperschaften (Bund, Länder,\nGemeinden und Zweckverbände).\n\nDie öffentlichen Kulturausgaben umfassen die Aufgaben-\nbereiche Theater, Musikpflege, nichtwissenschaftliche\nBibliotheken und Museen, Denkmalschutz und -pflege, Sonstige\nKulturpflege und Kulturverwaltung. In Anlehnung an die\nDefinition des Kulturfinanzberichts der Statistischen Ämter\ndes Bundes und der Länder werden die Ausgaben für\nwissenschaftliche Bibliotheken und Museen, Kunsthochschulen\nund Kulturelle Angelegenheiten im Ausland ebenfalls\neinbezogen.\n\nDen öffentlichen Ausgaben liegt das Grundmittelkonzept der\nFinanzstatistik zugrunde: Von den Ausgaben eines\nAufgabenbereichs werden die jeweiligen Einnahmen abgezogen,\nsodass lediglich die vom öffentlichen Haushalt zu tragenden\nfinanziellen Lasten, d. h. nur der Zuschussbedarf,\nausgewiesen werden. Datenquelle ist die\nJahresrechnungsstatistik der öffentlichen Haushalte.\n\n\n© Statistisches Bundesamt, Wiesbaden 2019",
+    "Updated": "01.12.2025 13:16:15h"
+  }
+}

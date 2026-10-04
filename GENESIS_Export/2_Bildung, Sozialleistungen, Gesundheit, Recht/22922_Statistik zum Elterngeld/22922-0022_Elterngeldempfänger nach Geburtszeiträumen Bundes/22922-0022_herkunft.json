@@ -1,0 +1,28 @@
+{
+  "tabelle": "22922-0022",
+  "titel": "Elterngeldempfänger nach Geburtszeiträumen: Bundesländer, Jahre, Geschlecht, Erwerbstätigkeit",
+  "zeitraum": "2009 - 2023",
+  "statistik": "22922",
+  "alle_statistiken": [
+    "22922"
+  ],
+  "stand_genesis": "28.12.2022 21:36:28h",
+  "abgerufen_am": "2026-09-28T17:41:53",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "22922-0022",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "22922-0022_flatfile.csv": "4c65ec8d6a6326c873090112daf78361b9cb2885d321cfac50eb9978ab905f6c"
+  },
+  "bytes": 538181,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/22922/table/22922-0022"
+}

@@ -1,0 +1,28 @@
+{
+  "tabelle": "21354-0002",
+  "titel": "Bestandene Prüfungen an Berufsakademien: Bundesländer, Jahre, Art der Prüfung, Geschlecht",
+  "zeitraum": "2017 - 2025",
+  "statistik": "21354",
+  "alle_statistiken": [
+    "21354"
+  ],
+  "stand_genesis": "28.12.2022 17:59:52h",
+  "abgerufen_am": "2026-09-28T17:07:57",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "21354-0002",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "21354-0002_flatfile.csv": "8affc346161b7ed305c20a24e025d7c2ef0578bfe5fec3bbd91a34e037932815"
+  },
+  "bytes": 51913,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/21354/table/21354-0002"
+}

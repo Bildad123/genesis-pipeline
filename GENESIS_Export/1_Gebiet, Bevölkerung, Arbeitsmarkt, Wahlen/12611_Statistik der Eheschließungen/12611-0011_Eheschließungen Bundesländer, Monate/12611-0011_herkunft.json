@@ -1,0 +1,28 @@
+{
+  "tabelle": "12611-0011",
+  "titel": "Eheschließungen: Bundesländer, Monate",
+  "zeitraum": "Januar 1990 - Juni 2026",
+  "statistik": "12611",
+  "alle_statistiken": [
+    "12611"
+  ],
+  "stand_genesis": "28.12.2022 19:32:58h",
+  "abgerufen_am": "2026-09-28T16:51:41",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12611-0011",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12611-0011_flatfile.csv": "d4b54b4ac77d60d5a83e85b635e918ddd0375267e15534724a2de0a13f46b302"
+  },
+  "bytes": 58269,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12611/table/12611-0011"
+}

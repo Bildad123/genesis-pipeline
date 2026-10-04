@@ -1,0 +1,28 @@
+{
+  "tabelle": "53111-0007",
+  "titel": "Handwerksunternehmen, Tätige Personen, Umsatz: Deutschland, Jahre, Handwerksarten, Rechtsform, Beschäftigtengrößenklassen",
+  "zeitraum": "2008 - 2024",
+  "statistik": "53111",
+  "alle_statistiken": [
+    "53111"
+  ],
+  "stand_genesis": "23.04.2026 09:19:06h",
+  "abgerufen_am": "2026-09-28T20:18:54",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "53111-0007",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "53111-0007_flatfile.csv": "34f72582112f820073c0c11ef8c9c9d68e1254126a3ff8e601d2841546f098e1"
+  },
+  "bytes": 186327,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/53111/table/53111-0007"
+}

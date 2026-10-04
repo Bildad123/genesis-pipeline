@@ -1,0 +1,28 @@
+{
+  "tabelle": "12211-0400",
+  "titel": "Bevölkerung in Familien bzw. Lebensformen in Hauptwohnsitzhaushalten: Deutschland, Jahre, Geschlecht, Familien- und Lebensformen",
+  "zeitraum": "2020 - 2025",
+  "statistik": "12211",
+  "alle_statistiken": [
+    "12211"
+  ],
+  "stand_genesis": "28.12.2022 09:37:04h",
+  "abgerufen_am": "2026-09-28T16:26:59",
+  "quelle": "https://genesis.destatis.de/genesisWS/rest/2020/data/tablefile",
+  "parameter": {
+    "name": "12211-0400",
+    "area": "all",
+    "format": "ffcsv",
+    "compress": "false",
+    "transpose": "false",
+    "job": "true"
+  },
+  "batch_auftrag": null,
+  "format": "ffcsv (Flatfile-CSV)",
+  "dateien": {
+    "12211-0400_flatfile.csv": "024793330a359f49421a95e7494d291ecddde6ad6a658485792e5b93a2f50512"
+  },
+  "bytes": 13551,
+  "lizenz": "Datenlizenz Deutschland – Namensnennung – Version 2.0; Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online",
+  "weboberflaeche": "https://www-genesis.destatis.de/datenbank/online/statistic/12211/table/12211-0400"
+}
