@@ -26,24 +26,37 @@ Gleiche Daten und gleiche Konfiguration ergeben stets dieselben Grafiken.
 
 ## Voraussetzungen
 
-- Windows mit Python 3.11 oder neuer (getestet mit Python 3.13), installiert von
-  [python.org](https://www.python.org/downloads/) mit der Option „Add python.exe to PATH“
+- Windows
+- **Python 3.13** von [python.org](https://www.python.org/downloads/) (mindestens Python 3.11; ältere Versionen wie
+  3.10 werden von den verwendeten Paketen nicht unterstützt)
 - für einen neuen Export der Rohdaten zusätzlich ein kostenloses Konto bei GENESIS-Online
 
-Pakete müssen nicht von Hand installiert werden: Die `.bat`-Dateien richten beim ersten Start eine eigene
-Python-Umgebung (`diagramme/.venv`) ein und prüfen bei jedem Start, ob alle Pakete vorhanden sind.
+Die installierte Version lässt sich in der Eingabeaufforderung prüfen:
+
+```bat
+python --version
+```
 
 ## Schnellstart
 
-```bash
-git clone <URL dieses Repositorys>
-```
+1. Python 3.13 installieren (siehe oben).
+2. Repository klonen:
+   ```bat
+   git clone <URL dieses Repositorys>
+   ```
+3. In den Ordner `diagramme` wechseln und die Pakete installieren:
+   ```bat
+   cd diagramme
+   pip install -r requirements.txt
+   ```
+4. `test_stichprobe.bat` per Doppelklick starten. Es entsteht eine Vorschau mit rund 100 Diagrammen in
+   `GENESIS_Diagramme/`, die sich anschließend mit `uebersicht_oeffnen.bat` durchsehen lässt.
 
-Danach im Ordner `diagramme/`:
+Weitere Startdateien im Ordner `diagramme/`:
 
 | Datei | Wirkung |
 |---|---|
-| `test_stichprobe.bat` | Testlauf mit drei Diagrammen je Diagrammtyp |
+| `test_stichprobe.bat` | schnelle Vorschau mit rund 100 Diagrammen |
 | `diagramme_auto_erstellen.bat` | vollständiger Lauf mit der Zielanzahl aus `config.yaml` |
 | `uebersicht_oeffnen.bat` | Übersichtsseite der erzeugten Grafiken öffnen |
 | `diagramme_loeschen.bat` | alle erzeugten Grafiken und Berichte löschen |
@@ -52,21 +65,10 @@ Ohne Windows lässt sich die Pipeline direkt aufrufen:
 
 ```bash
 cd diagramme
-python -m venv .venv
+python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
-.venv/bin/python genesis_diagramme.py --stichprobe 3
+.venv/bin/python genesis_diagramme.py --anzahl 100 --ausgabe ../GENESIS_Diagramme
 ```
-
-## Fehlerbehebung
-
-| Meldung | Ursache und Lösung |
-|---|---|
-| `No module named 'numpy'` o. Ä. | Die Pakete fehlen in der Umgebung `diagramme/.venv`, etwa nach einer abgebrochenen Einrichtung. Einfach die `.bat`-Datei erneut starten; sie installiert fehlende Pakete nach. Hilft das nicht, den Ordner `diagramme/.venv` löschen und neu starten. |
-| `Benoetigt wird Python 3.11 oder neuer` | Ältere Python-Version oder kein Python im Pfad. Python von python.org installieren und „Add python.exe to PATH“ anhaken. |
-| `python` öffnet den Microsoft Store | Unter *Einstellungen → Apps → Erweiterte App-Einstellungen → App-Ausführungsaliase* die Aliase für `python.exe` deaktivieren. |
-
-Ein `pip install -r requirements.txt` von Hand installiert die Pakete in die globale Python-Installation, nicht in
-die Umgebung der Pipeline, und ist daher nicht nötig.
 
 ## Rohdaten
 

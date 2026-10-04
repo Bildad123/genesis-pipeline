@@ -548,7 +548,8 @@ Zwischenergebnisse früherer Läufe wiederverwendet.
 - **Determinismus:** Alle Zufallsentscheidungen leiten sich aus einem festen Startwert ab (`seed`). Gleiche Rohdaten
   und gleiche Konfiguration ergeben identische Spezifikationen; dies lässt sich über die SHA-256-Prüfsummen im Manifest
   nachprüfen.
-- **Fixierte Versionen:** Python-Pakete mit exakten Versionen (`requirements.txt`) und Vega-Lite 5.21.
+- **Fixierte Versionen:** Python 3.11 oder neuer (getestet mit Python 3.13), Python-Pakete mit exakten Versionen
+  (`requirements.txt`) und Vega-Lite 5.21.
 - **Konfiguration:** Alle Parameter stehen in einer Datei; eine Kopie wird zu jedem Lauf abgelegt.
 - **Herkunftsnachweis:** Jede Grafik ist über das Manifest auf Tabelle, Abrufzeitpunkt, Regeln und Parameter
   zurückführbar, im Sinne der FAIR-Prinzipien (Wilkinson et al., 2016).
@@ -600,7 +601,7 @@ Zwischenergebnisse früherer Läufe wiederverwendet.
 | `--anzahl N` | Zielgröße N; ohne `--ausgabe` entsteht ein eigener Ordner `GENESIS_Diagramme_N<N>` |
 | `--seed S` | Startwert überschreiben |
 | `--ausgabe ORDNER` | Ergebnisordner überschreiben |
-| `--stichprobe N` | nur N Diagramme je Typ (Testlauf) |
+| `--stichprobe N` | nur N Diagramme je Typ (Entwicklung) |
 | `--bis STUFE` | nur bis `profil`, `kandidaten`, `auswahl` oder `bau` ausführen |
 | `--ohne-png` | Spezifikationen ohne Rendering erzeugen |
 | `--neu` | Zwischenspeicher verwerfen |

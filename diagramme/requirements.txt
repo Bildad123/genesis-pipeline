@@ -1,3 +1,4 @@
+# Benoetigt Python 3.11 oder neuer (getestet mit Python 3.13)
 pandas==3.0.6
 numpy==2.5.3
 PyYAML==6.0.2
